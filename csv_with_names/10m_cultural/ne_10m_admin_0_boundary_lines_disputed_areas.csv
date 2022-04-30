@@ -1,0 +1,47 @@
+featurecla,name,comment,adm0_usa,adm0_left,adm0_right,adm0_a3_l,adm0_a3_r,sov_a3_l,sov_a3_r,LEFT_label,RIGHT_labe,brk_a3_l,brk_a3_r,brk_name_l,brk_name_r,note,scalerank,min_zoom
+Claim boundary,Japanese claim,,1,Russia,Russia,RUS,RUS,RUS,RUS,0,0,,,,,,6,4.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,0,,,,,,6,5.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,0,,,,,,6,5.0
+Claim boundary,Lebanese claim,,-1,Lebanon,Lebanon,LBN,LBN,LBN,LBN,0,0,,,,,,8,6.7
+Claim boundary,Chinese claim,,1,Bhutan,Bhutan,BTN,BTN,BTN,BTN,0,0,,,,,,6,6.7
+Claim boundary,Bolivian claim,Atacama corridor,-1,Chile,Chile,CHL,CHL,CHL,CHL,2,8,B72,,Atacama corridor,,"(Admin. by Chile, Claimed by Bolivia after ceded to Chile in 1884)",6,7.0
+Breakaway,Moldovan claim,,-1,Moldova,Moldova,MDA,MDA,MDA,MDA,5,0,B36,,Transdniestria,,"(Self admin., Claimed by Moldova)",6,5.0
+Breakaway,Georgian claim,,1,Georgia,Georgia,GEO,GEO,GEO,GEO,5,0,B35,,Abkhazia,,"(Self admin., Claimed by Georgia)",6,5.0
+Breakaway,Georgian claim,,1,Georgia,Georgia,GEO,GEO,GEO,GEO,5,0,B37,,South Ossetia,,"(Self admin., Claimed by Georgia)",6,5.0
+Claim boundary,Suriname claim,,-1,Guyana,Guyana,GUY,GUY,GUY,GUY,5,0,B15,,Courantyne Headwaters,,"(Admin. by Guyana, claimed by Suriname)",6,6.0
+Claim boundary,Suriname claim,,-1,France,France,FRA,FRA,FR1,FR1,5,0,B14,,Lawa Headwaters,,"(Admin. by France, claimed by Suriname)",6,6.0
+Claim boundary,Chinese claim,,1,India,India,IND,IND,IND,IND,5,0,B01,,Tirpani Valleys,,"(Admin. by India, Claimed by China)",6,5.0
+Claim boundary,Chinese claim,,1,India,India,IND,IND,IND,IND,5,0,B02,,Bara Hotii Valleys,,"(Admin. by India, Claimed by China)",7,5.0
+Claim boundary,Chinese claim,,1,India,India,IND,IND,IND,IND,5,0,B04,,Samdu Valleys,,"(Admin. by India, Claimed by China)",7,5.0
+Claim boundary,Indian claim,,-1,China,China,CHN,CHN,CH1,CH1,0,5,,B06,,Shaksam Valley,"(Admin. by China, Ceded to China by Pakistan, Claimed by India)",6,3.7
+Claim boundary,Indian claim,,-1,Pakistan,Pakistan,PAK,PAK,PAK,PAK,5,0,B08,,Northern Areas,,"(Admin. by Pakistan, Claimed by India)",6,3.7
+Claim boundary,Sudanese claim,,1,Kenya,Kenya,KEN,KEN,KEN,KEN,0,5,,B17,,Ilemi Triangle,"(Admin. by Kenya, Claimed by Sudan)",6,5.0
+Claim boundary,Sudanese claim,,1,Kenya,Kenya,KEN,KEN,KEN,KEN,0,5,,B17,,Ilemi Triangle,"(Admin. by Kenya, Claimed by Sudan)",6,5.0
+Claim boundary,Kenyan claim,,1,South Sudan,South Sudan,SDS,SDS,SDS,SDS,5,0,B74,,Ilemi Triangle S. Sudan admin.,,,6,5.0
+Claim boundary,Chinese claim,,-1,India,India,IND,IND,IND,IND,0,5,,B00,,Arunachal Pradesh,"(Admin. by India, Claimed by China)",6,3.7
+Claim boundary,Indian claim,,1,China,China,CHN,CHN,CH1,CH1,5,0,B07,,Aksai Chin,,"(Admin. by China, Claimed by India)",6,3.7
+Claim boundary,Syrian claim,Golan Heights,1,Israel,Israel,ISR,ISR,ISR,ISR,5,0,B16,,Golan Heights,,"(Admin. By Israel, Claimed by Syria)",6,6.0
+Claim boundary,Pakistani claim,,-1,India,India,IND,IND,IND,IND,5,0,B05,,Jammu and Kashmir,,"(Admin. by India, Claimed by Pakistan)",6,3.7
+Claim boundary,Pakistani claim,,-1,India,India,IND,IND,IND,IND,0,5,,B05,,Jammu and Kashmir,"(Admin. by India, Claimed by Pakistan)",6,3.7
+Claim boundary,South Sudanese claim,,1,Sudan,Sudan,SDN,SDN,SDN,SDN,5,0,B13,,Abyei,,"(Admin. by Sudan, Claimed by South Sudan)",6,4.7
+Claim boundary,Indian claim,,-1,Pakistan,Pakistan,PAK,PAK,PAK,PAK,5,0,B09,,Azad Kashmir,,"(Admin. by Pakistan, Claimed by India)",6,3.7
+Claim boundary,Indian claim,,-1,Pakistan,Pakistan,PAK,PAK,PAK,PAK,5,0,B08,,Northern Areas,,"(Admin. by Pakistan, Claimed by India)",6,3.7
+Claim boundary,Indian claim,,-1,Pakistan,Pakistan,PAK,PAK,PAK,PAK,5,0,B09,,Azad Kashmir,,"(Admin. by Pakistan, Claimed by India)",6,3.7
+Breakaway,Ceasefire Line 1994,Nagorno-Karabakh,-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,5,,B38,,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Claim boundary,Guatemalan claim,,-1,Belize,Belize,BLZ,BLZ,BLZ,BLZ,2,0,B51,,,,,6,7.0
+Claim boundary,Venezuelan claim,West of River Essequibo,-1,Guyana,Guyana,GUY,GUY,GUY,GUY,2,0,B56,,,,"(Admin. by Guyana, claimed by Venezuela)",7,7.0
+Claim boundary,Portuguese claim,Olivenza,-1,Spain,Spain,ESP,ESP,ESP,ESP,0,2,,B67,,Olivenza,"(Admin. by Spain, Claimed by Portugal)",8,7.0
+Elusive frontier,Western Saharan claim,Western Sahara,1,Morocco,Morocco,MAR,MAR,MAR,MAR,5,0,B19,,W. Sahara,,"(Admin. by Morocco, Claimed by Western Sahara)",6,3.7
+Claim boundary,Chinese claim,,1,Bhutan,Bhutan,BTN,BTN,BTN,BTN,2,0,B75,,Bhutan claimed by China,,,6,7.0
+Claim boundary,Chinese claim,,1,India,India,IND,IND,IND,IND,5,5,B03,B05,Demchok,Jammu and Kashmir,"(Admin. by India, Claimed by China)",6,5.0
+Claim boundary,Indian claim,,-1,Pakistan,Pakistan,PAK,PAK,PAK,PAK,5,5,B08,B09,Northern Areas,Azad Kashmir,"(Admin. by Pakistan, Claimed by India)",6,3.7
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,5,5,B38,B38,Nagorno-Karabakh,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,5,5,B38,B38,Nagorno-Karabakh,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Claim boundary,Lebanese claim,Shebaa Farms,-1,Israel,Israel,ISR,ISR,ISR,ISR,8,5,B58,B16,Shebaa Farms,Golan Heights,"(Admin. By Israel, Claimed by Lebanon)",8,7.0
+Breakaway,Ceasefire Line 1994,Nagorno-Karabakh,-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,5,,B38,,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,5,,B38,,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Breakaway,Ceasefire Line 1994,Nagorno-Karabakh,-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,5,,B38,,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,0,5,,B38,,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0
+Claim boundary,Chinese claim,,1,India,India,IND,IND,IND,IND,5,0,B88,,Near Om Parvat,,"(Admin. by India, Claimed by China)",7,5.0
+Breakaway,Ukrainian claim,,-1,Ukraine,Ukraine,UKR,UKR,UKR,UKR,5,0,B90,,Ukraine,Donblass,"(Self admin., Claimed by Ukraine)",6,4.0
+Reference line,Former USSR oblast in 1991,"Nagorno-Karabakh Autonomous Oblast, circa 1991",-1,Azerbaijan,Azerbaijan,AZE,AZE,AZE,AZE,5,5,B38,B38,Nagorno-Karabakh,Nagorno-Karabakh,"(Self admin., Claimed by Azer.)",6,5.0

@@ -1,0 +1,145 @@
+scalerank,featurecla,name,website,natlscale
+N,C,C,C,N
+3,Port,Oranjestad,www.arubaports.com,75.000
+3,Port,Dubai,www.dpa.ae,75.000
+3,Port,Buenos Aires,www.puertobuenosaires.gov.ar,75.000
+3,Port,Darwin,www.darwinport.nt.gov.au,75.000
+3,Port,Melbourne,www.portofmelbourne.com,75.000
+3,Port,Perth,,75.000
+3,Port,Sydney,www.sydneyports.com.au,75.000
+3,Port,Cotonou,www.portdecotonou.com,75.000
+3,Port,Nassau,,75.000
+3,Port,Rio de Janeiro,www.portosrio.gov.br,75.000
+3,Port,Vancouver,www.portmetrovancouver.com,75.000
+3,Port,Liverpool,,75.000
+3,Port,Valparaiso,www.portvalparaiso.cl,75.000
+3,Port,Guangzhou,www.gzport.com,75.000
+3,Port,Tianjin,www.ptacn.com,75.000
+3,Port,Abidjan,www.paa-ci.org,75.000
+3,Port,Bremerhaven,www.bremen-ports.de,75.000
+3,Port,Rostock,www.rostock-port.de,75.000
+3,Port,Tuborg,,75.000
+3,Port,Guayaquil,www.puertodeguayaquil.com,75.000
+3,Port,Port Said,www.psdports.org,75.000
+3,Port,Barcelona,www.apb.es,75.000
+3,Port,Malaga,www.puertomalaga.com,75.000
+3,Port,Palma de Mallorca,www.portdemallorca.com,75.000
+3,Port,Le Havre,www.havre-port.net,75.000
+3,Port,Marseille,www.marseille-port.fr,75.000
+3,Port,Nice,www.riviera-ports.com,75.000
+3,Port,London,www.pla.co.uk,75.000
+3,Port,Gythion,,75.000
+3,Port,Rhodes,,75.000
+3,Port,Dubrovnik,www.portdubrovnik.hr,75.000
+3,Port,Civitavecchia,www.portidiroma.it,75.000
+3,Port,Palermo,www.autport.pa.it,75.000
+3,Port,Savona,www.porto.sv.it,75.000
+3,Port,Marghera,www.port.venice.it,75.000
+3,Port,Montego Bay,www.portjam.com,75.000
+3,Port,Osaka,www.optc.or.jp,75.000
+3,Port,Yokohama,www.city.yokohama.jp/me/port/en/index.html,75.000
+3,Port,Riga,www.rop.lv,75.000
+3,Port,Cabo San Lucas,,75.000
+3,Port,Marsaxlokk,www.maltafreeport.com.mt,75.000
+3,Port,Amsterdam,www.amsterdamports.nl,75.000
+3,Port,Oslo,www.ohv.oslo.no,75.000
+3,Port,Auckland,www.poal.co.nz,75.000
+3,Port,Karachi,www.kpt.gov.pk,75.000
+3,Port,Colon,www.cct-pa.com,75.000
+3,Port,Manila,www.ppa.com.ph,75.000
+3,Port,San Juan,www.prpa.gobierno.pr,75.000
+3,Port,Istanbul,www.tdi.com.tr,75.000
+3,Port,Taipei,www.tpport.gov.tw,75.000
+3,Port,Dar es Salaam,www.tanzaniaports.com,75.000
+3,Port,Mobile,www.asdd.com,75.000
+3,Port,Los Angeles,www.portoflosangeles.org,75.000
+3,Port,San Diego,www.portofsandiego.org,75.000
+3,Port,San Francisco,www.sfport.com,75.000
+3,Port,Miami,www.miamidade.gov/portofmiami,75.000
+3,Port,Tampa,www.tampaport.com,75.000
+3,Port,Honolulu,www.state.hi.us/dot/harbors,75.000
+3,Port,Boston,www.massport.com/ports,75.000
+3,Port,Baltimore,www.mpa.state.md.us,75.000
+3,Port,New York,www.panynj.gov,75.000
+3,Port,Galveston,www.portofgalveston.com,75.000
+3,Port,Norfolk,www.vaports.com,75.000
+3,Port,Seattle,www.portseattle.org,75.000
+3,Port,Cape Town,www.transnetnationalportsauthority.net,75.000
+3,Port,Toronto,,75.000
+3,Port,Chicago,,75.000
+4,Port,Luanda,www.otal.com/angola,50.000
+4,Port,"Kralendijk, Bonaire",,50.000
+4,Port,Philipsburg,,50.000
+4,Port,Adelaide,www.flindersports.com.au,50.000
+4,Port,Brisbane,www.portbris.com.au,50.000
+4,Port,Port Hedland,www.phpa.com.au,50.000
+4,Port,Chittagong,www.cpa.gov.bd,50.000
+4,Port,Bridgetown,www.barbadosport.com,50.000
+4,Port,Montreal,www.port-montreal.com,50.000
+4,Port,Punta Arenas,www.epa.co.cl,50.000
+4,Port,Valdivia,,50.000
+4,Port,Dalian,www.portdalian.com,50.000
+4,Port,Fuzhou,,50.000
+4,Port,Qingdao,www.qdport.com,50.000
+4,Port,Shanghai,www.portshanghai.com.cn,50.000
+4,Port,Shantou,,50.000
+4,Port,Puntarenas,,50.000
+4,Port,Kiel,www.port-of-kiel.de,50.000
+4,Port,Roseau,,50.000
+4,Port,Santo Domingo,www.apordom.gov.do,50.000
+4,Port,Cartagena,www.apc.es,50.000
+4,Port,Vigo,www.apvigo.com,50.000
+4,Port,Santa Cruz de Tenerife,www.puertosdetenerife.org,50.000
+4,Port,Tallinn,www.portoftallinn.com,50.000
+4,Port,Suva,www.fijiports.com.fj,50.000
+4,Port,Saint-Tropez,,50.000
+4,Port,Glasgow,www.glasgowharbour.com,50.000
+4,Port,Southampton,www.abports.co.uk/custinfo/ports/soton.htm,50.000
+4,Port,Gibraltar,www.gibraltarport.com,50.000
+4,Port,Conakry,,50.000
+4,Port,Bissau,,50.000
+4,Port,Canea,,50.000
+4,Port,Katakolon,,50.000
+4,Port,San Jose,www.cocatram.org.ni/puertosca/pto_sanjose_guatemala.html,50.000
+4,Port,Hong Kong,www.mardep.gov.hk,50.000
+4,Port,Port-au-Prince,www.apn.gouv.ht,50.000
+4,Port,Surabaya,www.tps.co.id,50.000
+4,Port,Dublin,www.dublinport.ie,50.000
+4,Port,Waterford,www.portofwaterford.com,50.000
+4,Port,Haifa,www.haifaport.org.il,50.000
+4,Port,Livorno,www.porto.livorno.it,50.000
+4,Port,Ischia,,50.000
+4,Port,Kingston,www.portjam.com,50.000
+4,Port,Kitakyushu,www.kitaqport.or.jp,50.000
+4,Port,Mombasa,www.kpa.co.ke,50.000
+4,Port,Phnom Penh,www.ppap.com.kh,50.000
+4,Port,Beirut,www.portdebeyrouth.com,50.000
+4,Port,Male,www.maldport.com.mv,50.000
+4,Port,Veracruz,www.puertodeveracruz.com.mx,50.000
+4,Port,Yangon,www.mot.gov.mm/mpa/index.html,50.000
+4,Port,Wellington,www.centreport.co.nz,50.000
+4,Port,Szczecin,www.port.szczecin.pl,50.000
+4,Port,Jeddah,www.ports.gov.sa,50.000
+4,Port,Dakar,www.portdakar.sn,50.000
+4,Port,Singapore,www.mpa.gov.sg,50.000
+4,Port,Freetown,,50.000
+4,Port,Stockholm,www.stoports.com,50.000
+4,Port,Bangkok,www.bmt.co.th,50.000
+4,Port,Canakkale,www.canakkale.gov.tr,50.000
+4,Port,Anchorage,www.muni.org,50.000
+4,Port,Long Beach,www.polb.com,50.000
+4,Port,Oakland,www.portofoakland.com,50.000
+4,Port,Jacksonville,www.jaxport.com,50.000
+4,Port,Philadelphia,www.philaport.com,50.000
+4,Port,Charleston,www.scspa.com,50.000
+4,Port,Newport,,50.000
+4,Port,Ho Chi Minh City,www.vpa.org.vn/english/members/south/saigonnew.htm,50.000
+4,Port,Aden,www.portofaden.com,50.000
+4,Port,Durban,www.transnetnationalportsauthority.net,50.000
+4,Port,Port Elizabeth,www.transnetnationalportsauthority.net,50.000
+4,Port,Port Elizabeth,www.transnetnationalportsauthority.net,50.000
+4,Port,Detroit,,50.000
+4,Port,Port Of Memphis,,50.000
+4,Port,Tri-City Port,,50.000
+4,Port,Helsinki,,50.000
+4,Port,Sankt-Peterburg,,50.000

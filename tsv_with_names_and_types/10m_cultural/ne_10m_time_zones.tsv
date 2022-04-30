@@ -1,0 +1,122 @@
+objectid	scalerank	featurecla	name	map_color6	map_color8	note	zone	utc_format	time_zone	iso_8601	places	dst_places	tz_name1st	tz_namesum
+N	N	C	C	N	N	C	N	C	C	C	C	C	C	N
+2	6	Timezone	-10	4	4		-10.00	UTC-10:00	UTC-10:00	2012-05-30T18:33:50-10:00	Arctic Ocean			0
+2	6	Timezone	-10	4	4		-10.00	UTC-10:00	UTC-10:00	2012-05-30T18:33:50-10:00	United States (Aleutian Islands)	United States (Aleutian Islands)		0
+1	6	Timezone	-11	5	3		-11.00	UTC-11:00	UTC-11:00	2012-05-30T17:33:50-11:00	Arctic Ocean			0
+1	6	Timezone	-11	5	3		-11.00	UTC-11:00	UTC-11:00	2012-05-30T17:33:50-11:00	American Samoa, Niue			0
+1	6	Timezone	-11	5	3		-11.00	UTC-11:00	UTC-11:00	2012-05-30T17:33:50-11:00	American Samoa, Niue		Pacific/Midway	1
+1	6	Timezone	-11	5	3		-11.00	UTC-11:00	UTC-11:00	2012-05-30T17:33:50-11:00	American Samoa, Niue		Pacific/Pago_Pago	2
+2	6	Timezone	-10	4	4		-10.00	UTC-10:00	UTC-10:00	2012-05-30T18:33:50-10:00	United States (Hawaii)	Most of French Polynesia, United States (Aleutian Islands)	Pacific/Honolulu	6
+0	6	Timezone	-12	1	8		-12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50-12:00	Southern Ocean			0
+0	6	Timezone	-12	1	8		-12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50-12:00	Siberia			0
+7	6	Timezone	-7	1	1		-7.00	UTC-07:00	UTC-07:00	2012-05-30T21:33:50-07:00	Canada (northeastern British Columbia), Mexico (Sonora), United States (Arizona)	Canada (Alberta), Mexico (Chihuahua), United States (Colorado)	America/Denver	14
+3	6	Timezone	-9.5	6	6		-9.50	UTC-09:30	UTC-09:30	2012-05-30T19:03:50-09:30	Marquesas Islands		Pacific/Marquesas	1
+8	6	Timezone	-6	6	2		-6.00	UTC-06:00	UTC-06:00	2012-05-30T22:33:50-06:00	Canada (almost all of Saskatchewan), Costa Rica, El Salvador, Ecuador (Galapagos Islands), Guatemala, Honduras, Mexico (most), Nicaragua,	Canada (Manitoba), United States (Illinois, most of Texas)	America/Chicago	25
+9	6	Timezone	-5	5	3		-5.00	UTC-05:00	UTC-05:00	2012-05-30T23:33:50-05:00	Colombia, Cuba, Ecuador (continental), Jamaica, Panama, Peru	Canada (most of Ontario, most of Quebec), Haiti, United States (most of Florida, Georgia, Massachusetts, most of Michigan, New York, North Carolina, Ohio, Washington D.C.)	America/New_York	26
+11	6	Timezone	-3.5	6	5		-3.50	UTC-03:30	UTC-03:30	2012-05-31T01:03:50-03:30	Canada (island of Newfoundland and southern Labrador)	Canada (island of Newfoundland and southern Labrador)	America/St_Johns	2
+10	6	Timezone	-4	4	4		-4.00	UTC-04:00	UTC-04:00	2012-05-31T00:33:50-04:00	Arctic Ocean			0
+14	6	Timezone	-1	1	8		-1.00	UTC-01:00	UTC-01:00	2012-05-31T03:33:50-01:00	Greenland (south eastern part)		America/Scoresbysund	1
+10	6	Timezone	-4	4	4		-4.00	UTC-04:00	UTC-04:00	2012-05-31T00:33:50-04:00	Bolivia, Brazil (Amazonas), Chile (continental), Dominican Republic, Canada (Nova Scotia), Puerto Rico, Trinidad and Tobago	Falkland Islands	America/La_Paz	39
+13	6	Timezone	-2	2	7		-2.00	UTC-02:00	UTC-02:00	2012-05-31T02:33:50-02:00	Arctic Ocean			0
+13	6	Timezone	-2	2	7		-2.00	UTC-02:00	UTC-02:00	2012-05-31T02:33:50-02:00	Brazil (Fernando de Noronha), South Georgia and the South Sandwich Islands		Atlantic/South_Georgia	3
+14	6	Timezone	-1	1	8		-1.00	UTC-01:00	UTC-01:00	2012-05-31T03:33:50-01:00	Portugal (Azores), Cape Verde		Atlantic/Cape_Verde	2
+6	6	Timezone	-8	2	7		-8.00	UTC-08:00	UTC-08:00	2012-05-30T20:33:50-08:00	Canada (most of British Columbia), Mexico (Baja California), United States (California, most of Nevada, most of Oregon, Washington (state))	Canada (most of British Columbia), Mexico (Baja California), United States (California, most of Nevada, most of Oregon, Washington (state))	America/Los_Angeles	8
+6	6	Timezone	-8	2	7		-8.00	UTC-08:00	UTC-08:00	2012-05-30T20:33:50-08:00	Arctic Ocean			0
+37	6	Timezone	+13	2	6	Reflects 2012 International Date Line switch for Western Samoa and Kiribati	13.00	UTC+13:00	UTC+13:00	2012-05-31T17:33:50+13:00	Kiribati (Phoenix Islands), Tonga, Samoa	Samoa	Pacific/Enderbury	3
+0	6	Timezone	+14	1	1	Reflects 2012 International Date Line switch for Western Samoa and Kiribati	14.00	UTC+14:00	UTC+14:00	2012-05-31T18:33:50+14:00	Kiribati (Line Islands), Tokelau		Pacific/Kiritimati	2
+31	6	Timezone	+10	2	5		10.00	UTC+10:00	UTC+10:00	2012-05-31T14:33:50+10:00	Papua New Guinea, Australia (Queensland, New South Wales, Tasmania, Victoria)	Australia (New South Wales, Tasmania, Victoria)	Australia/Sydney	10
+31	6	Timezone	+10	2	5	Reflects 2012 shift in daylight savings time in Russia.	10.00	UTC+10:00	UTC+10:00	2012-05-31T14:33:50+10:00	Russia (Zabaykalsky Krai)		Asia/Yakutsk	1
+33	6	Timezone	+11	1	6		11.00	UTC+11:00	UTC+11:00	2012-05-31T15:33:50+11:00	New Caledonia, Solomon Islands		Pacific/Guadalcanal	6
+33	6	Timezone	+11	1	6	Reflects 2012 shift in daylight savings time in Russia.	11.00	UTC+11:00	UTC+11:00	2012-05-31T15:33:50+11:00	Russia (Primorsky Krai)		Asia/Vladivostok	2
+33	6	Timezone	+11	1	6	Reflects 2012 shift in daylight savings time in Russia.	11.00	UTC+11:00	UTC+11:00	2012-05-31T15:33:50+11:00	Russia (Primorsky Krai)			0
+0	6	Timezone	+12	6	2	Reflects 2012 shift in daylight savings time in Russia.	12.00	UTC+12:00	UTC+12:00	2012-05-31T16:33:50+12:00	Russia (Kamchatka Krai)		Asia/Kamchatka	3
+20	6	Timezone	+4	2	5		4.00	UTC+04:00	UTC+04:00	2012-05-31T08:33:50+04:00	Mauritius, Oman, Seychelles, United Arab Emirates		Asia/Dubai	6
+25	6	Timezone	+6	6	8		6.00	UTC+06:00	UTC+06:00	2012-05-31T10:33:50+06:00	British Indian Ocean Territory		Indian/Chagos	1
+25	6	Timezone	+6	6	8		6.00	UTC+06:00	UTC+06:00	2012-05-31T10:33:50+06:00	Bhutan		Asia/Thimphu	1
+0	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	French Southern and Antarctic Lands			0
+20	6	Timezone	+4	2	5	Reflects 2012 shift in daylight savings time in Russia.	4.00	UTC+04:00	UTC+04:00	2012-05-31T08:33:50+04:00	Armenia, Azerbaijan, Georgia, Russia (European)		Europe/Moscow	6
+25	6	Timezone	+6	6	8	Reflects 2012 shift in daylight savings time in Russia.	6.00	UTC+06:00	UTC+06:00	2012-05-31T10:33:50+06:00	Kazakhstan (most), Russia (Ural: Sverdlovsk Oblast, Chelyabinsk Oblast)		Asia/Almaty	4
+29	6	Timezone	+9	3	3	Reflects 2012 shift in daylight savings time in Russia.	9.00	UTC+09:00	UTC+09:00	2012-05-31T13:33:50+09:00	Russia (Irkutsk Oblast)		Asia/Irkutsk	1
+19	6	Timezone	+3.5	5	6		3.50	UTC+03:30	UTC+03:30	2012-05-31T08:03:50+03:30	Iran	Iran	Asia/Tehran	2
+21	6	Timezone	+4.5	3	2		4.50	UTC+04:30	UTC+04:30	2012-05-31T09:03:50+04:30	Afghanistan		Asia/Kabul	1
+24	6	Timezone	+5.75	1	4		5.75	UTC+05:45	UTC+05:45	2012-05-31T10:18:50+05:45	Nepal		Asia/Kathmandu	1
+28	6	Timezone	+8	4	2		8.00	UTC+08:00	UTC+08:00	2012-05-31T12:33:50+08:00	China, Hong Kong, Russia (Krasnoyarsk Krai), Malaysia, Philippines, Singapore, Taiwan, most of Mongolia, Western Australia		Australia/Perth	19
+30	6	Timezone	+9.5	1	4		9.50	UTC+09:30	UTC+09:30	2012-05-31T14:03:50+09:30	Australia (Northern Territory)	Australia (South Australia)	Australia/Adelaide	3
+32	6	Timezone	+10.5	3	8		10.50	UTC+10:30	UTC+10:30	2012-05-31T15:03:50+10:30	Lord Howe Island	Lord Howe Island	Australia/Lord_Howe	1
+34	6	Timezone	+11.5	5	1		11.50	UTC+11:30	UTC+11:30	2012-05-31T16:03:50+11:30	Norfolk Island		Pacific/Norfolk	1
+0	6	Timezone	-4.5	2	8		-4.50	UTC-04:30	UTC-04:30	2012-05-31T09:03:50-04:30	Venezuela		America/Caracas	1
+29	6	Timezone	+9	3	3		9.00	UTC+09:00	UTC+09:00	2012-05-31T13:33:50+09:00	Southern Ocean			1
+29	6	Timezone	+9	3	3		9.00	UTC+09:00	UTC+09:00	2012-05-31T13:33:50+09:00	East Timor, Japan, North Korea, South Korea		Asia/Tokyo	6
+17	6	Timezone	+2	4	3		2.00	UTC+02:00	UTC+02:00	2012-05-31T06:33:50+02:00	Arctic Ocean			0
+17	6	Timezone	+2	4	3		2.00	UTC+02:00	UTC+02:00	2012-05-31T06:33:50+02:00	Libya, Egypt, Malawi, Mozambique, South Africa, Swaziland, Zambia, Zimbabwe	Bulgaria, Cyprus, Estonia, Finland, Greece, Israel, Jordan, Latvia, Lebanon, Lithuania, Moldova, Palestine, Romania, Syria, Turkey, Ukraine	Africa/Johannesburg	11
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Maldives, Pakistan		Asia/Karachi	5
+36	6	Timezone	+12.75	2	1		12.75	UTC+12:45	UTC+12:45	2012-05-31T17:18:50+12:45	Chatham Islands	Chatham Islands	Pacific/Chatham	1
+25	6	Timezone	+6	6	8		6.00	UTC+06:00	UTC+06:00	2012-05-31T10:33:50+06:00	Bangladesh		Asia/Dhaka	1
+29	6	Timezone	+9	3	3		9.00	UTC+09:00	UTC+09:00	2012-05-31T13:33:50+09:00	Arctic Ocean			0
+23	6	Timezone	+5.5	3	3		5.50	UTC+05:30	UTC+05:30	2012-05-31T10:03:50+05:30	India (Laccadive Is.)			0
+27	6	Timezone	+7	5	1		7.00	UTC+07:00	UTC+07:00	2012-05-31T11:33:50+07:00	Jakarta, Thailand, Vietnam		Asia/Jakarta	9
+23	6	Timezone	+5.5	3	3		5.50	UTC+05:30	UTC+05:30	2012-05-31T10:03:50+05:30	India (Andaman Is.)			0
+23	6	Timezone	+5.5	3	3		5.50	UTC+05:30	UTC+05:30	2012-05-31T10:03:50+05:30	India, Sri Lanka		Asia/Kolkata	1
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Tajikistan			0
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Uzbekistan			0
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Uzbekistan			0
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Kazakhstan (West), Uzbekistan		Asia/Tashkent	6
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Arctic Ocean			0
+0	6	Timezone	+3	3	4		3.00	UTC+03:00	UTC+03:00	2012-05-31T07:33:50+03:00	Belarus		Europe/Minsk	1
+0	6	Timezone	+3	3	4		3.00	UTC+03:00	UTC+03:00	2012-05-31T07:33:50+03:00	Russia (Kaliningrad Oblast)		Europe/Kaliningrad	1
+17	6	Timezone	+2	4	3		2.00	UTC+02:00	UTC+02:00	2012-05-31T06:33:50+02:00	Estonia, Finland, Latvia, Lithuania	Estonia, Finland, Latvia, Lithuania	Europe/Helsinki	5
+17	6	Timezone	+2	4	3		2.00	UTC+02:00	UTC+02:00	2012-05-31T06:33:50+02:00	Libya, Egypt, Bulgaria, Cyprus, Greece, Israel, Jordan, Lebanon, Moldova, Palestine, Romania, Syria, Turkey, Ukraine	Bulgaria, Cyprus, Greece, Israel, Jordan, Lebanon, Moldova, Palestine, Romania, Syria, Turkey, Ukraine	Europe/Mariehamn	16
+15	6	Timezone	0	6	1		0.00	UTC±00:00	UTC±00:00	2012-05-31T09:03:50±00:00	Côte d'Ivoire, Ghana, Senegal, Morocco, Portugal (continental and Madeira), Spain (Canary Islands)	Morocco, Portugal (continental and Madeira), Spain (Canary Islands)	Europe/Lisbon	21
+12	6	Timezone	0	6	1		0.00	UTC±00:00	UTC±00:00	2012-05-31T09:03:50±00:00	Greenland (north eastern part)		America/Danmarkshavn	1
+15	6	Timezone	0	6	1		0.00	UTC±00:00	UTC±00:00	2012-05-31T09:03:50±00:00	Iceland, United Kingdom, Ireland	Ireland, United Kingdom	Europe/London	5
+0	6	Timezone	+8.75	2	2		8.75	UTC+08:45	UTC+08:45	2012-05-31T09:33:50+08:45	Australia (Eucla)		Australia/Eucla	0
+18	6	Timezone	+3	3	4		3.00	UTC+03:00	UTC+03:00	2012-05-31T07:33:50+03:00	Arctic Ocean			0
+27	6	Timezone	+7	5	1	Reflects 2012 shift in daylight savings time in Russia.	7.00	UTC+07:00	UTC+07:00	2012-05-31T11:33:50+07:00	Arctic Ocean			0
+16	6	Timezone	+1	5	2		1.00	UTC+01:00	UTC+01:00	2012-05-31T05:33:50+01:00	Angola, Cameroon, Nigeria, Tunisia	Albania, Algeria, Austria, Belgium, Bosnia & Herz., Spain (continental), Croatia, Czech Republic, Denmark, Germany, Hungary, Italy, Kinshasa, Kosovo, Macedonia, France (metropolitan), Netherlands,Norway,Poland,Serbia,Slovakia,Slovenia,Sweden,Switzerland	Europe/Paris	48
+26	6	Timezone	+6.5	2	6		6.50	UTC+06:30	UTC+06:30	2012-05-31T11:03:50+06:30	Cocos Islands		Indian/Cocos	1
+26	6	Timezone	+6.5	2	6		6.50	UTC+06:30	UTC+06:30	2012-05-31T11:03:50+06:30	Myanmar		Asia/Rangoon	1
+1	6	Timezone	-12	1	8		-12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50-12:00	Baker Island, Howland Island (both uninhabited)			0
+1	6	Timezone	-12	1	8		-12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50-12:00	Pacific Ocean			0
+4	6	Timezone	-9	3	5		-9.00	UTC-09:00	UTC-09:00	2012-05-30T19:33:50-09:00	Gambier Islands	United States (most of Alaska)		0
+4	6	Timezone	-9	3	5		-9.00	UTC-09:00	UTC-09:00	2012-05-30T19:33:50-09:00	United States (most of Alaska)	United States (most of Alaska)	America/Anchorage	4
+4	6	Timezone	-9	3	5		-9.00	UTC-09:00	UTC-09:00	2012-05-30T19:33:50-09:00	Gambier Islands			0
+18	6	Timezone	+3	3	4		3.00	UTC+03:00	UTC+03:00	2012-05-31T07:33:50+03:00	Djibouti, Eritrea, Ethiopia, Iraq, Kenya, Madagasca, Saudi Arabia, South Sudan, Sudan, Somalia, South Sudan, Tanzania, Uganda, Yemen		Asia/Riyadh	19
+27	6	Timezone	+7	5	1	Reflects 2012 shift in daylight savings time in Russia.	7.00	UTC+07:00	UTC+07:00	2012-05-31T11:33:50+07:00	Russia (Novosibirsk Oblast), Mongolia (western part)		Asia/Omsk	4
+12	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-31T01:33:50-03:00	St. Pierre et Miquelon		America/Miquelon	1
+12	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-31T01:33:50-03:00	Greenland (central part)		America/Sao_Paulo	23
+35	6	Timezone	+12	6	2		12.00	UTC+12:00	UTC+12:00	2012-05-31T16:33:50+12:00	New Zealand, Kiribati (Gilbert Islands), Fiji	New Zealand	Pacific/Auckland	9
+35	6	Timezone	+12	6	2		12.00	UTC+12:00	UTC+12:00	2012-05-31T16:33:50+12:00	New Zealand	New Zealand	Pacific/Auckland	9
+1	6	Timezone	-11	5	3		-11.00	UTC-11:00	UTC-11:00	2012-05-30T17:33:50-11:00	Antarctica		Antarctica/	0
+2	6	Timezone	-10	4	4		-10.00	UTC-10:00	UTC-10:00	2012-05-30T18:33:50-10:00	Antarctica		Antarctica/	0
+0	6	Timezone	-12	1	8		-12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50-12:00	Antarctica		Antarctica/	0
+7	6	Timezone	-7	1	1		-7.00	UTC-07:00	UTC-07:00	2012-05-30T21:33:50-07:00	Antarctica		Antarctica/	0
+8	6	Timezone	-6	6	2		-6.00	UTC-06:00	UTC-06:00	2012-05-30T22:33:50-06:00	Antarctica		Antarctica/	0
+9	6	Timezone	-5	5	3		-5.00	UTC-05:00	UTC-05:00	2012-05-30T23:33:50-05:00	Antarctica		Antarctica/	0
+10	6	Timezone	-4	4	4		-4.00	UTC-04:00	UTC-04:00	2012-05-31T00:33:50-04:00	Palmer, Escudero, Great Wall, Gen. Bernado O'Higgins Stations	Falkland Islands, Palmer Station, Capitan Arturo Prat Station, Escudero Base, Gen. Bernado O'Higgons Station,	Antarctica/Palmer	1
+13	6	Timezone	-2	2	7		-2.00	UTC-02:00	UTC-02:00	2012-05-31T02:33:50-02:00	Antarctica		Antarctica/	0
+14	6	Timezone	-1	1	8		-1.00	UTC-01:00	UTC-01:00	2012-05-31T03:33:50-01:00	Aboa, Svea, Wasa, Novolazarevskaya Stations		Antarctica/Central	1
+6	6	Timezone	-8	2	7		-8.00	UTC-08:00	UTC-08:00	2012-05-30T20:33:50-08:00	Antarctica		Antarctica/	0
+31	6	Timezone	+10	2	5		10.00	UTC+10:00	UTC+10:00	2012-05-31T14:33:50+10:00	Dumont d'Urville Station		Antarctica/DumontDUrville	1
+33	6	Timezone	+11	1	6		11.00	UTC+11:00	UTC+11:00	2012-05-31T15:33:50+11:00	Antarctica		Antarctica/	0
+20	6	Timezone	+4	2	5		4.00	UTC+04:00	UTC+04:00	2012-05-31T08:33:50+04:00	Antarctica		Antarctica/	0
+28	6	Timezone	+8	4	2		8.00	UTC+08:00	UTC+08:00	2012-05-31T12:33:50+08:00	Casety Station		Antarctica/Casey	1
+29	6	Timezone	+9	3	3		9.00	UTC+09:00	UTC+09:00	2012-05-31T13:33:50+09:00	Antarctica		Antarctica/	0
+17	6	Timezone	+2	4	3		2.00	UTC+02:00	UTC+02:00	2012-05-31T06:33:50+02:00	Antarctica		Antarctica/	0
+22	6	Timezone	+5	1	7		5.00	UTC+05:00	UTC+05:00	2012-05-31T09:33:50+05:00	Mawson Station, Zhongshan Station		Antarctica/Mawson	1
+25	6	Timezone	+6	6	8		6.00	UTC+06:00	UTC+06:00	2012-05-31T10:33:50+06:00	Mirny Station		Antarctica/Mirny	1
+27	6	Timezone	+7	5	1		7.00	UTC+07:00	UTC+07:00	2012-05-31T11:33:50+07:00	Antarctica		Antarctica/	0
+15	6	Timezone	0	6	1		0.00	UTC±00:00	UTC±00:00	2012-05-31T09:03:50±00:00	Troll Station, Maitri Station		Antarctica/Troll	1
+16	6	Timezone	+1	5	2		1.00	UTC+01:00	UTC+01:00	2012-05-31T05:33:50+01:00	Antarctica		Antarctica/	0
+4	6	Timezone	-9	3	5		-9.00	UTC-09:00	UTC-09:00	2012-05-30T19:33:50-09:00	Antarctica		Antarctica/	0
+18	6	Timezone	+3	3	4		3.00	UTC+03:00	UTC+03:00	2012-05-31T07:33:50+03:00	Antarctica		Antarctica/	0
+12	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-31T01:33:50-03:00	General Belgrano, Doctor Sobral Stations		Antarctica/	23
+35	6	Timezone	+12	6	2		12.00	UTC+12:00	UTC+12:00	2012-05-31T16:33:50+12:00	McMurdo Station, Scott Base, Zucchelli Station	McMurdo Station, Scott Base, Zucchelli Station	Antarctica/South_Pole	1
+0	6	Timezone	+10	2	5		10.00	UTC+10:00	UTC+10:00	2012-05-30T18:33:50+10:00	Concordia Research Station		Antarctica/DumontDUrville	1
+0	6	Timezone	+6	6	8		6.00	UTC+06:00	UTC+06:00	2012-05-30T16:33:50+06:00	Vostok Station			0
+0	6	Timezone	+7	5	1		7.00	UTC+07:00	UTC+07:00	2012-05-30T16:33:50+07:00	Davis Station			0
+0	6	Timezone	+1	5	2		6.00	UTC+01:00	UTC+01:00	ccccc	Neumayer Station			0
+0	6	Timezone	0	6	1	DST is -3	0.00	UTC±00:00	UTC±00:00	2012-05-30T16:33:50±00:00	Halley Station	Halley Station		0
+0	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-30T16:33:50-03:00	Rothera, San Martín Stations			0
+0	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-30T16:33:50-03:00	Teniente Jubany Station			0
+0	6	Timezone	-3	3	6		-3.00	UTC-03:00	UTC-03:00	2012-05-30T16:33:50-03:00	Esperanza, Vicecomodoro Marambio Stations			0
+0	6	Timezone	+12	6	2	Reflects 2012 shift in daylight savings time in Russia.	12.00	UTC-12:00	UTC-12:00	2012-05-30T16:33:50+12:00	Russia (Kamchatka Krai)		Asia/Kamchatka	3

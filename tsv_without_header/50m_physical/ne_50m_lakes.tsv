@@ -1,0 +1,275 @@
+2	Lake	Mälaren	Lake Malar				2.0	3.7	Mälaren	Mälaren	Q184492	بحيرة مالارين		Mälaren	Mälaren	Lago Mälar	lac Mälar	Μέλαρεν		Mälaren-tó	Mälaren	Mälaren	メーラレン湖	멜라렌 호	Mälarmeer	Melar	Mälaren	Меларен	Mälaren	Mälaren Gölü	Mälaren	梅拉伦湖	4	1159122891
+0	Lake	Lake Ladoga					1.0	3.0	L. Ladoga	Lake Ladoga	Q15288	بحيرة لادوغا		Ladogasee	Lake Ladoga	Ládoga	lac Ladoga	Λάντογκα	लादोगा झील	Ladoga-tó	Danau Ladoga	lago Ladoga	ラドガ湖	라도가 호	Ladogameer	Ładoga	Lago Ladoga	Ладожское озеро	Ladoga	Ladoga Gölü	Hồ Ladoga	拉多加湖	4	1159113095
+0	Alkaline Lake	Aral Sea			admin-0		1.0	3.0	Aral Sea	Aral Sea	Q35883	بحر آرال		Aralsee	Aral Sea	Mar de Aral	Mer d'Aral	Λίμνη Αράλη	अरल सागर	Aral-tó	Laut Aral	lago d'Aral	アラル海	아랄 해	Aralmeer	Jezioro Aralskie	Mar de Aral	Аральское море	Aralsjön	Aral Gölü	Biển Aral	鹹海	4	1159126555
+0	Lake	Lake Albert			admin-0		1.0	3.0	L. Albert	Lake Albert	Q125888	بحيرة ألبرت		Albertsee	Lake Albert	Lago Alberto	lac Albert	Λίμνη Αλβέρτου	ऐल्बर्ट झील	Albert-tó	Danau Albert	lago Alberto	アルバート湖	앨버트 호	Albertmeer	Jezioro Alberta	Lago Alberto	Альберт	Albertsjön	Albert Gölü	Hồ Albert	艾伯特湖	4	1159113145
+0	Lake	Lake Erie	Lakes		admin-0		1.0	3.0	L. Erie	Lake Erie	Q5492	بحيرة إري		Eriesee	Lake Erie	Erie	lac Érié	Λίμνη Ήρι	ईरी झील	Erie-tó	Danau Erie	lago Erie	エリー湖	이리 호	Eriemeer	Erie	Lago Erie	Эри	Eriesjön	Erie Gölü	Hồ Erie	伊利湖	4	1159106757
+0	Lake	Lake Chad					1.0	3.0	L. Chad	Lake Chad	Q125309	بحيرة تشاد	চাদ হ্রদ	Tschadsee	Lake Chad	Lago Chad	lac Tchad	λίμνη Τσαντ	चाड झील	Csád-tó	Danau Chad	Ciad	チャド湖	차드 호	Tsjaadmeer	Czad	Lago Chade	Чад	Tchadsjön	Çad Gölü	Hồ Tchad	乍得湖	4	1159113219
+0	Lake	Lake Malawi	Lake Nyasa		admin-0		1.0	3.0	L. Malawi	Lake Malawi	Q5532	بحيرة مالاوي	মালাউই হ্রদ	Malawisee	Lake Malawi	Lago Malaui	lac Malawi	Λίμνη Νιάσα	मलावी झील	Nyasza-tó	Danau Malawi	lago Malawi	マラウイ湖	말라위 호	Malawimeer	Niasa	Lago Niassa	Малави	Malawisjön	Malavi Gölü	Hồ Malawi	马拉维湖	4	1159113163
+0	Lake	Lake Victoria			admin-0		1.0	3.0	L. Victoria	Lake Victoria	Q5505	بحيرة فيكتوريا	ভিক্টোরিয়া হ্রদ	Victoriasee	Lake Victoria	Victoria	lac Victoria	Βικτόρια	विक्टोरिया झील	Viktória-tó	Danau Victoria	lago Vittoria	ヴィクトリア湖	빅토리아 호	Victoriameer	Jezioro Wiktorii	Lago Vitória	Виктория	Victoriasjön	Victoria Gölü	Hồ Victoria	維多利亞湖	4	1159113191
+0	Lake	Lake Baikal					1.0	3.0	L. Baikal	Lake Baikal	Q5513	بحيرة بايكال	বৈকাল হ্রদ	Baikalsee	Lake Baikal	Baikal	lac Baïkal	Βαϊκάλη	बयकाल झील	Bajkál-tó	Danau Baikal	lago Bajkal	バイカル湖	바이칼 호	Baikalmeer	Bajkał	Lago Baikal	Байкал	Bajkalsjön	Baykal Gölü	Hồ Baikal	贝加尔湖	4	1159113127
+0	Lake	Lake Winnipeg					1.0	3.0	L. Winnipeg	Lake Winnipeg	Q3272	بحيرة وينيبيغ		Winnipegsee	Lake Winnipeg	Lago Winnipeg	lac Winnipeg	Λίμνη Γουίνιπεγκ		Winnipeg-tó	Danau Winnipeg	Winnipeg	ウィニペグ湖	위니펙 호	Winnipegmeer	Winnipeg	Lago Winnipeg	Виннипег	Winnipegsjön	Winnipeg Gölü	Hồ Winnipeg	溫尼伯湖	4	1159106747
+0	Lake	Great Slave Lake					1.0	3.0	Great Slave L.	Great Slave Lake	Q5539	بحيرة جريت سليف		Großer Sklavensee	Great Slave Lake	Gran Lago del Esclavo	Grand lac des Esclaves	Μεγάλη Λίμνη των Σκλάβων		Nagy-Rabszolga-tó		Grande Lago degli Schiavi	グレートスレーブ湖	그레이트슬레이브 호	Great Slave Lake	Wielkie Jezioro Niewolnicze	Grande Lago do Escravo	Большое Невольничье озеро	Stora Slavsjön	Büyük Esir Gölü	Hồ Slave Lớn	大奴湖	4	1159106729
+0	Lake	Lake Ontario			admin-0		1.0	3.0	L. Ontario	Lake Ontario	Q1062	بحيرة أونتاريو		Ontariosee	Lake Ontario	Ontario	lac Ontario	Λίμνη Οντάριο	ओण्टारियो झील	Ontario-tó	Danau Ontario	lago Ontario	オンタリオ湖	온타리오 호	Ontariomeer	Ontario	Lago Ontário	Онтарио	Ontariosjön	Ontario Gölü	Hồ Ontario	安大略湖	4	1159106765
+0	Lake	Great Bear Lake					1.0	3.0	Great Bear L.	Great Bear Lake	Q5525	بحيرة الدب العظيم		Großer Bärensee	Great Bear Lake	Gran Lago del Oso	Grand lac de l'Ours	Μεγάλη Λίμνη των Άρκτων		Nagy-Medve-tó		Grande Lago degli Orsi	グレートベア湖	그레이트베어 호	Great Bear Lake	Wielkie Jezioro Niedźwiedzie	Grande Lago do Urso	Большое Медвежье озеро	Stora Björnsjön	Büyük Ayı Gölü	Hồ Gấu lớn	大熊湖	4	1159106721
+0	Lake	Lake Saint Clair			admin-0		1.0	3.0	L. St. Clair	Lake St. Clair	Q736707			Lake St. Clair	Lake Saint Clair	Lago Sainte-Claire	lac Sainte-Claire					lago St. Clair	セントクレア湖	세인트클레어 호	Saint Clairmeer		Lago Saint Clair	Сент-Клэр	Lake St. Clair			聖克萊爾湖	5	1159106775
+1	Lake	Vänern					1.7	3.6	Vänern	Vänern	Q173596	بحيرة فانيرن		Vänern	Vänern	Lago Vänern	Vänern	Βένερν		Vänern-tó	Vänern	Vänern	ヴェーネルン湖	베네른 호	Vänermeer	Wener	Lago Vänern	Венерн	Vänern	Vänern Gölü	Hồ Vänern	维纳恩湖	4	1159113235
+1	Lake	Lake Okeechobee					1.7	3.6	L. Okeechobee	Lake Okeechobee	Q202905	بحيرة أوكي تشوبي		Okeechobeesee	Lake Okeechobee	Lago Okeechobee	lac Okeechobee					lago Okeechobee	オキーチョビー湖		Okeechobeemeer	Okeechobee	Lago Okeechobee	Окичоби	Lake Okeechobee	Okeechobee Gölü		奧基喬比湖	4	1159106781
+1	Lake	Lago de Nicaragua					1.7	3.6	L. de Nicaragua	Lago de Nicaragua	Q173862	بحيرة نيكاراغوا	লেক নিকারাগুয়া	Nicaraguasee	Lake Nicaragua	Lago Cocibolca	lac Nicaragua	Λίμνη Νικαράγουα		Nicaragua-tó	Danau Nikaragua	lago Nicaragua	ニカラグア湖	니카라과 호	Meer van Nicaragua	Nikaragua	Lago Nicarágua	Никарагуа	Nicaraguasjön	Nikaragua Gölü	Hồ Nicaragua	尼加拉瓜湖	5	1159106791
+1	Lake	Lake Tana					1.7	3.6	L. Tana	Lake Tana	Q116685	بحيرة تانا		Tanasee	Lake Tana	Lago Tana	lac Tana	Τάνα	ताना झील	Tana-tó		lago Tana	タナ湖	타나 호	Tanameer	Jezioro Tana	Lago Tana	Тана	Tanasjön		Hồ Tana	塔納湖	4	1159113265
+1	Lake	Lago Titicaca			admin-0		1.7	3.6	L. Titicaca	Lago Titicaca	Q35342	بحيرة تيتيكاكا	তিতিকাকা হ্রদ	Titicacasee	Titicaca	Titicaca	lac Titicaca	Τιτικάκα	टीटीकाका झील	Titicaca-tó	Danau Titicaca	Titicaca	チチカカ湖	티티카카 호	Titicacameer	Titicaca	Lago Titicaca	Титикака	Titicacasjön	Titikaka Gölü	Hồ Titicaca	的的喀喀湖	5	1159113279
+1	Lake			_untitled_0			1.7	3.6	Cedar L.	Cedar Lake	Q1052532			Cedar Lake	Cedar Lake	Lago Cedar	lac des Cèdres					Cedar Lake	シーダー湖		Cedar Lake	Cedar	Lago Cedar	Сидар	Cedar Lake			錫達湖	4	1159123681
+1	Lake	Lake Onega					1.7	3.6	L. Onega	Lake Onega	Q166162	بحيرة أونيغا		Onegasee	Lake Onega	Onega	lac Onega	Λίμνη Ονέγκα	ओनेगा झील	Onyega-tó	Danau Onega	lago Onega	オネガ湖	오네가 호	Onegameer	Onega	Lago Onega	Онежское озеро	Onega	Onega Gölü	Hồ Onega	奥涅加湖	4	1159113251
+1	Alkaline Lake	Great Salt Lake					1.7	3.6	Great Salt L.	Great Salt Lake	Q178741	البحيرة المالحة الكبرى	গ্রেট সল্ট লেক	Großer Salzsee	Great Salt Lake	Gran Lago Salado	Grand Lac Salé	Μεγάλη Αλμυρή Λίμνη	महान नमक झील	Nagy-sóstó	Danau Garam Besar	Gran Lago Salato	グレートソルト湖	그레이트솔트 호	Great Salt Lake	Wielkie Jezioro Słone	Grande Lago Salgado	Большое Солёное озеро	Stora Saltsjön	Büyük Tuz Gölü	Hồ Muối Lớn	大盐湖	4	1159126421
+1	Lake	Lake Michigan			admin-0		1.7	3.6	L. Michigan	Lake Michigan	Q1169	بحيرة ميشيغين	মিশিগান হ্রদ	Michigansee	Lake Michigan	Lago Míchigan	lac Michigan	Λίμνη Μίσιγκαν	मिशिगन झील	Michigan-tó	Danau Michigan	lago Michigan	ミシガン湖	미시간 호	Michiganmeer	Michigan	Lago Michigan	Мичиган	Michigansjön	Michigan Gölü	Hồ Michigan	密歇根湖	4	1159113005
+1	Lake	Lake Superior			admin-0		1.7	3.6	Whitefish Bay		Q1066	بحيرة سوبيريور	সুপিরিয়র হ্রদ	Oberer See	Lake Superior	Lago Superior	lac Supérieur	λίμνη Σουπίριορ	सुपीरियर झील	Felső-tó	Danau Superior	lago Superiore	スペリオル湖	슈피리어 호	Bovenmeer	Jezioro Górne	Lago Superior	Верхнее	Övre sjön	Superior Gölü	Hồ Thượng	苏必利尔湖	0	0
+1	Lake	Lake Huron			admin-0		1.7	3.6			Q1383	بحيرة هرون		Huronsee	Lake Huron	lago Hurón	lac Huron	Λίμνη Χιούρον	ह्यूरॉन झील	Huron-tó	Danau Huron	lago Huron	ヒューロン湖	휴런 호	Huronmeer	Huron	Lago Huron	Гурон	Huronsjön	Huron Gölü	Hồ Huron	休伦湖	0	0
+2	Alkaline Lake			_untitled_0			2.0	3.7	Lag. Madre																								0	1159126435
+2	Lake	Wollaston Lake					2.0	3.7	Wollaston L.	Wollaston Lake	Q1640500			Wollaston Lake	Wollaston Lake	Lago Wollaston	lac Wollaston					lago Wollaston	ウォラストン湖		Wollastonmeer	Wollaston		Вулластон	Wollaston Lake			伍拉斯顿湖	4	1159106809
+2	Lake	Lake Athabasca					2.0	3.7	L. Athabasca	Lake Athabasca	Q272463			Athabascasee	Lake Athabasca	Lago Athabasca	lac Athabasca			Atabaszk-tó		Athabasca	アサバスカ湖		Athabascameer	Athabaska	Lago Athabasca	Атабаска	Athabascasjön	Athabasca Gölü		阿薩巴斯卡湖	4	1159106863
+2	Lake	Lake Mistassini					2.0	3.7	L. Mistassini	Lake Mistassini	Q1458051			Mistassinisee	Lake Mistassini	Lago Mistassini	lac Mistassini					lago Mistassini			Lake Mistassini	Mistassini		Мистассини	Lac Mistassini			米斯塔西尼湖	4	1159106873
+2	Alkaline Lake	IJsselmeer			admin-0		2.0	3.7	IJsselmeer	IJsselmeer	Q4121	بحيرة آيسل		IJsselmeer	IJsselmeer	Ĳsselmeer	IJsselmeer				IJsselmeer	IJsselmeer	アイセル湖	에이설 호	IJsselmeer	IJsselmeer	IJsselmeer	Эйсселмер	IJsselmeer	IJsselmeer		艾瑟爾湖	4	1159126631
+2	Reservoir	Rybinsk Reservoir					2.0	3.7	Rybinsk Res.	Rybinsk Reservoir	Q375029			Rybinsker Stausee	Rybinsk Reservoir	Embalse Rybinsk	réservoir de Rybinsk					Bacino di Rybinsk	ルイビンスク人造湖		Stuwmeer van Rybinsk	Zbiornik Rybiński		Рыбинское водохранилище	Rybinskreservoaren	Rıbinsk Baraj Gölü		雷賓斯克水庫	4	1159124965
+2	Alkaline Lake	Issyk-Kul	Ysyk Köl			Ysyk Köl	2.0	3.7	Issyk-Kul	Issyk-Kul	Q42191	بحيرة إيسيك كول		Yssykköl	Issyk-Kul	Lago Issyk-Kul	Yssyk Koul		इसिक कुल	Iszik-köl	Issyk Kul	Ysykköl	イシク・クル	이식쿨 호	Issyk Koelmeer	Issyk-kul	Issyk-Kul	Иссык-Куль	Issyk-Kul	Issık Göl	Issyk Kul	伊塞克湖	4	1159126655
+2	Lake	Lake of the Woods					2.0	5.0	L. of the Woods	Lake of the Woods	Q845876	بحيرة الغابات		Lake of the Woods	Lake of the Woods	Lago de los Bosques	lac des Bois					lago dei Boschi	ウッズ湖	우즈 호	Lake of the Woods	Jezioro Leśne	Lago dos Bosques	Лесное	Lake of the Woods			伍茲湖	4	1159106825
+2	Lake	Lake Nipigon					2.0	3.7	L. Nipigon	Lake Nipigon	Q122184	بحيرة نيبيغون		Nipigonsee	Lake Nipigon	Lago Nipigon	lac Nipigon			Nipigon-tó		lago Nipigon	ニピゴン湖	니피곤 호	Nipigonmeer	Nipigon	Lago Nipigon	Нипигон	Lake Nipigon			尼皮贡湖	4	1159106833
+2	Lake	Reindeer Lake					2.0	3.7			Q1134446			Reindeer Lake	Reindeer Lake	Lago Reindeer	lac Reindeer					lago delle Renne		레인디어 호	Reindeer Lake	Jezioro Reniferowe	Lago Reindeer	Оленье озеро	Reindeer Lake			馴鹿湖	0	1159107185
+3	Lake	Oneida Lake					3.0	5.0	Oneida L.	Oneida Lake	Q1247231			Oneida Lake	Oneida Lake		lac Oneida					lago Oneida	オナイダ湖		Oneida Lake			Онейда	Oneida			奧奈達湖	4	1159106881
+3	Lake	Iliamna Lake					3.0	4.0	Iliamna L.	Iliamna Lake	Q965436			Iliamna Lake	Iliamna Lake	Lago Iliamna	lac Iliamna			Iliamna-tó					Iliamna Lake	Iliamna		Илиамна				伊利亞姆納湖	4	1159106893
+3	Lake			_untitled_1			3.0	4.0																									0	1159106899
+3	Lake	Lake Tahoe					3.0	4.0	L. Tahoe	Lake Tahoe	Q169962	بحيرة تاهو		Lake Tahoe	Lake Tahoe	Lago Tahoe	lac Tahoe	Λίμνη Τάχο		Tahoe-tó	Danau Tahoe	lago Tahoe	タホ湖	타호 호	Lake Tahoe	Tahoe	Lago Tahoe	Тахо	Tahoesjön	Tahoe Gölü	Hồ Tahoe	太浩湖	4	1159106907
+3	Lake			_untitled_0			3.0	4.0																									0	1159113307
+3	Lake	Lake Zaysan					3.0	5.0	L. Zaysan	Lake Zaysan	Q216621			Saissansee	Lake Zaysan	Lago Zaysan	lac Zaysan				Danau Zaysan	lago Zajsan	ザイサン湖		Zaysanmeer	Zajsan	Lago Zaysan	Зайсан	Zajsan	Zaysan Gölü	Hồ Zaysan	斋桑泊	4	1159123091
+3	Lake	Lake Winnebago					3.0	6.0	L. Winnebago	Lake Winnebago	Q1801110	بحيرة ويني باجو		Lake Winnebago	Lake Winnebago	Lago Winnebago	lac Winnebago					lago Winnebago	ウィネベーゴ湖		Lake Winnebago	Winnebago	Lago Winnebago					溫納貝戈湖	4	1159106917
+3	Lake	Nettilling Lake					3.0	4.0	Nettilling L.	Nettilling Lake	Q1132211			Nettilling Lake	Nettilling Lake	Lago Nettilling	lac Nettilling					lago Nettilling	ネチリング湖	네틸링 호	Nettilling Lake	Nettilling	Lago Nettilling	Неттиллинг	Nettilling Lake			納蒂靈湖	4	1159106925
+3	Alkaline Lake	Lake Turkana				Lake Rudolf	3.0	4.0	L. Turkana	Lake Turkana	Q182719	بحيرة توركانا		Turkana-See	Lake Turkana	Lago Turkana	lac Turkana	Τουρκάνα	तुर्काना झील	Turkana-tó	Danau Turkana	lago Turkana	トゥルカナ湖	투르카나 호	Turkanameer	Jezioro Rudolfa	Lago Turkana	Рудольф	Turkanasjön	Turkana Gölü	Hồ Turkana	图尔卡纳湖	4	1159126669
+3	Lake	Dubawnt Lake					3.0	4.0	Dubawnt L.	Dubawnt Lake	Q1262967			Dubawntsee	Dubawnt Lake	Lago Dubawnt	lac Dubawnt					lago Dubawnt			Dubawnt Lake	Dubawnt		Дубонт	Dubawnt Lake			杜邦特湖	4	1159106935
+3	Lake	Baker Lake					3.0	4.0	Baker L.	Baker Lake	Q1391737			Baker Lake	Baker Lake	Lago Baker	lac Baker						ベイカー湖		Baker Lake		Lago Baker	Бейкер					4	1159106943
+3	Alkaline Lake	Kaliningradskiy Zaliv					3.0	4.0	Kaliningradskiy Zaliv		-1																						0	1159126681
+3	Alkaline Lake	Zalev Wislany	Zalew Wislany				3.0	4.0	Zalew Wislany		Q5605LL																						0	1159126693
+3	Lake	Lake Champlain					3.0	4.0	L. Champlain	Lake Champlain	Q68467	بحيرة شامبلين		Lake Champlain	Lake Champlain	Lago Champlain	lac Champlain				Danau Champlain	lago Champlain	シャンプレーン湖	챔플레인 호	Champlainmeer	Champlain	Lago Champlain	Шамплейн	Champlainsjön	Champlain Gölü		尚普蘭湖	4	1159106953
+3	Alkaline Lake	Salton Sea					3.0	4.0	Salton Sea	Salton Sea	Q503301	بحر سالتون		Saltonsee	Salton Sea	Lago Saltón	Salton Sea			Salton-tó		lago Salton	ソルトン湖	솔턴 호	Salton Sea	Salton Sea	Lago Salton	Солтон-Си	Salton Sea	Salton Denizi	Biển Salton	索爾頓湖	4	1159126453
+3	Lake	Lac la Martre					3.0	4.0	L. la Martre	Lac la Martre	Q1516443			Lac la Martre	Lac La Martre	Lago la Martre	lac La Martre											Ла-Мартр	Lac la Martre			馬特爾湖	4	1159106971
+3	Lake	Lago Llanquihue					3.0	4.0	L. Llanquihue	Lago Llanquihue	Q826464	بحيرة يانكيوي		Lago Llanquihue	Llanquihue Lake	Lago Llanquihue	lac Llanquihue	Λίμνη Γιανκίουε			Danau Llanquihue	lago Llanquihue	ジャンキウェ湖		Lago Llanquihue	Llanquihue		Льянкиуэ	Lago de Llanquihue			延基韦湖	5	1159113343
+3	Lake	Hongze Hu					3.0	4.0	Hongze Hu	Hongze Hu	Q31845950																		Hongze Hu				3	1159113359
+3	Lake	Khövsgöl Nuur	Hövsgöl Nuur				3.0	5.0	Khövsgöl Nuur	Khövsgöl Nuur	Q192215			Chöwsgöl Nuur	Khövsgöl Nuur	Lago Ubsugul	lac Khövsgöl			Hövszgöl-tó	Danau Khövsgöl	Hôvsgôl Nuur	フブスグル湖	후브스굴 호	Hövsgöl Nuur	Chubsuguł		Хубсугул	Chövsgöl	Hövsgöl Gölü	Hồ Khovsgol	庫蘇古爾湖	4	1159113373
+3	Alkaline Lake	Uvs Nuur					3.0	4.0	Uvs Nuur	Uvs Nuur	Q81150			Uws Nuur	Uvs Lake	Uvs	Uvs nuur			Uvsz-tó	Danau Uvs	Uvs Nuur	ウヴス・ヌール		Uvs Nuur	Uws-nur	Lago Uvs	Убсу-Нур	Uvs Nuur	Ubsa Gölü	Hồ Uvs	烏布蘇湖	5	1159126709
+3	Lake	Lac Moeru				Lake Mweru	3.0	4.0	L. Moeru	Lac Moeru	Q504433	بحيرة مويرو		Mwerusee	Lake Mweru	Lago Moero	lac Moero			Mweru-tó		lago Mweru	ムウェル湖	므웨루 호	Mwerumeer	Mweru	Lago Mweru	Мверу	Mwerusjön	Mweru Gölü		姆韦鲁湖	5	1159113405
+3	Lake	Lake Khanka	Xingkai Hu,  Ozero Khanka		admin-0		3.0	4.0	L. Khanka	Lake Khanka	Q201843	بحيرة خانكا		Chankasee	Khanka Lake	Lago Janka	lac Khanka			Hanka-tó	Danau Khanka	lago Chanka	ハンカ湖	한카 호	Chankameer	Chanka	Lago Khanka	Ханка	Chanka	Khanka Gölü	Hồ Khanka	兴凯湖	5	1159113423
+3	Lake	Tonlé Sap					3.0	4.0	Tonle Sap	Tonlé Sap	Q199938	تونلي ساب		Tonle Sap	Tonlé Sap	Tonlé Sap	Tonlé Sap			Szap-tó	Tonle Sap	Tonle Sap	トンレサップ	톤레사프 호	Tonlé Sapmeer	Tonle Sap	Tonle Sap	Тонлесап	Tonlé Sap		Tonlé Sap	洞里萨湖	4	1159113439
+3	Alkaline Lake	Qinghai Hu				Koko Nor	3.0	4.0	Qinghai Hu	Qinghai Hu	Q201294	بحيرة تشينغهاي		Qinghai-See	Qinghai Lake	Lago Qinghai	lac Qinghai		चिंगहई झील		Danau Qinghai	lago Qinghai	青海湖	칭하이 호	Qinghaimeer	Kuku-nor		Кукунор	Qinghaisjön	Koko Nor	Hồ Thanh Hải	青海湖	5	1159126725
+3	Lake	Ozero Yarroto Vtoroye	L. Yarroto Vtoroye				3.0	4.0	O. Yarroto Vtoroye	Yarroto	Q4539001																	Яррото 2-е					5	1159113467
+3	Lake	Lake Tharthar					3.0	4.0	Buhayrat ath Tharthar	Buhayrat ath Tharthar	Q1640519	منخفض الثرثار		Tharthar-See	Lake Tharthar	Lago Tharthar	lac-réservoir du Thartar					Buhayrat ath Thartar			Lake Tharthar		Lago Tharthar	Тартар			Hồ Tharthar	塞尔萨尔湖	5	1159123125
+3	Alkaline Lake	Razzaza Lake	Lake Razazah			Lake Milh	3.0	4.0	L. Razazah	Lake Razazah	Q2007652	بحيرة الرزازة		Razzaza-See	Lake Milh	Lago Razzaza							ミル湖					Эль-Мильх					5	1159126735
+3	Alkaline Lake	Dead Sea					3.0	4.0	Dead Sea	Dead Sea	Q23883	البحر الميت	মৃত সাগর	Totes Meer	Dead Sea	Mar Muerto	mer Morte	Νεκρά θάλασσα	मृत सागर	Holt-tenger	Laut Mati	Mar Morto	死海	사해	Dode Zee	Morze Martwe	Mar Morto	Мёртвое море	Döda havet	Lut Gölü	Biển Chết	死海	4	1159126747
+3	Lake	Pskoyskoye Ozero			admin-0		3.0	4.0	Pskoyskoye O.	Pskoyskoye	Q1144905				Lake Pskov		lac Pihkva järv			Pszkovi-tó				프스콥스코예 호	Pskovskoe ozero	Jezioro Pskowskie		Псковское озеро	Pskovsjön			普斯科夫湖	5	1159113451
+4	Lake	Lac Saint-Jean					4.0	5.0	L. St.-Jean	Lac St.-Jean	Q979922			Lac Saint-Jean	Lac Saint-Jean	Lago Saint-Jean	lac Saint-Jean					lago Saint-Jean	サンジャン湖		Lac Saint-Jean	Saint-Jean		Сен-Жан	Lac Saint-Jean				5	1159123839
+4	Lake	Keuka L.					4.0	5.0			Q1335725			Keuka Lake	Keuka Lake		lac Keuka					Lago Keuka	キューカ湖		Keuka Lake								0	0
+4	Lake	Seneca L.					4.0	5.0			Q1552706			Seneca Lake	Seneca Lake		lac Seneca					lago Seneca	セネカ湖		Seneca Lake		Lago Seneca	Сенека				塞內卡湖	0	0
+4	Lake	Cayuga Lake					4.0	5.0	Cayuga L.	Cayuga Lake	Q731175			Cayuga Lake	Cayuga Lake		lac Cayuga					lago Cayuga	ケイユーガ湖		Cayuga Lake		Lago Cayuga					卡尤加湖	4	1159106997
+4	Reservoir	Kainji Reservoir					4.0	5.0	Kainji Res.	Kainji Reservoir	Q770141			Kainji-Stausee	Kainji Lake	Lago Kainji	lac Kainji					lago Kainji	カインジ湖		Kainji Lake	Kainji	Lago Kainji	Каинджи	Kainji			卡因吉大壩	5	1159124975
+4	Alkaline Lake	Lake Urmia					4.0	5.0	L. Urmia	Lake Urmia	Q199551	بحيرة أرومية	উর্মিয়া হ্রদ	Urmiasee	Lake Urmia	Lago Urmía	lac d'Ourmia			Urmia-tó		lago di Urmia	オルーミーイェ湖	우르미아 호	Urmiameer	Urmia	Lago Urmia	Урмия	Urmiasjön	Urmiye Gölü	Hồ Urmia	爾米亞湖	4	1159126761
+4	Lake	Cree Lake					4.0	5.0	Cree L.	Cree Lake	Q945023			Cree Lake	Cree Lake	Lago Cree	Cree Lake						クリー湖		Cree Lake		Lago Cree	Кри	Cree Lake			克里湖	4	1159107007
+4	Lake			_untitled_29			4.0	5.0																									0	1159107015
+4	Lake	Kasba Lake					4.0	5.0	Kasba L.	Kasba Lake	Q719538			Kasba Lake	Kasba Lake	Lago Kasba	lac Kasba						カスバ湖		Kasba Lake			Касба	Kasba Lake	Kasba Gölü		卡斯巴湖	4	1159107025
+4	Alkaline Lake	Sarygamysh Köli			admin-0		4.0	5.0	Sarygamysh Köli	Sarygamysh Köli	Q257416			Sarykamyschsee	Sarygamysh Lake	Lago Sariqamish	lac Sary Kamysh					Sarygamysh	サリカミシュ湖		Sarygamysh Lake	Jezioro Sarykamyskie		Сарыкамышское озеро		Sarıkamış Gölü		薩雷卡梅什湖	5	1159126775
+4	Lake	L. Chany					4.0	5.0			Q1520895			Tschanysee	Lake Chany	Lago Chany	lac Tchany					lago Čany			Tsjani	Czany		Чаны				錢尼湖	0	1159121323
+4	Alkaline Lake	Alaköl	Alakol				4.0	5.0	Alakol	Alakol	Q310547			Alakölsee	Lake Alakol	Lago Alakol	lac Alakol					lago Alakol	アラコル湖		Lake Alakol	Ała-kol		Алаколь	Alakol	Alagöl		阿拉湖	5	1159126789
+4	Lake			_untitled_28			4.0	5.0																									0	1159107033
+4	Lake	Lac-à-l'Eau-Claire					4.0	5.0	Lac-à-l'Eau-Claire	Lac-à-l'Eau-Claire	Q1699973			Lac à l’Eau Claire	Wiyâshâkimî Lake	Lagos Clearwater	lac Wiyâshâkimî								Clearwater Lakes	Lac à l'Eau Claire		Клируотер	Lac à l'Eau Claire			歐克萊爾湖	5	1159107045
+4	Lake	Lake Nipissing					4.0	5.0	L. Nipissing	Lake Nipissing	Q1356838			Lake Nipissing	Lake Nipissing	Lago Nipissing	lac Nipissing					lago Nipissing	ニピシング湖		Nipissingmeer	Nipissing		Ниписсинг	Nipissingsjön			尼皮辛湖	4	1159107053
+4	Lake	Hulun Nuur	Hulun Nur				4.0	5.0	Hulun Nuur	Hulun Nuur	Q537374	بحيرة دالاي		Hulun-See	Hulun Lake	Lago Hulun	Hulun					lago Hulun	フルン湖	후룬 호	Hulun Lake	Hulun Nur		Далайнор	Hulunsjön		Hồ Hô Luân	呼倫湖	5	1159113513
+4	Lake	Lake Bangweulu					4.0	5.0	L. Bangweulu	Lake Bangweulu	Q673169	بحيرة بانغويلو		Bangweulusee	Lake Bangweulu	Lago Bangweulu	lac Bangwelo			Bangweulu-tó		lago Bangweulu	バングウェウル湖		Bangweulumeer	Bangweulu		Бангвеулу	Bangweulusjön			班韋烏盧湖	4	1159113531
+4	Lake	Inarijärvi					4.0	5.0	Inarijrvi	Inarijrvi	Q203137			Inarijärvi	Lake Inari	Lago Inari	lac Inari				Danau Inari	Inari	イナリ湖		Inarimeer	Inari	Lago Inari	Инари	Enare träsk	İnari gölü		伊納里湖	5	1159113545
+4	Lake	Oulujärvi					4.0	5.0			Q1520895			Tschanysee	Lake Chany	Lago Chany	lac Tchany					lago Čany			Tsjani	Czany		Чаны				錢尼湖	0	1159117309
+4	Lake	Lake Peipus	Lake Peipsi-Pihkva		admin-0		4.0	5.0	L. Peipus	Lake Peipus	Q19253	بحيرة بيبوس		Peipussee	Lake Peipus	Peipus	lac Peïpous	Πέιπους		Peipus-Pszkovi-tó	Danau Peipsi	lago dei Ciudi	ペイプシ湖	페이푸스 호	Peipusmeer	Pejpus	Lago Peipus	Псковско-Чудское озеро	Peipus	Peipus Gölü	Hồ Peipus	楚德湖	3	1159113563
+4	Lake	Lake Kivu			admin-0		4.0	5.0	L. Kivu	Lake Kivu	Q125912	بحيرة كيفو		Kiwusee	Lake Kivu	Lago Kivu	lac Kivu	Λίμνη Κίβου	कीवू झील	Kivu-tó	Danau Kivu	lago Kivu	キブ湖	키부 호	Kivumeer	Kiwu	Lago Kivu	Киву	Kivusjön	Kivu Gölü	Hồ Kivu	基伏湖	4	1159113577
+4	Lake	Lake Edward			admin-0		4.0	5.0	L. Edward	Lake Edward	Q125211	بحيرة إدوارد		Eduardsee	Lake Edward	Lago Eduardo	lac Édouard	Λίμνη Εδουάρδου	ऍड्वर्ड झील	Edward-tó	Danau Edward	lago Eduardo	エドワード湖	에드워드 호	Edwardmeer	Jezioro Edwarda	Lago Eduardo	Эдвард	Edwardsjön	Edward Gölü	Hồ Edward	爱德华湖	4	1159113595
+4	Lake	Tai Hu					4.0	5.0	Tai Hu	Tai Hu	Q140712	بحيرة تاي		Tai Hu	Tai Lake	Lago Taihu	lac Tai		ताइहू झील	Taj-tó	Danau Taihu	Tai Hu	太湖	타이 호	Taihu	Tai Hu	Lago Taihu	Тайху	Tai Hu	Tai Gölü	Thái Hồ	太湖	5	1159113611
+4	Lake			_untitled_27			4.0	5.0																									0	1159107065
+4	Alkaline Lake	Laguna Mar Chiquita	Mar Chiquita				4.0	5.0	Mar Chiquita	Mar Chiquita	Q21837060																		Laguna Mar Chiquita				5	1159126805
+4	Reservoir	Kremenchuk Reservoir					4.0	5.0	Kremenchuk Res.	Kremenchuk Reservoir	Q1431500			Krementschuker Stausee	Kremenchuk Reservoir	Embalse de Kremenchuk	réservoir de Krementchouk								Kremenchuk Reservoir	Zbiornik Kremieńczucki		Кременчугское водохранилище	Krementjukdammen			克列緬丘格水庫	4	1159125001
+4	Reservoir	Rés. de La Grande 3					4.0	5.0	Rs. de La Grande 3	Réservoir de La Grande 3	Q2179011			Réservoir La Grande 3	Réservoir La Grande 3		réservoir La Grande 3												Réservoir La Grande 3				5	1159123951
+4	Reservoir	Rés. de La Grande 2					4.0	5.0	Rs. de La Grande 2	Réservoir de La Grande 2	Q22617464						lac Awapakamich												Lac Awapakamich				5	1159123871
+4	Lake			_untitled_26			4.0	5.0																									0	1159107077
+4	Alkaline Lake	Lago Enriquillo					4.0	5.0	L. Enriquillo	Lago Enriquillo	Q1464758			Lago Enriquillo	Lake Enriquillo	Lago Enriquillo	lac Enriquillo			Enriquillo-tó		lago Enriquillo	エンリキージョ湖		Enriquillomeer	Enriquillo	Lago Enriquillo	Энрикильо	Lago Enriquillo			恩里基湖	5	1159126465
+4	Lake			_untitled_25			4.0	5.0																									0	1159107087
+4	Lake			_untitled_24			4.0	5.0																									0	1159107099
+4	Lake	Lake Sakami					4.0	5.0	L. Sakami	Lake Sakami	Q1799611			Lac Sakami	Lac Sakami		lac Sakami												Lac Sakami			薩卡米湖	5	1159107115
+4	Lake	Lago Argentino					4.0	5.0	L. Argentino	Lago Argentino	Q753898	بحيرة أرخنتينو		Lago Argentino	Argentino Lake	Argentino	lac Argentino			Argentino-tó		lago Argentino	アルヘンティーノ湖	아르헨티노 호	Argentinomeer	Argentino	Lago Argentino	Архентино	Lago Argentino	Argentino Gölü		阿根廷湖	5	1159113621
+4	Lake	Nam Co					4.0	5.0	Nam Co	Nam Co	Q651294	نامتسو		Nam Co	Namtso	Lago Nam	lac Namtso		नम त्सो				ナムツォ	남초 호	Namtso	Nam Co		Намцо	Namtso		Namtso	纳木错	5	1159113637
+4	Alkaline Lake	Lake Tuz					4.0	5.0	L. Tuz	Lake Tuz	Q211823			Tuz Gölü	Lake Tuz	Lago Tuz	lac Tuz	Λίμνη Τουζ		Tuz-tó		lago Salato	トゥズ湖		Tuz Gölü	Tuz	Lago Tuz	Туз	Tuz Gölü	Tuz Gölü	Hồ Tuz	圖茲湖	4	1159126815
+4	Lake	Scott Lake					4.0	5.0	Scott L.	Scott Lake	Q7359166				Scott Lake		Scott Lake																4	1159107139
+4	Lake			_untitled_22			4.0	5.0																									0	1159113653
+4	Lake			_untitled_21			4.0	5.0	Rikkavesi	Rikkavesi	Q7334058			Rikkavesi	Rikkavesi														Rikkavesi				4	1159123265
+4	Lake			_untitled_20			4.0	5.0																									0	1159113669
+4	Lake	Ozero Nerpich'ye	L. Nerpich'ye				4.0	5.0	O. Nerpich'ye	Ozero Nerpich'ye	Q1774501				Lake Nerpichye							lago Nerpič'e			Nerpitsje			Нерпичье				涅爾皮奇耶湖	5	1159113701
+4	Lake	Ozero Yarroto Pervoye	L. Yarroto Pervoye				4.0	5.0	O. Yarroto Pervoye	Ozero Yarroto	Q4538999																	Яррото 1-е					5	1159113749
+4	Lake	Ozero Neyto	L. Neyto				4.0	5.0	O. Neyto		-1																						0	1159113765
+4	Lake	Ozero Yambuto	L. Yambuto				4.0	5.0	O. Yambuto		-1																						0	1159113781
+4	Lake			_untitled_15			4.0	5.0																									0	1159113799
+4	Lake	Lake Vygozero					4.0	5.0	L. Vygozero	Lake Vygozero	Q1315765			Wygosero	Lake Vygozero	Lago Vygózero	lac Vygozero					lago Vygozero	ヴィゴゼロ湖		Vygozeromeer	Wygoziero	Lago Vyg	Выгозеро				维戈泽罗湖	4	1159113819
+4	Lake	Lake Segozerskoye					4.0	5.0	L. Segozerskoye	Lake Segozerskoye	Q1416209			Segosero	Lake Segozero	Lago Segozero	lac Segozero					lago Segozero			Segozero	Segoziero		Сегозеро	Segozero			謝戈澤羅湖	5	1159113851
+4	Lake			_untitled_13			4.0	5.0	Koitere	Koitere	Q1345130			Koitere	Koitere		Koitere								Koitere			Койтере	Koitere				4	1159123247
+4	Lake	Pielinen					4.0	5.0	Pielinen	Pielinen	Q845891			Pielinen	Pielinen	Lago Pielinen	lac Pielinen					Pielinen	ピエリネン湖		Pielinen	Pielinen		Пиелинен	Pielisjärvi			皮耶利宁湖	4	1159113873
+4	Lake	Lake Pääjärvi					4.0	5.0	Pääjärvi		Q1458409			Pjaosero	Lake Pyaozero	Lago Piaozero	lac Piaozero					lago Pjaozero			Pjaozero	Piaoziero		Пяозеро				皮亞奧澤羅湖	0	0
+4	Lake	Lake Topozero					4.0	5.0	L. Topozero	Lake Topozero	Q709323			Toposero	Lake Topozero	Lago Topozero	lac Topozero					lago Topozero			Topozero	Topoziero		Топозеро				托波澤羅湖	4	1159113889
+4	Lake			_untitled_9			4.0	5.0																									0	1159107149
+4	Lake			_untitled_8			4.0	5.0																									0	1159107159
+4	Lake	Bosten Hu					4.0	5.0	Bosten Hu	Bosten Hu	Q611206			Bosten-See	Bosten Lake	Lago Bosten	lac Bosten		बोस्तेन झील	Boszten-tó		lago Bosten	ボステン湖	보스텅 호수	Bosten Lake	Bosten Hu		Баграшкёль	Bosten	Bosten Gölü	Hồ Bosten	博斯腾湖	5	1159113927
+4	Lake			_untitled_2			4.0	5.0																									0	1159113979
+4	Lake	Lake Il'Men'					4.0	5.0	L. Il'Men'	Lake Il'Men'	Q203462			Ilmensee	Lake Ilmen	Lago Ilmen	lac Ilmen			Ilmeny-tó		lago Il'men'	イリメニ湖	일멘 호	Ilmenmeer	Ilmień	Lago Ilmen	Ильмень	Ilmen	İlmen Gölü		伊爾門湖	5	1159123281
+4	Lake	Poyang Hu					4.0	5.0	Poyang Hu	Poyang Hu	Q207690	بحيرة بويانغ		Poyang-See	Poyang Lake	Lago Poyang	lac Poyang		पोयांग झील			lago Poyang	ハ陽湖	포양 호	Poyangmeer	Poyang Hu		Поянху	Poyangsjön	Poyang Gölü	Hồ Bà Dương	鄱阳湖	5	1159114015
+4	Lake	Daguan Hu					4.0	5.0	Daguan Hu		-1																						0	1159114031
+4	Lake	Long Hu					4.0	5.0	Long Hu	Long Hu	Q6673852				Longgan Lake	Lago Longgan													Longgan Hu			龙感湖	5	1159114049
+4	Lake	Liangzi Hu					4.0	5.0	Liangzi Hu	Liangzi Hu	Q7374197				Liangzi Lake														Liangzi Hu			梁子湖	5	1159114069
+4	Lake	Siling Co					4.0	5.0	Siling Co	Siling Co	Q1404973			Serling Tsho	Siling Lake	Lago Siling									Serling Tso		Lago Siling	Силинг-Цо	Siling Co		Hồ Siling	色林错	5	1159114083
+4	Lake	Har Us Nuur					4.0	5.0	Har Us Nuur	Har Us Nuur	Q1323267			Khar-Us-Nuur	Khar-Us Lake	Lago Khar-Us	lac Khar-Us					Har-Us nuur			Khar-Us Lake	Char Us nuur	Lago Khar-Us	Хар-Ус-Нуур			Hồ Khar-Us	哈爾烏蘇湖	5	1159114107
+4	Lake	Lake Taupo					4.0	5.0	L. Taupo	Lake Taupo	Q199903	بحيرة تابو		Lake Taupo	Lake Taupo	Lago Taupo	lac Taupo	Λίμνη Τάουπο	ताऊपो झील	Taupói-tó	Danau Taupo	lago Taupo	タウポ湖	타우포 호	Taupomeer	Taupo	Lago Taupo	Таупо	Tauposjön		Hồ Taupo	陶波湖	4	1159127099
+4	Lake	Lop Nur					4.0	5.0	Lop Nur	Lop Nur	Q319412	بحيرة لوب نور		Lop Nor	Lop Nur	Lop Nor	Lob Nor		लोप नुर	Lop-nór	Lop Nur	Lop Nur	ロプノール		Lob Nuur	Lob-nor	Lop Nor	Лобнор	Lop Nor		Lop Nur	罗布泊	4	1159114133
+4	Lake	Lake Geneva	Lac Léman				4.0	5.0	L. Geneva	Lake Geneva	Q6403	بحيرة ليمان		Genfersee	Lake Geneva	Lemán	lac Léman	Λίμνη της Γενεύης	जेनेवा झील	Genfi-tó	Danau Jenewa	lago Lemano	レマン湖	레만 호	Meer van Genève	Jezioro Genewskie	Lago Léman	Женевское озеро	Genèvesjön	Cenevre Gölü	Hồ Genève	萊芒湖	4	1159114143
+4	Lake	Lough Neagh					4.0	5.0	Lough Neagh	Lough Neagh	Q206942	بحيرة لوك ينج		Lough Neagh	Lough Neagh	Neagh	Lough Neagh	Λοχ Νέι				Lough Neagh	ネイ湖		Lough Neagh	Lough Neagh	Lago Neagh	Лох-Ней	Lough Neagh			內湖	4	1159114155
+4	Lake	Vättern					4.0	5.0	Vättern	Vättern	Q188195	بحيرة فاترن		Vättern	Vättern	Lago Vättern	Vättern	Βέτερν		Vättern-tó	Danau Vättern	Vättern	ヴェッテルン湖	베테른 호	Vättermeer	Wetter	Lago Vättern	Веттерн	Vättern	Vättern Gölü		韋特恩湖	4	1159114173
+4	Alkaline Lake	Lake Van					4.0	5.0	L. Van	Lake Van	Q126307	بحيرة وان		Vansee	Lake Van	Lago de Van	lac de Van	Βαν		Van-tó	Danau Van	lago di Van	ヴァン湖	반 호	Vanmeer	Wan	Lago de Van	Ван	Vansjön	Van Gölü	Hồ Van	凡湖	4	1159126829
+4	Lake	Yellowstone Lake					4.0	5.0	Yellowstone L.	Yellowstone Lake	Q923693	بحيرة يلوستون		Yellowstone Lake	Yellowstone Lake	Lago Yellowstone	lac Yellowstone					lago Yellowstone		옐로스톤 호	Yellowstonemeer	Yellowstone		Йеллоустон	Yellowstonesjön			黃石湖	4	1159107195
+4	Lake	Teshekpuk Lake					4.0	5.0	Teshekpuk L.	Teshekpuk Lake	Q3518981				Teshekpuk Lake		Teshekpuk Lake											Тешекпук					4	1159107207
+4	Lake	Flathead Lake					4.0	5.0	Flathead L.	Flathead Lake	Q1427364			Flathead Lake	Flathead Lake	Lago Flathead	lac Flathead					lago Flathead	フラットヘッド湖	플랫헤드 호	Flathead Lake			Флатхед	Flathead Lake	Flathead Gölü	Hồ Flathead		4	1159107217
+4	Reservoir	Lake Mead					4.0	5.0	L. Mead	Lake Mead	Q654515			Lake Mead	Lake Mead	Lago Mead	lac Mead			Mead-tó	Lake Mead	lago Mead	ミード湖	미드 호	Lake Mead	Mead	Lago Mead	Мид	Lake Mead			米德湖	4	1159123963
+4	Lake	Lake Claire					4.0	5.0	L. Clare	Lake Claire	Q1534419			Lake Claire	Lake Claire	Lago Claire	lac Claire					lago Claire	クレア湖		Clairemeer	Jezioro Claire	Lago Claire	Клэр	Lake Claire			克萊爾湖	5	1159107229
+4	Reservoir	Smallwood Reservoir					4.0	5.0	Smallwood Res.	Smallwood Reservoir	Q1539726			Smallwood Reservoir	Smallwood Reservoir	Embalse de Smallwood	réservoir Smallwood					Bacino Smallwood			Smallwood Reservoir		Albufeira de Smallwood	Смолвуд	Smallwoodreservoaren			斯莫爾伍德水庫	4	1159123999
+4	Lake	Lake Taymyr					4.0	5.0	L. Taymyr	Lake Taymyr	Q845868			Taimyrsee	Lake Taymyr	Lago Taimir	lac Taïmyr					lago Tajmyr	タイミル湖		Tajmyrmeer	Tajmyr		Таймыр				泰梅爾湖	4	1159114189
+5	Lake	Lago de Izabal					4.7	6.0	L. de Izabal	Lago de Izabal	Q138637			Izabal-See	Lake Izabal	Lago de Izabal	lac Izabal			Izabal-tó	Danau Izabal		イサバル湖	이사발 호	Izabalmeer	Izabal	Lago de Izabal	Исабаль	Departamento de Izabal		Hồ Izabal	伊薩瓦爾湖	5	1159107241
+5	Lake	Ozero Mogotoyevo	L. Mogotoyevo				4.7	6.0	O. Mogotoyevo	Ozero Mogotoyevo	Q2639916				Lake Mogotoyevo							lago Mogotoevo			Lake Mogotoyevo			Моготоево				莫戈托耶沃湖	5	1159114197
+5	Lake	Ayakkum Hu					4.7	6.0	Ayakkum Hu	Ayakkum Hu	Q631714				Ayakum Lake	Lago Ayakum						Ayakum							Ayakkum Hu		Ayakum	阿雅克库木湖	5	1159114215
+5	Lake	Storsjön					4.7	6.0	Storsjön	Storsjön	Q629354			Storsjön	Storsjön	Storsjön	Storsjön			Storsjön		Storsjön			Storsjön	Stor	Lago Storsjön	Стуршён	Storsjön	Storsjön Gölü		斯圖爾湖	4	1159114237
+5	Lake	Lake St. Joseph					4.7	6.0	L. St. Joseph	Lake St. Joseph	Q659225			Lake St. Joseph	Lake St. Joseph		lac Saint-Joseph								Lake St. Joseph			Сент-Джозеф	Lake St. Joseph			聖約瑟夫湖	4	1159107297
+5	Lake	Lake Rukwa					4.7	6.0	L. Rukwa	Lake Rukwa	Q1143935			Rukwasee	Rukwa Lake	Lago Rukwa	lac Rukwa	Λίμνη Ρούκουα		Rukwa-tó		lago Rukwa	ルクワ湖		Rukwa Lake	Rukwa		Руква				魯夸湖	5	1159114299
+5	Reservoir	Nam Ngum Reservoir					4.7	6.0	Nam Ngum Res.	Nam Ngum Reservoir	Q6132621			Nam-Ngum-Talsperre	Nam Ngum Dam								ナムグムダム		Ang Nam Ngum				Nam Ngum Dam			南俄大壩	5	1159125069
+5	Reservoir	Réservoir Gouin					4.7	6.0	Rs. Gouin	Réservoir Gouin	Q1540136	خزان Gouin		Gouin-Stausee	Gouin Reservoir	Embalse Gouin	réservoir Gouin					Bacino Gouin			Gouin Reservoir				Réservoir Gouin			古安水庫	5	1159124077
+5	Lake	Gaoyou Hu					4.7	6.0	Gaoyou Hu	Gaoyou Hu	Q630331				Gaoyou Lake	Lago Gaoyou							高郵湖			Gaoyou Hu			Gaoyou Hu			高邮湖	5	1159114321
+5	Lake	Ozero Pyasino	L. Pyasino				4.7	6.0	O. Pyasino	Ozero Pyasino	Q1535541			Pjassinosee	Lake Pyasino	Lago Piasino	lac Piassino					lago Pjasino			Pjasinomeer	Piasino		Пясино				皮亞西諾湖	5	1159114343
+5	Lake			_untitled_25			4.7	6.0																									0	1159114377
+5	Lake	Hjälmaren					4.7	6.0	Hjälmaren	Hjälmaren	Q211425			Hjälmaren	Hjälmaren	Hjälmaren	Hjälmaren					Hjälmaren	イェルマレン湖	옐마렌 호	Hjälmarmeer	Hjälmar	Lago Hjälmaren	Ельмарен	Hjälmaren	Hjälmaren Gölü		耶爾馬倫湖	4	1159114391
+5	Lake			_untitled_22			4.7	6.0																									0	1159114495
+5	Lake	Lake Bienville					4.7	6.0	L. Bienville	Lake Bienville	Q1496993			Lac Bienville	Lac Bienville	Lago Bienville	lac Bienville								Lac Bienville			Бьенвиль	Lac Bienville			比安維爾湖	5	1159107323
+5	Lake	Lake Beloye					4.7	6.0	L. Beloye	Lake Beloye	Q953140			Weißer See	Lake Beloye	Lago Béloye	lac Beloïe					lago Bianco	ベロエ湖		Belojemeer	Jezioro Białe		Белое озеро	Beloje ozero			白湖	4	1159114573
+5	Reservoir	Van Blommestein Meer	Professor Doctor Ingenieur W. J. Van Blommestein Meer				4.7	6.0	Van Blommestein Meer	Brokopondo Res.	Q926100	خزان بروكوبوندو		Brokopondo-Stausee	Brokopondo Reservoir	Embalse de Brokopondo	Brokopondo					lago di Brokopondo			Brokopondostuwmeer	Zbiornik Brokopondo	Albufeira de Brokopondo	Брокопондо				布羅科蓬多水庫	5	1159125121
+5	Lake	Lake Manyara					4.7	6.0	L. Manyara	Lake Manyara	Q577148			Manyara-See	Lake Manyara	Lago Manyara	Lac Manyara					Lago Manyara	マニャラ湖		Lake Manyara	Jezioro Manyara		Маньяра				曼雅拉湖	4	1159114585
+5	Alkaline Lake	Lake Äbaya	Lake Abaya				4.7	6.0	L. Abaya	Lake Abaya	Q304933			Abajasee	Lake Abaya	Lago Abaya	lac Abaya					lago Margherita	アバヤ湖		Abayameer	Jezioro Małgorzaty	Lago Abaya	Абая	Ābaya Hāyk'			阿拜亞湖	4	1159126845
+5	Lake	Akkajaure					4.7	6.0	Akkajaure	Akkajaure	Q419614			Akkajaure	Akkajaure	Akkajaure	Akkajaure								Akkajaure		Akkajaure	Аккаявре	Akkajaure			阿卡湖	4	1159123397
+5	Lake	Lake Balaton					4.7	6.0	L. Balaton	Lake Balaton	Q6383	بالاتون		Balaton	Lake Balaton	Balaton	lac Balaton	Μπάλατον		Balaton	Danau Balaton	Balaton	バラトン湖	벌러톤 호	Balatonmeer	Balaton	Lago Balaton	Балатон	Balaton	Balaton Gölü	Hồ Balaton	巴拉顿湖	4	1159114609
+5	Lake	Canandaigua L.	Finger Lakes				4.7	6.0			Q1032768			Canandaigua Lake	Canandaigua Lake		lac Canandaigua					lago Canandaigua	カナデーグア湖		Canandaigua Lake								0	0
+5	Lake	Owasco L.	Finger Lakes				4.7	6.0			Q1339170			Owasco Lake	Owasco Lake		Owasco Lake					lago Owasco	オワスコ湖		Owasco Lake								0	0
+5	Lake	Skaneateles L.	Finger Lakes				4.7	6.0			Q1333432			Skaneateles Lake	Skaneateles Lake		Skaneateles Lake					lago Skaneateles	スカネアトレス湖		Skaneateles Lake							斯卡尼阿特勒斯湖	0	0
+5	Lake			_untitled_19			4.7	6.0																									0	1159107379
+5	Lake	Bear Lake					4.7	6.0	Bear L.	Bear Lake	Q812997			Bear Lake	Bear Lake	Lago del Oso	lac Bear						ベアー湖		Bear Lake			Бэр					4	1159107393
+5	Lake	Utah Lake					4.7	6.0	Utah L.	Utah Lake	Q729974			Utahsee	Utah Lake	Lago Utah	lac Utah					lago Utah	ユタ湖		Utah Lake	Utah	Lago Utah	Юта	Utahsjön			犹他湖	4	1159107397
+5	Lake			_untitled_18			4.7	6.0																									0	1159107413
+5	Lake	Leech Lake					4.7	6.0	Leech L.	Leech Lake	Q1812063	بحيرة ليتش، والكر		Leech Lake	Leech Lake	Lago Leech	lac Leech						リーチ湖		Leechmeer			Лич-Лейк	Leech Lake				4	1159107427
+5	Lake	Lac des Mille Lacs					4.7	6.0	L. des Mille Lacs	Lac des Mille Lacs	Q3215670			Lac des Mille Lacs	Lac des Mille Lacs		lac des Mille Lacs								Lac des Mille Lacs				Lac des Mille Lacs				4	1159107441
+5	Reservoir	Réservoir Baskatong					4.7	6.0	Rs. Baskatong	Réservoir Baskatong	Q1329423			Réservoir Baskatong	Baskatong Reservoir		réservoir Baskatong											Баскатонг	Réservoir Baskatong				5	1159124119
+5	Lake	Lago Ranco					4.7	6.0	L. Ranco	Lago Ranco	Q1800398			Lago Ranco	Ranco Lake	Lago Ranco	lac Ranco			Ranco-tó		lago Ranco	ランコ湖		Ranco Lake		Lago Ranco	Ранко	Lago Ranco			蘭科湖	5	1159114631
+5	Lake	Trout Lake					4.7	6.0	Trout L.	Trout Lake	Q1638242			Trout Lake	Trout Lake																	特勞特湖	4	1159107451
+5	Lake	Lago Viedma					4.7	6.0	L. Viedma	Lago Viedma	Q918713			Lago Viedma	Viedma Lake	Viedma	lac Viedma	Βιέδμα		Viedma-tó		lago Viedma	ビエドマ湖	비에드마 호	Viedmameer	Viedma		Вьедма	Lago Viedma	Viedma Gölü		别德马湖	5	1159114641
+5	Lake	Lac Tumba					4.7	6.0	L. Tumba	Lac Tumba	Q1324212	بحيرة تومبا		Tumbasee	Lake Tumba	Lago Tumba	lac Tumba					lago Tumba	トゥンバ湖	툼바 호	Tumbameer	Tumba		Тумба	Mantumba			通巴湖	5	1159114657
+5	Lake			_untitled_17			4.7	6.0																									0	1159114683
+5	Lake	Po Hu					4.7	6.0	Po Hu		-1																						0	1159114699
+5	Lake	Buyr Nuur	Buir Nur				4.7	6.0	Buyr Nuur	Buyr Nuur	Q715788			Buir Nur	Buir Lake	Lago Buir	lac Buir			Bujr-tó		Bujr nuur	ブイル湖		Buir Lake	Bujr nuur		Буйр-Нуур				貝爾湖	5	1159114715
+5	Lake	Ngangla Ringeo					4.7	6.0	Ngangla Ringeo	Ngangla Ringeo	Q4761833				Ang Laren Lake														Ngangla Ringco			昂拉仁错	5	1159114735
+5	Lake	Tangra Yumco					4.7	6.0	Tangra Yumco	Tangra Yumco	Q659377			Tangra Yumco	Tangra Yumco	Tangra Yumco	Tangra Yumco						タンラ・ユムツォ		Tangra Yumco				Tangra Yumco			当惹雍错	4	1159114759
+5	Lake	Ozero Kulundinskoye	L. Kulundinskoye				4.7	6.0	O. Kulundinskoye	Ozero Kulundinskoye	Q731761			Kulundasee	Lake Kulundinskoye	Lago Kulunda	lac de Koulounda								Koeloendameer	Jezioro Kułundyńskie		Кулундинское озеро		Kulundin gölü		庫倫達湖	5	1159114777
+5	Lake	Siletitengiz Köli					4.7	6.0	Siletitengiz Kli	Siletitengiz Kli	Q4244492				Siletiteniz													Селетытениз	Siletitengiz Köli				5	1159114787
+5	Lake	Ubinskoye Lake					4.7	6.0	Ubinskoye L.	Ubinskoye Lake	Q1115650				Lake Ubinskoye	Ubinskoe									Oebinskoe			Убинское				烏賓斯科耶湖	5	1159114805
+5	Lake			_untitled_16			4.7	6.0																									0	1159114823
+5	Lake			_untitled_15			4.7	6.0																									0	1159114841
+5	Lake			_untitled_14			4.7	6.0	Umbozero L.	Umbozero Lake	Q1460079			Umbosero	Lake Umbozero	Lago Umbozero	lac Oumbozero								Oembozero	Umboziero		Умбозеро	Umbozero			溫博澤羅湖	5	1159123333
+5	Lake	Lake Kovdozero					4.7	6.0	L. Kovdozero	Lake Kovdozero	Q240398			Kowdosero	Lake Kovdozero	embalse de Kovdozero	lac Kovdozero								Kovdozero			Ковдозеро				科夫多澤羅湖	4	1159123191
+5	Lake	Lake Tekapo					4.7	6.0	L. Tekapo	Lake Tekapo	Q1194022	بحيرة تيكابو		Lake Tekapo	Lake Tekapo	Lago Tékapo	lac Tekapo						テカポ湖	테카포 호수	Lake Tekapo	Tekapo		Текапо	Lake Tekapo		Hồ Tekapo	特卡波湖	4	1159127119
+5	Lake	Ozero Bustakh	L. Bustakh				4.7	6.0	O. Bustakh	Ozero Bustakh	Q2996806				Lake Bustakh													Бустах				布斯塔赫湖	5	1159114859
+5	Lake	Yamzho Yumco					4.7	6.0	Yamzho Yumco	Yamzho Yumco	Q939604			Yamzhog Yumco	Yamdrok Lake	Lago Yamdrok	Yamdrok-Tso		यमद्रोक झील	Jamdok-tó	Danau Yamdrok		ヤムドク湖	암드록쵸 호수	Yamdrok			Ямджо-Юмцо			Hồ Yamdrok	羊卓雍错	5	1159114885
+5	Lake	Ozero Tenis	L. Tenis				4.7	6.0	O. Tenis		-1																						0	1159114903
+5	Lake	Ozero Chërnoye	L. Chërnoye				4.7	6.0	O. Chërnoye		-1																						0	1159114929
+5	Lake			_untitled_12			4.7	6.0																									0	1159114951
+5	Lake	Ozero Bol'šoe Morskoe	L. Bol’shoye Morskoye				4.7	6.0	O. Bolshoye Morskoye	Ozero Bol'šoe Morskoe	Q1774474											lago Bol'šoe Morskoe			Bolsjoe Morskoe ozero			Большое Морское озеро					5	1159114973
+5	Lake	Ozero Chukochye	L. Chukoch’ye				4.7	6.0	O. Chukochye	Ozero Chukochye	Q1108335														Tsjoekotsje ozero			Чукочье озеро				丘科奇耶湖	5	1159114993
+5	Lake	Shijiu Hu					4.7	6.0	Shijiu Hu	Shijiu Hu	Q7374652				Shijiu Lake														Shijiu Hu			石臼湖	5	1159115009
+5	Lake	Hong Hu					4.7	6.0	Hong Hu	Hong Hu	Q5895614				Hong Lake		Lac Hong						洪湖						Hong Hu			洪湖	5	1159115027
+5	Lake	Võrtsjärv					4.7	6.0	Võrtsjärv	Võrtsjärv	Q211516			Võrtsjärv	Võrtsjärv	Võrtsjärv	lac Võrtsjärv	Βίρτσγιαρβ		Võrts-tó		lago di Võrtsjärv		페르트스야르프	Võrtsjärv	Võrtsjärv	Lago Võrtsjärv	Выртсъярв	Võrtsjärv	Võrtsjärv		沃爾茨湖	4	1159115043
+5	Lake	Chao Hu					4.7	6.0	Chao Hu	Chao Hu	Q1062495	بحيرة تشاو		Chao Hu	Chao Lake	Lago Chao	lac Chao						巣湖	차오 호	Chao Lake			Чаоху	Chao Hu		Hồ Sào	巢湖	5	1159115069
+5	Lake			_untitled_11			4.7	6.0																									0	1159115089
+5	Lake	Lake Rossignol					4.7	6.0	L. Rossignol	Lake Rossignol	Q3215164				Lake Rossignol		lac Rossignol												Lake Rossignol				4	1159107465
+5	Lake	Grand Lake					4.7	6.0	Grand L.	Grand Lake	Q1275436			Grand Lake	Grand Lake		Grand Lake						グランド湖		Grand Lake		Lago Grand	Гранд-Лейк	Grand Lake			格蘭德湖	4	1159107475
+5	Alkaline Lake	Goose Lake					4.7	6.0	Goose L.	Goose Lake	Q1309664			Goose Lake	Goose Lake	Lago Goose	Goose Lake						グース湖		Goose Lake								4	1159126483
+5	Alkaline Lake	Pyramid Lake					4.7	6.0	Pyramid L.	Pyramid Lake	Q761535	بحيرة بيراميد		Pyramid Lake	Pyramid Lake	Lago Pirámide	Pyramid Lake			Pyramid Lake		lago Pyramid	ピラミッド湖	피라미드 호	Pyramid Lake	Pyramid		Пирамид				金字塔湖	4	1159126491
+5	Lake	Lake Sevan	Lake Sevana				4.7	6.0	L. Sevan	Lake Sevan	Q181932	بحيرة سيفان		Sewansee	Lake Sevan	Lago Sevan	lac Sevan	λίμνη Σεβάν		Szeván-tó	Danau Sevan	lago Sevan	セヴァン湖	세반 호	Sevanmeer	Sewan	Lago Sevan	Севан	Sevansjön	Sevan Gölü	Hồ Sevan	塞凡湖	4	1159115109
+5	Lake			_untitled_10			4.7	6.0																									0	1159115135
+5	Lake			_untitled_9			4.7	6.0																									0	1159115153
+5	Lake	Weishan Hu					4.7	6.0	Weishan Hu	Weishan Hu	Q839287				Nansi Lake	Lago Nansi									Nansi Lake			Наньсыху	Weishan Hu			微山湖	5	1159115165
+5	Lake			_untitled_8			4.7	6.0																									0	1159115185
+5	Lake	Huangtang Hu					4.7	6.0	Huangtang Hu		-1																						0	1159115205
+5	Lake			_untitled_7			4.7	6.0																									0	1159115225
+5	Reservoir	Millerton Lake					4.7	6.0	Millerton L.	Millerton Lake	Q6859416				Millerton Lake		Millerton Lake								Millerton Lake		Reservatório Millerton						4	1159124147
+5	Lake	Bluenose Lake					4.7	6.0	Bluenose L.	Bluenose Lake	Q886010			Bluenose Lake	Bluenose Lake		Bluenose Lake								Bluenose Lake			Блуноз	Bluenose Lake			布盧諾斯湖	4	1159107513
+5	Reservoir	Réservoir Pipmuacan					4.7	6.0	Rs. Pipmuacan	Rés. Pipmuacan	Q1471254			Réservoir Pipmuacan	Pipmuacan Reservoir		réservoir Pipmuacan												Réservoir Pipmuacan			皮普馬康水庫	5	1159124167
+5	Lake	Grand Lake					4.7	6.0	Grand L.	Grand Lake	Q1275436			Grand Lake	Grand Lake		Grand Lake						グランド湖		Grand Lake		Lago Grand	Гранд-Лейк	Grand Lake			格蘭德湖	4	1159107521
+5	Lake			_untitled_6			4.7	6.0																									0	1159107535
+5	Lake	Colville Lake					4.7	6.0	Colville L.	Colville Lake	Q1112986			Colville Lake	Colville Lake	Lago Colville	Colville Lake								Colville Lake			Колвилл	Colville Lake			科爾維爾湖	4	1159107549
+5	Lake	Hottah Lake					4.7	6.0	Hottah L.	Hottah Lake	Q1631233			Hottah Lake	Hottah Lake	Lago Hottah	lac Hottah								Hottah Lake			Хотта	Hottah Lake			霍塔湖	4	1159107563
+5	Lake	Big Trout Lake					4.7	6.0	Big Trout L.	Big Trout Lake	Q859461			Big Trout Lake	Big Trout Lake		lac Big Trout											Биг-Траут	Big Trout Lake			大特勞特湖	4	1159107573
+5	Lake	Trout Lake					4.7	6.0	Trout L.	Trout Lake	Q1638242			Trout Lake	Trout Lake																	特勞特湖	4	1159107587
+5	Lake	Island Lake					4.7	6.0	Island L.	Island Lake	Q179505			Island Lake	Island Lake	Lago Island	lac Island					lago Island			Island Lake			Айленд	Island Lake				4	1159107599
+5	Lake	Lake Naococane					4.7	6.0	L. Naococane	Lake Naococane	Q3215083			Lac Naococane	Lake Naococane		lac Naococane												Lac Naococane				4	1159107609
+5	Lake	Lac la Ronge					4.7	6.0	L. la Ronge	Lac la Ronge	Q250257			Lac la Ronge	Lac la Ronge	Lago La Ronge	lac la Ronge								Lac la Ronge			Ла-Ронж	Lac la Ronge			拉龍日湖	4	1159107627
+5	Lake	Mille Lacs Lake					4.7	6.0	Mille Lacs L.	Mille Lacs Lake	Q1600016	بحيرة ميل لاكس، غاريسون		Mille Lacs Lake	Mille Lacs Lake	Lago Mille Lacs	lac des Mille Lacs						ミラックス湖		Mille Lacs Lake				Mille Lacs Lake			米拉湖	4	1159107635
+5	Lake	Lake Winnipesaukee					4.7	6.0	L. Winnipesaukee	Lake Winnipesaukee	Q224872			Lake Winnipesaukee	Lake Winnipesaukee	Lago Winnipesaukee	lac Winnipesaukee					lago Winnipesaukee	ウィニペソーキ湖		Lake Winnipesaukee		Lago Winnipesaukee	Уиннипесоки				温尼珀索基湖	4	1159107675
+5	Lake	Lake Simcoe					4.7	6.0	L. Simcoe	Lake Simcoe	Q366985			Lake Simcoe	Lake Simcoe	Lago Simcoe	lac Simcoe			Simcoe-tó		lago Simcoe	シムコー湖		Simcoemeer	Simcoe	Lago Simcoe	Симко	Lake Simcoe			錫姆科湖	4	1159107689
+5	Lake	Gods Lake					4.7	6.0	Gods L.	Gods Lake	Q1533897			Gods Lake	Gods Lake	Lago Gods	lac Gods						ゴッズ湖		Gods Lake		Lago Gods	Годс	Gods Lake			戈茲湖	4	1159107699
+5	Lake	Hoh Xil Hu					4.7	6.0	Hoh Xil Hu		-1																						0	1159115243
+5	Alkaline Lake	Lake Hammar					4.7	6.0	L. Hammar	Lake Hammar	Q2668029	هور الحمّار			Lake Hammar	Lago Hammar	Al-hammar						ハンマール湖					Эль-Хаммар		Hamar Gölü			4	1159126873
+5	Alkaline Lake	Malheur Lake					4.7	6.0	Malheur L.	Malheur Lake	Q3215037			Malheur Lake	Malheur Lake		lac Malheur																4	1159126509
+5	Lake			_untitled_5			4.7	6.0																									0	1159107735
+5	Lake			_untitled_4			4.7	6.0																									0	1159107747
+5	Lake			_untitled_3			4.7	6.0																									0	1159107757
+5	Lake			_untitled_2			4.7	6.0																									0	1159107859
+5	Lake			_untitled_1			4.7	6.0																									0	1159107873
+5	Lake	Tikchik Lakes					4.7	6.0			-1																						0	1159107889
+5	Lake	Tikchik Lakes					4.7	6.0			-1																						0	1159107899
+5	Lake	Tikchik Lakes					4.7	6.0			-1																						0	1159107913
+5	Lake	Tikchik Lakes					4.7	6.0			-1																						0	1159107927
+5	Alkaline Lake	Khyargas Nuur	Hyargas Nuur				4.7	6.0	Khyargas Nuur	Khyargas Nuur	Q1125601			Chjargas Nuur	Khyargas Nuur	Lago Khyargas	lac Khyargas					Hjargas nuur	キヤールガス・ヌール		Khyargas Nuur	Chjargas nuur	Lago Khyargas	Хяргас-Нуур			Hồ Khyargas	吉爾吉斯湖	4	1159126887
+5	Lake			_untitled_0			4.7	6.0																									0	1159115267
+5	Alkaline Lake	Lake Assal					4.7	6.0	L. Assal	Lake Assal	Q81239	بحيرة عسل	আসাল হ্রদ	Assalsee	Lake Assal	Lago Assal	lac Assal	Λίμνη Ασσάλ				lago Assal	アッサル湖	아살 호	Assalmeer	Asal	Lago Assal	Ассаль	Assalsjön	Asal Gölü		阿萨勒湖	4	1159126901
+5	Lake	Rainy Lake					4.7	6.0	Rainy L.	Rainy Lake	Q202019	بحيرة ريني، انترناشيونال فولس		Rainy Lake	Rainy Lake	Lago Rainy	lac à la Pluie						レイニー湖		Rainy Lake	Rainy	Lago Rainy	Рейни-Лейк	Rainy Lake			雷尼湖	4	1159107275
+5	Reservoir	Williston Lake					4.7	6.0	Williston L.	Williston Lake	Q967775			Williston Lake	Williston Lake	Lago Williston	lac Williston			Williston-tó		lago Williston			Williston Lake		Lago Williston	Уиллистон	Williston Lake				4	1159124009
+5	Lake	Split Lake					4.7	6.0	Split L.	Split Lake	Q7375301				Split Lake		Split Lake												Split Lake				4	1159107285
+5	Reservoir	Ft. Peck Lake					4.7	6.0	Ft. Peck L.	Fort Peck Lake	Q4492006				Fort Peck Lake													Форт-Пек					4	1159124029
+5	Reservoir	Lake Sakakawea					4.7	6.0	L. Sakakawea	Lake Sakakawea	Q1801077			Lake Sakakawea	Lake Sakakawea	Lago Sakakawea	lac Sakakawea					lago Sakakawea			Lake Sakakawea			Сакакавиа				沙卡卡威亞湖	4	1159124039
+5	Lake	Teslin Lake					4.7	6.0	Teslin L.	Teslin Lake	Q283793			Teslin Lake	Teslin Lake		lac Teslin										Lago Teslin	Теслин	Teslin Lake				4	1159107319
+5	Reservoir	Lower Arrow Lake					4.7	6.0	Lower Arrow L.		Q280135			Arrow Lake	Arrow Lakes	Lagos Arrow	lacs Arrow					Laghi Arrow	アロー湖		Arrow Lakes		Lago Arrow						0	1159124087
+5	Lake	Lake Pend Oreille					4.7	6.0	L. Pend Oreille	Lake Pend Oreille	Q1632195			Lake Pend Oreille	Lake Pend Oreille	Lago Pend Oreille	lac Pend Oreille								Lake Pend Oreille			Панд-Орей				庞多雷湖	4	1159107335
+5	Reservoir	Lake Chelan					4.7	6.0	L. Chelan	Lake Chelan	Q1115201			Lake Chelan	Lake Chelan	Lago Chelan	lac Chelan					lago Chelan			Lake Chelan	Lake Chelan		Челан				奇蘭湖	4	1159124141
+5	Lake	Black Lake					4.7	6.0	BL.k L.	Black Lake	Q880358			Black Lake	Black Lake		Black Lake						ブラック湖					Блэк-Лейк	Black Lake			布萊克湖	4	1159107491
+5	Lake	Lake Louise					4.7	6.0	L. Louise		Q1343275			Lake Louise	Lake Louise	Lake Louise	Lake Louise					Lake Louise			Lake Louise		Lake Louise	Лейк-Луис	Lake Louise				0	1159107499
+5	Lake	Lower Red Lake					4.7	6.0	Lower Red L.	Lower Red Lake	Q1320568	بحيرة ريد		Red Lake	Red Lake	Lago Red	Red Lake						レッド湖		Red Lake								5	1159107655
+5	Lake	Upper Red Lake					4.7	6.0	Upper Red L.	Upper Red Lake	Q1320568	بحيرة ريد		Red Lake	Red Lake	Lago Red	Red Lake						レッド湖		Red Lake								5	1159107661
+5	Lake	Yathkyed Lake					4.7	6.0	Yathkyed L.	Yathkyed Lake	Q1888261			Yathkyed Lake	Yathkyed Lake	Lago Yathkyed	Yathkyed Lake								Yathkyed Lake			Яткайед	Yathkyed Lake			亞斯凱德湖	4	1159107715
+5	Lake	Amadjuak Lake					4.7	6.0	Amadjuak L.	Amadjuak Lake	Q452088			Amadjuak Lake	Amadjuak Lake	Lago Amadjuak	lac Amadjuak					lago Amadjuak			Amadjuak Lake	Amadjuak		Амаджуак	Amadjuak Lake			阿馬朱瓦克湖	4	1159107307
+5	Reservoir	Amistad Reservoir					4.7	6.0	Amistad Res.	Amistad Reservoir	Q1634424			Amistad-Stausee	Amistad Reservoir	Presa de la Amistad									Amistad Reservoir								4	1159124109
+5	Lake			_untitled_20			4.7	6.0	Cabonga Res.	Cabonga Reservoir	Q1328792			réservoir Cabonga	Cabonga Reservoir		réservoir Cabonga					réservoir Cabonga							réservoir Cabonga			卡邦加水庫	4	1159123781
+5	Lake	Lago de Chapala					4.7	6.0	L. de Chapala	Lago de Chapala	Q318350			Chapalasee	Lake Chapala	Lago de Chapala	lac de Chapala			Chapalai-tó		lago di Chapala			Chapalameer	Chapala	Lago de Chapala	Чапала				查帕拉湖	5	1159107251
+5	Lake	Lago de Managua				Lake Xolotlán	4.7	6.0	L. de Managua	Lago de Managua	Q21052208																		Lago de Managua				5	1159107259
+5	Reservoir	Itaipú Reservoir	Represa Itaipu				4.7	6.0	Rs. Itaipu	Represa Itaipu	Q10315670			Itaipu-Stausee	Itaipu Reservoir												Lago de Itaipu						5	1159125135
+5	Lake	Lago Gatun					4.7	6.0	L. Gatun	Lago Gatun	Q313637	بحيرة غاتون		Gatúnsee	Gatun Lake	Lago Gatún	lac Gatún		गाटुन झील			lago Gatún	ガトゥン湖		Gatúnmeer	Gatún	Lago Gatún	Гатун	Gatúnsjön	Gatun Gölü	Hồ Gatun	加通湖	5	1159123579
+5	Reservoir	Lake Kariba			admin-0		4.7	6.0	L. Kariba	Lake Kariba	Q1047206	بحيرة كاريبا			Lake Kariba	Lago Kariba	lac Kariba		कैरीबा झील	Kariba-tó		lago Kariba	カリバ湖		Karibameer	Kariba	Lago Kariba	Кариба	Karibasjön	Kariba Gölü	Hồ Kariba	卡里巴水庫	4	1159125055
+5	Lake	Lake Kyoga					4.7	6.0	L. Kyoga	Lake Kyoga	Q124978	بحيرة كيوغا		Kyogasee	Lake Kyoga	Lago Kyoga	lac Kyoga		क्योगा झील	Kyoga-tó	Danau Kyoga	Kyoga	キオガ湖		Kyogameer	Kioga	Lago Kyoga	Кьога	Kyogasjön	Kyoga Gölü	Hồ Kyoga	基奧加湖	4	1159114279
+5	Reservoir			_untitled_26			4.7	6.0	Oz. Kubenskoye	Ozero Kubenskoye	Q1463552			Kubenasee	Lake Kubenskoye		lac Koubenskoïe					lago Kubenskoe	クベンスコエ湖		Koebenskoe ozero	Jezioro Kubieńskie		Кубенское озеро				庫邊斯科耶湖	5	1159125041
+5	Lake	Bodensee	Lake Constance		admin-0		4.7	6.0	Bodensee	Bodensee	Q4127	بحيرة كونستانس		Bodensee	Lake Constance	lago de Constanza	lac de Constance	Λίμνη Κωνσταντίας		Boden-tó	Danau Konstanz	lago di Costanza	ボーデン湖	보덴 호	Bodenmeer	Jezioro Bodeńskie	lago de Constança	Боденское озеро	Bodensjön	Konstanz Gölü	Bodensee	博登湖	5	1159114259
+5	Lake			_untitled_23			4.7	6.0																									0	1159114461
+5	Alkaline Lake			_untitled_13			4.7	6.0	Dead Sea	Dead Sea	Q23883	البحر الميت	মৃত সাগর	Totes Meer	Dead Sea	Mar Muerto	mer Morte	Νεκρά θάλασσα	मृत सागर	Holt-tenger	Laut Mati	Mar Morto	死海	사해	Dode Zee	Morze Martwe	Mar Morto	Мёртвое море	Döda havet	Lut Gölü	Biển Chết	死海	4	1159126865
+5	Lake	Sea of Galilee					4.7	6.0	Sea of Galilee	Sea of Galilee	Q126982	بحيرة طبريا		See Genezareth	Sea of Galilee	Mar de Galilea	lac de Tibériade	Θάλασσα της Γαλιλαίας	गलील सागर	Galileai-tenger	Danau Galilea	lago di Tiberiade	ガリラヤ湖	갈릴리 호	Meer van Tiberias	Jezioro Tyberiadzkie	Mar da Galileia	Тивериадское озеро	Galileiska sjön	Taberiye Gölü	Biển hồ Galilee	加利利海	4	1159114879
+5	Reservoir	Lake Argyle					4.7	6.0	L. Argyle	Lake Argyle	Q1757739			Lake Argyle	Lake Argyle		lac Argyle								Lake Argyle								3	1159125081
+5	Lake	Ngoring Hu					4.7	6.0	Ngoring Hu	Ngoring Hu	Q847864				Ngoring Lake	Lago Eling												Орин-Нур	Ngoring Hu			鄂陵湖	5	1159114305
+5	Lake	Gyaring Hu					4.7	6.0	Gyaring Hu	Gyaring Hu	Q4128895				Gyaring Lake	Lago Zaling										Gyaring Co		Джарин-Нур	Zhalinghu			扎陵湖	5	1159114475
+5	Reservoir	Toktogul Res.	Toktogul Suu Saktagychy				4.7	6.0	Toktogul Suu Saktagychy	Toktogul Suu Saktagychy	Q16508570					Embalse de Toktogul	lac de Toktogoul											Токтогульское водохранилище					5	1159125107
+5	Lake	Langa Co					4.7	6.0	Langa Co	Langa Co	Q628327		রাক্ষসতাল	Rakshastal	Lake Rakshastal	Lago La'nga Co	lac Rakshastal		राक्षस झील	Raksasztal-tó		lago Rakshastal	ラークシャスタール湖		Rakshastal	La'nga Co		Ланга-Цо	Lannga Co			拉昂错	5	1159114537
+5	Lake	Mapam Yumco					4.7	6.0	Mapam Yumco	Mapam Yumco	Q233627		মানস সরোবর	Manasarovar	Lake Manasarovar	Lago Mana Sarovar	lac Manasarovar		मानसरोवर	Manaszarovar-tó	Danau Mansarovar	Manasarovar	マナサロワール湖	마나사로바 호수	Manasarovar	Mapam Yumco	Lago Manasarovar	Мапам-Юмцо	Manasarovar		Hồ Manasarovar	玛旁雍錯	5	1159114553
+5	Reservoir	Lake Volta					4.7	6.0	L. Volta	Lake Volta	Q201679	بحيرة فولتا		Volta-Stausee	Lake Volta	Lago Volta	lac Volta		वोल्टा झील	Volta-tó		Volta	ヴォルタ湖	볼타 호	Voltameer	Wolta	Lago Volta	Вольта	Voltasjön	Volta Gölü	Hồ Volta	沃尔特水库	3	1159125149

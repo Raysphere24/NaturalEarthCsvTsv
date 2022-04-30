@@ -1,0 +1,317 @@
+unit_code	unit_name	unit_type	nps_region	scalerank	featurecla	name
+C	C	C	C	N	C	C
+GRBA	Great Basin NP	National Park	Pacific West	7	National Park Service	Great Basin
+MEVE	Mesa Verde NP	National Park	Intermountain	7	National Park Service	Mesa Verde
+NEPE	Nez Perce NHP	National Historical Park	Pacific West	8	National Park Service	Nez Perce NHP
+DAAV	Dayton Aviation Heritage NHP	National Historical Park	Midwest	8	National Park Service	Dayton Aviation Heritage NHP
+TAPR	Tallgrass Prairie N PRES	National Preserve	Midwest	8	National Park Service	Tallgrass Prairie N PRES
+CARI	Cane River Creole NHP	National Historical Park	Southeast	8	National Park Service	Cane River Creole NHP
+NICO	Nicodemus NHS	National Historic Site	Midwest	8	National Park Service	Nicodemus NHS
+NAVA	Navajo NM	National Monument	Intermountain	8	National Park Service	Navajo NM
+ADAM	Adams NHP	National Historical Park	Northeast	9	National Park Service	Adams NHP
+BOST	Boston NHP	National Historical Park	Northeast	9	National Park Service	Boston NHP
+WICR	Wilson's Creek NB	National Battlefield	Midwest	8	National Park Service	Wilson's Creek NB
+FODA	Fort Davis NHS	National Historic Site	Intermountain	8	National Park Service	Fort Davis NHS
+PAAL	Palo Alto Battlefield NHP	National Historical Park	Intermountain	8	National Park Service	Palo Alto Battlefield NHP
+EUON	Eugene O'Neill NHS	National Historic Site	Pacific West	9	National Park Service	Eugene O'Neill NHS
+AZRU	Aztec Ruins NM	National Monument	Intermountain	8	National Park Service	Aztec Ruins NM
+CHCU	Chaco Culture NHP	National Historical Park	Intermountain	8	National Park Service	Chaco Culture NHP
+FLNI	Flight 93 N MEM	National Memorial	Northeast	8	National Park Service	Flight 93 N MEM
+SAMA	Salem Maritime NHS	National Historic Site	Northeast	9	National Park Service	Salem Maritime NHS
+SITK	Sitka NHP	National Historical Park	Alaska	8	National Park Service	Sitka NHP
+KLGO	Klondike Gold Rush NHP	National Historical Park	Alaska	8	National Park Service	Klondike Gold Rush NHP
+FOLA	Fort Laramie NHS	National Historic Site	Intermountain	8	National Park Service	Fort Laramie NHS
+MACA	Mammoth Cave NP	National Park	Southeast	7	National Park Service	Mammoth Cave
+BOAF	Boston African American NHS	National Historic Site	Northeast	9	National Park Service	Boston African American NHS
+EDAL	Edgar Allan Poe NHS	National Historic Site	Northeast	9	National Park Service	Edgar Allan Poe NHS
+COWP	Cowpens NB	National Battlefield	Southeast	8	National Park Service	Cowpens NB
+NATC	Natchez NHP	National Historical Park	Southeast	9	National Park Service	Natchez NHP
+WICL	President William Jefferson Clinton Birthplace Home NHS	National Historic Site	Midwest	8	National Park Service	President William Jefferson Clinton Birthplace Home NHS
+HOSP	Hot Springs NP	National Park	Midwest	8	National Park Service	Hot Springs
+HSTR	Harry S Truman NHS	National Historic Site	Midwest	8	National Park Service	Harry S Truman NHS
+SARI	Salt River Bay NHP & E PRES	National Historical Park and Ecological Preserve	Southeast	8	National Park Service	Salt River Bay NHP & E PRES
+TUAI	Tuskegee Airmen NHS	National Historic Site	Southeast	8	National Park Service	Tuskegee Airmen NHS
+PAGR	Paterson Great Falls NHP	National Historical Park	Northeast	9	National Park Service	Paterson Great Falls NHP
+EDIS	Thomas Edison NHP	National Historical Park	Northeast	9	National Park Service	Thomas Edison NHP
+CHIC	Chickasaw NRA	National Recreation Area	Intermountain	8	National Park Service	Chickasaw NRA
+GRPO	Grand Portage NM	National Monument	Midwest	8	National Park Service	Grand Portage NM
+MIMI	Minuteman Missile NHS	National Historic Site	Midwest	8	National Park Service	Minuteman Missile NHS
+FOUS	Fort Union Trading Post NHS	National Historic Site	Midwest	8	National Park Service	Fort Union Trading Post NHS
+DEPO	Devils Postpile NM	National Monument	Pacific West	8	National Park Service	Devils Postpile NM
+KALA	Kalaupapa NHP	National Historical Park	Pacific West	8	National Park Service	Kalaupapa NHP
+VALR	World War II Valor in the Pacific NM--Pearl Harbor Sites	National Monument	Pacific West	8	National Park Service	World War II Valor in the Pacific NM--Pearl Harbor Sites
+VALR	World War II Valor in the Pacific NM--Tule Lake Site	National Monument	Pacific West	9	National Park Service	World War II Valor in the Pacific NM--Tule Lake Site
+VALR	World War II Valor in the Pacific NM--Atka Site	National Monument	Pacific West	8	National Park Service	World War II Valor in the Pacific NM--Atka Site
+VALR	World War II Valor in the Pacific NM--Kiska Site	National Monument	Pacific West	8	National Park Service	World War II Valor in the Pacific NM--Kiska Site
+VALR	World War II Valor in the Pacific NM--Attu Site	National Monument	Pacific West	8	National Park Service	World War II Valor in the Pacific NM--Attu Site
+CABR	Cabrillo NM	National Monument	Pacific West	8	National Park Service	Cabrillo NM
+FOWA	Fort Washington Park	Park	National Capital	8	National Park Service	Fort Washington Park
+CLBA	Clara Barton NHS	National Historic Site	National Capital	9	National Park Service	Clara Barton NHS
+GWMP	George Washington MEM PKWY	Memorial Parkway	National Capital	9	National Park Service	George Washington MEM PKWY
+VAFO	Valley Forge NHP	National Historical Park	Northeast	7	National Park Service	Valley Forge NHP
+AFBG	African Burial Ground NM	National Monument	Northeast	9	National Park Service	African Burial Ground NM
+PUHO	Pu'uhonua o Honaunau NHP	National Historical Park	Pacific West	8	National Park Service	Pu'uhonua o Honaunau NHP
+PUHE	Pu'ukohola Heiau NHS	National Historic Site	Pacific West	8	National Park Service	Pu'ukohola Heiau NHS
+ULSG	Ulysses S. Grant NHS	National Historic Site	Midwest	8	National Park Service	Ulysses S. Grant NHS
+KAHO	Kaloko-Honokohau NHP	National Historical Park	Pacific West	8	National Park Service	Kaloko-Honokohau NHP
+ALFL	Alibates Flint Quarries NM	National Monument	Intermountain	9	National Park Service	Alibates Flint Quarries NM
+VICR	Virgin Islands Coral Reef NM	National Monument	Southeast	9	National Park Service	Virgin Islands Coral Reef NM
+CHAM	Chamizal N MEM	National Memorial	Intermountain	8	National Park Service	Chamizal N MEM
+HUTR	Hubbell Trading Post NHS	National Historic Site	Intermountain	8	National Park Service	Hubbell Trading Post NHS
+KEMO	Kennesaw Mountain NBP	National Battlefield Park	Southeast	8	National Park Service	Kennesaw Mountain NBP
+CAVE	Carlsbad Caverns NP	National Park	Intermountain	7	National Park Service	Carlsbad Caverns
+GWCA	George Washington Carver NM	National Monument	Midwest	8	National Park Service	George Washington Carver NM
+MORU	Mount Rushmore N MEM	National Memorial	Midwest	8	National Park Service	Mount Rushmore N MEM
+JODR	John D. Rockefeller, Jr. MEM PKWY	Memorial Parkway	Intermountain	9	National Park Service	John D. Rockefeller, Jr. MEM PKWY
+CUVA	Cuyahoga Valley National Park	National Park	Midwest	7	National Park Service	Cuyahoga Valley
+BRCA	Bryce Canyon NP	National Park	Intermountain	7	National Park Service	Bryce Canyon
+MANZ	Manzanar NHS	National Historic Site	Pacific West	8	National Park Service	Manzanar NHS
+PISC	Piscataway Park	Park	National Capital	9	National Park Service	Piscataway Park
+THST	Thomas Stone NHS	National Historic Site	Northeast	9	National Park Service	Thomas Stone NHS
+FOFR	Fort Frederica NM	National Monument	Southeast	8	National Park Service	Fort Frederica NM
+DRTO	Dry Tortugas NP	National Park	Southeast	7	National Park Service	Dry Tortugas
+JELA	Jean Lafitte NHP & PRES	National Historical Park and Preserve	Southeast	9	National Park Service	Jean Lafitte NHP & PRES
+JAZZ	New Orlean Jazz National Historical Park	National Historical Park	Southeast	9	National Park Service	New Orlean Jazz National Historical Park
+KNRI	Knife River Indian Villages NHS	National Historic Site	Midwest	8	National Park Service	Knife River Indian Villages NHS
+LABE	Lava Beds NM	National Monument	Pacific West	8	National Park Service	Lava Beds NM
+DESO	De Soto N MEM	National Memorial	Southeast	8	National Park Service	De Soto N MEM
+ABLI	Abraham Lincoln Birthplace NHP	National Historical Park	Southeast	8	National Park Service	Abraham Lincoln Birthplace NHP
+LIHO	Lincoln Home NHS	National Historic Site	Midwest	8	National Park Service	Lincoln Home NHS
+LIBO	Lincoln Boyhood N MEM	National Memorial	Midwest	8	National Park Service	Lincoln Boyhood N MEM
+MOCA	Montezuma Castle NM	National Monument	Intermountain	8	National Park Service	Montezuma Castle NM
+SAJU	San Juan NHS	National Historic Site	Southeast	8	National Park Service	San Juan NHS
+VIIS	Virgin Islands NP	National Park	Southeast	7	National Park Service	Virgin Islands
+COSW	Congaree NP	National Park	Southeast	7	National Park Service	Congaree
+WACA	Walnut Canyon NM	National Monument	Intermountain	8	National Park Service	Walnut Canyon NM
+KEWE	Keweenaw NHP	National Historical Park	Midwest	8	National Park Service	Keweenaw NHP
+JAGA	James A Garfield NHS	National Historic Site	Midwest	8	National Park Service	James A Garfield NHS
+HEHO	Herbert Hoover NHS	National Historic Site	Midwest	8	National Park Service	Herbert Hoover NHS
+FOUN	Fort Union NM	National Monument	Intermountain	8	National Park Service	Fort Union NM
+PIPE	Pipestone NM	National Monument	Midwest	8	National Park Service	Pipestone NM
+HOVE	Hovenweep NM	National Monument	Intermountain	8	National Park Service	Hovenweep NM
+THRO	Theodore Roosevelt NP--South Unit	National Park	Midwest	7	National Park Service	T. Roosevelt NP South
+THRO	Theodore Roosevelt NP--North Unit	National Park	Midwest	7	National Park Service	T. Roosevelt NP North
+EFMO	Effigy Mounds NM	National Monument	Midwest	8	National Park Service	Effigy Mounds NM
+FOBU	Fossil Butte NM	National Monument	Intermountain	8	National Park Service	Fossil Butte NM
+CACL	Castle Clinton NM	National Monument	Northeast	9	National Park Service	Castle Clinton NM
+FEHA	Federal Hall N MEM	National Memorial	Northeast	9	National Park Service	Federal Hall N MEM
+SAPA	Saint Paul's Church NHS	National Historic Site	Northeast	9	National Park Service	Saint Paul's Church NHS
+MIMA	Minute Man NHP	National Historical Park	Northeast	9	National Park Service	Minute Man NHP
+ANJO	Andrew Johnson NHS	National Historic Site	Southeast	8	National Park Service	Andrew Johnson NHS
+GOIS	Governors Island NM	National Monument	Northeast	9	National Park Service	Governors Island NM
+GEGR	General Grant N MEM	National Memorial	Northeast	9	National Park Service	General Grant N MEM
+HAGR	Hamilton Grange N MEM	National Memorial	Northeast	9	National Park Service	Hamilton Grange N MEM
+THRB	Theodore Roosevelt Birthplace NHS	National Historic Site	Northeast	9	National Park Service	Theodore Roosevelt Birthplace NHS
+ELMO	El Morro NM	National Monument	Intermountain	8	National Park Service	El Morro NM
+PISP	Pipe Spring NM	National Monument	Intermountain	8	National Park Service	Pipe Spring NM
+FILA	First Ladies NHS	National Historic Site	Midwest	9	National Park Service	First Ladies NHS
+FOSM	Fort Smith NHS	National Historic Site	Midwest	9	National Park Service	Fort Smith NHS
+CHSC	Little Rock Central High School NHS	National Historic Site	Midwest	9	National Park Service	Little Rock Central High School NHS
+BRVB	Brown v. Board of Education NHS	National Historic Site	Midwest	8	National Park Service	Brown v. Board of Education NHS
+CATO	Catoctin Mountain Park	Park	National Capital	8	National Park Service	Catoctin Mountain Park
+WAPA	War in the Pacific NHP	National Historical Park	Pacific West	8	National Park Service	War in the Pacific NHP
+FOTH	Ford's Theatre NHS	National Historic Site	National Capital	9	National Park Service	Ford's Theatre NHS
+FRDO	Frederick Douglass NHS	National Historic Site	National Capital	9	National Park Service	Frederick Douglass NHS
+MAMC	Mary McLeod Bethune Council House NHS	National Historic Site	National Capital	9	National Park Service	Mary McLeod Bethune Council House NHS
+WHIS	Whiskeytown NRA	National Recreation Area	Pacific West	8	National Park Service	Whiskeytown NRA
+ELRO	Eleanor Roosevelt NHS	National Historic Site	Northeast	9	National Park Service	Eleanor Roosevelt NHS
+HOFR	Home of Franklin D. Roosevelt NHS	National Historic Site	Northeast	8	National Park Service	Home of Franklin D. Roosevelt NHS
+SUCR	Sunset Crater Volcano NM	National Monument	Intermountain	9	National Park Service	Sunset Crater Volcano NM
+BOHA	Boston Harbor Islands NRA	National Recreation Area	Northeast	9	National Park Service	Boston Harbor Islands NRA
+HAFE	Harpers Ferry NHP	National Historical Park	National Capital	9	National Park Service	Harpers Ferry NHP
+LEWI	Lewis and Clark NHP	National Historical Park	Pacific West	8	National Park Service	Lewis and Clark NHP
+ARCH	Arches NP	National Park	Intermountain	7	National Park Service	Arches
+NACA	National Capital Parks	Park	National Capital	9	National Park Service	National Capital Parks
+CEBR	Cedar Breaks NM	National Monument	Intermountain	8	National Park Service	Cedar Breaks NM
+CHRI	Christiansted NHS	National Historic Site	Southeast	8	National Park Service	Christiansted NHS
+CAWO	Carter G. Woodson Home NHS	National Historic Site	National Capital	9	National Park Service	Carter G. Woodson Home NHS
+BUIS	Buck Island Reef NM	National Monument	Southeast	8	National Park Service	Buck Island Reef NM
+CHPI	Charles Pinckney NHS	National Historic Site	Southeast	8	National Park Service	Charles Pinckney NHS
+NISI	Ninety Six NHS	National Historic Site	Southeast	8	National Park Service	Ninety Six NHS
+WICA	Wind Cave NP	National Park	Midwest	7	National Park Service	Wind Cave
+TONT	Tonto NM	National Monument	Intermountain	8	National Park Service	Tonto NM
+APCO	Appomattox Court House NHP	National Historical Park	Northeast	8	National Park Service	Appomattox Court House NHP
+DETO	Devils Tower NM	National Monument	Intermountain	8	National Park Service	Devils Tower NM
+FLFO	Florissant Fossil Beds NM	National Monument	Intermountain	8	National Park Service	Florissant Fossil Beds NM
+CARL	Carl Sandburg Home NHS	National Historic Site	Southeast	8	National Park Service	Carl Sandburg Home NHS
+MALU	Martin Luther King, Jr. NHS	National Historic Site	Southeast	8	National Park Service	Martin Luther King, Jr. NHS
+FOSU	Fort Sumter NM	National Monument	Southeast	8	National Park Service	Fort Sumter NM
+BRCR	Brices Cross Roads NBS	National Battlefield Site	Southeast	8	National Park Service	Brices Cross Roads NBS
+TUPE	Tupelo NB	National Battlefield	Southeast	8	National Park Service	Tupelo NB
+GREE	Greenbelt Park	Park	National Capital	8	National Park Service	Greenbelt Park
+WUPA	Wupatki NM	National Monument	Intermountain	8	National Park Service	Wupatki NM
+CUGA	Cumberland Gap NHP	National Historical Park	Southeast	8	National Park Service	Cumberland Gap NHP
+JICA	Jimmy Carter NHS	National Historic Site	Southeast	8	National Park Service	Jimmy Carter NHS
+ARHO	Arlington House, The Robert E. Lee MEM	Memorial	National Capital	9	National Park Service	Arlington House, The Robert E. Lee MEM
+LYBA	Lyndon Baines Johnson Memorial Grove on the Potomac	Memorial	National Capital	9	National Park Service	Lyndon Baines Johnson Memorial Grove on the Potomac
+THIS	Theodore Roosevelt Island	Memorial	National Capital	9	National Park Service	Theodore Roosevelt Island
+TICA	Timpanogos Cave NM	National Monument	Intermountain	8	National Park Service	Timpanogos Cave NM
+CASA	Castillo de San Marcos NM	National Monument	Southeast	8	National Park Service	Castillo de San Marcos NM
+ANTI	Antietam NB	National Battlefield	National Capital	8	National Park Service	Antietam NB
+MONO	Monocacy NB	National Battlefield	National Capital	8	National Park Service	Monocacy NB
+GRKO	Grant-Kohrs Ranch NHS	National Historic Site	Intermountain	8	National Park Service	Grant-Kohrs Ranch NHS
+WOTR	Wolf Trap National Park for the Performing Arts	Park	National Capital	9	National Park Service	Wolf Trap National Park for the Performing Arts
+SCBL	Scotts Bluff NM	National Monument	Midwest	8	National Park Service	Scotts Bluff NM
+HOME	Homestead NM of America	National Monument	Midwest	8	National Park Service	Homestead NM of America
+WABA	Washita Battlefield NHS	National Historic Site	Intermountain	8	National Park Service	Washita Battlefield NHS
+YUHO	Yucca House NM	National Monument	Intermountain	9	National Park Service	Yucca House NM
+WHMI	Whitman Mission NHS	National Historic Site	Pacific West	8	National Park Service	Whitman Mission NHS
+TUZI	Tuzigoot NM	National Monument	Intermountain	8	National Park Service	Tuzigoot NM
+TUMA	Tumacacori NHP	National Historical Park	Intermountain	8	National Park Service	Tumacacori NHP
+SAND	Sand Creek Massacre NHS	National Historic Site	Intermountain	8	National Park Service	Sand Creek Massacre NHS
+MANA	Manassas NBP	National Battlefield Park	National Capital	8	National Park Service	Manassas NBP
+GOGA	Golden Gate NRA	National Recreation Area	Pacific West	9	National Park Service	Golden Gate NRA
+GICL	Gila Cliff Dwellings NM	National Monument	Intermountain	8	National Park Service	Gila Cliff Dwellings NM
+FOBO	Fort Bowie NHS	National Historic Site	Intermountain	8	National Park Service	Fort Bowie NHS
+CHIR	Chiricahua NM	National Monument	Intermountain	8	National Park Service	Chiricahua NM
+CAVO	Capulin Volcano	National Monument	Intermountain	8	National Park Service	Capulin Volcano
+LIBI	Little Bighorn Battlefield NM	National Monument	Intermountain	8	National Park Service	Little Bighorn Battlefield NM
+CEBE	Cedar Creek and Belle Grove NHP	National Historical Park	Northeast	9	National Park Service	Cedar Creek and Belle Grove NHP
+BLCA	Black Canyon of the Gunnison NP	National Park	Intermountain	7	National Park Service	Black Canyon of the Gunnison
+WRBR	Wright Brothers N MEM	National Memorial	Southeast	8	National Park Service	Wright Brothers N MEM
+WORI	Women's Rights NHP	National Historical Park	Northeast	8	National Park Service	Women's Rights NHP
+WIHO	William Howard Taft NHS	National Historic Site	Midwest	9	National Park Service	William Howard Taft NHS
+WHHO	White House	Park	National Capital	8	National Park Service	White House
+WEFA	Weir Farm NHS	National Historic Site	Northeast	9	National Park Service	Weir Farm NHS
+WASH	Washinton Monument	Memorial	National Capital	9	National Park Service	Washinton Monument
+NAMA	National Mall	Park	National Capital	8	National Park Service	National Mall
+KOWA	Korean War Veterans MEM	Memorial	National Capital	9	National Park Service	Korean War Veterans MEM
+FRDE	Franklin Delano Roosevelt MEM	Memorial	National Capital	9	National Park Service	Franklin Delano Roosevelt MEM
+LINC	Lincoln MEM	Memorial	National Capital	9	National Park Service	Lincoln MEM
+THJE	Thomas Jefferson MEM	Memorial	National Capital	9	National Park Service	Thomas Jefferson MEM
+WWII	World War II MEM	Memorial	National Capital	9	National Park Service	World War II MEM
+VIVE	Vietnam Veterans MEM	Memorial	National Capital	9	National Park Service	Vietnam Veterans MEM
+COGA	Constitution Gardens	Park	National Capital	9	National Park Service	Constitution Gardens
+VICK	Vicksburg NMP	National Military Park	Southeast	8	National Park Service	Vicksburg NMP
+VAMA	Vanderbilt Mansion NHS	National Historic Site	Northeast	9	National Park Service	Vanderbilt Mansion NHS
+TUIN	Tuskegee Institute NHS	National Historic Site	Southeast	9	National Park Service	Tuskegee Institute NHS
+TIMU	Timucuan EHP	Ecological and Historic Preserve	Southeast	8	National Park Service	Timucuan EHP
+THRI	Theodore Roosevelt Inaugural NHS	National Historic Site	Northeast	9	National Park Service	Theodore Roosevelt Inaugural NHS
+THKO	Thaddeus Kosciuszko N MEM	National Memorial	Northeast	9	National Park Service	Thaddeus Kosciuszko N MEM
+STRI	Stones River NB	National Battlefield	Southeast	8	National Park Service	Stones River NB
+STEA	Steamtown NHS	National Historic Site	Northeast	9	National Park Service	Steamtown NHS
+STLI	Statue of Liberty NM	National Monument	Northeast	8	National Park Service	Statue of Liberty NM
+SPAR	Springfield Armory NHS	National Historic Site	Northeast	9	National Park Service	Springfield Armory NHS
+SHIL	Shiloh NMP	National Military Park	Southeast	7	National Park Service	Shiloh NMP
+SAIR	Saugus Iron Works NHS	National Historic Site	Northeast	9	National Park Service	Saugus Iron Works NHS
+SARA	Saratoga NHP	National Historical Park	Northeast	8	National Park Service	Saratoga NHP
+SAJH	San Juan Island NHP	National Historical Park	Pacific West	8	National Park Service	San Juan Island NHP
+SAFR	San Francisco Maritime NHP	National Historical Park	Pacific West	9	National Park Service	San Francisco Maritime NHP
+SAAN	San Antonio Missions NHP	National Historical Park	Intermountain	8	National Park Service	San Antonio Missions NHP
+SAPU	Salinas Pueblo Missions v	National Monument	Intermountain	8	National Park Service	Salinas Pueblo Missions v
+SAGA	Saint-Gaudens NHS	National Historic Site	Northeast	9	National Park Service	Saint-Gaudens NHS
+SACR	Saint Croix Island IHS	International Historic Site	Northeast	8	National Park Service	Saint Croix Island IHS
+SAGU	Saguaro NP East--Rincon Mountain District	National Park	Intermountain	7	National Park Service	Saguaro NP East
+SAGU	Saguaro NP West--Tuscon Mountain District	National Park	Intermountain	9	National Park Service	Saguaro NP West
+SAHI	Sagamore Hill NHS	National Historic Site	Northeast	9	National Park Service	Sagamore Hill NHS
+RUCA	Russell Cave NM	National Monument	Southeast	8	National Park Service	Russell Cave NM
+RORI	Rosie the Riveter/World War II Home Front NHP	National Historical Park	Pacific West	9	National Park Service	Rosie the Riveter/World War II Home Front NHP
+ROWI	Roger Williams N MEM	National Memorial	Northeast	9	National Park Service	Roger Williams N MEM
+ROCR	Rock Creek Park	Park	National Capital	8	National Park Service	Rock Creek Park
+RICH	Richmond NBP	National Battlefield Park	Northeast	8	National Park Service	Richmond NBP
+RABR	Rainbow Bridge NM	National Monument	Intermountain	8	National Park Service	Rainbow Bridge NM
+PRWI	Prince William Forest Park	Park	National Capital	8	National Park Service	Prince William Forest Park
+POPO	Poverty Point NM	National Monument	Southeast	8	National Park Service	Poverty Point NM
+PINN	Pinnacles NP	National Park	Pacific West	7	National Park Service	Pinnacles NP
+PETR	Petroglyph NM	National Monument	Intermountain	8	National Park Service	Petroglyph NM
+PETE	Petersburg NB	National Battlefield	Northeast	8	National Park Service	Petersburg NB
+RIRA	River Raisin NBP	National Battlefield Park	Midwest	8	National Park Service	River Raisin NBP
+PEVI	Perry's Victory and International Peace MEM	Memorial	Midwest	9	National Park Service	Perry's Victory and International Peace MEM
+PAAV	Pennsylvania Avenue NHS	National Historic Site	National Capital	9	National Park Service	Pennsylvania Avenue NHS
+PECO	Pecos NHP	National Historical Park	Intermountain	8	National Park Service	Pecos NHP
+PERI	Pea Ridge NMP	National Military Park	Midwest	8	National Park Service	Pea Ridge NMP
+ORCA	Oregon Caves NM	National Monument	Pacific West	8	National Park Service	Oregon Caves NM
+OCMU	Ocmulgee NM	National Monument	Southeast	8	National Park Service	Ocmulgee NM
+NEBE	New Bedford Whaling NHP	National Historical Park	Northeast	9	National Park Service	New Bedford Whaling NHP
+NABR	Natural Bridges NM	National Monument	Intermountain	8	National Park Service	Natural Bridges NM
+NPSA	National Park of American Samoa--Tutuila Unit	National Park	Pacific West	7	National Park Service	NP of Amer. Samoa--Tutuila
+NPSA	National Park of American Samoa--Ofu Unit	National Park	Pacific West	9	National Park Service	NP of Amer. Samoa--Ofu
+NPSA	National Park of American Samoa--Ta'? Unit	National Park	Pacific West	9	National Park Service	NP of Amer. Samoa--Ta'?
+MUWO	Muir Woods NM	National Monument	Pacific West	8	National Park Service	Muir Woods NM
+MORR	Morristown NHP	National Historical Park	Northeast	9	National Park Service	Morristown NHP
+MOCR	Moores Creek NB	National Battlefield	Southeast	8	National Park Service	Moores Creek NB
+MIIN	Minidoka NHS	National Historic Site	Pacific West	8	National Park Service	Minidoka NHS
+MAVA	Martin Van Buren NHS	National Historic Site	Northeast	8	National Park Service	Martin Van Buren NHS
+MABI	Marsh-Billings-Rockefeller NHP	National Historical Park	Northeast	9	National Park Service	Marsh-Billings-Rockefeller NHP
+MALW	Maggie L. Walker NHS	National Historic Site	Northeast	9	National Park Service	Maggie L. Walker NHS
+LYJO	Lyndon B. Johnson NHP	National Historical Park	Intermountain	8	National Park Service	Lyndon B. Johnson NHP
+LOWE	Lowell NHP	National Historical Park	Northeast	9	National Park Service	Lowell NHP
+LONG	Longfellow NHS	National Historic Site	Northeast	9	National Park Service	Longfellow NHS
+LIRI	Little River Canyon N PRES	National Preserve	Southeast	8	National Park Service	Little River Canyon N PRES
+LAMR	Lake Meredith NRA	National Recreation Area	Intermountain	8	National Park Service	Lake Meredith NRA
+KIMO	Kings Mountain NMP	National Military Park	Southeast	8	National Park Service	Kings Mountain NMP
+JOFL	Johnstown Flood N MEM	National Memorial	Northeast	9	National Park Service	Johnstown Flood N MEM
+JOMU	John Muir NHS	National Historic Site	Pacific West	8	National Park Service	John Muir NHS
+JOFI	John Fitzgerald Kennedy NHS	National Historic Site	Northeast	9	National Park Service	John Fitzgerald Kennedy NHS
+JODA	John Day Fossil Beds NM--Sheeprock Unit	National Monument	Pacific West	9	National Park Service	John Day Fossil Beds NM--Sheeprock Unit
+JODA	John Day Fossil Beds NM--Clarno Unit	National Monument	Pacific West	9	National Park Service	John Day Fossil Beds NM--Clarno Unit
+JODA	John Day Fossil Beds NM--Painted Hills Unit	National Monument	Pacific West	8	National Park Service	John Day Fossil Beds NM--Painted Hills Unit
+JECA	Jewel Cave NM	National Monument	Midwest	9	National Park Service	Jewel Cave NM
+JEFF	Jefferson National Expansion MEM	Memorial	Midwest	9	National Park Service	Jefferson National Expansion MEM
+INDE	Independence NHP	National Historical Park	Northeast	8	National Park Service	Independence NHP
+HOBE	Horseshoe Bend NMP	National Military Park	Southeast	8	National Park Service	Horseshoe Bend NMP
+HOFU	Hopewell Furnace NHS	National Historic Site	Northeast	9	National Park Service	Hopewell Furnace NHS
+HOCU	Hopewell Culture NHP	National Historical Park	Midwest	8	National Park Service	Hopewell Culture NHP
+PIMA	Hohokam Pima NM	National Monument	Intermountain	8	National Park Service	Hohokam Pima NM
+HAMP	Hampton NHS	National Historic Site	Northeast	9	National Park Service	Hampton NHS
+HALE	Haleakala NP	National Park	Pacific West	7	National Park Service	Haleakala
+HAFO	Hagerman Fossil Beds NM	National Monument	Pacific West	8	National Park Service	Hagerman Fossil Beds NM
+GUCO	Guilford Courthouse NMP	National Military Park	Southeast	8	National Park Service	Guilford Courthouse NMP
+GUMO	Guadalupe Mountains NP	National Park	Intermountain	7	National Park Service	Guadalupe Mountains
+GOSP	Golden Spike NHS	National Historic Site	Intermountain	8	National Park Service	Golden Spike NHS
+GETT	Gettysburg NMP	National Military Park	Northeast	7	National Park Service	Gettysburg NMP
+GEWA	George Washington Birthplace NM	National Monument	Northeast	8	National Park Service	George Washington Birthplace NM
+GERO	George Rogers Clark NHP	National Historical Park	Midwest	8	National Park Service	George Rogers Clark NHP
+GATE	Gateway NRA	National Recreation Area	Northeast	9	National Park Service	Gateway NRA
+FRHI	Friendship Hill NHS	National Historic Site	Northeast	9	National Park Service	Friendship Hill NHS
+FRSP	Fredericksburg and Spotsylvania County Battlefields Memorial NMP	National Military Park	Northeast	9	National Park Service	Fredericksburg and Spotsylvania County Battlefields Memorial NMP
+FRLA	Frederick Law Olmsted NHS	National Historic Site	Northeast	9	National Park Service	Frederick Law Olmsted NHS
+FOVA	Fort Vancouver NHS	National Historic Site	Pacific West	9	National Park Service	Fort Vancouver NHS
+FOST	Fort Stanwix NM	National Monument	Northeast	8	National Park Service	Fort Stanwix NM
+FOSC	Fort Scott NHS	National Historic Site	Midwest	8	National Park Service	Fort Scott NHS
+FORA	Fort Raleigh NHS	National Historic Site	Southeast	9	National Park Service	Fort Raleigh NHS
+FOPU	Fort Pulaski NM	National Monument	Southeast	8	National Park Service	Fort Pulaski NM
+FOPO	Fort Point NHS	National Historic Site	Pacific West	9	National Park Service	Fort Point NHS
+FONE	Fort Necessity NB	National Battlefield	Northeast	8	National Park Service	Fort Necessity NB
+FOMC	Fort McHenry NM & Historic Shrine	National Monument and Historic Shrine	Northeast	9	National Park Service	Fort McHenry NM & Historic Shrine
+FOMA	Fort Matanzas NM	National Monument	Southeast	8	National Park Service	Fort Matanzas NM
+FOLS	Fort Larned NHS	National Historic Site	Midwest	8	National Park Service	Fort Larned NHS
+FODO	Fort Donelson NB	National Battlefield	Southeast	8	National Park Service	Fort Donelson NB
+FOCA	Fort Caroline N MEM	National Memorial	Southeast	9	National Park Service	Fort Caroline N MEM
+EISE	Eisenhower NHS	National Historic Site	Northeast	9	National Park Service	Eisenhower NHS
+EBLA	Ebey's Landing NH RES	National Historical Reserve	Pacific West	9	National Park Service	Ebey's Landing NH RES
+KLSE	Klondike Gold Rush NHP--Seattle Unit	National Historical Park	Pacific West	9	National Park Service	Klondike Gold Rush NHP--Seattle Unit
+DEWA	Delaware Water Gap NRA	National Recreation Area	Northeast	8	National Park Service	Delaware Water Gap NRA
+CURE	Curecanti NRA	National Recreation Area	Intermountain	9	National Park Service	Curecanti NRA
+CUIS	Cumberland Island NS	National Seashore	Southeast	8	National Park Service	Cumberland Island NS
+CORO	Coronado N MEM	National Memorial	Intermountain	8	National Park Service	Coronado N MEM
+COLM	Colorado NM	National Monument	Intermountain	8	National Park Service	Colorado NM
+FOMR	Fort Monroe NM	National Monument	Northeast	8	National Park Service	Fort Monroe NM
+COLO	Colonial NHP	National Historical Park	Northeast	8	National Park Service	Colonial NHP
+CIRO	City of Rocks N RES	National Reserve	Pacific West	8	National Park Service	City of Rocks N RES
+CHCH	Chickamauga and Chattanooga NMP	National Military Park	Southeast	8	National Park Service	Chickamauga and Chattanooga NMP
+CHCH	Chickamauga and Chattanooga NMP	National Military Park	Southeast	9	National Park Service	Chickamauga and Chattanooga NMP
+CAGR	Casa Grande Ruins NM	National Monument	Intermountain	8	National Park Service	Casa Grande Ruins NM
+CACH	Canyon de Chelly NM	National Monument	Intermountain	8	National Park Service	Canyon de Chelly NM
+BOWA	Booker T. Washington NM	National Monument	Northeast	8	National Park Service	Booker T. Washington NM
+BISC	Biscayne NP	National Park	Southeast	7	National Park Service	Biscayne
+BITH	Big Thicket N PRES--Turkey Creek Unit	National Preserve	Intermountain	8	National Park Service	Big Thicket N PRES--Turkey Creek Unit
+BITH	Big Thicket N PRES--Birch Creek Unit	National Preserve	Intermountain	9	National Park Service	Big Thicket N PRES--Birch Creek Unit
+BITH	Big Thicket N PRES--Neches Bottom and Jack Gore Baygall Unit	National Preserve	Intermountain	9	National Park Service	Big Thicket N PRES--Neches Bottom and Jack Gore Baygall Unit
+BITH	Big Thicket N PRES - Beaumont Unit	National Preserve	Intermountain	9	National Park Service	Big Thicket N PRES - Beaumont Unit
+BITH	Big Thicket N PRES--Big Sandy Creek Unit	National Preserve	Intermountain	9	National Park Service	Big Thicket N PRES--Big Sandy Creek Unit
+BITH	Big Thicket N PRES--Lance Rosier Unit	National Preserve	Intermountain	9	National Park Service	Big Thicket N PRES--Lance Rosier Unit
+BIHO	Big Hole NB	National Battlefield	Pacific West	8	National Park Service	Big Hole NB
+BEOL	Bent's Old Fort NHS	National Historic Site	Intermountain	8	National Park Service	Bent's Old Fort NHS
+ARPO	Arkansas Post N MEM	National Memorial	Midwest	8	National Park Service	Arkansas Post N MEM
+APIS	Apostle Islands NL	National Lakeshore	Midwest	8	National Park Service	Apostle Islands NL
+ANDE	Andersonville NHS	National Historic Site	Southeast	8	National Park Service	Andersonville NHS
+AMIS	Amistad NRA	National Recreation Area	Intermountain	8	National Park Service	Amistad NRA
+ALPO	Allegheny Portage Railroad NHS	National Historic Site	Northeast	8	National Park Service	Allegheny Portage Railroad NHS
+AGFO	Agate Fossil Beds NM	National Monument	Midwest	8	National Park Service	Agate Fossil Beds NM
+ACAD	Acadia NP	National Park	Northeast	7	National Park Service	Acadia
+BAND	Bandelier NM	National Monument	Intermountain	8	National Park Service	Bandelier NM
+GREG	Great Egg Harbor SRR	Scenic and Recreational River	Northeast	8	National Park Service	Great Egg Harbor SRR
+POHE	Potomac Heritage NST	National Scenic Trail	National Capital	9	National Park Service	Potomac Heritage NST
+NATR	Natchez Trace Parkway NST	National Scenic Trail	Southeast	8	National Park Service	Natchez Trace Parkway NST
+CECH	César E. Chávez NM	National Monument	Pacific West	8	National Park Service	César E. Chávez NM

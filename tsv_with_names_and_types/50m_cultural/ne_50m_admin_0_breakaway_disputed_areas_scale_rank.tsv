@@ -1,0 +1,27 @@
+scalerank	featurecla	name	min_zoom	sr_brk_a3
+N	C	C	N	C
+0	Admin-0 claim area	Arunachal Pradesh	2.0	B00
+0	Admin-0 claim area	Tirpani Valleys	2.0	B01
+0	Admin-0 claim area	Bara Hotii Valleys	2.0	B02
+0	Admin-0 claim area	Demchok	2.0	B03
+0	Admin-0 claim area	Samdu Valleys	2.0	B04
+0	Admin-0 claim area	Jammu and Kashmir	2.0	B05
+0	Admin-0 claim area	Shaksam Valley	2.0	B06
+0	Admin-0 claim area	Aksai Chin	2.0	B07
+0	Admin-0 claim area	Northern Areas	2.0	B08
+0	Admin-0 claim area	Abyei	2.0	B13
+0	Admin-0 claim area	Lawa Headwaters	2.0	B14
+0	Admin-0 claim area	Courantyne Headwaters	2.0	B15
+0	Admin-0 claim area	Golan Heights	2.0	B16
+0	Admin-0 claim area	Ilemi Triangle	2.0	B17
+0	Admin-0 claim area	W. Sahara	2.0	B19
+1	Admin-0 claim area	N. Cyprus	5.0	B20
+3	Admin-0 claim area	Kuril Is.	5.6	B29
+0	Admin-0 claim area	Somaliland	2.0	B30
+0	Admin-0 breakaway and disputed	Abkhazia	2.0	B35
+0	Admin-0 breakaway and disputed	Transnistria	2.0	B36
+0	Admin-0 breakaway and disputed	South Ossetia	2.0	B37
+0	Admin-0 breakaway and disputed	Nagorno-Karabakh	2.0	B38
+0	Admin-0 indeterminant	Siachen Glacier	2.0	B45
+1	Admin-0 breakaway and disputed	Crimea	2.0	B89
+0	Admin-0 breakaway and disputed	Donbass	2.0	B90

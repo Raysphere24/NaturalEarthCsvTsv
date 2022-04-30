@@ -1,0 +1,464 @@
+featurecla	name	comment	adm0_usa	adm0_left	adm0_right	adm0_a3_l	adm0_a3_r	sov_a3_l	sov_a3_r	type	labelrank	scalerank	min_zoom	min_label	note	adm0_abr_l	adm0_abr_r
+C	C	C	N	C	C	C	C	C	C	C	N	N	N	N	C	C	C
+Indefinite (please verify)			1	Canada	United States of America	CAN	USA	Wat	US1	Water Indicator	2	1	2.0	7.6		Can.	U.S.A.
+International boundary (verify)			1	Sweden	Norway	SWE	NOR	SWE	NOR	Water Indicator	2	1	0.0	7.6		Swe.	Nor.
+International boundary (verify)			1	Denmark	Germany	DNK	DEU	DN1	DEU	Water Indicator	5	1	0.0	8.0		Den.	Ger.
+International boundary (verify)			1	Singapore	Malaysia	SGP	MYS	SGP	MYS	Water Indicator	3	1	0.0	9.0		Sing.	Malay.
+International boundary (verify)			1	Uruguay	Argentina	URY	ARG	URY	ARG	Water Indicator	2	1	0.0	8.0		Ury.	Arg.
+International boundary (verify)			1	Finland	Sweden	FIN	SWE	FI1	SWE	Water Indicator	2	1	0.0	8.0		Fin.	Swe.
+International boundary (verify)			1	Germany	Poland	DEU	POL	DEU	POL	Water Indicator	2	1	0.0	7.6		Ger.	Pol.
+International boundary (verify)			1	Iraq	Iran	IRQ	IRN	IRQ	IRN	Water Indicator	2	1	6.0	7.7		Iraq	Iran
+International boundary (verify)			1	Bangladesh	India	BGD	IND	BGD	IND	Water Indicator	2	1	0.0	8.0		Bang.	India
+International boundary (verify)			1	Mexico	Belize	MEX	BLZ	MEX	BLZ	Water Indicator	2	1	0.0	10.0		Mex.	Belize
+International boundary (verify)			1	Argentina	Chile	ARG	CHL	ARG	CHL	Water Indicator	2	1	0.0	7.6		Arg.	Chile
+International boundary (verify)			1	India	Pakistan	IND	PAK	IND	PAK	Water Indicator	2	1	6.0	7.6		India	Pak.
+International boundary (verify)			1	Canada	United States of America	CAN	USA	CAN	US1	Water Indicator	2	1	0.0	7.6		Can.	U.S.A.
+International boundary (verify)			1	Macau	China	MAC	CHN	CH1	CH1	Water Indicator	5	1	6.0	9.0		Mac.	China
+International boundary (verify)			1	Canada	United States of America	CAN	USA	CAN	US1	Water Indicator	2	1	2.0	7.6		Can.	U.S.A.
+International boundary (verify)			1	Lithuania	Russia	LTU	RUS	LTU	RUS	Water Indicator	5	1	0.0	9.0		Lith.	Rus.
+International boundary (verify)			1	Angola	Democratic Republic of the Congo	AGO	COD	AGO	COD	Water Indicator	2	1	0.0	7.6		Ang.	D.R.C.
+International boundary (verify)			1	Cameroon	Nigeria	CMR	NGA	CMR	NGA	Water Indicator	2	1	0.0	8.0		Cam.	Nigeria
+International boundary (verify)			1	Malaysia	Indonesia	MYS	IDN	MYS	IDN	Water Indicator	2	1	6.0	8.0		Malay.	Indo.
+Disputed (please verify)			0	Bolivia	Chile	BOL	CHL	BOL	CHL	Land	2	1	0.0	7.7		Bolivia	Chile
+International boundary (verify)			1	Chile	Peru	CHL	PER	CHL	PER	Land	2	1	0.0	7.6		Chile	Peru
+International boundary (verify)			1	Chile	Argentina	CHL	ARG	CHL	ARG	Land	2	1	0.0	7.6		Chile	Arg.
+International boundary (verify)			1	Cyprus	Dhekelia Sovereign Base Area	CYP	ESB	CYP	GB1	Land	2	3	6.0	11.0		Cyp.	Dhek.
+International boundary (verify)			1	Dhekelia Sovereign Base Area	Cyprus	ESB	CYP	GB1	CYP	Land	3	3	6.0	11.0		Dhek.	Cyp.
+Disputed (please verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	Palestine	Israel	PSX	ISR	ISR	ISR	Land	5	1	0.0	9.5		Pal.	Isr.
+Disputed (please verify)			1	Palestine	Israel	PSX	ISR	ISR	ISR	Land	5	1	0.0	9.5		Pal.	Isr.
+Indefinite (please verify)			1	Lebanon	Israel	LBN	ISR	LBN	ISR	Land	5	1	0.0	9.0		Leb.	Isr.
+Disputed (please verify)			1	South Sudan	Ethiopia	SDS	ETH	SDS	ETH	Land	2	1	0.0	8.0		S. Sud.	Eth.
+Indefinite (please verify)			1	Somalia	Ethiopia	SOM	ETH	SOM	ETH	Land	2	1	0.0	9.0		Som.	Eth.
+Disputed (please verify)			1	South Sudan	Kenya	SDS	KEN	SDS	KEN	Land	2	1	0.0	8.0		S. Sud.	Ken.
+Line of control (please verify)	Line of control		1	India	Pakistan	IND	PAK	IND	PAK	Land	2	1	0.0	7.6		India	Pak.
+Disputed (please verify)			1	United Republic of Tanzania	Malawi	TZA	MWI	TZA	MWI	Land	2	1	0.0	9.0		Tanz.	Mal.
+Disputed (please verify)			0	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Line of control (please verify)	Ceasefire Lines 1974		1	Syria	Israel	SYR	ISR	SYR	ISR	Land	2	1	0.0	8.0		Syria	Isr.
+Disputed (please verify)			-1	Somaliland	Somalia	SOL	SOM	SOL	SOM	Land	5	1	0.0	9.0		Solnd.	Som.
+Disputed (please verify)			0	Suriname	France	SUR	FRA	SUR	FR1	Land	2	1	0.0	9.0		Sur.	Fr.
+Disputed (please verify)			0	Guyana	Suriname	GUY	SUR	GUY	SUR	Land	2	1	0.0	9.0		Guy.	Sur.
+Line of control (please verify)	Military Demarcation Line 1953		1	North Korea	South Korea	PRK	KOR	PRK	KOR	Land	2	1	0.0	8.0		N.K.	S.K.
+Line of control (please verify)			-1	Western Sahara	Morocco	SAH	MAR	SAH	MAR	Land	5	1	0.0	11.0		W. Sah.	Mor.
+Indefinite (please verify)			1	Nicaragua	Costa Rica	NIC	CRI	NIC	CRI	Land	2	1	0.0	9.0		Nic.	C.R.
+International boundary (verify)			1	Democratic Republic of the Congo	Republic of the Congo	COD	COG	COD	COG	Land	2	1	0.0	9.0		D.R.C.	Rep. Congo
+International boundary (verify)			1	Bhutan	China	BTN	CHN	BTN	CH1	Land	2	1	0.0	9.0		Bhutan	China
+International boundary (verify)			1	Belarus	Ukraine	BLR	UKR	BLR	UKR	Land	2	1	0.0	8.0		Bela.	Ukr.
+International boundary (verify)			1	South Africa	Namibia	ZAF	NAM	ZAF	NAM	Land	2	1	0.0	7.7		S.Af.	Nam.
+Indefinite (please verify)			1	Israel	Lebanon	ISR	LBN	ISR	LBN	Land	2	1	0.0	9.0		Isr.	Leb.
+Indefinite (please verify)			1	Syria	Lebanon	SYR	LBN	SYR	LBN	Land	2	1	0.0	9.0		Syria	Leb.
+Indefinite (please verify)			1	Syria	Lebanon	SYR	LBN	SYR	LBN	Land	2	1	0.0	9.0		Syria	Leb.
+International boundary (verify)			1	Sint Maarten	Saint Martin	SXM	MAF	NL1	FR1	Land	8	1	6.0	10.0		St. M.	St. M.
+International boundary (verify)			1	Oman	United Arab Emirates	OMN	ARE	OMN	ARE	Land	2	1	0.0	9.0		Oman	U.A.E.
+International boundary (verify)			1	Mozambique	Malawi	MOZ	MWI	MOZ	MWI	Land	2	1	0.0	9.0		Moz.	Mal.
+International boundary (verify)			1	Mozambique	Malawi	MOZ	MWI	MOZ	MWI	Land	2	1	0.0	9.0		Moz.	Mal.
+International boundary (verify)			1	Uzbekistan	Kyrgyzstan	UZB	KGZ	UZB	KGZ	Land	2	1	2.0	8.0		Uzb.	Kgz.
+International boundary (verify)			1	Kazakhstan	China	KAZ	CHN	KAZ	CH1	Land	2	1	0.0	7.6		Kaz.	China
+International boundary (verify)			1	Tajikistan	Uzbekistan	TJK	UZB	TJK	UZB	Land	2	1	2.0	9.0		Tjk.	Uzb.
+International boundary (verify)			1	Lithuania	Belarus	LTU	BLR	LTU	BLR	Land	5	1	0.0	9.0		Lith.	Bela.
+International boundary (verify)			1	Uruguay	Brazil	URY	BRA	URY	BRA	Land	2	1	0.0	8.0		Ury.	Brazil
+International boundary (verify)			1	China	Mongolia	CHN	MNG	CH1	MNG	Land	2	1	0.0	7.6		China	Mong.
+International boundary (verify)			1	Russia	China	RUS	CHN	RUS	CH1	Land	2	1	0.0	7.6		Rus.	China
+International boundary (verify)			1	Germany	Czech Republic	DEU	CZE	DEU	CZE	Land	2	1	0.0	9.0		Ger.	Cz.
+International boundary (verify)			1	Latvia	Estonia	LVA	EST	LVA	EST	Land	2	1	0.0	9.0		Lat.	Est.
+International boundary (verify)			1	Russia	Latvia	RUS	LVA	RUS	LVA	Land	2	1	0.0	9.0		Rus.	Lat.
+International boundary (verify)			1	Latvia	Lithuania	LVA	LTU	LVA	LTU	Land	2	1	0.0	9.0		Lat.	Lith.
+International boundary (verify)			1	Sweden	Norway	SWE	NOR	SWE	NOR	Land	2	1	0.0	7.6		Swe.	Nor.
+International boundary (verify)			1	Norway	Finland	NOR	FIN	NOR	FI1	Land	2	1	0.0	8.0		Nor.	Fin.
+International boundary (verify)			1	Cambodia	Vietnam	KHM	VNM	KHM	VNM	Land	2	1	0.0	8.0		Camb.	Viet.
+Disputed (please verify)			0	Bolivia	Peru	BOL	PER	BOL	PER	Land	2	1	0.0	7.7		Bolivia	Peru
+International boundary (verify)			1	Luxembourg	Germany	LUX	DEU	LUX	DEU	Land	5	1	0.0	10.0		Lux.	Ger.
+International boundary (verify)			1	Oman	United Arab Emirates	OMN	ARE	OMN	ARE	Land	2	1	0.0	9.0		Oman	U.A.E.
+International boundary (verify)			1	Belgium	France	BEL	FRA	BEL	FR1	Land	2	1	0.0	9.0		Belg.	Fr.
+International boundary (verify)			1	Luxembourg	Belgium	LUX	BEL	LUX	BEL	Land	5	1	0.0	10.0		Lux.	Belg.
+International boundary (verify)			1	Georgia	Russia	GEO	RUS	GEO	RUS	Land	2	1	0.0	9.0		Geo.	Rus.
+International boundary (verify)			1	Albania	Macedonia	ALB	MKD	ALB	MKD	Land	5	1	0.0	10.0		Alb.	Mkd.
+International boundary (verify)			1	Armenia	Azerbaijan	ARM	AZE	ARM	AZE	Land	2	1	0.0	10.0		Arm.	Aze.
+International boundary (verify)			1	Albania	Kosovo	ALB	KOS	ALB	KOS	Land	5	1	0.0	10.0		Alb.	Kos.
+International boundary (verify)			1	Georgia	Turkey	GEO	TUR	GEO	TUR	Land	2	1	0.0	9.0		Geo.	Tur.
+International boundary (verify)			1	France	Germany	FRA	DEU	FR1	DEU	Land	2	1	0.0	6.7		Fr.	Ger.
+International boundary (verify)			1	France	Luxembourg	FRA	LUX	FR1	LUX	Land	2	1	0.0	10.0		Fr.	Lux.
+International boundary (verify)			1	Morocco	Spain	MAR	ESP	MAR	ESP	Land	2	1	4.0	8.0		Mor.	Sp.
+International boundary (verify)			1	China	Laos	CHN	LAO	CH1	LAO	Land	2	1	0.0	9.0		China	Laos
+International boundary (verify)			1	Kyrgyzstan	China	KGZ	CHN	KGZ	CH1	Land	2	1	0.0	8.0		Kgz.	China
+International boundary (verify)			1	Georgia	Armenia	GEO	ARM	GEO	ARM	Land	2	1	0.0	10.0		Geo.	Arm.
+International boundary (verify)			1	Kyrgyzstan	Kazakhstan	KGZ	KAZ	KGZ	KAZ	Land	2	1	0.0	8.0		Kgz.	Kaz.
+International boundary (verify)			1	Brazil	Guyana	BRA	GUY	BRA	GUY	Land	2	1	0.0	9.0		Brazil	Guy.
+International boundary (verify)			1	Denmark	Germany	DNK	DEU	DN1	DEU	Land	5	1	0.0	8.0		Den.	Ger.
+International boundary (verify)			1	Brazil	Peru	BRA	PER	BRA	PER	Land	2	1	0.0	7.6		Brazil	Peru
+International boundary (verify)			1	Tunisia	Libya	TUN	LBY	TUN	LBY	Land	2	1	0.0	8.0		Tun.	Libya
+International boundary (verify)			1	Azerbaijan	Armenia	AZE	ARM	AZE	ARM	Land	2	1	0.0	10.0		Aze.	Arm.
+International boundary (verify)			1	Armenia	Azerbaijan	ARM	AZE	ARM	AZE	Land	2	1	0.0	10.0		Arm.	Aze.
+International boundary (verify)			1	Hungary	Romania	HUN	ROU	HUN	ROU	Land	2	1	0.0	9.0		Hun.	Rom.
+International boundary (verify)			1	Uzbekistan	Kyrgyzstan	UZB	KGZ	UZB	KGZ	Land	2	1	0.0	8.0		Uzb.	Kgz.
+International boundary (verify)			1	Poland	Slovakia	POL	SVK	POL	SVK	Land	2	1	0.0	9.0		Pol.	Svk.
+International boundary (verify)			1	United Kingdom	Ireland	GBR	IRL	GB1	IRL	Land	6	1	0.0	8.0		U.K.	Ire.
+International boundary (verify)			1	Czech Republic	Poland	CZE	POL	CZE	POL	Land	5	1	0.0	9.0		Cz.	Pol.
+International boundary (verify)			1	Kyrgyzstan	Tajikistan	KGZ	TJK	KGZ	TJK	Land	2	1	0.0	9.0		Kgz.	Tjk.
+International boundary (verify)			1	Albania	Greece	ALB	GRC	ALB	GRC	Land	5	1	0.0	10.0		Alb.	Greece
+International boundary (verify)			1	Uzbekistan	Kyrgyzstan	UZB	KGZ	UZB	KGZ	Land	2	1	2.0	8.0		Uzb.	Kgz.
+International boundary (verify)			1	Zambia	Malawi	ZMB	MWI	ZMB	MWI	Land	2	1	0.0	9.0		Zambia	Mal.
+International boundary (verify)			1	Slovakia	Ukraine	SVK	UKR	SVK	UKR	Land	2	1	0.0	9.0		Svk.	Ukr.
+International boundary (verify)			1	Mozambique	Malawi	MOZ	MWI	MOZ	MWI	Land	2	1	0.0	9.0		Moz.	Mal.
+International boundary (verify)			1	Guinea	Sierra Leone	GIN	SLE	GIN	SLE	Land	2	1	0.0	9.0		Gin.	S.L.
+International boundary (verify)			1	Sierra Leone	Liberia	SLE	LBR	SLE	LBR	Land	2	1	0.0	9.0		S.L.	Liberia
+International boundary (verify)			1	Sudan	Central African Republic	SDN	CAF	SDN	CAF	Land	2	1	0.0	9.0		Sudan	C.A.R.
+International boundary (verify)			1	South Sudan	Central African Republic	SDS	CAF	SDS	CAF	Land	2	1	0.0	9.0		S. Sud.	C.A.R.
+International boundary (verify)			1	South Sudan	Democratic Republic of the Congo	SDS	COD	SDS	COD	Land	2	1	0.0	8.0		S. Sud.	D.R.C.
+International boundary (verify)			1	Djibouti	Somaliland	DJI	SOL	DJI	SOL	Land	5	1	0.0	9.0		Dji.	Solnd.
+International boundary (verify)			1	Ethiopia	Djibouti	ETH	DJI	ETH	DJI	Land	2	1	0.0	9.0		Eth.	Dji.
+International boundary (verify)			1	United Republic of Tanzania	Democratic Republic of the Congo	TZA	COD	TZA	COD	Land	2	1	0.0	8.0		Tanz.	D.R.C.
+International boundary (verify)			1	Eritrea	Djibouti	ERI	DJI	ERI	DJI	Land	5	1	0.0	9.0		Erit.	Dji.
+International boundary (verify)			1	Czech Republic	Austria	CZE	AUT	CZE	AUT	Land	5	1	0.0	9.0		Cz.	Aust.
+International boundary (verify)			1	Turkey	Iraq	TUR	IRQ	TUR	IRQ	Land	2	1	0.0	7.7		Tur.	Iraq
+International boundary (verify)			1	Austria	Hungary	AUT	HUN	AUT	HUN	Land	2	1	0.0	9.0		Aust.	Hun.
+International boundary (verify)			1	Switzerland	Italy	CHE	ITA	CHE	ITA	Land	2	1	0.0	9.0		Switz.	Italy
+International boundary (verify)			1	Switzerland	Austria	CHE	AUT	CHE	AUT	Land	2	1	0.0	9.0		Switz.	Aust.
+International boundary (verify)			1	Turkey	Iran	TUR	IRN	TUR	IRN	Land	2	1	0.0	7.6		Tur.	Iran
+International boundary (verify)			1	Poland	Lithuania	POL	LTU	POL	LTU	Land	2	1	0.0	9.0		Pol.	Lith.
+International boundary (verify)			1	United Republic of Tanzania	Zambia	TZA	ZMB	TZA	ZMB	Land	2	1	0.0	8.0		Tanz.	Zambia
+International boundary (verify)			1	Germany	Netherlands	DEU	NLD	DEU	NL1	Land	2	1	0.0	10.0		Ger.	Neth.
+International boundary (verify)			1	Liechtenstein	Austria	LIE	AUT	LIE	AUT	Land	5	1	0.0	10.0		Liech.	Aust.
+International boundary (verify)			1	Guinea	Ivory Coast	GIN	CIV	GIN	CIV	Land	2	1	0.0	8.0		Gin.	I.C.
+International boundary (verify)			1	France	Italy	FRA	ITA	FR1	ITA	Land	2	1	0.0	7.6		Fr.	Italy
+International boundary (verify)			1	Russia	Finland	RUS	FIN	RUS	FI1	Land	2	1	0.0	8.0		Rus.	Fin.
+International boundary (verify)			1	Russia	Norway	RUS	NOR	RUS	NOR	Land	2	1	0.0	7.6		Rus.	Nor.
+International boundary (verify)			1	United Arab Emirates	Oman	ARE	OMN	ARE	OMN	Land	2	1	0.0	9.0		U.A.E.	Oman
+International boundary (verify)			1	Azerbaijan	Russia	AZE	RUS	AZE	RUS	Land	2	1	0.0	9.0		Aze.	Rus.
+International boundary (verify)			1	Brazil	Suriname	BRA	SUR	BRA	SUR	Land	2	1	0.0	9.0		Brazil	Sur.
+International boundary (verify)			1	Azerbaijan	Georgia	AZE	GEO	AZE	GEO	Land	2	1	0.0	9.0		Aze.	Geo.
+International boundary (verify)			1	Armenia	Azerbaijan	ARM	AZE	ARM	AZE	Land	2	1	6.0	10.0		Arm.	Aze.
+International boundary (verify)			1	Azerbaijan	Armenia	AZE	ARM	AZE	ARM	Land	2	1	0.0	10.0		Aze.	Arm.
+International boundary (verify)			1	Republic of Serbia	Hungary	SRB	HUN	SRB	HUN	Land	5	1	0.0	9.0		Serb.	Hun.
+International boundary (verify)			1	Senegal	Mali	SEN	MLI	SEN	MLI	Land	2	1	0.0	8.0		Sen.	Mali
+International boundary (verify)			1	France	Brazil	FRA	BRA	FR1	BRA	Land	2	1	0.0	6.7		Fr.	Brazil
+International boundary (verify)			1	Guinea	Senegal	GIN	SEN	GIN	SEN	Land	2	1	0.0	8.0		Gin.	Sen.
+International boundary (verify)			1	Benin	Nigeria	BEN	NGA	BEN	NGA	Land	5	1	0.0	9.0		Benin	Nigeria
+International boundary (verify)			1	Angola	Republic of the Congo	AGO	COG	AGO	COG	Land	2	1	0.0	9.0		Ang.	Rep. Congo
+International boundary (verify)			1	Croatia	Hungary	HRV	HUN	HRV	HUN	Land	2	1	0.0	9.0		Cro.	Hun.
+International boundary (verify)			1	Croatia	Slovenia	HRV	SVN	HRV	SVN	Land	2	1	0.0	10.0		Cro.	Slo.
+International boundary (verify)			1	Slovenia	Hungary	SVN	HUN	SVN	HUN	Land	2	1	0.0	10.0		Slo.	Hun.
+International boundary (verify)			1	Saudi Arabia	Qatar	SAU	QAT	SAU	QAT	Land	2	1	0.0	9.0		Saud.	Qatar
+International boundary (verify)			1	Zimbabwe	Botswana	ZWE	BWA	ZWE	BWA	Land	2	1	0.0	9.0		Zimb.	Bwa.
+Indefinite (please verify)			1	Pakistan	China	PAK	CHN	PAK	CH1	Land	2	1	0.0	7.6		Pak.	China
+International boundary (verify)			1	Turkey	Bulgaria	TUR	BGR	TUR	BGR	Land	2	1	0.0	9.0		Tur.	Bulg.
+International boundary (verify)			1	Thailand	Cambodia	THA	KHM	THA	KHM	Land	2	1	0.0	8.0		Thai.	Camb.
+International boundary (verify)			1	Morocco	Spain	MAR	ESP	MAR	ESP	Land	2	1	4.0	8.0		Mor.	Sp.
+International boundary (verify)			1	Bhutan	India	BTN	IND	BTN	IND	Land	2	1	0.0	9.0		Bhutan	India
+International boundary (verify)			1	Thailand	Malaysia	THA	MYS	THA	MYS	Land	2	1	0.0	8.0		Thai.	Malay.
+International boundary (verify)			1	Italy	San Marino	ITA	SMR	ITA	SMR	Land	2	1	0.0	10.0		Italy	S.M.
+International boundary (verify)			1	Germany	Belgium	DEU	BEL	DEU	BEL	Land	2	1	0.0	9.0		Ger.	Belg.
+International boundary (verify)			1	Dominican Republic	Haiti	DOM	HTI	DOM	HTI	Land	2	1	0.0	9.5		Dom. Rep.	Haiti
+International boundary (verify)			1	Nigeria	Chad	NGA	TCD	NGA	TCD	Land	2	1	0.0	8.0		Nigeria	Chad
+International boundary (verify)			1	Iraq	Kuwait	IRQ	KWT	IRQ	KWT	Land	2	1	0.0	10.0		Iraq	Kwt.
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+International boundary (verify)			1	Guatemala	El Salvador	GTM	SLV	GTM	SLV	Land	2	1	0.0	10.0		Guat.	El. S.
+International boundary (verify)			1	East Timor	Indonesia	TLS	IDN	TLS	IDN	Land	5	1	0.0	9.0		T.L.	Indo.
+International boundary (verify)			1	East Timor	Indonesia	TLS	IDN	TLS	IDN	Land	5	1	0.0	9.0		T.L.	Indo.
+International boundary (verify)			1	Brunei	Malaysia	BRN	MYS	BRN	MYS	Land	2	1	0.0	9.0		Brunei	Malay.
+International boundary (verify)			1	Malaysia	Indonesia	MYS	IDN	MYS	IDN	Land	2	1	0.0	8.0		Malay.	Indo.
+International boundary (verify)			1	Austria	Italy	AUT	ITA	AUT	ITA	Land	2	1	0.0	8.0		Aust.	Italy
+International boundary (verify)			1	France	Monaco	FRA	MCO	FR1	MCO	Land	2	1	0.0	10.0		Fr.	Mco.
+International boundary (verify)			1	Algeria	Mali	DZA	MLI	DZA	MLI	Land	2	1	0.0	7.6		Alg.	Mali
+International boundary (verify)			1	Slovenia	Italy	SVN	ITA	SVN	ITA	Land	2	1	0.0	10.0		Slo.	Italy
+International boundary (verify)			1	Swaziland	Mozambique	SWZ	MOZ	SWZ	MOZ	Land	2	1	0.0	9.0		Swz.	Moz.
+International boundary (verify)			1	Rwanda	Burundi	RWA	BDI	RWA	BDI	Land	2	1	0.0	9.0		Rwa.	Bur.
+International boundary (verify)			1	Bangladesh	Myanmar	BGD	MMR	BGD	MMR	Land	2	1	0.0	8.0		Bang.	Myan.
+International boundary (verify)			1	Spain	France	ESP	FRA	ESP	FR1	Land	2	1	0.0	7.6		Sp.	Fr.
+International boundary (verify)			1	France	Andorra	FRA	AND	FR1	AND	Land	2	1	0.0	10.0		Fr.	And.
+International boundary (verify)			1	France	Spain	FRA	ESP	FR1	ESP	Land	2	1	0.0	7.6		Fr.	Sp.
+International boundary (verify)			1	France	Spain	FRA	ESP	FR1	ESP	Land	2	1	6.0	7.6		Fr.	Sp.
+International boundary (verify)			1	Andorra	Spain	AND	ESP	AND	ESP	Land	5	1	0.0	10.0		And.	Sp.
+International boundary (verify)			1	Tajikistan	China	TJK	CHN	TJK	CH1	Land	2	1	0.0	9.0		Tjk.	China
+International boundary (verify)			1	China	Afghanistan	CHN	AFG	CH1	AFG	Land	2	1	0.0	7.6		China	Afg.
+International boundary (verify)			1	Afghanistan	Tajikistan	AFG	TJK	AFG	TJK	Land	2	1	0.0	9.0		Afg.	Tjk.
+International boundary (verify)			1	Afghanistan	Tajikistan	AFG	TJK	AFG	TJK	Land	2	1	0.0	9.0		Afg.	Tjk.
+International boundary (verify)			1	Afghanistan	Tajikistan	AFG	TJK	AFG	TJK	Land	2	1	0.0	9.0		Afg.	Tjk.
+International boundary (verify)			1	Macedonia	Greece	MKD	GRC	MKD	GRC	Land	5	1	0.0	10.0		Mkd.	Greece
+International boundary (verify)			1	Macedonia	Kosovo	MKD	KOS	MKD	KOS	Land	5	1	0.0	10.0		Mkd.	Kos.
+International boundary (verify)			1	Macedonia	Kosovo	MKD	KOS	MKD	KOS	Land	5	1	0.0	10.0		Mkd.	Kos.
+International boundary (verify)			1	Macedonia	Republic of Serbia	MKD	SRB	MKD	SRB	Land	5	1	0.0	10.0		Mkd.	Serb.
+International boundary (verify)			1	Republic of Serbia	Bulgaria	SRB	BGR	SRB	BGR	Land	5	1	0.0	9.0		Serb.	Bulg.
+International boundary (verify)			1	Kyrgyzstan	Tajikistan	KGZ	TJK	KGZ	TJK	Land	2	1	0.0	9.0		Kgz.	Tjk.
+International boundary (verify)			1	Kyrgyzstan	Tajikistan	KGZ	TJK	KGZ	TJK	Land	2	1	2.0	9.0		Kgz.	Tjk.
+International boundary (verify)			1	Macedonia	Bulgaria	MKD	BGR	MKD	BGR	Land	5	1	0.0	10.0		Mkd.	Bulg.
+International boundary (verify)			1	Montenegro	Croatia	MNE	HRV	MNE	HRV	Land	5	1	0.0	10.0		Mont.	Cro.
+International boundary (verify)			1	Croatia	Bosnia and Herzegovina	HRV	BIH	HRV	BIH	Land	2	1	0.0	9.5		Cro.	B.H.
+International boundary (verify)			1	Uganda	Rwanda	UGA	RWA	UGA	RWA	Land	2	1	0.0	8.0		Uga.	Rwa.
+Lease limit			1	Cuba	US Naval Base Guantanamo Bay	CUB	USG	CUB	CUB	Land	2	1	6.0	11.0		Cuba	Guantan.
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	Republic of Serbia	Kosovo	SRB	KOS	SRB	KOS	Land	5	1	0.0	10.0		Serb.	Kos.
+International boundary (verify)			1	Kosovo	Montenegro	KOS	MNE	KOS	MNE	Land	5	1	0.0	10.0		Kos.	Mont.
+International boundary (verify)			1	Republic of Serbia	Montenegro	SRB	MNE	SRB	MNE	Land	5	1	0.0	10.0		Serb.	Mont.
+International boundary (verify)			1	Honduras	El Salvador	HND	SLV	HND	SLV	Land	2	1	0.0	10.0		Hond.	El. S.
+International boundary (verify)			1	Honduras	Nicaragua	HND	NIC	HND	NIC	Land	2	1	0.0	9.5		Hond.	Nic.
+International boundary (verify)			1	Honduras	Nicaragua	HND	NIC	HND	NIC	Land	2	1	0.0	9.5		Hond.	Nic.
+International boundary (verify)			1	Colombia	Ecuador	COL	ECU	COL	ECU	Land	2	1	0.0	8.0		Col.	Ecu.
+International boundary (verify)			1	Guyana	Suriname	GUY	SUR	GUY	SUR	Land	2	1	0.0	9.0		Guy.	Sur.
+International boundary (verify)			1	Suriname	France	SUR	FRA	SUR	FR1	Land	2	1	0.0	9.0		Sur.	Fr.
+International boundary (verify)			1	Argentina	Bolivia	ARG	BOL	ARG	BOL	Land	2	1	0.0	7.7		Arg.	Bolivia
+International boundary (verify)			1	Argentina	Paraguay	ARG	PRY	ARG	PRY	Land	2	1	0.0	8.0		Arg.	Para.
+International boundary (verify)			1	Brazil	Bolivia	BRA	BOL	BRA	BOL	Land	2	1	0.0	7.7		Brazil	Bolivia
+International boundary (verify)			1	Brazil	Paraguay	BRA	PRY	BRA	PRY	Land	2	1	0.0	8.0		Brazil	Para.
+International boundary (verify)			1	Brazil	Argentina	BRA	ARG	BRA	ARG	Land	2	1	0.0	7.6		Brazil	Arg.
+International boundary (verify)			1	Uruguay	Argentina	URY	ARG	URY	ARG	Land	2	1	0.0	8.0		Ury.	Arg.
+International boundary (verify)			1	Finland	Sweden	FIN	SWE	FI1	SWE	Land	2	1	0.0	8.0		Fin.	Swe.
+International boundary (verify)			1	Belgium	Netherlands	BEL	NLD	BEL	NL1	Land	2	1	0.0	10.0		Belg.	Neth.
+International boundary (verify)			1	Belgium	Netherlands	BEL	NLD	BEL	NL1	Land	2	1	0.0	10.0		Belg.	Neth.
+International boundary (verify)			1	Germany	Austria	DEU	AUT	DEU	AUT	Land	2	1	0.0	8.0		Ger.	Aust.
+International boundary (verify)			1	Germany	Switzerland	DEU	CHE	DEU	CHE	Land	2	1	0.0	9.0		Ger.	Switz.
+International boundary (verify)			1	Germany	France	DEU	FRA	DEU	FR1	Land	2	1	0.0	6.7		Ger.	Fr.
+International boundary (verify)			1	Switzerland	Austria	CHE	AUT	CHE	AUT	Land	2	1	0.0	9.0		Switz.	Aust.
+International boundary (verify)			1	Switzerland	Liechtenstein	CHE	LIE	CHE	LIE	Land	2	1	0.0	10.0		Switz.	Liech.
+International boundary (verify)			1	France	Switzerland	FRA	CHE	FR1	CHE	Land	2	1	0.0	9.0		Fr.	Switz.
+International boundary (verify)			1	Portugal	Spain	PRT	ESP	PRT	ESP	Land	2	1	0.0	8.0		Port.	Sp.
+International boundary (verify)			1	Germany	Austria	DEU	AUT	DEU	AUT	Land	2	1	0.0	8.0		Ger.	Aust.
+International boundary (verify)			1	Slovenia	Austria	SVN	AUT	SVN	AUT	Land	2	1	0.0	10.0		Slo.	Aust.
+International boundary (verify)			1	Bosnia and Herzegovina	Montenegro	BIH	MNE	BIH	MNE	Land	5	1	0.0	10.0		B.H.	Mont.
+International boundary (verify)			1	Bosnia and Herzegovina	Croatia	BIH	HRV	BIH	HRV	Land	5	1	0.0	9.5		B.H.	Cro.
+International boundary (verify)			1	Bosnia and Herzegovina	Republic of Serbia	BIH	SRB	BIH	SRB	Land	5	1	0.0	9.5		B.H.	Serb.
+International boundary (verify)			1	Republic of Serbia	Croatia	SRB	HRV	SRB	HRV	Land	5	1	0.0	9.0		Serb.	Cro.
+International boundary (verify)			1	Austria	Slovakia	AUT	SVK	AUT	SVK	Land	2	1	0.0	9.0		Aust.	Svk.
+International boundary (verify)			1	Czech Republic	Slovakia	CZE	SVK	CZE	SVK	Land	5	1	0.0	9.0		Cz.	Svk.
+International boundary (verify)			1	Slovakia	Hungary	SVK	HUN	SVK	HUN	Land	2	1	0.0	9.0		Svk.	Hun.
+International boundary (verify)			1	Germany	Poland	DEU	POL	DEU	POL	Land	2	1	0.0	7.6		Ger.	Pol.
+International boundary (verify)			1	Hungary	Ukraine	HUN	UKR	HUN	UKR	Land	2	1	0.0	9.0		Hun.	Ukr.
+International boundary (verify)			1	Romania	Bulgaria	ROU	BGR	ROU	BGR	Land	2	1	0.0	9.0		Rom.	Bulg.
+International boundary (verify)			1	Romania	Republic of Serbia	ROU	SRB	ROU	SRB	Land	2	1	0.0	8.0		Rom.	Serb.
+International boundary (verify)			1	Bulgaria	Greece	BGR	GRC	BGR	GRC	Land	2	1	0.0	9.0		Bulg.	Greece
+International boundary (verify)			1	Turkey	Greece	TUR	GRC	TUR	GRC	Land	2	1	0.0	8.0		Tur.	Greece
+International boundary (verify)			1	Albania	Montenegro	ALB	MNE	ALB	MNE	Land	5	1	0.0	10.0		Alb.	Mont.
+International boundary (verify)			1	Moldova	Romania	MDA	ROU	MDA	ROU	Land	5	1	0.0	10.0		Mda.	Rom.
+International boundary (verify)			1	Ukraine	Romania	UKR	ROU	UKR	ROU	Land	2	1	0.0	8.0		Ukr.	Rom.
+International boundary (verify)			1	Ukraine	Moldova	UKR	MDA	UKR	MDA	Land	2	1	0.0	10.0		Ukr.	Mda.
+International boundary (verify)			1	Poland	Belarus	POL	BLR	POL	BLR	Land	2	1	0.0	8.0		Pol.	Bela.
+International boundary (verify)			1	Poland	Ukraine	POL	UKR	POL	UKR	Land	2	1	0.0	7.6		Pol.	Ukr.
+International boundary (verify)			1	Belarus	Latvia	BLR	LVA	BLR	LVA	Land	2	1	0.0	9.0		Bela.	Lat.
+International boundary (verify)			1	Lithuania	Russia	LTU	RUS	LTU	RUS	Land	5	1	0.0	9.0		Lith.	Rus.
+International boundary (verify)			1	Belarus	Russia	BLR	RUS	BLR	RUS	Land	2	1	0.0	8.0		Bela.	Rus.
+International boundary (verify)			1	Russia	Ukraine	RUS	UKR	RUS	UKR	Land	2	1	0.0	7.6		Rus.	Ukr.
+International boundary (verify)			1	Armenia	Iran	ARM	IRN	ARM	IRN	Land	2	1	0.0	10.0		Arm.	Iran
+International boundary (verify)			1	Armenia	Turkey	ARM	TUR	ARM	TUR	Land	2	1	0.0	10.0		Arm.	Tur.
+International boundary (verify)			1	Azerbaijan	Iran	AZE	IRN	AZE	IRN	Land	2	1	0.0	9.0		Aze.	Iran
+International boundary (verify)			1	Azerbaijan	Turkey	AZE	TUR	AZE	TUR	Land	2	1	0.0	9.0		Aze.	Tur.
+International boundary (verify)			1	Mongolia	Russia	MNG	RUS	MNG	RUS	Land	2	1	0.0	7.6		Mong.	Rus.
+International boundary (verify)			1	Russia	China	RUS	CHN	RUS	CH1	Land	2	1	0.0	5.7		Rus.	China
+International boundary (verify)			1	North Korea	China	PRK	CHN	PRK	CH1	Land	2	1	0.0	8.0		N.K.	China
+International boundary (verify)			1	North Korea	Russia	PRK	RUS	PRK	RUS	Land	2	1	0.0	8.0		N.K.	Rus.
+International boundary (verify)			1	Tajikistan	Uzbekistan	TJK	UZB	TJK	UZB	Land	2	1	0.0	9.0		Tjk.	Uzb.
+International boundary (verify)			1	Afghanistan	Tajikistan	AFG	TJK	AFG	TJK	Land	2	1	0.0	9.0		Afg.	Tjk.
+International boundary (verify)			1	Afghanistan	Turkmenistan	AFG	TKM	AFG	TKM	Land	2	1	0.0	8.0		Afg.	Turkm.
+International boundary (verify)			1	Afghanistan	Uzbekistan	AFG	UZB	AFG	UZB	Land	2	1	0.0	8.0		Afg.	Uzb.
+International boundary (verify)			1	Turkey	Syria	TUR	SYR	TUR	SYR	Land	2	1	0.0	8.0		Tur.	Syria
+International boundary (verify)			1	Iraq	Iran	IRQ	IRN	IRQ	IRN	Land	2	1	0.0	7.7		Iraq	Iran
+International boundary (verify)			1	Jordan	Israel	JOR	ISR	JOR	ISR	Land	2	1	0.0	9.0		Jord.	Isr.
+International boundary (verify)			1	Jordan	Palestine	JOR	PSX	JOR	ISR	Land	2	1	0.0	9.5		Jord.	Pal.
+International boundary (verify)			1	China	Nepal	CHN	NPL	CH1	NPL	Land	2	1	0.0	8.0		China	Nepal
+International boundary (verify)			1	India	Nepal	IND	NPL	IND	NPL	Land	2	1	0.0	8.0		India	Nepal
+International boundary (verify)			1	India	Myanmar	IND	MMR	IND	MMR	Land	2	1	0.0	8.0		India	Myan.
+International boundary (verify)			1	Myanmar	Thailand	MMR	THA	MMR	THA	Land	2	1	0.0	8.0		Myan.	Thai.
+International boundary (verify)			1	China	Myanmar	CHN	MMR	CH1	MMR	Land	2	1	0.0	8.0		China	Myan.
+International boundary (verify)			1	Laos	Myanmar	LAO	MMR	LAO	MMR	Land	5	1	0.0	9.0		Laos	Myan.
+International boundary (verify)			1	Laos	Thailand	LAO	THA	LAO	THA	Land	5	1	0.0	9.0		Laos	Thai.
+International boundary (verify)			1	Vietnam	Laos	VNM	LAO	VNM	LAO	Land	2	1	0.0	9.0		Viet.	Laos
+International boundary (verify)			1	Lesotho	South Africa	LSO	ZAF	LSO	ZAF	Land	5	1	0.0	9.0		Les.	S.Af.
+International boundary (verify)			1	South Africa	Botswana	ZAF	BWA	ZAF	BWA	Land	2	1	0.0	9.0		S.Af.	Bwa.
+International boundary (verify)			1	South Africa	Zimbabwe	ZAF	ZWE	ZAF	ZWE	Land	2	1	0.0	8.0		S.Af.	Zimb.
+International boundary (verify)			1	Zimbabwe	Zambia	ZWE	ZMB	ZWE	ZMB	Land	2	1	0.0	8.0		Zimb.	Zambia
+International boundary (verify)			1	Central African Republic	Democratic Republic of the Congo	CAF	COD	CAF	COD	Land	2	1	0.0	9.0		C.A.R.	D.R.C.
+International boundary (verify)			1	Rwanda	United Republic of Tanzania	RWA	TZA	RWA	TZA	Land	2	1	0.0	8.0		Rwa.	Tanz.
+International boundary (verify)			1	Uganda	United Republic of Tanzania	UGA	TZA	UGA	TZA	Land	2	1	0.0	8.0		Uga.	Tanz.
+International boundary (verify)			1	United Republic of Tanzania	Burundi	TZA	BDI	TZA	BDI	Land	2	1	0.0	9.0		Tanz.	Bur.
+International boundary (verify)			1	Burundi	Democratic Republic of the Congo	BDI	COD	BDI	COD	Land	2	1	0.0	9.0		Bur.	D.R.C.
+International boundary (verify)			1	Rwanda	Democratic Republic of the Congo	RWA	COD	RWA	COD	Land	2	1	0.0	8.0		Rwa.	D.R.C.
+International boundary (verify)			1	Sudan	Ethiopia	SDN	ETH	SDN	ETH	Land	2	1	0.0	8.0		Sudan	Eth.
+International boundary (verify)			1	South Sudan	Ethiopia	SDS	ETH	SDS	ETH	Land	2	1	0.0	8.0		S. Sud.	Eth.
+International boundary (verify)			1	Central African Republic	Chad	CAF	TCD	CAF	TCD	Land	2	1	0.0	9.0		C.A.R.	Chad
+International boundary (verify)			1	Gabon	Cameroon	GAB	CMR	GAB	CMR	Land	5	1	0.0	8.0		Gabon	Cam.
+International boundary (verify)			1	Gabon	Republic of the Congo	GAB	COG	GAB	COG	Land	5	1	0.0	9.0		Gabon	Rep. Congo
+International boundary (verify)			1	Cameroon	Chad	CMR	TCD	CMR	TCD	Land	2	1	0.0	8.0		Cam.	Chad
+International boundary (verify)			1	Cameroon	Nigeria	CMR	NGA	CMR	NGA	Land	2	1	0.0	8.0		Cam.	Nigeria
+International boundary (verify)			1	Niger	Nigeria	NER	NGA	NER	NGA	Land	2	1	0.0	8.0		Niger	Nigeria
+International boundary (verify)			1	Niger	Benin	NER	BEN	NER	BEN	Land	2	1	0.0	9.0		Niger	Benin
+International boundary (verify)			1	Benin	Burkina Faso	BEN	BFA	BEN	BFA	Land	5	1	0.0	9.0		Benin	B.F.
+International boundary (verify)			1	Ghana	Togo	GHA	TGO	GHA	TGO	Land	2	1	0.0	10.0		Ghana	Togo
+International boundary (verify)			1	Ghana	Ivory Coast	GHA	CIV	GHA	CIV	Land	2	1	0.0	8.0		Ghana	I.C.
+International boundary (verify)			1	Ivory Coast	Burkina Faso	CIV	BFA	CIV	BFA	Land	2	1	0.0	8.0		I.C.	B.F.
+International boundary (verify)			1	Mali	Burkina Faso	MLI	BFA	MLI	BFA	Land	2	1	0.0	8.0		Mali	B.F.
+International boundary (verify)			1	Ivory Coast	Liberia	CIV	LBR	CIV	LBR	Land	2	1	0.0	9.0		I.C.	Liberia
+International boundary (verify)			1	Liberia	Guinea	LBR	GIN	LBR	GIN	Land	2	1	0.0	9.0		Liberia	Gin.
+International boundary (verify)			1	Ivory Coast	Mali	CIV	MLI	CIV	MLI	Land	2	1	0.0	8.0		I.C.	Mali
+International boundary (verify)			1	Guinea Bissau	Guinea	GNB	GIN	GNB	GIN	Land	5	1	0.0	10.0		GnB.	Gin.
+International boundary (verify)			1	Mali	Guinea	MLI	GIN	MLI	GIN	Land	2	1	0.0	8.0		Mali	Gin.
+International boundary (verify)			1	Cambodia	Laos	KHM	LAO	KHM	LAO	Land	2	1	0.0	9.0		Camb.	Laos
+International boundary (verify)			1	Vietnam	China	VNM	CHN	VNM	CH1	Land	2	1	0.0	7.6		Viet.	China
+International boundary (verify)			1	Vietnam	Laos	VNM	LAO	VNM	LAO	Land	2	1	0.0	9.0		Viet.	Laos
+International boundary (verify)			1	Brunei	Malaysia	BRN	MYS	BRN	MYS	Land	2	1	0.0	9.0		Brunei	Malay.
+International boundary (verify)			1	Bangladesh	India	BGD	IND	BGD	IND	Land	2	1	0.0	8.0		Bang.	India
+International boundary (verify)			1	United Republic of Tanzania	Mozambique	TZA	MOZ	TZA	MOZ	Land	2	1	0.0	8.0		Tanz.	Moz.
+International boundary (verify)			1	Spain	Gibraltar	ESP	GIB	ESP	GB1	Land	2	1	6.0	9.5		Sp.	Gib.
+International boundary (verify)			1	Canada	United States of America	CAN	USA	CAN	US1	Land	2	1	0.0	5.7		Can.	U.S.A.
+International boundary (verify)			1	Mexico	United States of America	MEX	USA	MEX	US1	Land	2	1	0.0	5.7		Mex.	U.S.A.
+Indefinite (please verify)			1	Guatemala	Belize	GTM	BLZ	GTM	BLZ	Land	2	1	0.0	10.0		Guat.	Belize
+International boundary (verify)			1	Mexico	Belize	MEX	BLZ	MEX	BLZ	Land	2	1	0.0	10.0		Mex.	Belize
+International boundary (verify)			1	Mexico	Guatemala	MEX	GTM	MEX	GTM	Land	2	1	0.0	8.0		Mex.	Guat.
+International boundary (verify)			1	Nicaragua	Costa Rica	NIC	CRI	NIC	CRI	Land	2	1	0.0	9.0		Nic.	C.R.
+International boundary (verify)			1	Honduras	Guatemala	HND	GTM	HND	GTM	Land	2	1	0.0	9.5		Hond.	Guat.
+International boundary (verify)			1	Costa Rica	Panama	CRI	PAN	CRI	PAN	Land	2	1	0.0	9.0		C.R.	Pan.
+International boundary (verify)			1	Colombia	Panama	COL	PAN	COL	PAN	Land	2	1	0.0	9.0		Col.	Pan.
+Disputed (please verify)			0	Venezuela	Guyana	VEN	GUY	VEN	GUY	Land	3	1	0.0	9.0		Ven.	Guy.
+International boundary (verify)			1	Colombia	Brazil	COL	BRA	COL	BRA	Land	2	1	0.0	7.6		Col.	Brazil
+International boundary (verify)			1	Colombia	Brazil	COL	BRA	COL	BRA	Land	2	1	0.0	7.6		Col.	Brazil
+International boundary (verify)			1	Peru	Colombia	PER	COL	PER	COL	Land	2	1	0.0	7.6		Peru	Col.
+International boundary (verify)			1	Peru	Ecuador	PER	ECU	PER	ECU	Land	2	1	0.0	8.0		Peru	Ecu.
+International boundary (verify)			1	Brazil	Venezuela	BRA	VEN	BRA	VEN	Land	2	1	0.0	7.7		Brazil	Ven.
+International boundary (verify)			1	Bolivia	Paraguay	BOL	PRY	BOL	PRY	Land	2	1	0.0	8.0		Bolivia	Para.
+International boundary (verify)			1	Peru	Brazil	PER	BRA	PER	BRA	Land	2	1	0.0	7.6		Peru	Brazil
+International boundary (verify)			1	Brazil	Bolivia	BRA	BOL	BRA	BOL	Land	2	1	0.0	7.7		Brazil	Bolivia
+International boundary (verify)			1	Bolivia	Peru	BOL	PER	BOL	PER	Land	2	1	0.0	7.7		Bolivia	Peru
+International boundary (verify)			1	Chile	Argentina	CHL	ARG	CHL	ARG	Land	2	1	0.0	7.6		Chile	Arg.
+International boundary (verify)			1	Argentina	Chile	ARG	CHL	ARG	CHL	Land	2	1	0.0	7.6		Arg.	Chile
+International boundary (verify)			1	Colombia	Venezuela	COL	VEN	COL	VEN	Land	2	1	0.0	7.7		Col.	Ven.
+International boundary (verify)			1	Poland	Russia	POL	RUS	POL	RUS	Land	2	1	0.0	7.6		Pol.	Rus.
+International boundary (verify)			1	Papua New Guinea	Indonesia	PNG	IDN	PNG	IDN	Land	2	1	0.0	7.7		P.N.G.	Indo.
+International boundary (verify)			1	Kazakhstan	Turkmenistan	KAZ	TKM	KAZ	TKM	Land	2	1	0.0	8.0		Kaz.	Turkm.
+International boundary (verify)			1	Uzbekistan	Kazakhstan	UZB	KAZ	UZB	KAZ	Land	2	1	0.0	8.0		Uzb.	Kaz.
+International boundary (verify)			1	Uzbekistan	Turkmenistan	UZB	TKM	UZB	TKM	Land	2	1	0.0	8.0		Uzb.	Turkm.
+International boundary (verify)			1	Iran	Turkmenistan	IRN	TKM	IRN	TKM	Land	2	1	0.0	8.0		Iran	Turkm.
+International boundary (verify)			1	Iran	Afghanistan	IRN	AFG	IRN	AFG	Land	2	1	0.0	7.6		Iran	Afg.
+International boundary (verify)			1	Afghanistan	Pakistan	AFG	PAK	AFG	PAK	Land	2	1	0.0	7.6		Afg.	Pak.
+International boundary (verify)			1	Iran	Pakistan	IRN	PAK	IRN	PAK	Land	2	1	0.0	7.6		Iran	Pak.
+International boundary (verify)			1	Russia	Kazakhstan	RUS	KAZ	RUS	KAZ	Land	2	1	0.0	7.6		Rus.	Kaz.
+International boundary (verify)			1	Israel	Jordan	ISR	JOR	ISR	JOR	Land	2	1	0.0	9.0		Isr.	Jord.
+International boundary (verify)			1	Syria	Jordan	SYR	JOR	SYR	JOR	Land	2	1	0.0	9.0		Syria	Jord.
+International boundary (verify)			1	Israel	Egypt	ISR	EGY	ISR	EGY	Land	2	1	0.0	8.0		Isr.	Egypt
+International boundary (verify)			1	Palestine	Egypt	PSX	EGY	ISR	EGY	Land	5	1	0.0	9.5		Pal.	Egypt
+International boundary (verify)			1	Iraq	Saudi Arabia	IRQ	SAU	IRQ	SAU	Land	2	1	0.0	7.7		Iraq	Saud.
+International boundary (verify)			1	Jordan	Saudi Arabia	JOR	SAU	JOR	SAU	Land	2	1	0.0	9.0		Jord.	Saud.
+International boundary (verify)			1	Saudi Arabia	Kuwait	SAU	KWT	SAU	KWT	Land	2	1	0.0	10.0		Saud.	Kwt.
+International boundary (verify)			1	Iraq	Jordan	IRQ	JOR	IRQ	JOR	Land	2	1	0.0	9.0		Iraq	Jord.
+International boundary (verify)			1	Iraq	Syria	IRQ	SYR	IRQ	SYR	Land	2	1	0.0	8.0		Iraq	Syria
+International boundary (verify)			1	Oman	Yemen	OMN	YEM	OMN	YEM	Land	2	1	0.0	9.0		Oman	Yem.
+International boundary (verify)			1	Oman	Saudi Arabia	OMN	SAU	OMN	SAU	Land	2	1	0.0	9.0		Oman	Saud.
+International boundary (verify)			1	Oman	Saudi Arabia	OMN	SAU	OMN	SAU	Land	2	1	0.0	9.0		Oman	Saud.
+International boundary (verify)			1	United Arab Emirates	Saudi Arabia	ARE	SAU	ARE	SAU	Land	2	1	0.0	9.0		U.A.E.	Saud.
+International boundary (verify)			1	Saudi Arabia	Yemen	SAU	YEM	SAU	YEM	Land	2	1	0.0	8.0		Saud.	Yem.
+International boundary (verify)			1	Chad	Libya	TCD	LBY	TCD	LBY	Land	2	1	0.0	8.0		Chad	Libya
+International boundary (verify)			1	Libya	Niger	LBY	NER	LBY	NER	Land	2	1	0.0	8.0		Libya	Niger
+International boundary (verify)			1	Algeria	Niger	DZA	NER	DZA	NER	Land	2	1	0.0	8.0		Alg.	Niger
+International boundary (verify)			1	Algeria	Mauritania	DZA	MRT	DZA	MRT	Land	2	1	0.0	8.0		Alg.	Mrt.
+International boundary (verify)			1	Niger	Chad	NER	TCD	NER	TCD	Land	2	1	0.0	8.0		Niger	Chad
+International boundary (verify)			1	South Sudan	Kenya	SDS	KEN	SDS	KEN	Land	2	1	0.0	8.0		S. Sud.	Ken.
+International boundary (verify)			1	Egypt	Sudan	EGY	SDN	EGY	SDN	Land	2	1	0.0	8.0		Egypt	Sudan
+International boundary (verify)			1	Kenya	Ethiopia	KEN	ETH	KEN	ETH	Land	2	1	0.0	7.6		Ken.	Eth.
+Disputed (please verify)			1	Morocco	Algeria	MAR	DZA	MAR	DZA	Land	2	1	0.0	8.0		Mor.	Alg.
+International boundary (verify)			1	Western Sahara	Mauritania	SAH	MRT	SAH	MRT	Land	5	1	0.0	11.0		W. Sah.	Mrt.
+International boundary (verify)			1	Algeria	Tunisia	DZA	TUN	DZA	TUN	Land	2	1	0.0	8.0		Alg.	Tun.
+International boundary (verify)			1	Mali	Algeria	MLI	DZA	MLI	DZA	Land	2	1	0.0	7.6		Mali	Alg.
+International boundary (verify)			1	Sudan	Libya	SDN	LBY	SDN	LBY	Land	2	1	0.0	8.0		Sudan	Libya
+International boundary (verify)			1	Chad	Sudan	TCD	SDN	TCD	SDN	Land	2	1	0.0	8.0		Chad	Sudan
+International boundary (verify)			1	Egypt	Libya	EGY	LBY	EGY	LBY	Land	2	1	0.0	8.0		Egypt	Libya
+International boundary (verify)			1	Guinea Bissau	Senegal	GNB	SEN	GNB	SEN	Land	5	1	0.0	10.0		GnB.	Sen.
+International boundary (verify)			1	Somalia	Kenya	SOM	KEN	SOM	KEN	Land	2	1	0.0	9.0		Som.	Ken.
+International boundary (verify)			1	Kenya	United Republic of Tanzania	KEN	TZA	KEN	TZA	Land	2	1	0.0	8.0		Ken.	Tanz.
+International boundary (verify)			1	Uganda	United Republic of Tanzania	UGA	TZA	UGA	TZA	Land	2	1	0.0	8.0		Uga.	Tanz.
+International boundary (verify)			1	Equatorial Guinea	Cameroon	GNQ	CMR	GNQ	CMR	Land	5	1	0.0	9.0		Eq. G.	Cam.
+International boundary (verify)			1	Equatorial Guinea	Gabon	GNQ	GAB	GNQ	GAB	Land	5	1	0.0	9.0		Eq. G.	Gabon
+International boundary (verify)			1	Mali	Niger	MLI	NER	MLI	NER	Land	2	1	0.0	8.0		Mali	Niger
+International boundary (verify)			1	Somaliland	Ethiopia	SOL	ETH	SOL	ETH	Land	5	1	0.0	9.0		Solnd.	Eth.
+International boundary (verify)			1	Senegal	Mauritania	SEN	MRT	SEN	MRT	Land	2	1	0.0	8.0		Sen.	Mrt.
+International boundary (verify)			1	Mali	Mauritania	MLI	MRT	MLI	MRT	Land	2	1	0.0	8.0		Mali	Mrt.
+International boundary (verify)			1	South Africa	Mozambique	ZAF	MOZ	ZAF	MOZ	Land	2	1	0.0	8.0		S.Af.	Moz.
+International boundary (verify)			1	Angola	Zambia	AGO	ZMB	AGO	ZMB	Land	2	1	0.0	8.0		Ang.	Zambia
+International boundary (verify)			1	Namibia	Angola	NAM	AGO	NAM	AGO	Land	2	1	0.0	7.7		Nam.	Ang.
+International boundary (verify)			1	Namibia	Zambia	NAM	ZMB	NAM	ZMB	Land	2	1	0.0	8.0		Nam.	Zambia
+International boundary (verify)			1	Zimbabwe	Mozambique	ZWE	MOZ	ZWE	MOZ	Land	2	1	0.0	8.0		Zimb.	Moz.
+International boundary (verify)			1	Angola	Democratic Republic of the Congo	AGO	COD	AGO	COD	Land	2	1	0.0	7.6		Ang.	D.R.C.
+International boundary (verify)			1	South Africa	Namibia	ZAF	NAM	ZAF	NAM	Land	2	1	0.0	7.7		S.Af.	Nam.
+International boundary (verify)			1	Botswana	Namibia	BWA	NAM	BWA	NAM	Land	2	1	0.0	9.0		Bwa.	Nam.
+International boundary (verify)			1	Senegal	Gambia	SEN	GMB	SEN	GMB	Land	2	1	0.0	10.0		Sen.	Gambia
+Disputed (please verify)			1	Western Sahara	Algeria	SAH	DZA	SAH	DZA	Land	5	1	0.0	11.0		W. Sah.	Alg.
+International boundary (verify)			1	Libya	Algeria	LBY	DZA	LBY	DZA	Land	2	1	0.0	8.0		Libya	Alg.
+International boundary (verify)			1	Niger	Burkina Faso	NER	BFA	NER	BFA	Land	2	1	0.0	8.0		Niger	B.F.
+International boundary (verify)			1	Republic of the Congo	Central African Republic	COG	CAF	COG	CAF	Land	2	1	0.0	9.0		Rep. Congo	C.A.R.
+International boundary (verify)			1	Republic of the Congo	Cameroon	COG	CMR	COG	CMR	Land	2	1	0.0	9.0		Rep. Congo	Cam.
+International boundary (verify)			1	Central African Republic	Cameroon	CAF	CMR	CAF	CMR	Land	2	1	0.0	9.0		C.A.R.	Cam.
+International boundary (verify)			1	Uganda	South Sudan	UGA	SDS	UGA	SDS	Land	2	1	0.0	8.0		Uga.	S. Sud.
+International boundary (verify)			1	Democratic Republic of the Congo	Angola	COD	AGO	COD	AGO	Land	2	1	0.0	7.6		D.R.C.	Ang.
+International boundary (verify)			1	South Africa	Mozambique	ZAF	MOZ	ZAF	MOZ	Land	2	1	0.0	8.0		S.Af.	Moz.
+International boundary (verify)			1	Swaziland	South Africa	SWZ	ZAF	SWZ	ZAF	Land	2	1	0.0	9.0		Swz.	S.Af.
+International boundary (verify)			1	Mozambique	Zambia	MOZ	ZMB	MOZ	ZMB	Land	2	1	0.0	8.0		Moz.	Zambia
+International boundary (verify)			1	Zambia	Democratic Republic of the Congo	ZMB	COD	ZMB	COD	Land	2	1	0.0	8.0		Zambia	D.R.C.
+International boundary (verify)			1	Togo	Burkina Faso	TGO	BFA	TGO	BFA	Land	5	1	0.0	10.0		Togo	B.F.
+International boundary (verify)			1	Benin	Togo	BEN	TGO	BEN	TGO	Land	5	1	0.0	10.0		Benin	Togo
+International boundary (verify)			1	Ghana	Burkina Faso	GHA	BFA	GHA	BFA	Land	2	1	0.0	8.0		Ghana	B.F.
+International boundary (verify)			1	Mozambique	Malawi	MOZ	MWI	MOZ	MWI	Land	2	1	0.0	9.0		Moz.	Mal.
+International boundary (verify)			1	Uganda	Kenya	UGA	KEN	UGA	KEN	Land	2	1	0.0	8.0		Uga.	Ken.
+International boundary (verify)			1	Uganda	Democratic Republic of the Congo	UGA	COD	UGA	COD	Land	2	1	0.0	8.0		Uga.	D.R.C.
+International boundary (verify)			1	Sudan	Eritrea	SDN	ERI	SDN	ERI	Land	2	1	0.0	9.0		Sudan	Erit.
+International boundary (verify)			1	Eritrea	Ethiopia	ERI	ETH	ERI	ETH	Land	5	1	0.0	9.0		Erit.	Eth.
+International boundary (verify)			1	Estonia	Russia	EST	RUS	EST	RUS	Land	2	1	0.0	8.0		Est.	Rus.
+International boundary (verify)			1	India	Pakistan	IND	PAK	IND	PAK	Land	2	1	0.0	7.6		India	Pak.
+International boundary (verify)			1	Canada	United States of America	CAN	USA	CAN	US1	Land	2	1	0.0	5.7		Can.	U.S.A.
+International boundary (verify)			1	South Sudan	Sudan	SDS	SDN	SDS	SDN	Land	2	1	0.0	8.0		S. Sud.	Sudan
+International boundary (verify)			1	China	Hong Kong S.A.R.	CHN	HKG	CH1	CH1	Land	2	1	0.0	9.0		China	H.K.
+International boundary (verify)			1	Italy	Vatican	ITA	VAT	ITA	VAT	Land	2	1	6.0	10.0		Italy	Vat.
+Disputed (please verify)			1	South Sudan	Sudan	SDS	SDN	SDS	SDN	Land	2	1	0.0	8.0		S. Sud.	Sudan
+International boundary (verify)			1	South Sudan	Sudan	SDS	SDN	SDS	SDN	Land	2	1	0.0	8.0		S. Sud.	Sudan
+International boundary (verify)			1	Morocco	Algeria	MAR	DZA	MAR	DZA	Land	2	1	0.0	8.0		Mor.	Alg.
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+International boundary (verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+Disputed (please verify)			1	China	India	CHN	IND	CH1	IND	Land	2	1	0.0	6.7		China	India
+International boundary (verify)			1	United Republic of Tanzania	Malawi	TZA	MWI	TZA	MWI	Land	2	1	0.0	9.0		Tanz.	Mal.
+Line of control (please verify)	Line of control		-1	Cyprus No Mans Area	Northern Cyprus	CNM	CYN	CNM	CYN	Land	5	1	6.0	10.0			N. Cy.
+Line of control (please verify)	Line of control		-1	Dhekelia Sovereign Base Area	Dhekelia Sovereign Base Area	ESB	ESB	GB1	GB1	Land	3	1	6.0	11.0		Dhek.	Dhek.
+Line of control (please verify)	Line of control		-1	Cyprus No Mans Area	Northern Cyprus	CNM	CYN	CNM	CYN	Land	5	1	0.0	10.0			N. Cy.
+Line of control (please verify)	Line of control		-1	Cyprus No Mans Area	Northern Cyprus	CNM	CYN	CNM	CYN	Land	5	5	6.0	10.0			N. Cy.
+International boundary (verify)			1	Northern Cyprus	Dhekelia Sovereign Base Area	CYN	ESB	CYN	GB1	Land	5	3	0.0	11.0		N. Cy.	Dhek.
+International boundary (verify)			1	Cyprus No Mans Area	Dhekelia Sovereign Base Area	CNM	ESB	CNM	GB1	Land	5	3	0.0	11.0			Dhek.
+International boundary (verify)			1	Northern Cyprus	Dhekelia Sovereign Base Area	CYN	ESB	CYN	GB1	Land	5	3	6.0	11.0		N. Cy.	Dhek.
+International boundary (verify)			1	Cyprus	Dhekelia Sovereign Base Area	CYP	ESB	CYP	GB1	Land	2	3	6.0	11.0		Cyp.	Dhek.
+International boundary (verify)			1	Cyprus No Mans Area	Dhekelia Sovereign Base Area	CNM	ESB	CNM	GB1	Land	5	3	6.0	11.0			Dhek.
+International boundary (verify)			1	Northern Cyprus	Dhekelia Sovereign Base Area	CYN	ESB	CYN	GB1	Land	5	3	6.0	11.0		N. Cy.	Dhek.
+International boundary (verify)			1	Cyprus	Dhekelia Sovereign Base Area	CYP	ESB	CYP	GB1	Land	2	3	6.0	11.0		Cyp.	Dhek.
+International boundary (verify)			1	Pakistan	China	PAK	CHN	PAK	CH1	Land	2	1	0.0	7.6		Pak.	China
+International boundary (verify)			1	Canada	United States of America	CAN	USA	CAN	US1	Land	2	1	5.0	5.7		Can.	U.S.A.
+International boundary (verify)			1	Argentina	Chile	ARG	CHL	ARG	CHL	Land	2	1	0.0	7.6		Arg.	Chile
+Lease limit			1	Cuba	US Naval Base Guantanamo Bay	CUB	USG	CUB	CUB	Land	2	1	6.0	11.0		Cuba	Guantan.
+International boundary (verify)			1	Germany	Poland	DEU	POL	DEU	POL	Land	2	1	0.0	7.6		Ger.	Pol.
+International boundary (verify)			1	Lithuania	Russia	LTU	RUS	LTU	RUS	Land	5	1	0.0	9.0		Lith.	Rus.
+International boundary (verify)			1	Ghana	Ivory Coast	GHA	CIV	GHA	CIV	Land	2	1	0.0	8.0		Ghana	I.C.
+Indeterminant frontier			0	Pakistan	Siachen Glacier	PAK	KAS	PAK	KAS	Land	2	6	4.0	9.5		Pak.	Siachen
+Indeterminant frontier			0	Siachen Glacier	India	KAS	IND	KAS	IND	Land	5	3	0.0	9.5		Siachen	India
+Overlay limit	Korean Demilitarized Zone		1	South Korea	South Korea	KOR	KOR	KOR	KOR	Land	2	6	6.0	7.6		S.K.	S.K.
+Lease limit	Baikonur Cosmodrome	(Leased to Russia)	-1	Kazakhstan	Baykonur Cosmodrome	KAZ	KAB	KAZ	KAZ	Land	2	1	4.0	9.5		Kaz.	Bayk.
+Overlay limit	Korean Demilitarized Zone		1	North Korea	North Korea	PRK	PRK	PRK	PRK	Land	2	6	6.0	8.0		N.K.	N.K.
+Overlay limit	UNDOF	(UN Protrolled Zone)	1	Syria	Syria	SYR	SYR	SYR	SYR	Land	2	4	0.0	8.0		Syria	Syria
+Overlay limit	Cyprus U.N. Buffer Zone	(UN Protrolled Zone)	-1	Cyprus U.N. Buffer Zone	Cyprus	CNM	CYP	CNM	CYP	Land	5	6	6.0	10.0			Cyp.
+Overlay limit	Cyprus U.N. Buffer Zone	(UN Protrolled Zone)	-1	Cyprus U.N. Buffer Zone	Cyprus	CNM	CYP	CNM	CYP	Land	5	6	6.0	10.0			Cyp.
+Overlay limit	Cyprus U.N. Buffer Zone	(UN Protrolled Zone)	-1	Cyprus U.N. Buffer Zone	Cyprus	CNM	CYP	CNM	CYP	Land	5	6	0.0	10.0			Cyp.
+International boundary (verify)			1	Siachen Glacier	China	KAS	CHN	KAS	CH1	Land	5	1	0.0	9.5		Siachen	China
+Indefinite (please verify)			1	Siachen Glacier	China	KAS	CHN	KAS	CH1	Land	5	1	0.0	9.5		Siachen	China
+International boundary (verify)			1	Malaysia	Indonesia	MYS	IDN	MYS	IDN	Land	2	1	0.0	8.0		Malay.	Indo.
+International boundary (verify)			1	Cyprus	Akrotiri Sovereign Base Area	CYP	WSB	CYP	GB1	Land	2	3	6.0	11.0		Cyp.	Akr.
+International boundary (verify)			1	Cyprus	Akrotiri Sovereign Base Area	CYP	WSB	CYP	GB1	Land	2	3	6.0	11.0		Cyp.	Akr.
+Disputed (please verify)			1	Guatemala	Belize	GTM	BLZ	GTM	BLZ	Land	2	1	0.0	10.0		Guat.	Belize
+International boundary (verify)			1	Chile	Argentina	CHL	ARG	CHL	ARG	Land	2	1	0.0	7.6		Chile	Arg.
+Indefinite (please verify)			1	Chile	Argentina	CHL	ARG	CHL	ARG	Land	2	1	0.0	7.6		Chile	Arg.
+International boundary (verify)			1	Portugal	Spain	PRT	ESP	PRT	ESP	Land	2	1	0.0	8.0		Port.	Sp.
+Disputed (please verify)			1	Portugal	Spain	PRT	ESP	PRT	ESP	Land	2	1	0.0	8.0		Port.	Sp.
+Line of control (please verify)			1	Western Sahara	Morocco	SAH	MAR	SAH	MAR	Land	5	1	0.0	11.0		W. Sah.	Mor.
+International boundary (verify)			1	Oman	United Arab Emirates	OMN	ARE	OMN	ARE	Land	2	1	0.0	9.0		Oman	U.A.E.
+International boundary (verify)			1	Bhutan	Bhutan	BTN	BTN	BTN	BTN	Land	2	1	0.0	9.0		Bhutan	Bhutan
+International boundary (verify)			1	Bhutan	China	BTN	CHN	BTN	CH1	Land	2	1	0.0	9.0		Bhutan	China
+Disputed (please verify)			1	Bhutan	China	BTN	CHN	BTN	CH1	Land	2	1	0.0	9.0		Bhutan	China
+Line of control (please verify)	Line of control		1	India	Pakistan	IND	PAK	IND	PAK	Land	2	1	0.0	7.6		India	Pak.
+International boundary (verify)			1	Bhutan	Bhutan	BTN	BTN	BTN	BTN	Land	2	1	0.0	9.0		Bhutan	Bhutan
+Disputed (please verify)			1	Bhutan	Bhutan	BTN	BTN	BTN	BTN	Land	2	1	0.0	9.0		Bhutan	Bhutan
+Disputed (please verify)			1	China	Bhutan	CHN	BTN	CH1	BTN	Land	2	1	6.0	5.7		China	Bhutan
+Disputed (please verify)			0	Russia	Ukraine	RUS	UKR	RUS	UKR	Land	2	1	0.0	7.6		Rus.	Ukr.

@@ -1,0 +1,1356 @@
+featurecla,scalerank,name,name_abb,name_alt,note,delta,dam_name,year,admin,min_zoom,min_label,label,wikidataid,name_ar,name_bn,name_de,name_en,name_es,name_fr,name_el,name_hi,name_hu,name_id,name_it,name_ja,name_ko,name_nl,name_pl,name_pt,name_ru,name_sv,name_tr,name_vi,name_zh,wdid_score,ne_id
+C,N,C,C,C,C,C,C,N,C,N,N,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,N,N
+Lake,9,Eğirdir,Egridir,,,New or modified in version 1.2,,-99,,7.0,8.0,Eğirdir,Q1334148,بحيرة اقيردير,,Eğirdir Gölü,Lake Eğirdir,Lago de Eğirdir,lac d'Eğirdir,,,,,,,,Lake Eğirdir,Eğridir,,Эгирдир,,Eğirdir Gölü,Hồ Eğirdir,埃伊爾迪爾湖,5,1159106675
+Lake,7,Beyşehir,Beysehir,,,New or modified in version 1.2,,-99,,5.7,6.7,Beyşehir,Q369923,,,Beyşehir Gölü,Lake Beyşehir,Lago de Beyşehir,lac de Beyşehir,,,,,lago di Beyşehir,,,Lake Beyşehir,Beyşehir,,Бейшехир,,Beyşehir Gölü,Hồ Beyşehir,貝伊謝希爾湖,5,1159106685
+Lake,5,Engozero,Engozero,,,New or modified in version 1.2,,-99,,4.7,6.0,Engozero,Q1342950,,,Engosero,Lake Engozero,Lago Engozero,lac Engozero,,,,,,,,Engozero,,,Энгозеро,,,,恩戈澤羅湖,5,1159106693
+Lake,4,Pääjärvi,Paajarvi,"Lake Pya, Ozero Pjaozero",,New or modified in version 1.2,,-99,,4.0,5.0,Pääjärvi,Q1458409,,,Pjaosero,Lake Pyaozero,Lago Piaozero,lac Piaozero,,,,,lago Pjaozero,,,Pjaozero,Piaoziero,,Пяозеро,,,,皮亞奧澤羅湖,5,1159106703
+Lake,9,Ozero Pitlyarskiy Sor,O. Pitlyarskiy Sor,Lake Pitlyarskiy Sor,,New or modified in version 1.2,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159106711
+Lake,0,Great Bear Lake,Great Bear L.,,,,,-99,,1.0,3.0,Great Bear Lake,Q5525,بحيرة الدب العظيم,,Großer Bärensee,Great Bear Lake,Gran Lago del Oso,Grand lac de l'Ours,Μεγάλη Λίμνη των Άρκτων,,Nagy-Medve-tó,,Grande Lago degli Orsi,グレートベア湖,그레이트베어 호,Great Bear Lake,Wielkie Jezioro Niedźwiedzie,Grande Lago do Urso,Большое Медвежье озеро,Stora Björnsjön,Büyük Ayı Gölü,Hồ Gấu lớn,大熊湖,4,1159106721
+Lake,0,Great Slave Lake,Great Slave L.,,,,,-99,,1.0,3.0,Great Slave Lake,Q5539,بحيرة جريت سليف,,Großer Sklavensee,Great Slave Lake,Gran Lago del Esclavo,Grand lac des Esclaves,Μεγάλη Λίμνη των Σκλάβων,,Nagy-Rabszolga-tó,,Grande Lago degli Schiavi,グレートスレーブ湖,그레이트슬레이브 호,Great Slave Lake,Wielkie Jezioro Niewolnicze,Grande Lago do Escravo,Большое Невольничье озеро,Stora Slavsjön,Büyük Esir Gölü,Hồ Slave Lớn,大奴湖,4,1159106729
+Lake,0,McLeod Bay,McLeod Bay,,,,,-99,,1.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159106739
+Lake,0,Lake Winnipeg,L. Winnipeg,,,,,-99,,1.0,3.0,Lake Winnipeg,Q3272,بحيرة وينيبيغ,,Winnipegsee,Lake Winnipeg,Lago Winnipeg,lac Winnipeg,Λίμνη Γουίνιπεγκ,,Winnipeg-tó,Danau Winnipeg,Winnipeg,ウィニペグ湖,위니펙 호,Winnipegmeer,Winnipeg,Lago Winnipeg,Виннипег,Winnipegsjön,Winnipeg Gölü,Hồ Winnipeg,溫尼伯湖,4,1159106747
+Lake,0,Lake Erie,L. Erie,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake Erie,Q5492,بحيرة إري,,Eriesee,Lake Erie,Erie,lac Érié,Λίμνη Ήρι,ईरी झील,Erie-tó,Danau Erie,lago Erie,エリー湖,이리 호,Eriemeer,Erie,Lago Erie,Эри,Eriesjön,Erie Gölü,Hồ Erie,伊利湖,4,1159106757
+Lake,0,Lake Ontario,L. Ontario,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake Ontario,Q1062,بحيرة أونتاريو,,Ontariosee,Lake Ontario,Ontario,lac Ontario,Λίμνη Οντάριο,ओण्टारियो झील,Ontario-tó,Danau Ontario,lago Ontario,オンタリオ湖,온타리오 호,Ontariomeer,Ontario,Lago Ontário,Онтарио,Ontariosjön,Ontario Gölü,Hồ Ontario,安大略湖,4,1159106765
+Lake,0,Lake Saint Clair,L. St. Clair,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake St. Clair,Q736707,,,Lake St. Clair,Lake Saint Clair,Lago Sainte-Claire,lac Sainte-Claire,,,,,lago St. Clair,セントクレア湖,세인트클레어 호,Saint Clairmeer,,Lago Saint Clair,Сент-Клэр,Lake St. Clair,,,聖克萊爾湖,5,1159106775
+Lake,1,Lake Okeechobee,L. Okeechobee,,,,,-99,,1.7,3.6,Lake Okeechobee,Q202905,بحيرة أوكي تشوبي,,Okeechobeesee,Lake Okeechobee,Lago Okeechobee,lac Okeechobee,,,,,lago Okeechobee,オキーチョビー湖,,Okeechobeemeer,Okeechobee,Lago Okeechobee,Окичоби,Lake Okeechobee,Okeechobee Gölü,,奧基喬比湖,4,1159106781
+Lake,1,Lago de Nicaragua,L. de Nicaragua,,,,,-99,,1.7,3.6,Lago de Nicaragua,Q173862,بحيرة نيكاراغوا,লেক নিকারাগুয়া,Nicaraguasee,Lake Nicaragua,Lago Cocibolca,lac Nicaragua,Λίμνη Νικαράγουα,,Nicaragua-tó,Danau Nikaragua,lago Nicaragua,ニカラグア湖,니카라과 호,Meer van Nicaragua,Nikaragua,Lago Nicarágua,Никарагуа,Nicaraguasjön,Nikaragua Gölü,Hồ Nicaragua,尼加拉瓜湖,5,1159106791
+Lake,4,,,,,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159106799
+Lake,2,Wollaston Lake,Wollaston L.,,,,,-99,,2.0,3.7,Wollaston Lake,Q1640500,,,Wollaston Lake,Wollaston Lake,Lago Wollaston,lac Wollaston,,,,,lago Wollaston,ウォラストン湖,,Wollastonmeer,Wollaston,,Вулластон,Wollaston Lake,,,伍拉斯顿湖,4,1159106809
+Lake,2,Reindeer Lake,Reindeer L.,,,,,-99,,2.0,3.7,Reindeer Lake,Q1134446,,,Reindeer Lake,Reindeer Lake,Lago Reindeer,lac Reindeer,,,,,lago delle Renne,,레인디어 호,Reindeer Lake,Jezioro Reniferowe,Lago Reindeer,Оленье озеро,Reindeer Lake,,,馴鹿湖,4,1159106817
+Lake,2,Lake of the Woods,L. of the Woods,,,,,-99,,2.0,5.0,Lake of the Woods,Q845876,بحيرة الغابات,,Lake of the Woods,Lake of the Woods,Lago de los Bosques,lac des Bois,,,,,lago dei Boschi,ウッズ湖,우즈 호,Lake of the Woods,Jezioro Leśne,Lago dos Bosques,Лесное,Lake of the Woods,,,伍茲湖,4,1159106825
+Lake,2,Lake Nipigon,L. Nipigon,,,,,-99,,2.0,3.7,Lake Nipigon,Q122184,بحيرة نيبيغون,,Nipigonsee,Lake Nipigon,Lago Nipigon,lac Nipigon,,,Nipigon-tó,,lago Nipigon,ニピゴン湖,니피곤 호,Nipigonmeer,Nipigon,Lago Nipigon,Нипигон,Lake Nipigon,,,尼皮贡湖,4,1159106833
+Lake,2,Lake Manitoba,L. Manitoba,,,,,-99,,2.0,3.7,Lake Manitoba,Q645901,,,Manitobasee,Lake Manitoba,Lago Manitoba,lac Manitoba,,,Manitoba-tó,,lago Manitoba,マニトバ湖,매니토바 호,Manitobameer,Manitoba,Lago Manitoba,Манитоба,Manitobasjön,,,馬尼托巴湖,4,1159106843
+Lake,2,Lake Winnipegosis,L. Winnipegosis,,,,,-99,,2.0,5.0,Lake Winnipegosis,Q934638,,,Winnipegosissee,Lake Winnipegosis,Lago Winnipegosis,lac Winnipegosis,,,,,lago Winnipegosis,ウィニペゴシス湖,,Lake Winnipegosis,Winnipegosis,Lago Winnipegosis,Виннипегосис,Lake Winnipegosis,,,溫尼伯戈西斯湖,4,1159106851
+Lake,2,Lake Athabasca,L. Athabasca,,,,,-99,,2.0,3.7,Lake Athabasca,Q272463,,,Athabascasee,Lake Athabasca,Lago Athabasca,lac Athabasca,,,Atabaszk-tó,,Athabasca,アサバスカ湖,,Athabascameer,Athabaska,Lago Athabasca,Атабаска,Athabascasjön,Athabasca Gölü,,阿薩巴斯卡湖,4,1159106863
+Lake,2,Lake Mistassini,L. Mistassini,,,,,-99,,2.0,3.7,Lake Mistassini,Q1458051,,,Mistassinisee,Lake Mistassini,Lago Mistassini,lac Mistassini,,,,,lago Mistassini,,,Lake Mistassini,Mistassini,,Мистассини,Lac Mistassini,,,米斯塔西尼湖,4,1159106873
+Lake,3,Oneida Lake,Oneida L.,,,,,-99,,3.0,4.0,Oneida Lake,Q1247231,,,Oneida Lake,Oneida Lake,,lac Oneida,,,,,lago Oneida,オナイダ湖,,Oneida Lake,,,Онейда,Oneida,,,奧奈達湖,4,1159106881
+Lake,3,Iliamna Lake,Iliamna L.,,,,,-99,,3.0,4.0,Iliamna Lake,Q965436,,,Iliamna Lake,Iliamna Lake,Lago Iliamna,lac Iliamna,,,Iliamna-tó,,,,,Iliamna Lake,Iliamna,,Илиамна,,,,伊利亞姆納湖,4,1159106893
+Lake,3,,,,_untitled_1,,,-99,,3.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159106899
+Lake,3,Lake Tahoe,L. Tahoe,,,,,-99,,3.0,4.0,Lake Tahoe,Q169962,بحيرة تاهو,,Lake Tahoe,Lake Tahoe,Lago Tahoe,lac Tahoe,Λίμνη Τάχο,,Tahoe-tó,Danau Tahoe,lago Tahoe,タホ湖,타호 호,Lake Tahoe,Tahoe,Lago Tahoe,Тахо,Tahoesjön,Tahoe Gölü,Hồ Tahoe,太浩湖,4,1159106907
+Lake,3,Lake Winnebago,L. Winnebago,,,,,-99,,3.0,6.0,Lake Winnebago,Q1801110,بحيرة ويني باجو,,Lake Winnebago,Lake Winnebago,Lago Winnebago,lac Winnebago,,,,,lago Winnebago,ウィネベーゴ湖,,Lake Winnebago,Winnebago,Lago Winnebago,,,,,溫納貝戈湖,4,1159106917
+Lake,3,Nettilling Lake,Nettilling L.,,,,,-99,,3.0,4.0,Nettilling Lake,Q1132211,,,Nettilling Lake,Nettilling Lake,Lago Nettilling,lac Nettilling,,,,,lago Nettilling,ネチリング湖,네틸링 호,Nettilling Lake,Nettilling,Lago Nettilling,Неттиллинг,Nettilling Lake,,,納蒂靈湖,4,1159106925
+Lake,3,Dubawnt Lake,Dubawnt L.,,,,,-99,,3.0,4.0,Dubawnt Lake,Q1262967,,,Dubawntsee,Dubawnt Lake,Lago Dubawnt,lac Dubawnt,,,,,lago Dubawnt,,,Dubawnt Lake,Dubawnt,,Дубонт,Dubawnt Lake,,,杜邦特湖,4,1159106935
+Lake,3,Baker Lake,Baker L.,,,,,-99,,3.0,4.0,Baker Lake,Q1391737,,,Baker Lake,Baker Lake,Lago Baker,lac Baker,,,,,,ベイカー湖,,Baker Lake,,Lago Baker,Бейкер,,,,,4,1159106943
+Lake,3,Lake Champlain,L. Champlain,,,,,-99,,3.0,4.0,Lake Champlain,Q68467,بحيرة شامبلين,,Lake Champlain,Lake Champlain,Lago Champlain,lac Champlain,,,,Danau Champlain,lago Champlain,シャンプレーン湖,챔플레인 호,Champlainmeer,Champlain,Lago Champlain,Шамплейн,Champlainsjön,Champlain Gölü,,尚普蘭湖,4,1159106953
+Lake,3,Churchill Lake,Churchill L.,,,,,-99,,3.0,4.0,Churchill Lake,Q1089891,,,Churchill Lake,Churchill Lake,,lac Churchill,,,,,,,,,,,Черчилл,Churchill Lake,,,丘吉爾湖,4,1159106961
+Lake,3,Lac la Martre,L. la Martre,,,,,-99,,3.0,4.0,Lac la Martre,Q1516443,,,Lac la Martre,Lac La Martre,Lago la Martre,lac La Martre,,,,,,,,,,,Ла-Мартр,Lac la Martre,,,馬特爾湖,4,1159106971
+Lake,4,Keuka Lake,Keuka L.,Finger Lakes,,,,-99,,4.0,5.0,Keuka Lake,Q1335725,,,Keuka Lake,Keuka Lake,,lac Keuka,,,,,Lago Keuka,キューカ湖,,Keuka Lake,,,,,,,,4,1159106979
+Lake,4,Seneca Lake,Seneca L.,Finger Lakes,,,,-99,,4.0,5.0,Seneca Lake,Q1552706,,,Seneca Lake,Seneca Lake,,lac Seneca,,,,,lago Seneca,セネカ湖,,Seneca Lake,,Lago Seneca,Сенека,,,,塞內卡湖,4,1159106989
+Lake,4,Cayuga Lake,Cayuga L.,Finger Lakes,,,,-99,,4.0,5.0,Cayuga Lake,Q731175,,,Cayuga Lake,Cayuga Lake,,lac Cayuga,,,,,lago Cayuga,ケイユーガ湖,,Cayuga Lake,,Lago Cayuga,,,,,卡尤加湖,4,1159106997
+Lake,4,Cree Lake,Cree L.,,,,,-99,,4.0,5.0,Cree Lake,Q945023,,,Cree Lake,Cree Lake,Lago Cree,Cree Lake,,,,,,クリー湖,,Cree Lake,,Lago Cree,Кри,Cree Lake,,,克里湖,4,1159107007
+Lake,4,,,,_untitled_29,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107015
+Lake,4,Kasba Lake,Kasba L.,,,,,-99,,4.0,5.0,Kasba Lake,Q719538,,,Kasba Lake,Kasba Lake,Lago Kasba,lac Kasba,,,,,,カスバ湖,,Kasba Lake,,,Касба,Kasba Lake,Kasba Gölü,,卡斯巴湖,4,1159107025
+Lake,4,,,,_untitled_28,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107033
+Lake,4,Lac-à-l'Eau-Claire,Lac-à-l'Eau-Claire,,,,,-99,,4.0,5.0,Lac-à-l'Eau-Claire,Q1699973,,,Lac à l’Eau Claire,Wiyâshâkimî Lake,Lagos Clearwater,lac Wiyâshâkimî,,,,,,,,Clearwater Lakes,Lac à l'Eau Claire,,Клируотер,Lac à l'Eau Claire,,,歐克萊爾湖,5,1159107045
+Lake,4,Lake Nipissing,L. Nipissing,,,,,-99,,4.0,5.0,Lake Nipissing,Q1356838,,,Lake Nipissing,Lake Nipissing,Lago Nipissing,lac Nipissing,,,,,lago Nipissing,ニピシング湖,,Nipissingmeer,Nipissing,,Ниписсинг,Nipissingsjön,,,尼皮辛湖,4,1159107053
+Lake,4,,,,_untitled_27,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107065
+Lake,4,,,,_untitled_26,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107077
+Lake,4,,,,_untitled_25,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107087
+Lake,4,,,,_untitled_24,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107099
+Lake,4,Lake Sakami,L. Sakami,,,,,-99,,4.0,5.0,Lake Sakami,Q1799611,,,Lac Sakami,Lac Sakami,,lac Sakami,,,,,,,,,,,,Lac Sakami,,,薩卡米湖,5,1159107115
+Lake,4,,,,_untitled_23,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107123
+Lake,4,Scott Lake,Scott L.,,,,,-99,,4.0,5.0,Scott Lake,Q7359166,,,,Scott Lake,,Scott Lake,,,,,,,,,,,,,,,,4,1159107139
+Lake,4,,,,_untitled_9,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107149
+Lake,4,,,,_untitled_8,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107159
+Lake,4,,,,_untitled_7,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107173
+Lake,4,,,,_untitled_0,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107185
+Lake,4,Yellowstone Lake,Yellowstone L.,,,,,-99,,4.0,5.0,Yellowstone Lake,Q923693,بحيرة يلوستون,,Yellowstone Lake,Yellowstone Lake,Lago Yellowstone,lac Yellowstone,,,,,lago Yellowstone,,옐로스톤 호,Yellowstonemeer,Yellowstone,,Йеллоустон,Yellowstonesjön,,,黃石湖,4,1159107195
+Lake,4,Teshekpuk Lake,Teshekpuk L.,,,,,-99,,4.0,5.0,Teshekpuk Lake,Q3518981,,,,Teshekpuk Lake,,Teshekpuk Lake,,,,,,,,,,,Тешекпук,,,,,4,1159107207
+Lake,4,Flathead Lake,Flathead L.,,,,,-99,,4.0,5.0,Flathead Lake,Q1427364,,,Flathead Lake,Flathead Lake,Lago Flathead,lac Flathead,,,,,lago Flathead,フラットヘッド湖,플랫헤드 호,Flathead Lake,,,Флатхед,Flathead Lake,Flathead Gölü,Hồ Flathead,,4,1159107217
+Lake,4,Lake Claire,L. Clare,,,,,-99,,4.0,5.0,Lake Claire,Q1534419,,,Lake Claire,Lake Claire,Lago Claire,lac Claire,,,,,lago Claire,クレア湖,,Clairemeer,Jezioro Claire,Lago Claire,Клэр,Lake Claire,,,克萊爾湖,5,1159107229
+Lake,5,Lago de Izabal,L. de Izabal,,,,,-99,,4.7,6.0,Lago de Izabal,Q138637,,,Izabal-See,Lake Izabal,Lago de Izabal,lac Izabal,,,Izabal-tó,Danau Izabal,,イサバル湖,이사발 호,Izabalmeer,Izabal,Lago de Izabal,Исабаль,Departamento de Izabal,,Hồ Izabal,伊薩瓦爾湖,5,1159107241
+Lake,5,Lago de Chapala,L. de Chapala,,,,,-99,,4.7,6.0,Lago de Chapala,Q318350,,,Chapalasee,Lake Chapala,Lago de Chapala,lac de Chapala,,,Chapalai-tó,,lago di Chapala,,,Chapalameer,Chapala,Lago de Chapala,Чапала,,,,查帕拉湖,5,1159107251
+Lake,5,Lago de Managua,L. de Managua,Lake Xolotln,,,,-99,,4.7,6.0,Lago de Managua,Q21052208,,,,,,,,,,,,,,,,,,Lago de Managua,,,,5,1159107259
+Lake,5,Rainy Lake,Rainy L.,,,,,-99,,4.7,6.0,Rainy Lake,Q202019,بحيرة ريني، انترناشيونال فولس,,Rainy Lake,Rainy Lake,Lago Rainy,lac à la Pluie,,,,,,レイニー湖,,Rainy Lake,Rainy,Lago Rainy,Рейни-Лейк,Rainy Lake,,,雷尼湖,4,1159107275
+Lake,5,Split Lake,Split L.,,,,,-99,,4.7,6.0,Split Lake,Q7375301,,,,Split Lake,,Split Lake,,,,,,,,,,,,Split Lake,,,,4,1159107285
+Lake,5,Lake St. Joseph,L. St. Joseph,,,,,-99,,4.7,6.0,Lake St. Joseph,Q659225,,,Lake St. Joseph,Lake St. Joseph,,lac Saint-Joseph,,,,,,,,Lake St. Joseph,,,Сент-Джозеф,Lake St. Joseph,,,聖約瑟夫湖,4,1159107297
+Lake,5,Amadjuak Lake,Amadjuak L.,,,,,-99,,4.7,6.0,Amadjuak Lake,Q452088,,,Amadjuak Lake,Amadjuak Lake,Lago Amadjuak,lac Amadjuak,,,,,lago Amadjuak,,,Amadjuak Lake,Amadjuak,,Амаджуак,Amadjuak Lake,,,阿馬朱瓦克湖,4,1159107307
+Lake,5,Teslin Lake,Teslin L.,,,,,-99,,4.7,6.0,Teslin Lake,Q283793,,,Teslin Lake,Teslin Lake,,lac Teslin,,,,,,,,,,Lago Teslin,Теслин,Teslin Lake,,,,4,1159107319
+Lake,5,Lake Bienville,L. Bienville,,,,,-99,,4.7,6.0,Lake Bienville,Q1496993,,,Lac Bienville,Lac Bienville,Lago Bienville,lac Bienville,,,,,,,,Lac Bienville,,,Бьенвиль,Lac Bienville,,,比安維爾湖,5,1159107323
+Lake,5,Lake Pend Oreille,L. Pend Oreille,,,,,-99,,4.7,6.0,Lake Pend Oreille,Q1632195,,,Lake Pend Oreille,Lake Pend Oreille,Lago Pend Oreille,lac Pend Oreille,,,,,,,,Lake Pend Oreille,,,Панд-Орей,,,,庞多雷湖,4,1159107335
+Lake,5,Canandaigua Lake,Canandaigua L.,Finger Lakes,,,,-99,,4.7,6.0,Canandaigua Lake,Q1032768,,,Canandaigua Lake,Canandaigua Lake,,lac Canandaigua,,,,,lago Canandaigua,カナデーグア湖,,Canandaigua Lake,,,,,,,,4,1159107347
+Lake,5,Owasco Lake,Owasco L.,Finger Lakes,,,,-99,,4.7,6.0,Owasco Lake,Q1339170,,,Owasco Lake,Owasco Lake,,Owasco Lake,,,,,lago Owasco,オワスコ湖,,Owasco Lake,,,,,,,,4,1159107357
+Lake,5,Skaneateles Lake,Skaneateles L.,Finger Lakes,,,,-99,,4.7,6.0,Skaneateles Lake,Q1333432,,,Skaneateles Lake,Skaneateles Lake,,Skaneateles Lake,,,,,lago Skaneateles,スカネアトレス湖,,Skaneateles Lake,,,,,,,斯卡尼阿特勒斯湖,4,1159107371
+Lake,5,,,,_untitled_19,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107379
+Lake,5,Bear Lake,Bear L.,,,,,-99,,4.7,6.0,Bear Lake,Q812997,,,Bear Lake,Bear Lake,Lago del Oso,lac Bear,,,,,,ベアー湖,,Bear Lake,,,Бэр,,,,,4,1159107393
+Lake,5,Utah Lake,Utah L.,,,,,-99,,4.7,6.0,Utah Lake,Q729974,,,Utahsee,Utah Lake,Lago Utah,lac Utah,,,,,lago Utah,ユタ湖,,Utah Lake,Utah,Lago Utah,Юта,Utahsjön,,,犹他湖,4,1159107397
+Lake,5,,,,_untitled_18,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107413
+Lake,5,Leech Lake,Leech L.,,,,,-99,,4.7,6.0,Leech Lake,Q1812063,بحيرة ليتش، والكر,,Leech Lake,Leech Lake,Lago Leech,lac Leech,,,,,,リーチ湖,,Leechmeer,,,Лич-Лейк,Leech Lake,,,,4,1159107427
+Lake,5,Lac des Mille Lacs,L. des Mille Lacs,,,,,-99,,4.7,6.0,Lac des Mille Lacs,Q3215670,,,Lac des Mille Lacs,Lac des Mille Lacs,,lac des Mille Lacs,,,,,,,,Lac des Mille Lacs,,,,Lac des Mille Lacs,,,,4,1159107441
+Lake,5,Trout Lake,Trout L.,,,,,-99,,4.7,6.0,Trout Lake,Q1638242,,,Trout Lake,Trout Lake,,,,,,,,,,,,,,,,,特勞特湖,4,1159107451
+Lake,5,Lake Rossignol,L. Rossignol,,,,,-99,,4.7,6.0,Lake Rossignol,Q3215164,,,,Lake Rossignol,,lac Rossignol,,,,,,,,,,,,Lake Rossignol,,,,4,1159107465
+Lake,5,Grand Lake,Grand L.,,,,,-99,,4.7,6.0,Grand Lake,Q1275436,,,Grand Lake,Grand Lake,,Grand Lake,,,,,,グランド湖,,Grand Lake,,Lago Grand,Гранд-Лейк,Grand Lake,,,格蘭德湖,4,1159107475
+Lake,5,Black Lake,BL.k L.,,,,,-99,,4.7,6.0,Black Lake,Q880358,,,Black Lake,Black Lake,,Black Lake,,,,,,ブラック湖,,,,,Блэк-Лейк,Black Lake,,,布萊克湖,4,1159107491
+Lake,5,Lake Louise,L. Louise,,,,,-99,,4.7,6.0,,Q1343275,,,Lake Louise,Lake Louise,Lake Louise,Lake Louise,,,,,Lake Louise,,,Lake Louise,,Lake Louise,Лейк-Луис,Lake Louise,,,,0,1159107499
+Lake,5,Bluenose Lake,Bluenose L.,,,,,-99,,4.7,6.0,Bluenose Lake,Q886010,,,Bluenose Lake,Bluenose Lake,,Bluenose Lake,,,,,,,,Bluenose Lake,,,Блуноз,Bluenose Lake,,,布盧諾斯湖,4,1159107513
+Lake,5,Grand Lake,Grand L.,,,,,-99,,4.7,6.0,Grand Lake,Q1275436,,,Grand Lake,Grand Lake,,Grand Lake,,,,,,グランド湖,,Grand Lake,,Lago Grand,Гранд-Лейк,Grand Lake,,,格蘭德湖,4,1159107521
+Lake,5,,,,_untitled_6,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107535
+Lake,5,Colville Lake,Colville L.,,,,,-99,,4.7,6.0,Colville Lake,Q1112986,,,Colville Lake,Colville Lake,Lago Colville,Colville Lake,,,,,,,,Colville Lake,,,Колвилл,Colville Lake,,,科爾維爾湖,4,1159107549
+Lake,5,Hottah Lake,Hottah L.,,,,,-99,,4.7,6.0,Hottah Lake,Q1631233,,,Hottah Lake,Hottah Lake,Lago Hottah,lac Hottah,,,,,,,,Hottah Lake,,,Хотта,Hottah Lake,,,霍塔湖,4,1159107563
+Lake,5,Big Trout Lake,Big Trout L.,,,,,-99,,4.7,6.0,Big Trout Lake,Q859461,,,Big Trout Lake,Big Trout Lake,,lac Big Trout,,,,,,,,,,,Биг-Траут,Big Trout Lake,,,大特勞特湖,4,1159107573
+Lake,5,Trout Lake,Trout L.,,,,,-99,,4.7,6.0,Trout Lake,Q1638242,,,Trout Lake,Trout Lake,,,,,,,,,,,,,,,,,特勞特湖,4,1159107587
+Lake,5,Island Lake,Island L.,,,,,-99,,4.7,6.0,Island Lake,Q179505,,,Island Lake,Island Lake,Lago Island,lac Island,,,,,lago Island,,,Island Lake,,,Айленд,Island Lake,,,,4,1159107599
+Lake,5,Lake Naococane,L. Naococane,,,,,-99,,4.7,6.0,Lake Naococane,Q3215083,,,Lac Naococane,Lake Naococane,,lac Naococane,,,,,,,,,,,,Lac Naococane,,,,4,1159107609
+Lake,5,Lac la Ronge,L. la Ronge,,,,,-99,,4.7,6.0,Lac la Ronge,Q250257,,,Lac la Ronge,Lac la Ronge,Lago La Ronge,lac la Ronge,,,,,,,,Lac la Ronge,,,Ла-Ронж,Lac la Ronge,,,拉龍日湖,4,1159107627
+Lake,5,Mille Lacs Lake,Mille Lacs L.,,,,,-99,,4.7,6.0,Mille Lacs Lake,Q1600016,بحيرة ميل لاكس، غاريسون,,Mille Lacs Lake,Mille Lacs Lake,Lago Mille Lacs,lac des Mille Lacs,,,,,,ミラックス湖,,Mille Lacs Lake,,,,Mille Lacs Lake,,,米拉湖,4,1159107635
+Lake,5,Lower Red Lake,Lower Red L.,,,,,-99,,4.7,6.0,Lower Red Lake,Q1320568,بحيرة ريد,,Red Lake,Red Lake,Lago Red,Red Lake,,,,,,レッド湖,,Red Lake,,,,,,,,5,1159107655
+Lake,5,Upper Red Lake,Upper Red L.,,,,,-99,,4.7,6.0,Upper Red Lake,Q1320568,بحيرة ريد,,Red Lake,Red Lake,Lago Red,Red Lake,,,,,,レッド湖,,Red Lake,,,,,,,,5,1159107661
+Lake,5,Lake Winnipesaukee,L. Winnipesaukee,,,,,-99,,4.7,6.0,Lake Winnipesaukee,Q224872,,,Lake Winnipesaukee,Lake Winnipesaukee,Lago Winnipesaukee,lac Winnipesaukee,,,,,lago Winnipesaukee,ウィニペソーキ湖,,Lake Winnipesaukee,,Lago Winnipesaukee,Уиннипесоки,,,,温尼珀索基湖,4,1159107675
+Lake,5,Lake Simcoe,L. Simcoe,,,,,-99,,4.7,6.0,Lake Simcoe,Q366985,,,Lake Simcoe,Lake Simcoe,Lago Simcoe,lac Simcoe,,,Simcoe-tó,,lago Simcoe,シムコー湖,,Simcoemeer,Simcoe,Lago Simcoe,Симко,Lake Simcoe,,,錫姆科湖,4,1159107689
+Lake,5,Gods Lake,Gods L.,,,,,-99,,4.7,6.0,Gods Lake,Q1533897,,,Gods Lake,Gods Lake,Lago Gods,lac Gods,,,,,,ゴッズ湖,,Gods Lake,,Lago Gods,Годс,Gods Lake,,,戈茲湖,4,1159107699
+Lake,5,Yathkyed Lake,Yathkyed L.,,,,,-99,,4.7,6.0,Yathkyed Lake,Q1888261,,,Yathkyed Lake,Yathkyed Lake,Lago Yathkyed,Yathkyed Lake,,,,,,,,Yathkyed Lake,,,Яткайед,Yathkyed Lake,,,亞斯凱德湖,4,1159107715
+Lake,5,,,,_untitled_5,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107735
+Lake,5,,,,_untitled_4,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107747
+Lake,5,,,,_untitled_3,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107757
+Lake,5,,,,_untitled_2,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107859
+Lake,5,,,,_untitled_1,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107873
+Lake,5,,,Tikchik Lakes,,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107889
+Lake,5,,,Tikchik Lakes,,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107899
+Lake,5,,,Tikchik Lakes,,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107913
+Lake,5,,,Tikchik Lakes,,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159107927
+Lake,6,Aylmer Lake,Aylmer L.,,,,,-99,,5.0,6.5,Aylmer Lake,Q793085,,,Aylmer Lake,Aylmer Lake,,lac Aylmer,,,,,,,,Aylmer Lake,,Lago Aylmer,Эйлмер,Aylmer Lake,,,艾爾默湖,4,1159107937
+Lake,6,Clinton-Colden Lake,Clinton-Colden L.,,,,,-99,,5.0,6.5,Clinton-Colden Lake,Q1101640,,,Clinton-Colden Lake,Clinton-Colden Lake,,lac Clinton-Colden,,,,,,クリントン＝コールデン湖,,Clinton-Colden Lake,,,Клинтон-Колден,Clinton-Colden Lake,,,克林頓科爾登湖,4,1159107951
+Lake,6,Lac Île-à-la-Crosse,L. Île-à-la-Crosse,,,,,-99,,5.0,6.5,Lac Île-à-la-Crosse,Q6468085,,,Lac Île-à-la-Crosse,Lac Île-à-la-Crosse,,lac Île-à-la-Crosse,,,,,,,,,,,,Lac Île-à-la-Crosse,,,,4,1159107967
+Lake,6,Wholdaia Lake,Wholdaia L.,,,,,-99,,5.0,6.5,Wholdaia Lake,Q1606564,,,Wholdaia Lake,Wholdaia Lake,,lac Wholdaia,,,,,,,,Wholdaia Lake,,,Уолдайа,Wholdaia Lake,,,霍爾達亞湖,4,1159107971
+Lake,6,Tehek Lake,Tehek L.,,,,,-99,,5.0,6.5,Tehek Lake,Q1328351,,,Tehek Lake,Tehek Lake,,,,,,,,,,,,,Техек,Tehek Lake,,,蒂希克湖,4,1159107987
+Lake,6,Lake George,L. George,,,,,-99,,5.0,6.5,Lake George,Q1800933,بحيرة جورج,,Lake George,Lake George,,lac George,,,,,,,,,,,,,,,,4,1159108003
+Lake,6,Lake Havasu,L. Havasu,,,,,-99,,5.0,6.5,Lake Havasu,Q451522,,,Lake Havasu,Lake Havasu,,Lake Havasu,,,,,,ハヴァス湖,하바수 호,Lake Havasu,,Lake Havasu,,,,,,4,1159108013
+Lake,6,Point Lake,Point L.,,,,,-99,,5.0,6.5,Point Lake,Q1233362,,,Point Lake,Point Lake,,lac Point,,,,,,,,,,,Пойнт,Point Lake,,,波因特湖,4,1159108035
+Lake,6,Upper Klamath Lake,Upper Klamath L.,,,,,-99,,5.0,6.5,Upper Klamath Lake,Q1972978,,,Upper Klamath Lake,Upper Klamath Lake,Lago Upper Klamath,lac Klamath supérieur,,,,,Upper Klamath Lake,アッパークラマス湖,,Upper Klamath Lake,,,Аппер-Кламат,,,,,4,1159108051
+Lake,6,Chiputneticook Lakes,Chiputneticook Lakes,,,,,-99,admin-0,5.0,6.5,Chiputneticook Lakes,Q3215856,,,,Chiputneticook Lakes,,lacs Chiputneticook,,,,,,チプトネティクック湖,,,,,,Chiputneticook Lakes,,,,4,1159108063
+Lake,6,Aishihik Lake,Aishik L.,,,,,-99,,5.0,6.5,Aishihik Lake,Q3214697,,,Aishihik Lake,Aishihik Lake,,lac Aishihik,,,,,,,,,,,Эйшихик,Aishihik Lake,,,,5,1159108077
+Lake,6,,,,_untitled_39,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108091
+Lake,6,,,,_untitled_38,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108105
+Lake,6,Lake Clark,L. Clark,,,,,-99,,5.0,6.5,Lake Clark,Q1476428,,,Lake Clark,Lake Clark,,Clark Lake,,,Clark-tó,,,,,Lake Clark,,,Кларк,,Clark Gölü,,,4,1159108117
+Lake,6,,,,_untitled_37,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108131
+Lake,6,,,,_untitled_36,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108145
+Lake,6,,,,_untitled_35,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108157
+Lake,6,,,,_untitled_34,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108171
+Lake,6,,,,_untitled_33,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108183
+Lake,6,,,,_untitled_27,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108199
+Lake,6,,,,_untitled_26,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108211
+Lake,6,,,,_untitled_25,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108225
+Lake,6,,,,_untitled_24,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108237
+Lake,6,,,,_untitled_23,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108251
+Lake,6,,,,_untitled_21,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108267
+Lake,6,,,,_untitled_20,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108279
+Lake,6,,,,_untitled_19,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108291
+Lake,6,,,,_untitled_18,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108305
+Lake,6,,,,_untitled_17,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108319
+Lake,6,,,,_untitled_16,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108339
+Lake,6,,,,_untitled_15,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108347
+Lake,6,,,,_untitled_14,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108359
+Lake,6,,,,_untitled_13,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108369
+Lake,6,,,,_untitled_12,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108391
+Lake,6,,,,_untitled_11,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108399
+Lake,6,,,,_untitled_10,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108417
+Lake,6,,,,_untitled_9,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108429
+Lake,6,,,,_untitled_8,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108445
+Lake,6,,,,_untitled_7,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108453
+Lake,6,,,,_untitled_6,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108469
+Lake,6,,,,_untitled_5,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108483
+Lake,6,,,,_untitled_4,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108493
+Lake,6,,,,_untitled_3,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108505
+Lake,6,,,,_untitled_2,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108519
+Lake,6,,,,_untitled_1,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108539
+Lake,6,,,,_untitled_0,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159108549
+Lake,7,Canyon Ferry Lake,Canyon Ferry L.,,,,,-99,,5.7,6.7,Canyon Ferry Lake,Q5034204,,,Canyon Ferry Lake,Canyon Ferry Lake,,Canyon Ferry Lake,,,,,,,,,,,,,,,,4,1159108561
+Lake,7,Jackson Lake,Jackson L.,,,,,-99,,5.7,6.7,Jackson Lake,Q1589175,,,Jackson Lake,Jackson Lake,Lago Jackson,lac Jackson,,,,,lago Jackson,,,Jackson Lake,,,Джексон,,,,,4,1159108581
+Lake,7,Cass Lake,Cass L.,,,,,-99,,5.7,6.7,Cass Lake,Q5049166,بحيرة كاس ليك,,,Cass Lake,Lago Cass,Cass Lake,,,,,,,,,,,,,,,,4,1159108595
+Lake,7,Lake Winnibigoshish,L. Winnibigoshish,,,,,-99,,5.7,6.7,Lake Winnibigoshish,Q6478519,بحيرة وينيبيغوشيش، دير ريفر,,,Lake Winnibigoshish,Lago Winnibigoshish,Lake Winnibigoshish,,,,,,,,,,,,,,,,4,1159108611
+Lake,7,,,,_untitled_132,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108619
+Lake,7,,,,_untitled_122,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108635
+Lake,7,Marmion Lake,Marmion L.,,,,,-99,,5.7,6.7,Marmion Lake,Q6772137,,,,Marmion Lake,,Marmion Lake,,,,,,,,,,,,Marmion Lake,,,,4,1159108645
+Lake,7,Lac du Bonnet,L. du Bonnet,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108663
+Lake,7,,,,_untitled_121,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108673
+Lake,7,,,,_untitled_120,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108693
+Lake,7,,,,_untitled_119,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108703
+Lake,7,,,,_untitled_116,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108715
+Lake,7,Sandy Lake,Sandy L.,,,,,-99,,5.7,6.7,Sandy Lake,Q1888921,,,Sandy Lake,Sandy Lake,,Sandy Lake,,,,,,,,Sandy Lake,,,Санди-Лейк,Sandy Lake,,,桑迪湖,4,1159108729
+Lake,7,,,,_untitled_115,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108745
+Lake,7,,,,_untitled_114,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108763
+Lake,7,,,,_untitled_113,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108773
+Lake,7,,,,_untitled_112,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108791
+Lake,7,,,,_untitled_111,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108805
+Lake,7,,,,_untitled_110,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108815
+Lake,7,,,,_untitled_109,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108825
+Lake,7,,,,_untitled_108,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108835
+Lake,7,,,,_untitled_107,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108847
+Lake,7,,,,_untitled_106,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108859
+Lake,7,Kluane Lake,Kluane L.,,,,,-99,,5.7,6.7,Kluane Lake,Q1776556,,,Kluane Lake,Kluane Lake,,lac Kluane,,,,,,,,Kluane Lake,,,Клуэйн,Kluane Lake,,,克盧恩湖,4,1159108871
+Lake,7,,,,_untitled_105,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108887
+Lake,7,Lynx Lake,Lynx L.,,,,,-99,,5.7,6.7,Lynx Lake,Q4262256,,,,Lynx Lake,,Lynx Lake,,,,,,,,,,,Линкс,,,,,4,1159108899
+Lake,7,,,,_untitled_104,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108915
+Lake,7,,,,_untitled_103,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108931
+Lake,7,,,,_untitled_102,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108939
+Lake,7,,,,_untitled_101,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108953
+Lake,7,,,,_untitled_99,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108967
+Lake,7,Lake Traverse,L. Traverse,,,,,-99,,5.7,6.7,Lake Traverse,Q1493200,بحيرة ترافيرس، براونز فالي,,Lake Traverse,Lake Traverse,,lac Traverse,,,,,,,,Lake Traverse,,,,Lake Traverse,,,,4,1159108979
+Lake,7,,,,_untitled_94,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159108993
+Lake,7,,,,_untitled_93,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109007
+Lake,7,Washburn Lake,Washburn L.,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109021
+Lake,7,Takijuq Lake,Takijuq L.,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109029
+Lake,7,Sebago Lake,Sebago L.,,,,,-99,,5.7,6.7,Sebago Lake,Q1781818,,,Sebago Lake,Sebago Lake,,Sebago Lake,,,,,,,,Sebago Lake,,,Себейго,,,,,4,1159109043
+Lake,7,Moosehead Lake,Moosehead L.,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109051
+Lake,7,Lake Kissimmee,L. Kissimmee,,,,,-99,,5.7,6.7,Lake Kissimmee,Q3214981,,,,Lake Kissimmee,,lac Kissimmee,,,,,,,,,,,Киссимми,,,,,4,1159109065
+Lake,7,,,,_untitled_86,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109075
+Lake,7,,,,_untitled_85,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109085
+Lake,7,,,,_untitled_84,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109097
+Lake,7,,,,_untitled_83,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109111
+Lake,7,,,,_untitled_82,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109119
+Lake,7,,,,_untitled_81,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109135
+Lake,7,,,,_untitled_80,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109147
+Lake,7,,,,_untitled_79,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109155
+Lake,7,,,,_untitled_78,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109169
+Lake,7,,,,_untitled_77,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109179
+Lake,7,,,,_untitled_76,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109187
+Lake,7,,,,_untitled_74,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109203
+Lake,7,,,,_untitled_73,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109213
+Lake,7,,,,_untitled_72,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109223
+Lake,7,,,,_untitled_71,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109239
+Lake,7,,,,_untitled_70,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109245
+Lake,7,,,,_untitled_69,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109261
+Lake,7,,,,_untitled_68,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109275
+Lake,7,,,,_untitled_67,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109285
+Lake,7,,,,_untitled_66,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109299
+Lake,7,,,,_untitled_65,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109305
+Lake,7,,,,_untitled_64,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109317
+Lake,7,,,,_untitled_63,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109329
+Lake,7,,,,_untitled_62,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109347
+Lake,7,,,,_untitled_61,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109353
+Lake,7,,,,_untitled_60,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109369
+Lake,7,,,,_untitled_59,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109377
+Lake,7,,,,_untitled_58,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109385
+Lake,7,,,,_untitled_57,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109395
+Lake,7,,,,_untitled_56,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109407
+Lake,7,,,,_untitled_55,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109421
+Lake,7,,,,_untitled_54,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109439
+Lake,7,,,,_untitled_53,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109455
+Lake,7,,,,_untitled_52,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109471
+Lake,7,Keller Lake,Keller L.,,,,,-99,,5.7,6.7,Keller Lake,Q1328483,,,Keller Lake,Keller Lake,,Keller Lake,,,,,,,,Keller Lake,,,Келлер,Keller Lake,,,,4,1159109483
+Lake,7,,,,_untitled_51,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109497
+Lake,7,,,,_untitled_50,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109515
+Lake,7,Tathlina Lake,Tathlina L.,,,,,-99,,5.7,6.7,Tathlina Lake,Q1630256,,,Tathlina Lake,Tathlina Lake,,lac Tathlina,,,,,,タスリナ湖,,,,,Татлина,Tathlina Lake,,,塔斯利納湖,4,1159109533
+Lake,7,Selwyn Lake,Selwyn L.,,,,,-99,,5.7,6.7,Selwyn Lake,Q671712,,,Selwyn Lake,Selwyn Lake,,Selwyn Lake,,,,,,,,Selwyn Lake,,,Селуин,Selwyn Lake,,,塞爾溫湖,4,1159109547
+Lake,7,,,,_untitled_48,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109553
+Lake,7,,,,_untitled_47,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109567
+Lake,7,,,,_untitled_46,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109581
+Lake,7,,,,_untitled_45,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109593
+Lake,7,Nonacho Lake,Nonacho L.,,,,,-99,,5.7,6.7,Nonacho Lake,Q733206,,,Nonacho Lake,Nonacho Lake,,lac Nonacho,,,,,,,,Nonacho Lake,,,Ноначо,Nonacho Lake,,,諾納科湖,4,1159109607
+Lake,7,,,,_untitled_44,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109619
+Lake,7,,,,_untitled_43,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109627
+Lake,7,,,,_untitled_42,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109645
+Lake,7,,,,_untitled_41,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109661
+Lake,7,,,,_untitled_39,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109675
+Lake,7,,,,_untitled_38,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109687
+Lake,7,,,,_untitled_37,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109693
+Lake,7,,,,_untitled_36,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109709
+Lake,7,,,,_untitled_35,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109723
+Lake,7,Aberdeen Lake,Aberdeen L.,,,,,-99,,5.7,6.7,Aberdeen Lake,Q319492,,,Aberdeen Lake,Aberdeen Lake,Lago Aberdeen,lac Aberdeen,,,,,Aberdeen,アバディーン湖,,,,,Абердин,Aberdeen Lake,,,阿伯丁湖,4,1159109735
+Lake,7,,,,_untitled_34,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109747
+Lake,7,,,,_untitled_33,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109759
+Lake,7,,,,_untitled_32,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109773
+Lake,7,,,,_untitled_31,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109791
+Lake,7,,,,_untitled_30,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109803
+Lake,7,,,,_untitled_29,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109819
+Lake,7,,,,_untitled_28,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109835
+Lake,7,,,,_untitled_27,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109845
+Lake,7,,,,_untitled_26,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109861
+Lake,7,,,,_untitled_25,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109871
+Lake,7,,,,_untitled_24,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109885
+Lake,7,,,,_untitled_23,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109903
+Lake,7,,,,_untitled_22,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109913
+Lake,7,Long Lake,Long L.,,,,,-99,,5.7,6.7,Long Lake,Q14638483,,,Long Lake,,,,,,,,,,,,,,,,,,,4,1159109931
+Lake,7,,,,_untitled_15,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109945
+Lake,7,,,,_untitled_14,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109963
+Lake,7,,,,_untitled_13,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109971
+Lake,7,,,,_untitled_11,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159109993
+Lake,7,,,,_untitled_10,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110005
+Lake,7,,,,_untitled_9,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110015
+Lake,7,,,,_untitled_8,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110033
+Lake,7,,,,_untitled_7,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110041
+Lake,7,,,,_untitled_6,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110055
+Lake,7,,,,_untitled_5,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110071
+Lake,7,,,,_untitled_4,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110087
+Lake,7,,,,_untitled_3,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110095
+Lake,7,,,,_untitled_2,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110107
+Lake,7,,,,_untitled_1,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110121
+Lake,7,,,,_untitled_0,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159110133
+Lake,8,,,,_untitled_69,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110147
+Lake,8,,,,_untitled_63,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110157
+Lake,8,,,,_untitled_60,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110179
+Lake,8,Sturgeon Lake,Sturgeon L.,,,,,-99,,6.0,7.0,Sturgeon Lake,Q7348501,,,Sturgeon Lake,Sturgeon Lake,,Sturgeon Lake,,,,,,,,,,,,Sturgeon Lake,,,,4,1159110193
+Lake,8,,,,_untitled_59,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110201
+Lake,8,,,,_untitled_56,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110219
+Lake,8,Minnitaki Lake,Minnitaki L.,,,,,-99,,6.0,7.0,Minnitaki Lake,Q6868864,,,Minnitaki Lake,Minnitaki Lake,,Minnitaki Lake,,,,,,,,,,,,Minnitaki Lake,,,,4,1159110231
+Lake,8,Contwoyto Lake,Contwoyto L.,,,,,-99,,6.0,7.0,Contwoyto Lake,Q917094,,,Contwoyto Lake,Contwoyto Lake,,Contwoyto Lake,,,,,,,,Contwoyto Lake,,,Контуойто,Contwoyto Lake,,,康特沃伊托湖,4,1159110247
+Lake,8,,,,_untitled_55,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110257
+Lake,8,,,,_untitled_54,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110273
+Lake,8,,,,_untitled_53,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110287
+Lake,8,,,,_untitled_52,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110303
+Lake,8,,,,_untitled_51,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110309
+Lake,8,,,,_untitled_50,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110323
+Lake,8,Nueltin Lake,Nueltin L.,,,,,-99,,6.0,7.0,Nueltin Lake,Q1514307,,,Nueltin Lake,Nueltin Lake,Lago Nueltin,Nueltin Lake,,,,,lago Nueltin,,,Nueltin Lake,Nueltin,Lago Nueltin,Ньюэлтин,Nueltin Lake,,,紐埃爾廷湖,4,1159110337
+Lake,8,,,,_untitled_49,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110357
+Lake,8,,,,_untitled_48,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110371
+Lake,8,,,,_untitled_47,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110415
+Lake,8,,,,_untitled_46,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110443
+Lake,8,,,,_untitled_42,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110447
+Lake,8,,,,_untitled_38,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110463
+Lake,8,,,,_untitled_37,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110475
+Lake,8,Lesser Slave Lake,Lesser Slave L.,,,,,-99,,6.0,7.0,Lesser Slave Lake,Q956201,,,Kleiner Sklavensee,Lesser Slave Lake,Pequeño Lago de los Esclavos,Petit lac des Esclaves,,,,,Piccolo Lago degli Schiavi,レッサースレイブ湖,,Lesser Slave Lake,Małe Jezioro Niewolnicze,Pequeno Lago do Escravo,Малое Невольничье озеро,Lilla Slavsjön,,,小奴湖,4,1159110485
+Lake,8,Lake Payne,L. Payne,,,,,-99,,6.0,7.0,Lake Payne,Q1328159,,,Lac Payne,Payne Lake,,lac Payne,,,,,,,,,,,Пейн,Lac Payne,,,佩恩湖,5,1159110499
+Lake,8,,,,_untitled_35,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110517
+Lake,8,,,,_untitled_34,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110523
+Lake,8,Lac Minto,L. Minto,,,,,-99,,6.0,7.0,Lac Minto,Q546661,,,Lac Minto,Lake Minto,Lago Minto,lac Minto,,,,,,,,,,,Минто,Lac Minto,,,明托湖,5,1159110537
+Lake,8,Hebgen Lake,Hebgen L.,,,,,-99,,6.0,7.0,Hebgen Lake,Q3214923,,,,Hebgen Lake,,lac Hebgen,,,,,,,,,,,,,,,希伯根湖,4,1159110551
+Lake,8,Lake Walcott,L. Walcott,,,,,-99,,6.0,7.0,Lake Walcott,Q6478379,,,,Lake Walcott,,Lake Walcott,,,,,,,,,,,,,,,,4,1159110565
+Lake,8,Lake Granby,L. Granby,,,,,-99,,6.0,7.0,Lake Granby,Q6476029,,,,Lake Granby,Lago Granby,Lake Granby,,,,,,,,,,,,,,,,4,1159110583
+Lake,8,Garry Lake,Garry L.,,,,,-99,,6.0,7.0,Garry Lake,Q1494524,,,Garry Lake,Garry Lake,,Garry Lake,,,,,,,,Garry Lake,Garry Lake,,Гарри,,,,加里湖,4,1159110591
+Lake,8,,,Tikchik Lakes,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110611
+Lake,8,,,Tikchik Lakes,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110627
+Lake,8,,,Tikchik Lakes,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110635
+Lake,8,,,Tikchik Lakes,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110649
+Lake,8,,,Tikchik Lakes,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110667
+Lake,8,Lake Minchumina,L. Minchumina,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110683
+Lake,8,Travaillant Lake,Travaillant L.,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110689
+Lake,8,Lac Chavigny,L. Chavigny,,,,,-99,,6.0,7.0,Lac Chavigny,Q15824957,,,Lac Chavigny,,,lac Chavigny,,,,,,,,,,,,Lac Chavigny,,,,4,1159110705
+Lake,8,,,,_untitled_21,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110717
+Lake,8,,,,_untitled_20,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110723
+Lake,8,,,,_untitled_19,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110735
+Lake,8,,,,_untitled_2,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110749
+Lake,8,Presa Miguel Hidalgo,Presa Miguel Hidalgo,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110757
+Lake,8,,,,_untitled_0,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110767
+Lake,9,Lake Apopka,L. Apopka,,,,,-99,,7.0,8.0,Lake Apopka,Q455153,,,Lake Apopka,Lake Apopka,,lac Apopka,,,,,,,,Lake Apopka,,Lago Apopka,,,,,,4,1159110779
+Lake,9,Lake Istokpoga,L. Istokpoga,,,,,-99,,7.0,8.0,Lake Istokpoga,Q1793276,,,Lake Istokpoga,Lake Istokpoga,,lac Istokpoga,,,,,,,,Lake Istokpoga,,,,,,,,4,1159110795
+Lake,9,,,,_untitled_317,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110809
+Lake,9,,,,_untitled_308,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110823
+Lake,9,Laguna de Pueblo Viejo,Lag. de Pueblo Viejo,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110829
+Lake,9,Laguna Chil,Lag. Chil,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110843
+Lake,9,,,,_untitled_142,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110857
+Lake,9,,,,_untitled_141,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110865
+Lake,9,,,,_untitled_140,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110881
+Lake,9,,,,_untitled_139,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110907
+Lake,9,,,,_untitled_138,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110923
+Lake,9,,,,_untitled_137,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110931
+Lake,9,,,,_untitled_136,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110957
+Lake,9,,,,_untitled_135,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110965
+Lake,9,,,,_untitled_134,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110979
+Lake,9,Zeta Lake,Zeta L.,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159110995
+Lake,9,,,,_untitled_133,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111011
+Lake,9,,,,_untitled_132,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111025
+Lake,9,,,,_untitled_131,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111039
+Lake,9,,,,_untitled_130,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111051
+Lake,9,,,,_untitled_129,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111065
+Lake,9,,,,_untitled_128,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111079
+Lake,9,,,,_untitled_127,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111093
+Lake,9,,,,_untitled_126,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111105
+Lake,9,,,,_untitled_125,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111119
+Lake,9,,,,_untitled_124,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111133
+Lake,9,,,,_untitled_123,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111149
+Lake,9,,,,_untitled_122,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111159
+Lake,9,,,,_untitled_121,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111173
+Lake,9,,,,_untitled_120,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111187
+Lake,9,,,,_untitled_119,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111199
+Lake,9,,,,_untitled_118,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111213
+Lake,9,,,,_untitled_117,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111227
+Lake,9,,,,_untitled_116,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111245
+Lake,9,,,,_untitled_115,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111263
+Lake,9,,,,_untitled_114,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111289
+Lake,9,,,,_untitled_113,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111295
+Lake,9,,,,_untitled_112,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111315
+Lake,9,,,,_untitled_111,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111331
+Lake,9,,,,_untitled_110,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111345
+Lake,9,,,,_untitled_109,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111357
+Lake,9,,,,_untitled_108,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111371
+Lake,9,Tetlin Lake,Tetlin L.,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111385
+Lake,9,,,,_untitled_107,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111397
+Lake,9,,,,_untitled_106,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111411
+Lake,9,,,,_untitled_105,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111427
+Lake,9,,,,_untitled_104,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111541
+Lake,9,,,,_untitled_103,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111553
+Lake,9,,,,_untitled_102,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111563
+Lake,9,,,,_untitled_101,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111587
+Lake,9,,,,_untitled_100,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111597
+Lake,9,,,,_untitled_99,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111613
+Lake,9,,,,_untitled_98,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111627
+Lake,9,,,,_untitled_97,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111643
+Lake,9,,,,_untitled_96,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111657
+Lake,9,,,,_untitled_95,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111721
+Lake,9,,,,_untitled_94,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111735
+Lake,9,,,,_untitled_93,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111751
+Lake,9,,,,_untitled_92,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111767
+Lake,9,,,,_untitled_91,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111783
+Lake,9,,,,_untitled_90,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111799
+Lake,9,,,,_untitled_89,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111817
+Lake,9,,,,_untitled_88,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111821
+Lake,9,,,,_untitled_87,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111825
+Lake,9,,,,_untitled_86,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111831
+Lake,9,,,,_untitled_85,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111847
+Lake,9,,,,_untitled_84,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111861
+Lake,9,,,,_untitled_83,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111871
+Lake,9,,,,_untitled_82,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111889
+Lake,9,,,,_untitled_81,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111903
+Lake,9,,,,_untitled_80,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111919
+Lake,9,,,,_untitled_79,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111933
+Lake,9,,,,_untitled_78,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111955
+Lake,9,,,,_untitled_77,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111973
+Lake,9,,,,_untitled_76,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111983
+Lake,9,,,,_untitled_75,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159111997
+Lake,9,,,,_untitled_74,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112015
+Lake,9,,,,_untitled_73,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112023
+Lake,9,,,,_untitled_72,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112037
+Lake,9,,,,_untitled_71,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112053
+Lake,9,,,,_untitled_70,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112067
+Lake,9,,,,_untitled_69,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112083
+Lake,9,,,,_untitled_68,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112095
+Lake,9,,,,_untitled_67,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112107
+Lake,9,,,,_untitled_66,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112121
+Lake,9,,,,_untitled_65,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112135
+Lake,9,,,,_untitled_64,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112147
+Lake,9,,,,_untitled_63,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112161
+Lake,9,,,,_untitled_62,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112175
+Lake,9,,,,_untitled_61,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112189
+Lake,9,,,,_untitled_59,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112207
+Lake,9,,,,_untitled_58,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112221
+Lake,9,,,,_untitled_57,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112235
+Lake,9,,,,_untitled_56,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112237
+Lake,9,,,,_untitled_55,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112251
+Lake,9,,,,_untitled_54,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112265
+Lake,9,,,,_untitled_53,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112279
+Lake,9,,,,_untitled_52,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112291
+Lake,9,,,,_untitled_51,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112305
+Lake,9,,,,_untitled_50,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112319
+Lake,9,,,,_untitled_49,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112329
+Lake,9,,,,_untitled_48,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112345
+Lake,9,North Caribou Lake,N. Caribou L.,,,,,-99,,7.0,8.0,North Caribou Lake,Q7054368,,,North Caribou Lake,North Caribou Lake,,North Caribou Lake,,,,,,,,,,,,North Caribou Lake,,,,4,1159112351
+Lake,9,,,,_untitled_47,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112363
+Lake,9,,,,_untitled_46,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112377
+Lake,9,,,,_untitled_45,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112391
+Lake,9,,,,_untitled_44,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112405
+Lake,9,,,,_untitled_43,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112417
+Lake,9,,,,_untitled_42,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112431
+Lake,9,,,,_untitled_41,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112445
+Lake,9,,,,_untitled_40,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112459
+Lake,9,,,,_untitled_39,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112471
+Lake,9,,,,_untitled_38,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112485
+Lake,9,,,,_untitled_37,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112499
+Lake,9,,,,_untitled_36,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112513
+Lake,9,Lake Plétipi,L. Pltipi,,,,,-99,,7.0,8.0,Lake Plétipi,Q3215139,,,Lac Plétipi,Lake Plétipi,,lac Plétipi,,,,,,,,,,,,Lac Plétipi,,,,5,1159112523
+Lake,9,,,,_untitled_35,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112539
+Lake,9,,,,_untitled_34,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112553
+Lake,9,,,,_untitled_33,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112569
+Lake,9,,,,_untitled_32,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112581
+Lake,9,,,,_untitled_30,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112597
+Lake,9,,,,_untitled_29,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112603
+Lake,9,,,,_untitled_28,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112623
+Lake,9,,,,_untitled_27,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112633
+Lake,9,,,,_untitled_26,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112651
+Lake,9,,,,_untitled_25,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112669
+Lake,9,,,,_untitled_24,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112683
+Lake,9,,,,_untitled_23,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112697
+Lake,9,,,,_untitled_22,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112717
+Lake,9,,,,_untitled_21,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112731
+Lake,9,,,,_untitled_20,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112747
+Lake,9,,,,_untitled_19,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112761
+Lake,9,,,,_untitled_18,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112777
+Lake,9,,,,_untitled_17,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112789
+Lake,9,,,,_untitled_16,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112801
+Lake,9,,,,_untitled_15,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112821
+Lake,9,,,,_untitled_14,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112839
+Lake,9,,,,_untitled_13,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112861
+Lake,9,,,,_untitled_12,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112875
+Lake,9,,,,_untitled_11,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112899
+Lake,9,Lake Kipawa,L. Kipawa,,,,,-99,,7.0,8.0,Lake Kipawa,Q6476463,,,Lac Kipawa,Lake Kipawa,,lac Kipawa,,,,,,,,,,,,Lac Kipawa,,,,4,1159112915
+Lake,9,Big Rideau Lake,Big Rideau L.,,,,,-99,,7.0,8.0,Big Rideau Lake,Q3113637,,,,Big Rideau Lake,,Grand Lac Rideau,,,,,,,,,,,,Big Rideau Lake,,,,4,1159112939
+Lake,9,Chesuncook Lake,Chesuncook L.,,,,,-99,,7.0,8.0,Chesuncook Lake,Q3214801,,,,Chesuncook Lake,Lago Chesuncook,lac Chesuncook,,,,,,,,,,,,,,,,4,1159112953
+Lake,9,,,,_untitled_10,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159112969
+Lake,0,Lake Superior,L. Superior,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake Superior,Q1066,بحيرة سوبيريور,সুপিরিয়র হ্রদ,Oberer See,Lake Superior,Lago Superior,lac Supérieur,λίμνη Σουπίριορ,सुपीरियर झील,Felső-tó,Danau Superior,lago Superiore,スペリオル湖,슈피리어 호,Bovenmeer,Jezioro Górne,Lago Superior,Верхнее,Övre sjön,Superior Gölü,Hồ Thượng,苏必利尔湖,4,1159112991
+Lake,0,Lake Michigan,L. Michigan,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake Michigan,Q1169,بحيرة ميشيغين,মিশিগান হ্রদ,Michigansee,Lake Michigan,Lago Míchigan,lac Michigan,Λίμνη Μίσιγκαν,मिशिगन झील,Michigan-tó,Danau Michigan,lago Michigan,ミシガン湖,미시간 호,Michiganmeer,Michigan,Lago Michigan,Мичиган,Michigansjön,Michigan Gölü,Hồ Michigan,密歇根湖,4,1159113005
+Lake,0,Lake Huron,L. Huron,Great Lakes,,,,-99,admin-0,1.0,3.0,Lake Huron,Q1383,بحيرة هرون,,Huronsee,Lake Huron,lago Hurón,lac Huron,Λίμνη Χιούρον,ह्यूरॉन झील,Huron-tó,Danau Huron,lago Huron,ヒューロン湖,휴런 호,Huronmeer,Huron,Lago Huron,Гурон,Huronsjön,Huron Gölü,Hồ Huron,休伦湖,3,1159113021
+Lake,3,Whitefish Bay,Whitefish Bay,Great Lakes,,,,-99,admin-0,3.0,6.0,Whitefish Bay,Q12341531,,,,Whitefish Bay,,,,,,,,,,,,,,,,,白魚灣,5,1159113039
+Lake,3,Saginaw Bay,Saginaw Bay,Great Lakes,,,,-99,admin-0 more,3.0,6.0,Saginaw Bay,Q2211837,,,Saginaw Bay,Saginaw Bay,,Baie de Saginaw,,,,,,サギノー湾,,Saginaw Bay,,,,,,,,5,1159113055
+Lake,3,North Channel,North Ch.,Great Lakes,,,,-99,admin-0,3.0,6.0,North Channel,Q2000567,,,North Channel,North Channel,Canal Norte,Chenal nord,,,,,,ノース海峡,,,North Channel,Canal Norte,,,,,北海峽,5,1159113071
+Lake,2,Georgian Bay,Georgian Bay,Great Lakes,,,,-99,admin-0 more,2.0,5.7,Georgian Bay,Q1267413,,,Georgian Bay,Georgian Bay,Georgian Bay,baie Georgienne,,,Georgian Bay,Georgian Bay,Georgian Bay,ジョージア湾,조지아 만,Georgian Bay,Georgian Bay,Georgian Bay,Джорджиан-Бей,Georgian Bay,,,喬治亞灣,5,1159113081
+Lake,0,Lake Ladoga,L. Ladoga,,Largest lake in Europe,,,-99,,1.0,3.0,Lake Ladoga,Q15288,بحيرة لادوغا,,Ladogasee,Lake Ladoga,Ládoga,lac Ladoga,Λάντογκα,लादोगा झील,Ladoga-tó,Danau Ladoga,lago Ladoga,ラドガ湖,라도가 호,Ladogameer,Ładoga,Lago Ladoga,Ладожское озеро,Ladoga,Ladoga Gölü,Hồ Ladoga,拉多加湖,4,1159113095
+Lake,0,Lake Balkhash,L. Balkhash,Balqash Kli,,,,-99,,1.0,3.0,Lake Balkhash,Q134485,بحيرة بالكاش,,Balchaschsee,Lake Balkhash,Lago Baljash,lac Balkhach,Λίμνη Μπαλκάς,बलख़श झील,Balkas-tó,Danau Balkhash,lago Balqaš,バルハシ湖,발하시 호,Balkasjmeer,Bałchasz,Lago Balkhash,Балхаш,Balchasjsjön,Balkaş Gölü,Hồ Balkhash,巴尔喀什湖,4,1159113111
+Lake,0,Lake Baikal,L. Baikal,,,,,-99,,1.0,3.0,Lake Baikal,Q5513,بحيرة بايكال,বৈকাল হ্রদ,Baikalsee,Lake Baikal,Baikal,lac Baïkal,Βαϊκάλη,बयकाल झील,Bajkál-tó,Danau Baikal,lago Bajkal,バイカル湖,바이칼 호,Baikalmeer,Bajkał,Lago Baikal,Байкал,Bajkalsjön,Baykal Gölü,Hồ Baikal,贝加尔湖,4,1159113127
+Lake,0,Lake Albert,L. Albert,,,,,-99,admin-0,1.0,3.0,Lake Albert,Q125888,بحيرة ألبرت,,Albertsee,Lake Albert,Lago Alberto,lac Albert,Λίμνη Αλβέρτου,ऐल्बर्ट झील,Albert-tó,Danau Albert,lago Alberto,アルバート湖,앨버트 호,Albertmeer,Jezioro Alberta,Lago Alberto,Альберт,Albertsjön,Albert Gölü,Hồ Albert,艾伯特湖,4,1159113145
+Lake,0,Lake Malawi,L. Malawi,Lake Nyasa,,,,-99,admin-0,1.0,3.0,Lake Malawi,Q5532,بحيرة مالاوي,মালাউই হ্রদ,Malawisee,Lake Malawi,Lago Malaui,lac Malawi,Λίμνη Νιάσα,मलावी झील,Nyasza-tó,Danau Malawi,lago Malawi,マラウイ湖,말라위 호,Malawimeer,Niasa,Lago Niassa,Малави,Malawisjön,Malavi Gölü,Hồ Malawi,马拉维湖,4,1159113163
+Lake,0,Lake Tanganyika,L. Tanganyika,,,,,-99,admin-0,1.0,3.0,Lake Tanganyika,Q5511,بحيرة تنجانيقا,টাংগানিকা হ্রদ,Tanganjikasee,Lake Tanganyika,lago Tanganica,lac Tanganyika,Τανγκανίκα,तांगान्यीका झील,Tanganyika-tó,Danau Tanganyika,lago Tanganica,タンガニーカ湖,탕가니카 호,Tanganyikameer,Tanganika,Lago Tanganica,Танганьика,Tanganyikasjön,Tanganika Gölü,Hồ Tanganyika,坦干依喀湖,4,1159113185
+Lake,0,Lake Victoria,L. Victoria,,,,,-99,admin-0,1.0,3.0,Lake Victoria,Q5505,بحيرة فيكتوريا,ভিক্টোরিয়া হ্রদ,Victoriasee,Lake Victoria,Victoria,lac Victoria,Βικτόρια,विक्टोरिया झील,Viktória-tó,Danau Victoria,lago Vittoria,ヴィクトリア湖,빅토리아 호,Victoriameer,Jezioro Wiktorii,Lago Vitória,Виктория,Victoriasjön,Victoria Gölü,Hồ Victoria,維多利亞湖,4,1159113191
+Lake,1,Lake Chad,L. Chad,,,New or modified in version 1.3,,-99,admin-0 more,1.7,3.6,Lake Chad,Q125309,بحيرة تشاد,চাদ হ্রদ,Tschadsee,Lake Chad,Lago Chad,lac Tchad,λίμνη Τσαντ,चाड झील,Csád-tó,Danau Chad,Ciad,チャド湖,차드 호,Tsjaadmeer,Czad,Lago Chade,Чад,Tchadsjön,Çad Gölü,Hồ Tchad,乍得湖,4,1159113219
+Lake,1,Vänern,Vänern,,Largest lake in Sweden,,,-99,,1.7,3.6,Vänern,Q173596,بحيرة فانيرن,,Vänern,Vänern,Lago Vänern,Vänern,Βένερν,,Vänern-tó,Vänern,Vänern,ヴェーネルン湖,베네른 호,Vänermeer,Wener,Lago Vänern,Венерн,Vänern,Vänern Gölü,Hồ Vänern,维纳恩湖,4,1159113235
+Lake,1,Lake Onega,L. Onega,,,,,-99,,1.7,3.6,Lake Onega,Q166162,بحيرة أونيغا,,Onegasee,Lake Onega,Onega,lac Onega,Λίμνη Ονέγκα,ओनेगा झील,Onyega-tó,Danau Onega,lago Onega,オネガ湖,오네가 호,Onegameer,Onega,Lago Onega,Онежское озеро,Onega,Onega Gölü,Hồ Onega,奥涅加湖,4,1159113251
+Lake,1,Lake Tana,L. Tana,,,,,-99,,1.7,3.6,Lake Tana,Q116685,بحيرة تانا,,Tanasee,Lake Tana,Lago Tana,lac Tana,Τάνα,ताना झील,Tana-tó,,lago Tana,タナ湖,타나 호,Tanameer,Jezioro Tana,Lago Tana,Тана,Tanasjön,,Hồ Tana,塔納湖,4,1159113265
+Lake,1,Lago Titicaca,L. Titicaca,,,,,-99,admin-0 more,1.7,3.6,Lago Titicaca,Q35342,بحيرة تيتيكاكا,তিতিকাকা হ্রদ,Titicacasee,Titicaca,Titicaca,lac Titicaca,Τιτικάκα,टीटीकाका झील,Titicaca-tó,Danau Titicaca,Titicaca,チチカカ湖,티티카카 호,Titicacameer,Titicaca,Lago Titicaca,Титикака,Titicacasjön,Titikaka Gölü,Hồ Titicaca,的的喀喀湖,5,1159113279
+Lake,2,Lake Saimaa,L. Saimaa,,,,,-99,,2.0,3.7,Lake Saimaa,Q192770,سايما,,Saimaa,Saimaa,Lago Saimaa,Saimaa,Σάιμαα,,Saimaa,Saimaa,Saimaa,サイマー湖,사이마 호,Saimaameer,Saimaa,Saimaa,Сайма,Saimen,Saimaa Gölü,Hồ Saimaa,塞馬湖,5,1159113295
+Lake,3,,,,_untitled_0,,,-99,,3.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113307
+Lake,3,Lago Buenos Aires,L. Buenos Aires,,,,,-99,,3.0,4.0,Lago Buenos Aires,Q503842,,,Lago Buenos Aires / Lago General Carrera,Lake General Carrera/Buenos Aires,Lago Buenos Aires/General Carrera,lac Buenos Aires/General Carrera,,,General Carrera-tó,,lago Buenos Aires,ヘネラル・カレーラ湖,헤네랄카레라 호,Lake General Carrera/Buenos Aires,Buenos Aires/General Carrera,Lago Buenos Aires/General Carrera,Буэнос-Айрес,Lago Buenos Aires,,,布宜诺斯艾利斯湖,5,1159113323
+Lake,3,Lago Llanquihue,L. Llanquihue,,,,,-99,,3.0,4.0,Lago Llanquihue,Q826464,بحيرة يانكيوي,,Lago Llanquihue,Llanquihue Lake,Lago Llanquihue,lac Llanquihue,Λίμνη Γιανκίουε,,,Danau Llanquihue,lago Llanquihue,ジャンキウェ湖,,Lago Llanquihue,Llanquihue,,Льянкиуэ,Lago de Llanquihue,,,延基韦湖,5,1159113343
+Lake,3,Hongze Hu,Hongze Hu,,,,,-99,,3.0,4.0,Hongze Hu,Q31845950,,,,,,,,,,,,,,,,,,Hongze Hu,,,,3,1159113359
+Lake,3,Khövsgöl Nuur,Khövsgöl Nuur,Khövsgöl dalai,,,,-99,,3.0,5.0,Khövsgöl Nuur,Q192215,,,Chöwsgöl Nuur,Khövsgöl Nuur,Lago Ubsugul,lac Khövsgöl,,,Hövszgöl-tó,Danau Khövsgöl,Hôvsgôl Nuur,フブスグル湖,후브스굴 호,Hövsgöl Nuur,Chubsuguł,,Хубсугул,Chövsgöl,Hövsgöl Gölü,Hồ Khovsgol,庫蘇古爾湖,4,1159113373
+Lake,3,Päijänne,Pijnne,,,,,-99,,3.0,4.0,Päijänne,Q213769,باياني,,Päijänne,Päijänne,Lago Päijänne,Päijänne,Λίμνη Πάγιαννε,,,,Päijänne,パイエンネ湖,,Päijänne,Päijänne,Päijänne,Пяййянне,Päijänne,,,派延奈湖,3,1159113395
+Lake,3,Lac Moeru,L. Moeru,Lake Mweru,,,,-99,admin-0 more,3.0,4.0,Lac Moeru,Q504433,بحيرة مويرو,,Mwerusee,Lake Mweru,Lago Moero,lac Moero,,,Mweru-tó,,lago Mweru,ムウェル湖,므웨루 호,Mwerumeer,Mweru,Lago Mweru,Мверу,Mwerusjön,Mweru Gölü,,姆韦鲁湖,5,1159113405
+Lake,3,Lake Khanka,L. Khanka,"Xingkai Hu,  Ozero Khanka",,,,-99,admin-0 more,3.0,4.0,Lake Khanka,Q201843,بحيرة خانكا,,Chankasee,Khanka Lake,Lago Janka,lac Khanka,,,Hanka-tó,Danau Khanka,lago Chanka,ハンカ湖,한카 호,Chankameer,Chanka,Lago Khanka,Ханка,Chanka,Khanka Gölü,Hồ Khanka,兴凯湖,5,1159113423
+Lake,3,Tonlé Sap,Tonle Sap,,,,,-99,,3.0,4.0,Tonlé Sap,Q199938,تونلي ساب,,Tonle Sap,Tonlé Sap,Tonlé Sap,Tonlé Sap,,,Szap-tó,Tonle Sap,Tonle Sap,トンレサップ,톤레사프 호,Tonlé Sapmeer,Tonle Sap,Tonle Sap,Тонлесап,Tonlé Sap,,Tonlé Sap,洞里萨湖,4,1159113439
+Lake,3,Pskoyskoye Ozero,Pskoyskoye O.,,,,,-99,admin-0,3.0,4.0,Pskoyskoye,Q1144905,,,,Lake Pskov,,lac Pihkva järv,,,Pszkovi-tó,,,,프스콥스코예 호,Pskovskoe ozero,Jezioro Pskowskie,,Псковское озеро,Pskovsjön,,,普斯科夫湖,5,1159113451
+Lake,3,Ozero Yarroto Vtoroye,O. Yarroto Vtoroye,Lake Yarroto Vtoroye,,,,-99,,3.0,4.0,Yarroto,Q4539001,,,,,,,,,,,,,,,,,Яррото 2-е,,,,,5,1159113467
+Lake,3,Lake Srednye Kuyto,L. Srednye Kuyto,,,,,-99,,3.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113481
+Lake,4,Lake Chany,L. Chany,,,,,-99,,4.0,5.0,Lake Chany,Q1520895,,,Tschanysee,Lake Chany,Lago Chany,lac Tchany,,,,,lago Čany,,,Tsjani,Czany,,Чаны,,,,錢尼湖,4,1159113497
+Lake,4,Hulun Nuur,Hulun Nuur,"Hulun Lake, Dalai Lake",,,,-99,,4.0,5.0,Hulun Nuur,Q537374,بحيرة دالاي,,Hulun-See,Hulun Lake,Lago Hulun,Hulun,,,,,lago Hulun,フルン湖,후룬 호,Hulun Lake,Hulun Nur,,Далайнор,Hulunsjön,,Hồ Hô Luân,呼倫湖,5,1159113513
+Lake,4,Lake Bangweulu,L. Bangweulu,,,,,-99,,4.0,5.0,Lake Bangweulu,Q673169,بحيرة بانغويلو,,Bangweulusee,Lake Bangweulu,Lago Bangweulu,lac Bangwelo,,,Bangweulu-tó,,lago Bangweulu,バングウェウル湖,,Bangweulumeer,Bangweulu,,Бангвеулу,Bangweulusjön,,,班韋烏盧湖,4,1159113531
+Lake,4,Inarijrvi,Inarijrvi,,,,,-99,,4.0,5.0,Inarijrvi,Q203137,,,Inarijärvi,Lake Inari,Lago Inari,lac Inari,,,,Danau Inari,Inari,イナリ湖,,Inarimeer,Inari,Lago Inari,Инари,Enare träsk,İnari gölü,,伊納里湖,5,1159113545
+Lake,4,Lake Peipus,L. Peipus,Lake Peipsi-Pihkva,,,,-99,admin-0,4.0,5.0,Lake Peipus,Q19253,بحيرة بيبوس,,Peipussee,Lake Peipus,Peipus,lac Peïpous,Πέιπους,,Peipus-Pszkovi-tó,Danau Peipsi,lago dei Ciudi,ペイプシ湖,페이푸스 호,Peipusmeer,Pejpus,Lago Peipus,Псковско-Чудское озеро,Peipus,Peipus Gölü,Hồ Peipus,楚德湖,3,1159113563
+Lake,4,Lake Kivu,L. Kivu,,,,,-99,admin-0,4.0,5.0,Lake Kivu,Q125912,بحيرة كيفو,,Kiwusee,Lake Kivu,Lago Kivu,lac Kivu,Λίμνη Κίβου,कीवू झील,Kivu-tó,Danau Kivu,lago Kivu,キブ湖,키부 호,Kivumeer,Kiwu,Lago Kivu,Киву,Kivusjön,Kivu Gölü,Hồ Kivu,基伏湖,4,1159113577
+Lake,4,Lake Edward,L. Edward,,,,,-99,admin-0,4.0,5.0,Lake Edward,Q125211,بحيرة إدوارد,,Eduardsee,Lake Edward,Lago Eduardo,lac Édouard,Λίμνη Εδουάρδου,ऍड्वर्ड झील,Edward-tó,Danau Edward,lago Eduardo,エドワード湖,에드워드 호,Edwardmeer,Jezioro Edwarda,Lago Eduardo,Эдвард,Edwardsjön,Edward Gölü,Hồ Edward,爱德华湖,4,1159113595
+Lake,4,Tai Hu,Tai Hu,,,,,-99,,4.0,5.0,Tai Hu,Q140712,بحيرة تاي,,Tai Hu,Tai Lake,Lago Taihu,lac Tai,,ताइहू झील,Taj-tó,Danau Taihu,Tai Hu,太湖,타이 호,Taihu,Tai Hu,Lago Taihu,Тайху,Tai Hu,Tai Gölü,Thái Hồ,太湖,5,1159113611
+Lake,4,Lago Argentino,L. Argentino,,,,,-99,,4.0,5.0,Lago Argentino,Q753898,بحيرة أرخنتينو,,Lago Argentino,Argentino Lake,Argentino,lac Argentino,,,Argentino-tó,,lago Argentino,アルヘンティーノ湖,아르헨티노 호,Argentinomeer,Argentino,Lago Argentino,Архентино,Lago Argentino,Argentino Gölü,,阿根廷湖,5,1159113621
+Lake,4,Nam Co,Nam Co,,,,,-99,,4.0,5.0,Nam Co,Q651294,نامتسو,,Nam Co,Namtso,Lago Nam,lac Namtso,,नम त्सो,,,,ナムツォ,남초 호,Namtso,Nam Co,,Намцо,Namtso,,Namtso,纳木错,5,1159113637
+Lake,4,,,,_untitled_22,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113653
+Lake,4,,,,_untitled_20,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113669
+Lake,4,,,,_untitled_19,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113685
+Lake,4,Ozero Nerpich'ye,O. Nerpich'ye,Lake Nerpich'ye,,,,-99,,4.0,5.0,Ozero Nerpich'ye,Q1774501,,,,Lake Nerpichye,,,,,,,lago Nerpič'e,,,Nerpitsje,,,Нерпичье,,,,涅爾皮奇耶湖,5,1159113701
+Lake,4,,,,_untitled_17,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113715
+Lake,4,,,,_untitled_16,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113731
+Lake,4,Ozero Yarroto Pervoye,O. Yarroto Pervoye,Lake Yarroto Pervoye,,,,-99,,4.0,5.0,Ozero Yarroto,Q4538999,,,,,,,,,,,,,,,,,Яррото 1-е,,,,,5,1159113749
+Lake,4,Ozero Neyto,O. Neyto,Lake Neyto,,,,-99,,4.0,5.0,,-1,,,,,,,,,,,,,,,,,,,,,,0,1159113765
+Lake,4,Ozero Yambuto,O. Yambuto,Lake Yambuto,,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113781
+Lake,4,,,,_untitled_15,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113799
+Lake,4,,,,_untitled_14,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113813
+Lake,4,Lake Vygozero,L. Vygozero,,,,,-99,,4.0,5.0,Lake Vygozero,Q1315765,,,Wygosero,Lake Vygozero,Lago Vygózero,lac Vygozero,,,,,lago Vygozero,ヴィゴゼロ湖,,Vygozeromeer,Wygoziero,Lago Vyg,Выгозеро,,,,维戈泽罗湖,4,1159113819
+Lake,4,Lake Vygozero,L. Vygozero,,,,,-99,,4.0,5.0,Lake Vygozero,Q1315765,,,Wygosero,Lake Vygozero,Lago Vygózero,lac Vygozero,,,,,lago Vygozero,ヴィゴゼロ湖,,Vygozeromeer,Wygoziero,Lago Vyg,Выгозеро,,,,维戈泽罗湖,4,1159113837
+Lake,4,Lake Segozerskoye,L. Segozerskoye,,,,,-99,,4.0,5.0,Lake Segozerskoye,Q1416209,,,Segosero,Lake Segozero,Lago Segozero,lac Segozero,,,,,lago Segozero,,,Segozero,Segoziero,,Сегозеро,Segozero,,,謝戈澤羅湖,5,1159113851
+Lake,4,Pielinen,Pielinen,,,,,-99,,4.0,5.0,Pielinen,Q845891,,,Pielinen,Pielinen,Lago Pielinen,lac Pielinen,,,,,Pielinen,ピエリネン湖,,Pielinen,Pielinen,,Пиелинен,Pielisjärvi,,,皮耶利宁湖,4,1159113873
+Lake,4,Lake Topozero,L. Topozero,,,,,-99,,4.0,5.0,Lake Topozero,Q709323,,,Toposero,Lake Topozero,Lago Topozero,lac Topozero,,,,,lago Topozero,,,Topozero,Topoziero,,Топозеро,,,,托波澤羅湖,4,1159113889
+Lake,4,,,,_untitled_5,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113907
+Lake,4,Bosten Hu,Bosten Hu,,,,,-99,,4.0,5.0,Bosten Hu,Q611206,,,Bosten-See,Bosten Lake,Lago Bosten,lac Bosten,,बोस्तेन झील,Boszten-tó,,lago Bosten,ボステン湖,보스텅 호수,Bosten Lake,Bosten Hu,,Баграшкёль,Bosten,Bosten Gölü,Hồ Bosten,博斯腾湖,5,1159113927
+Lake,4,,,,_untitled_4,,,-99,,4.0,5.1,,,,,,,,,,,,,,,,,,,,,,,,0,1159113939
+Lake,4,,,,_untitled_3,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113957
+Lake,4,,,,_untitled_2,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113979
+Lake,4,,,,_untitled_1,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159113999
+Lake,4,Poyang Hu,Poyang Hu,,,,,-99,,4.0,5.0,Poyang Hu,Q207690,بحيرة بويانغ,,Poyang-See,Poyang Lake,Lago Poyang,lac Poyang,,पोयांग झील,,,lago Poyang,ハ陽湖,포양 호,Poyangmeer,Poyang Hu,,Поянху,Poyangsjön,Poyang Gölü,Hồ Bà Dương,鄱阳湖,5,1159114015
+Lake,4,Daguan Hu,Daguan Hu,,,,,-99,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114031
+Lake,4,Long Hu,Long Hu,,,,,-99,,4.0,5.0,Long Hu,Q6673852,,,,Longgan Lake,Lago Longgan,,,,,,,,,,,,,Longgan Hu,,,龙感湖,5,1159114049
+Lake,4,Liangzi Hu,Liangzi Hu,,,,,-99,,4.0,5.0,Liangzi Hu,Q7374197,,,,Liangzi Lake,,,,,,,,,,,,,,Liangzi Hu,,,梁子湖,5,1159114069
+Lake,4,Siling Co,Siling Co,,,,,-99,,4.0,5.0,Siling Co,Q1404973,,,Serling Tsho,Siling Lake,Lago Siling,,,,,,,,,Serling Tso,,Lago Siling,Силинг-Цо,Siling Co,,Hồ Siling,色林错,5,1159114083
+Lake,4,Har Us Nuur,Har Us Nuur,,,,,-99,,4.0,5.0,Har Us Nuur,Q1323267,,,Khar-Us-Nuur,Khar-Us Lake,Lago Khar-Us,lac Khar-Us,,,,,Har-Us nuur,,,Khar-Us Lake,Char Us nuur,Lago Khar-Us,Хар-Ус-Нуур,,,Hồ Khar-Us,哈爾烏蘇湖,5,1159114107
+Lake,4,Lop Nur,Lop Nur,,,,,-99,,4.0,5.0,Lop Nur,Q319412,بحيرة لوب نور,,Lop Nor,Lop Nur,Lop Nor,Lob Nor,,लोप नुर,Lop-nór,Lop Nur,Lop Nur,ロプノール,,Lob Nuur,Lob-nor,Lop Nor,Лобнор,Lop Nor,,Lop Nur,罗布泊,4,1159114133
+Lake,4,Lake Geneva,L. Geneva,Lac Léman,,,,-99,admin-0 more,4.0,5.0,Lake Geneva,Q6403,بحيرة ليمان,,Genfersee,Lake Geneva,Lemán,lac Léman,Λίμνη της Γενεύης,जेनेवा झील,Genfi-tó,Danau Jenewa,lago Lemano,レマン湖,레만 호,Meer van Genève,Jezioro Genewskie,Lago Léman,Женевское озеро,Genèvesjön,Cenevre Gölü,Hồ Genève,萊芒湖,4,1159114143
+Lake,4,Lough Neagh,Lough Neagh,,,,,-99,,4.0,5.0,Lough Neagh,Q206942,بحيرة لوك ينج,,Lough Neagh,Lough Neagh,Neagh,Lough Neagh,Λοχ Νέι,,,,Lough Neagh,ネイ湖,,Lough Neagh,Lough Neagh,Lago Neagh,Лох-Ней,Lough Neagh,,,內湖,4,1159114155
+Lake,4,Vättern,Vättern,,,,,-99,,4.0,5.0,Vättern,Q188195,بحيرة فاترن,,Vättern,Vättern,Lago Vättern,Vättern,Βέτερν,,Vättern-tó,Danau Vättern,Vättern,ヴェッテルン湖,베테른 호,Vättermeer,Wetter,Lago Vättern,Веттерн,Vättern,Vättern Gölü,,韋特恩湖,4,1159114173
+Lake,4,Lake Taymyr,L. Taymyr,,,,,-99,,4.0,5.0,Lake Taymyr,Q845868,,,Taimyrsee,Lake Taymyr,Lago Taimir,lac Taïmyr,,,,,lago Tajmyr,タイミル湖,,Tajmyrmeer,Tajmyr,,Таймыр,,,,泰梅爾湖,4,1159114189
+Lake,5,Ozero Mogotoyevo,O. Mogotoyevo,Lake Mogotoyevo,,,,-99,,4.7,6.0,Ozero Mogotoyevo,Q2639916,,,,Lake Mogotoyevo,,,,,,,lago Mogotoevo,,,Lake Mogotoyevo,,,Моготоево,,,,莫戈托耶沃湖,5,1159114197
+Lake,5,Ayakkum Hu,Ayakkum Hu,,,,,-99,,4.7,6.0,Ayakkum Hu,Q631714,,,,Ayakum Lake,Lago Ayakum,,,,,,Ayakum,,,,,,,Ayakkum Hu,,Ayakum,阿雅克库木湖,5,1159114215
+Lake,5,Storsjön,Storsjön,,,,,-99,,4.7,6.0,Storsjön,Q629354,,,Storsjön,Storsjön,Storsjön,Storsjön,,,Storsjön,,Storsjön,,,Storsjön,Stor,Lago Storsjön,Стуршён,Storsjön,Storsjön Gölü,,斯圖爾湖,4,1159114237
+Lake,5,Bodensee,Bodensee,Lake Constance,,,,-99,admin-0,4.7,6.0,Bodensee,Q4127,بحيرة كونستانس,,Bodensee,Lake Constance,lago de Constanza,lac de Constance,Λίμνη Κωνσταντίας,,Boden-tó,Danau Konstanz,lago di Costanza,ボーデン湖,보덴 호,Bodenmeer,Jezioro Bodeńskie,lago de Constança,Боденское озеро,Bodensjön,Konstanz Gölü,Bodensee,博登湖,5,1159114259
+Lake,5,Lake Kyoga,L. Kyoga,,,,,-99,,4.7,6.0,Lake Kyoga,Q124978,بحيرة كيوغا,,Kyogasee,Lake Kyoga,Lago Kyoga,lac Kyoga,,क्योगा झील,Kyoga-tó,Danau Kyoga,Kyoga,キオガ湖,,Kyogameer,Kioga,Lago Kyoga,Кьога,Kyogasjön,Kyoga Gölü,Hồ Kyoga,基奧加湖,4,1159114279
+Lake,5,Lake Rukwa,L. Rukwa,,,,,-99,,4.7,6.0,Lake Rukwa,Q1143935,,,Rukwasee,Rukwa Lake,Lago Rukwa,lac Rukwa,Λίμνη Ρούκουα,,Rukwa-tó,,lago Rukwa,ルクワ湖,,Rukwa Lake,Rukwa,,Руква,,,,魯夸湖,5,1159114299
+Lake,5,Ngoring Hu,Ngoring Hu,,,,,-99,,4.7,6.0,Ngoring Hu,Q847864,,,,Ngoring Lake,Lago Eling,,,,,,,,,,,,Орин-Нур,Ngoring Hu,,,鄂陵湖,5,1159114305
+Lake,5,Gaoyou Hu,Gaoyou Hu,,,,,-99,,4.7,6.0,Gaoyou Hu,Q630331,,,,Gaoyou Lake,Lago Gaoyou,,,,,,,高郵湖,,,Gaoyou Hu,,,Gaoyou Hu,,,高邮湖,5,1159114321
+Lake,5,Ozero Pyasino,O. Pyasino,Lake Pyasino,,,,-99,,4.7,6.0,Ozero Pyasino,Q1535541,,,Pjassinosee,Lake Pyasino,Lago Piasino,lac Piassino,,,,,lago Pjasino,,,Pjasinomeer,Piasino,,Пясино,,,,皮亞西諾湖,5,1159114343
+Lake,5,Danau Toba,Danau Toba,Lake Toba,,,,-99,,4.7,6.0,Danau Toba,Q183360,بحيرة توبا,টোবা হ্রদ,Tobasee,Lake Toba,Lago Toba,lac Toba,Λίμνη Τόμπα,तोबा झील,Toba-tó,Danau Toba,lago Toba,トバ湖,토바 호,Tobameer,Toba,Lago Toba,Тоба,Tobasjön,Toba Gölü,Siêu núi lửa Toba,多巴湖,5,1159114361
+Lake,5,,,,_untitled_25,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114377
+Lake,5,Hjälmaren,Hjälmaren,,,,,-99,,4.7,6.0,Hjälmaren,Q211425,,,Hjälmaren,Hjälmaren,Hjälmaren,Hjälmaren,,,,,Hjälmaren,イェルマレン湖,옐마렌 호,Hjälmarmeer,Hjälmar,Lago Hjälmaren,Ельмарен,Hjälmaren,Hjälmaren Gölü,,耶爾馬倫湖,4,1159114391
+Lake,5,,,,_untitled_24,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114413
+Lake,5,Pyhäjärvi,Pyhjrvi,,,,,-99,,4.7,6.0,Pyhäjärvi,Q545559,,,Pyhäjärvi,Pyhäjärvi,Lago Pyhä,lac Pyhä,,,Pyhäjärvi,,,ピュハ湖,,Pyhäjärvi,,,,Pyhäjärvi,,,,5,1159114429
+Lake,5,,,,_untitled_23,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114461
+Lake,5,Gyaring Hu,Gyaring Hu,,,,,-99,,4.7,6.0,Gyaring Hu,Q4128895,,,,Gyaring Lake,Lago Zaling,,,,,,,,,,Gyaring Co,,Джарин-Нур,Zhalinghu,,,扎陵湖,5,1159114475
+Lake,5,,,,_untitled_22,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114495
+Lake,5,,,,_untitled_21,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114511
+Lake,5,Langa Co,Langa Co,,,,,-99,,4.7,6.0,Langa Co,Q628327,,রাক্ষসতাল,Rakshastal,Lake Rakshastal,Lago La'nga Co,lac Rakshastal,,राक्षस झील,Raksasztal-tó,,lago Rakshastal,ラークシャスタール湖,,Rakshastal,La'nga Co,,Ланга-Цо,Lannga Co,,,拉昂错,5,1159114537
+Lake,5,Mapam Yumco,Mapam Yumco,,,,,-99,,4.7,6.0,Mapam Yumco,Q233627,,মানস সরোবর,Manasarovar,Lake Manasarovar,Lago Mana Sarovar,lac Manasarovar,,मानसरोवर,Manaszarovar-tó,Danau Mansarovar,Manasarovar,マナサロワール湖,마나사로바 호수,Manasarovar,Mapam Yumco,Lago Manasarovar,Мапам-Юмцо,Manasarovar,,Hồ Manasarovar,玛旁雍錯,5,1159114553
+Lake,5,Lake Beloye,L. Beloye,,,,,-99,,4.7,6.0,Lake Beloye,Q953140,,,Weißer See,Lake Beloye,Lago Béloye,lac Beloïe,,,,,lago Bianco,ベロエ湖,,Belojemeer,Jezioro Białe,,Белое озеро,Beloje ozero,,,白湖,4,1159114573
+Lake,5,Lake Manyara,L. Manyara,,,,,-99,,4.7,6.0,Lake Manyara,Q577148,,,Manyara-See,Lake Manyara,Lago Manyara,Lac Manyara,,,,,Lago Manyara,マニャラ湖,,Lake Manyara,Jezioro Manyara,,Маньяра,,,,曼雅拉湖,4,1159114585
+Lake,5,Lake Balaton,L. Balaton,,,,,-99,,4.7,6.0,Lake Balaton,Q6383,بالاتون,,Balaton,Lake Balaton,Balaton,lac Balaton,Μπάλατον,,Balaton,Danau Balaton,Balaton,バラトン湖,벌러톤 호,Balatonmeer,Balaton,Lago Balaton,Балатон,Balaton,Balaton Gölü,Hồ Balaton,巴拉顿湖,4,1159114609
+Lake,5,Lago Ranco,L. Ranco,,,,,-99,,4.7,6.0,Lago Ranco,Q1800398,,,Lago Ranco,Ranco Lake,Lago Ranco,lac Ranco,,,Ranco-tó,,lago Ranco,ランコ湖,,Ranco Lake,,Lago Ranco,Ранко,Lago Ranco,,,蘭科湖,5,1159114631
+Lake,5,Lago Viedma,L. Viedma,,,,,-99,,4.7,6.0,Lago Viedma,Q918713,,,Lago Viedma,Viedma Lake,Viedma,lac Viedma,Βιέδμα,,Viedma-tó,,lago Viedma,ビエドマ湖,비에드마 호,Viedmameer,Viedma,,Вьедма,Lago Viedma,Viedma Gölü,,别德马湖,5,1159114641
+Lake,5,Lac Tumba,L. Tumba,,,,,-99,,4.7,6.0,Lac Tumba,Q1324212,بحيرة تومبا,,Tumbasee,Lake Tumba,Lago Tumba,lac Tumba,,,,,lago Tumba,トゥンバ湖,툼바 호,Tumbameer,Tumba,,Тумба,Mantumba,,,通巴湖,5,1159114657
+Lake,5,,,,_untitled_17,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114683
+Lake,5,Po Hu,Po Hu,,,,,-99,,4.7,6.0,,-1,,,,,,,,,,,,,,,,,,,,,,0,1159114699
+Lake,5,Buyr Nuur,Buyr Nuur,Buir Nur,,,,-99,admin-0 more,4.7,6.0,Buyr Nuur,Q715788,,,Buir Nur,Buir Lake,Lago Buir,lac Buir,,,Bujr-tó,,Bujr nuur,ブイル湖,,Buir Lake,Bujr nuur,,Буйр-Нуур,,,,貝爾湖,5,1159114715
+Lake,5,Ngangla Ringeo,Ngangla Ringeo,,,,,-99,,4.7,6.0,Ngangla Ringeo,Q4761833,,,,Ang Laren Lake,,,,,,,,,,,,,,Ngangla Ringco,,,昂拉仁错,5,1159114735
+Lake,5,Tangra Yumco,Tangra Yumco,,,,,-99,,4.7,6.0,Tangra Yumco,Q659377,,,Tangra Yumco,Tangra Yumco,Tangra Yumco,Tangra Yumco,,,,,,タンラ・ユムツォ,,Tangra Yumco,,,,Tangra Yumco,,,当惹雍错,4,1159114759
+Lake,5,Ozero Kulundinskoye,O. Kulundinskoye,Lake Kulundinskoye,,,,-99,,4.7,6.0,Ozero Kulundinskoye,Q731761,,,Kulundasee,Lake Kulundinskoye,Lago Kulunda,lac de Koulounda,,,,,,,,Koeloendameer,Jezioro Kułundyńskie,,Кулундинское озеро,,Kulundin gölü,,庫倫達湖,5,1159114777
+Lake,5,Siletitengiz Kli,Siletitengiz Kli,,,,,-99,,4.7,6.0,Siletitengiz Kli,Q4244492,,,,Siletiteniz,,,,,,,,,,,,,Селетытениз,Siletitengiz Köli,,,,5,1159114787
+Lake,5,Ubinskoye Lake,Ubinskoye L.,,,,,-99,,4.7,6.0,Ubinskoye Lake,Q1115650,,,,Lake Ubinskoye,Ubinskoe,,,,,,,,,Oebinskoe,,,Убинское,,,,烏賓斯科耶湖,5,1159114805
+Lake,5,,,,_untitled_16,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114823
+Lake,5,,,,_untitled_15,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114841
+Lake,5,Ozero Bustakh,O. Bustakh,Lake Bustakh,,,,-99,,4.7,6.0,Ozero Bustakh,Q2996806,,,,Lake Bustakh,,,,,,,,,,,,,Бустах,,,,布斯塔赫湖,5,1159114859
+Lake,5,Sea of Galilee,Sea of Galilee,,,,,-99,,4.7,6.0,Sea of Galilee,Q126982,بحيرة طبريا,,See Genezareth,Sea of Galilee,Mar de Galilea,lac de Tibériade,Θάλασσα της Γαλιλαίας,गलील सागर,Galileai-tenger,Danau Galilea,lago di Tiberiade,ガリラヤ湖,갈릴리 호,Meer van Tiberias,Jezioro Tyberiadzkie,Mar da Galileia,Тивериадское озеро,Galileiska sjön,Taberiye Gölü,Biển hồ Galilee,加利利海,4,1159114879
+Lake,5,Yamzho Yumco,Yamzho Yumco,,,,,-99,,4.7,6.0,Yamzho Yumco,Q939604,,,Yamzhog Yumco,Yamdrok Lake,Lago Yamdrok,Yamdrok-Tso,,यमद्रोक झील,Jamdok-tó,Danau Yamdrok,,ヤムドク湖,암드록쵸 호수,Yamdrok,,,Ямджо-Юмцо,,,Hồ Yamdrok,羊卓雍错,5,1159114885
+Lake,5,Ozero Tenis,O. Tenis,Lake Tenis,,,,-99,,4.7,6.0,,-1,,,,,,,,,,,,,,,,,,,,,,0,1159114903
+Lake,5,Ozero Chërnoye,O. Chërnoye,Lake Chërnoye,Ozero Chernoe,,,-99,,4.7,6.0,,-1,,,,,,,,,,,,,,,,,,,,,,0,1159114929
+Lake,5,,,,_untitled_12,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159114951
+Lake,5,Ozero Bol'šoe Morskoe,O. Bolshoye Morskoye,Lake Bolshoye Morskoye,,,,-99,,4.7,6.0,Ozero Bol'šoe Morskoe,Q1774474,,,,,,,,,,,lago Bol'šoe Morskoe,,,Bolsjoe Morskoe ozero,,,Большое Морское озеро,,,,,5,1159114973
+Lake,5,Ozero Chukochye,O. Chukochye,Lake Chukochye,,,,-99,,4.7,6.0,Ozero Chukochye,Q1108335,,,,,,,,,,,,,,Tsjoekotsje ozero,,,Чукочье озеро,,,,丘科奇耶湖,5,1159114993
+Lake,5,Shijiu Hu,Shijiu Hu,,,,,-99,,4.7,6.0,Shijiu Hu,Q7374652,,,,Shijiu Lake,,,,,,,,,,,,,,Shijiu Hu,,,石臼湖,5,1159115009
+Lake,5,Hong Hu,Hong Hu,,,,,-99,,4.7,6.0,Hong Hu,Q5895614,,,,Hong Lake,,Lac Hong,,,,,,洪湖,,,,,,Hong Hu,,,洪湖,5,1159115027
+Lake,5,Võrtsjärv,Võrtsjärv,Lake Võrtsjärv,,,,-99,,4.7,6.0,Võrtsjärv,Q211516,,,Võrtsjärv,Võrtsjärv,Võrtsjärv,lac Võrtsjärv,Βίρτσγιαρβ,,Võrts-tó,,lago di Võrtsjärv,,페르트스야르프,Võrtsjärv,Võrtsjärv,Lago Võrtsjärv,Выртсъярв,Võrtsjärv,Võrtsjärv,,沃爾茨湖,4,1159115043
+Lake,5,Chao Hu,Chao Hu,,,,,-99,,4.7,6.0,Chao Hu,Q1062495,بحيرة تشاو,,Chao Hu,Chao Lake,Lago Chao,lac Chao,,,,,,巣湖,차오 호,Chao Lake,,,Чаоху,Chao Hu,,Hồ Sào,巢湖,5,1159115069
+Lake,5,,,,_untitled_11,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115089
+Lake,5,Lake Sevan,L. Sevan,Lake Sevana,,,,-99,,4.7,6.0,Lake Sevan,Q181932,بحيرة سيفان,,Sewansee,Lake Sevan,Lago Sevan,lac Sevan,λίμνη Σεβάν,,Szeván-tó,Danau Sevan,lago Sevan,セヴァン湖,세반 호,Sevanmeer,Sewan,Lago Sevan,Севан,Sevansjön,Sevan Gölü,Hồ Sevan,塞凡湖,4,1159115109
+Lake,5,,,,_untitled_10,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115135
+Lake,5,,,,_untitled_9,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115153
+Lake,5,Weishan Hu,Weishan Hu,,,,,-99,,4.7,6.0,Weishan Hu,Q839287,,,,Nansi Lake,Lago Nansi,,,,,,,,,Nansi Lake,,,Наньсыху,Weishan Hu,,,微山湖,5,1159115165
+Lake,5,,,,_untitled_8,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115185
+Lake,5,Huangtang Hu,Huangtang Hu,,,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115205
+Lake,5,,,,_untitled_7,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115225
+Lake,5,Hoh Xil Hu,Hoh Xil Hu,,,,,-99,,4.7,6.0,,-1,,,,,,,,,,,,,,,,,,,,,,0,1159115243
+Lake,5,,,,_untitled_0,,,-99,,4.7,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159115267
+Lake,6,Ozero Khantayskoye,O. Khantayskoye,Lake Khantayskoye,,,,-99,,5.0,6.5,Ozero Khantayskoye,Q233071,,,Chantaisee,Lake Khantayskoye,Lago de Khantai,lac de Khantaï,,,,,,,,Hantayskoe ozero,Jezioro Chantajskie,,Хантайское озеро,,,,漢泰湖,5,1159115275
+Lake,6,Ozero Keta,O. Keta,Lake Keta,,,,-99,,5.0,6.5,Ozero Keta,Q1739872,,,Ketasee,Lake Keta,,lac Keta,,,,,,,,Keta,Keta,,Кета,,,,克塔湖,5,1159115303
+Lake,6,Ozero Lama,O. Lama,Lake Lama,,,,-99,,5.0,6.5,Ozero Lama,Q1460034,,,Lamasee,Lake Lama,Lago Lama,lac Lama,,,,,,,,Lama,Łama,,Лама,,,,拉馬湖,5,1159115317
+Lake,6,Storavan,Storavan,,,,,-99,,5.0,6.5,Storavan,Q204987,ستورافان,,Storavan,Storavan,,,,,,,,,,,,,,Storavan,,,,3,1159115335
+Lake,6,Uddjaure,Uddjaure,,,,,-99,,5.0,6.5,Uddjaure,Q953206,,,Uddjaure,Uddjaure,Uddjaure,Uddjaure,,,,,,,,Uddjaure,Uddjaure,Lago Uddjaur,,Uddjaure,Uddjaure Gölü,,烏德湖,4,1159115361
+Lake,6,,,,_untitled_52,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115381
+Lake,6,,,,_untitled_51,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115407
+Lake,6,Lake Skadar,L. Skadar,Lake Scutari,,,,-99,admin-0,5.0,6.5,Lake Skadar,Q203811,بحيرة سكيوتاري,,Skutarisee,Lake Skadar,Lago Skadar,lac de Skadar,Λίμνη Σκόδρας,,Shkodrai-tó,,lago di Scutari,シュコダル湖,슈코더르 호,Meer van Shkodër,Jezioro Szkoderskie,Lago Escútare,Шкодер,Shkodërsjön,İşkodra Gölü,,斯库台湖,4,1159115429
+Lake,6,,,,_untitled_47,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115447
+Lake,6,Lago Colhué Huapí,L. Colhu Huapi,,,,,-99,,5.0,6.5,Lago Colhué Huapí,Q21842912,,,,Lago Colhué Huapí,,,,,,,,,,,,,,Lago Colhué Huapí,,,,5,1159115469
+Lake,6,,,,_untitled_46,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115487
+Lake,6,,,,_untitled_45,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115515
+Lake,6,,,,_untitled_44,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115537
+Lake,6,,,,_untitled_43,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115563
+Lake,6,,,,_untitled_41,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115575
+Lake,6,,,,_untitled_40,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115599
+Lake,6,Ozero Krasnoye,O. Krasnoye,Lake Krasnoye,,,,-99,,5.0,6.5,Ozero Krasnoye,Q1786723,,,Krasnoje-See,Lake Krasnoye,,,,,,,lago Krasnoe,,,Krasnoe,Jezioro Czerwone,,Красное,,,,克拉斯諾耶湖,5,1159115617
+Lake,6,Biwa Ko,Biwa Ko,,,,,-99,,5.0,6.5,Biwa Ko,Q200239,بحيرة بيوا,,Biwa-See,Lake Biwa,Lago Biwa,lac Biwa,Λίμνη Μπίβα,बिवा झील,Biva-tó,Danau Biwa,lago Biwa,琵琶湖,비와 호,Biwameer,Biwa,Lago Biwa,Бива,Biwasjön,Biwa Gölü,Hồ Biwa,琵琶湖,5,1159115641
+Lake,6,Reg Nuur,Reg Nuur,,,,,-99,,5.0,6.5,Reg Nuur,Q978800,,,,Üüreg Lake,Lago Üüreg,lac Üüreg,,,,,Ùùrėg nuur,,,Üüreg Lake,Üüreg nuur,,Уурэг-Нуур,,,Hồ Uureg,烏雷格湖,5,1159115657
+Lake,6,,,,_untitled_32,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115681
+Lake,6,,,,_untitled_31,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115701
+Lake,6,,,,_untitled_30,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115721
+Lake,6,,,,_untitled_29,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115741
+Lake,6,,,,_untitled_28,,,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159115757
+Lake,6,Banggong Co,Banggong Co,,,,,-99,,5.0,6.5,Banggong Co,Q1032254,,প্যাঙ্গং হ্রদ,Pangong Tso,Pangong Lake,Pangong Tso,Pangong Tso,,पांगोंग त्सो,,,Pangong Tso,パンゴン湖,,Pangong,Banggong Co,Pangong Tso,Пангонг-Цо,Pangongsjön,Pangong Gölü,,班公错,5,1159115773
+Lake,6,Femunden,Femunden,,,,,-99,,5.0,6.5,Femunden,Q1324437,,,Femundsee,Femund,Femund,Femunden,,,,,Femund,,,Femund,Femunden,,Фемунн,Femunden,,,,5,1159115801
+Lake,6,Femunden,Femunden,Femund,,,,-99,,5.0,6.5,Femunden,Q1324437,,,Femundsee,Femund,Femund,Femunden,,,,,Femund,,,Femund,Femunden,,Фемунн,Femunden,,,,5,1159115821
+Lake,6,Loch Ness,Loch Ness,,,,,-99,,5.0,6.5,Loch Ness,Q49650,لوخ نس,,Loch Ness,Loch Ness,Lago Ness,Loch Ness,Λοχ Νες,,Loch Ness,Loch Ness,Loch Ness,ネス湖,네스 호,Loch Ness,Loch Ness,Lago Ness,Лох-Несс,Loch Ness,Loch Ness,Loch Ness,尼斯湖,4,1159115833
+Lake,7,Dood-Tsagaan Nuur,Dood-Tsagaan Nuur,,,,,-99,,5.7,6.7,Dood-Tsagaan Nuur,Q2721959,,,,Dood Tsagaan Lake,,,,,,,Dood Cagaan nuur,,,Dood Tsagaan Lake,Dood Cagaan nuur,,,,,Hồ Dood Tsagaan,下查干湖,5,1159115863
+Lake,7,,,,_untitled_146,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115883
+Lake,7,,,,_untitled_145,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115903
+Lake,7,,,,_untitled_144,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115919
+Lake,7,Lake Débo,L. Dbo,,,,,-99,,5.7,6.7,Lake Débo,Q1270436,,,Débo-See,Lake Débo,Lago Débo,lac Débo,,,,,,,,Lake Débo,Débo,Lago Débo,Дебо,,,,代博湖,5,1159115939
+Lake,7,,,,_untitled_137,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115957
+Lake,7,,,,_untitled_134,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115973
+Lake,7,,,,_untitled_133,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159115993
+Lake,7,,,,_untitled_131,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116019
+Lake,7,Aursund,Aursund,Aursunden,,,,-99,,5.7,6.7,Aursund,Q777416,,,Aursunden,Aursund,,Aursunden,,,,,,,,Aursund,,,,Aursunden,Aursund Gölü,,,4,1159116041
+Lake,7,,,,_untitled_130,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116061
+Lake,7,Øyeren,Yeren,,,,,-99,,5.7,6.7,Øyeren,Q317277,,,Øyeren,Øyeren,Lago Øyeren,Øyeren,,,Øyeren,,,,,Øyeren,Øyeren,,,Øyeren,,,,5,1159116083
+Lake,7,,,,_untitled_129,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116097
+Lake,7,,,,_untitled_128,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116117
+Lake,7,,,,_untitled_126,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116135
+Lake,7,,,,_untitled_125,,,-99,admin-0,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116153
+Lake,7,,,,_untitled_124,,,-99,admin-0 more,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116173
+Lake,7,,,,_untitled_118,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116193
+Lake,7,Lake Lembeni,L. Lembeni,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116213
+Lake,7,,,,_untitled_117,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116233
+Lake,7,Siljan,Siljan,,,,,-99,,5.7,6.7,Siljan,Q217430,,,Siljan,Siljan,Lago Siljan,lac Siljan,,,,,,シリヤン,,Siljan,Siljan,Lago Siljan,Сильян,Siljan,Siljan Gölü,,錫利揚湖,4,1159116249
+Lake,7,Torneträsk,Torneträsk,Torne träsk,,,,-99,,5.7,6.7,Torneträsk,Q215818,,,Torneträsk,Torneträsk,Torneträsk,Torneträsk,,,,,,,,Torneträsk,Torneträsk,Lago Torneträsk,Турнетреск,Torneträsk,Torneträsk Gölü,,托訥湖,4,1159116271
+Lake,7,Lago de  Erepecu,L. de  Erepecu,,,,,-99,,5.7,6.7,Lago de  Erepecu,Q22024948,,,,Lagoa do Erepecur,,,,,,,,,,,,,,Lagoa do Erepecuru,,,,5,1159116293
+Lake,7,,,,_untitled_98,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116317
+Lake,7,Ulansuhai Nur,Ulansuhai Nur,,,,,-99,,5.7,6.7,Ulansuhai Nur,Q7374641,,,,Ulansuhai Nur,,Ulansuhai Nur,,,,,,烏梁素海,,,,,,Ulansu Hai,,,烏梁素海,4,1159116335
+Lake,7,Dongting Hu,Dongting Hu,,,,,-99,,5.7,6.7,Dongting Hu,Q216083,بحيرة دونجتنج,,Dongting-See,Dongting Lake,Lago Dongting,lac Dongting,,दोंगतिंग झील,Tungting-tó,,lago Dongting,洞庭湖,둥팅 호,Dongtingmeer,Dongting Hu,Lago Dongting,Дунтинху,Dongting-sjön,,Hồ Động Đình,洞庭湖,5,1159116351
+Lake,7,Virihaure,Virihaure,,,,,-99,,5.7,6.7,Virihaure,Q1969324,,,Virihaure,,Virihaure,Virihaure,,,,,,,,Virihaure,,,,Virihaure,,,,4,1159116371
+Lake,7,,,,_untitled_97,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116393
+Lake,7,,,,_untitled_96,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116411
+Lake,7,,,,_untitled_95,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116429
+Lake,7,Ozero Teletskoye,O. Teletskoye,Lake Teletskoye,,,,-99,,5.7,6.7,Ozero Teletskoye,Q217109,,,Telezker See,Lake Teletskoye,Lago Teletskoye,lac Teletskoïe,,तेलेत्स्कोये झील,Tyeleckoje-tó,,lago Teleckoe,テレツコイェ湖,텔레츠코예 호,Teletskojemeer,Jezioro Teleckie,,Телецкое,,,,捷列茨科耶湖,5,1159116449
+Lake,7,,,,_untitled_89,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116473
+Lake,7,Ge Hu,Ge Hu,,,,,-99,,5.7,6.7,Ge Hu,Q5529425,,,,Ge Lake,,,,,,,,,,,,,,Ge Hu,,,滆湖,5,1159116495
+Lake,7,,,,_untitled_88,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116521
+Lake,7,,,,_untitled_87,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116539
+Lake,7,Lake Sasykkol,Sasyqkl,,,,,-99,,5.7,6.7,Sasykkol,Q2039551,,,Sassykkölsee,Lake Sasykkol,Lago Sasykkol,lac Sasykkol,,,,,lago Sasykkol,サスイクコリ湖,,Lake Sasykkol,Sasykköl,,Сасыкколь,,,,薩瑟克湖,5,1159116559
+Lake,7,Lake Sasykkol,Sasyqkl,,,,,-99,,5.7,6.7,Sasykkol,Q2039551,,,Sassykkölsee,Lake Sasykkol,Lago Sasykkol,lac Sasykkol,,,,,lago Sasykkol,サスイクコリ湖,,Lake Sasykkol,Sasykköl,,Сасыкколь,,,,薩瑟克湖,5,1159116577
+Lake,7,,,,_untitled_21,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116595
+Lake,7,,,,_untitled_20,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116611
+Lake,7,Lago San Martín,L. San Martín,,,,,-99,,5.7,6.7,Lago San Martín,Q2005708,,,Lago O’Higgins,O'Higgins/San Martín Lake,Lago O'Higgins/San Martín,lac O'Higgins,,,San Martín-tó,,lago San Martín,オイギンス湖,오이긴스 호,O'Higginsmeer/San Martínmeer,O'Higgins/San Martín,Lago O'Higgins/San Martín,Сан-Мартин,Lago O'Higgins,,,奧伊金斯湖,5,1159116627
+Lake,7,Lake Kwania,L. Kwania,,,,,-99,,5.7,6.7,Lake Kwania,Q487953,,,,Lake Kwania,Lago Kwania,,,,Kwania-tó,,,クワニア湖,,,,,,,,,,4,1159116645
+Lake,7,,,,_untitled_19,,,-99,admin-0 more,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116675
+Lake,7,Lago di Como,L. di Como,,,,,-99,,5.7,6.7,Lago di Como,Q15523,بحيرة كومو,,Comer See,Lake Como,Lago de Como,lac de Côme,λίμνη Κόμο,,Comói-tó,Danau Como,lago di Como,コモ湖,코모 호,Comomeer,Como,Lago de Como,Комо,Comosjön,Como Gölü,Hồ Como,科莫湖,5,1159116693
+Lake,7,Lago di Garda,L. di Garda,,,,,-99,,5.7,6.7,Lago di Garda,Q6414,بحيرة غاردا,,Gardasee,Lake Garda,Lago de Garda,lac de Garde,Λίμνη Γκάρντα,,Garda-tó,Danau Garda,lago di Garda,ガルダ湖,가르다 호,Gardameer,Garda,Lago de Garda,Гарда,Gardasjön,Garda Gölü,Hồ Garda,加尔达湖,5,1159116699
+Lake,7,,,,_untitled_18,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116717
+Lake,7,,,,_untitled_17,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116737
+Lake,7,,,,_untitled_16,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159116763
+Lake,8,,,,_untitled_68,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116775
+Lake,8,,,,_untitled_67,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116791
+Lake,8,,,,_untitled_66,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116809
+Lake,8,,,,_untitled_65,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116829
+Lake,8,Hornavan,Hornavan,,,,,-99,,6.0,7.0,Hornavan,Q845880,,,Hornavan,Hornavan,Hornavan,Hornavan,,,,,,,,Hornavan,Hornavan,Lago Hornavan,Хурнаван,Hornavan,Hornavan Gölü,,胡納萬湖,4,1159116845
+Lake,8,Lago Nahuel Huapí,L. Nahuel Huapí,,,,,-99,,6.0,7.0,Lago Nahuel Huapí,Q498371,,,Nahuel Huapi,Nahuel Huapi Lake,Lago Nahuel Huapi,lac Nahuel Huapi,,,Nahuel Huapí-tó,,lago Nahuel Huapi,ナウエル・ウアピ湖,,Nahuel Huapi-meer,Nahuel Huapí,Lago Nahuel Huapi,Науэль-Уапи,Lago Nahuel Huapí,,,納韋爾瓦皮湖,5,1159116859
+Lake,8,,,,_untitled_61,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116879
+Lake,8,,,,_untitled_45,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116893
+Lake,8,Lago Grande,L. Grande,,,,,-99,,6.0,7.0,Lago Grande,Q22029420,,,,Lago Grande,,,,,,,,,,,,,,Lago Grande,,,,3,1159116917
+Lake,8,Lake Xau,L. Xau,,,,,-99,,6.0,7.0,Lake Xau,Q9383203,,,,,,,,,,,,,,,Xau,,,,,,,5,1159116923
+Lake,8,Lake Adobed,L. Adobed,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116941
+Lake,8,Koka Reservoir,L. Koka,,,,,-99,,6.0,7.0,Koka Res.,Q1066779,,,Koka-Stausee,Koka Reservoir,,lac Koka,,,,,,,,,,,,,,,科卡水庫,5,1159116959
+Lake,8,Lake Gemeri,L. Gemeri,,,,,-99,,6.0,7.0,Lake Gemeri,Q3502754,,,,Lake Gummare,,,,,,,,,,,,,,,,,,5,1159116985
+Lake,8,,,,_untitled_44,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159116997
+Lake,8,,,,_untitled_43,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117015
+Lake,8,,,,_untitled_41,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117033
+Lake,8,,,,_untitled_40,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117051
+Lake,8,Laguna de Bay,Lag. de Bay,,,,,-99,,6.0,7.0,Laguna de Bay,Q47136,,,Laguna de Bay,Laguna de Bay,Laguna de Bay,Laguna de Bay,,,,Laguna de Bay,Laguna de Bay,バエ湖,베이 호,Laguna de Bay,Laguna de Bay,Laguna de Bay,Лагуна-де-Бай,,,Laguna de Bay,贝湖,4,1159117069
+Lake,8,,,,_untitled_39,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117079
+Lake,8,,,,_untitled_33,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117099
+Lake,8,Lago La Plata,L. La Plata,,,,,-99,,6.0,7.0,Lago La Plata,Q21838299,,,,Lago La Plata,,,,,,,,,,,,,,Lago La Plata,,,,3,1159117117
+Lake,8,Lago Fontana,L. Fontana,,,,,-99,,6.0,7.0,Lago Fontana,Q5968868,,,,Lago Fontana,Lago Fontana,,,,,,,,,,,,,Lago Fontana,,,,3,1159117129
+Lake,8,,,,_untitled_31,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117157
+Lake,8,Ozero Dyupkun,O. Dyupkun,Lake Dyupkun,,,,-99,,6.0,7.0,Ozero Dyupkun,Q1109799,,,Djupkunsee,Lake Dyupkun,,,,,,,,,,Djupkoen,,,Дюпкун,,,,久普昆湖,5,1159117165
+Lake,8,Lake Murray,L. Murray,,,,,-99,,6.0,7.0,Lake Murray,Q1635229,,,Lake Murray,Lake Murray,Lago Murray,Lake Murray,,,,Danau Murray,,マレー湖,,Lake Murray,,,Марри,,,,默里湖,4,1159117181
+Lake,8,Elsen Nur,Elsen Nur,,,,,-99,,6.0,7.0,Elsen Nur,Q31845278,,,,,,,,,,,,,,,,,,Elsen Nur,,,,4,1159117201
+Lake,8,,,,_untitled_30,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117219
+Lake,8,Lac Onangué,L. Onangu,,,,,-99,,6.0,7.0,Lac Onangué,Q24611627,,,,Lac Onangué,,Lac Onangué,,,,,,,,Lac Onangué,,,,Lac Onangué,,,,5,1159117237
+Lake,8,Lac Mai-Ndombe,L. Mai-Ndombe,,,,,-99,,6.0,7.0,Lac Mai-Ndombe,Q683100,,,Mai-Ndombe-See,Lake Mai-Ndombe,Lago Mai-Ndombe,lac Mai-Ndombe,,,Mai-Ndombe-tó,,lago Mai-Ndombe,マインドンベ湖,,Lake Mai-Ndombe,Mai-Ndombe,,Маи-Ндомбе,Mai-Ndombesjön,,,馬伊恩東貝湖,5,1159117255
+Lake,8,Lake Rentenue,L. Rentenue,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117273
+Lake,8,,,,_untitled_28,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117291
+Lake,8,,,,_untitled_27,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117309
+Lake,8,,,,_untitled_26,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117327
+Lake,8,Lough Derg,Lough Derg,,,,,-99,,6.0,7.0,Lough Derg,Q918349,,,Lough Derg,Lough Derg,Lago Derg,Lough Derg,,,,,Lough Derg,ダーグ湖,,Lough Derg,Lough Derg,,Лох-Дерг,Lough Derg,,,,4,1159117343
+Lake,8,,,,_untitled_25,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117359
+Lake,8,Lough Ree,Lough Ree,,,,,-99,,6.0,7.0,Lough Ree,Q608133,,,Lough Ree,Lough Ree,Lago Ree,Lough Ree,,,,,Lough Ree,,리 호,Lough Ree,Lough Ree,,Лох-Ри,Lough Ree,,,,4,1159117387
+Lake,8,Lough Allen,Lough Allen,,,,,-99,,6.0,7.0,Lough Allen,Q1366974,,,Lough Allen,Lough Allen,Lago Allen,Lough Allen,,,,,Lough Allen,,,Lough Allen,,,Лох-Аллен,Lough Allen,,,,4,1159117405
+Lake,8,Loch Lochy,Loch Lochy,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117421
+Lake,8,,,,_untitled_24,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117431
+Lake,8,,,,_untitled_23,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117449
+Lake,8,Lago Concepción,L. Concepción,,,,,-99,,6.0,7.0,Lago Concepción,Q868663,,,Laguna Concepción,Concepción Lake,Laguna Concepción,Lagune Concepción,,,Concepción-tó,,,,,,,,,Laguna Concepción,,,,5,1159117467
+Lake,8,,,,_untitled_18,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117485
+Lake,8,,,,_untitled_17,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117503
+Lake,8,,,,_untitled_16,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117521
+Lake,8,Masinga Res.,Masinga Res.,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117535
+Lake,8,Lake Bunyonyi,L. Bunyonyi,,,,,-99,,6.0,7.0,Lake Bunyonyi,Q1010056,,,Bunyonyi-See,Lake Bunyonyi,Lago Bunyonyi,lac Bunyonyi,,,,,,,,,,,,,,,,4,1159117553
+Lake,8,,,,_untitled_13,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117563
+Lake,8,Qagan Nur,Qagan Nur,,,,,-99,,6.0,7.0,Qagan Nur,Q835789,,,Qagan Pao,Chagan Lake,,lac Chagan,,,,,,,,,,,Цаган-Нур,Qagan Nur,,,查干湖,5,1159117583
+Lake,8,Ozero Labaz,O. Labaz,Lake Labaz,,,,-99,,6.0,7.0,Ozero Labaz,Q1799381,,,Labassee,Lake Labaz,Lago Labaz,lac Labaz,,,,,,,,Labaz,,Lago Labaz,Лабаз,,,,拉巴兹湖,5,1159117601
+Lake,8,,,,_untitled_12,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117625
+Lake,8,,,,_untitled_11,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117639
+Lake,8,,,,_untitled_10,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117663
+Lake,8,,,,_untitled_9,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117685
+Lake,8,,,,_untitled_8,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117701
+Lake,8,,,,_untitled_7,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117719
+Lake,8,,,,_untitled_6,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117733
+Lake,8,Dongping Hu,Dongping Hu,,,,,-99,,6.0,7.0,Dongping Hu,Q5295998,,,,Dongping Lake,,,,,,,,東平湖,,,,,,Dongping Hu,,,东平湖,5,1159117745
+Lake,8,Lake Kolozero,L. Kolozero,,,,,-99,,6.0,7.0,Lake Kolozero,Q4228232,,,,,,,,,,,,,,,,,Колозеро,,,,,5,1159117761
+Lake,8,Bolmen,Bolmen,,,,,-99,,6.0,7.0,Bolmen,Q891521,,,Bolmen,Bolmen,Bolmen,Bolmen,,,,,,,,Bolmen,Bolmen,Lago Bolmen,Больмен,Bolmen,Bolmen Gölü,,博爾門湖,4,1159117777
+Lake,8,Åsnen,Åsnen,,,,,-99,,6.0,7.0,Åsnen,Q271286,,,Åsnen,Åsnen,,Åsnen,,,,,,,,Åsnen,,,,Åsnen,,,,4,1159117793
+Lake,8,Foxen,Foxen,"Stora Le, Lesjön",,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117807
+Lake,8,Müritz,Mritz,,,,,-99,,6.0,7.0,Müritz,Q3369,موريتز,,Müritz,Müritz,Lago Müritz,lac Müritz,,,Müritz,Müritz,Müritz,ミューリッツ湖,,Müritz,Müritz,Lago Müritz,Мюриц,Müritz,,Müritz,米里茨湖,5,1159117823
+Lake,8,Schweriner See,Schweriner See,,,,,-99,,6.0,7.0,Schweriner See,Q311217,,,Schweriner See,Schweriner See,Lago de Schwerin,lac de Schwerin,,,,,lago di Schwerin,シュヴェリーン湖,,Schweriner See,Schweriner See,,Шверинер-Зе,Schweriner See,,,什未林湖,4,1159117837
+Lake,8,Upper Lough Erne,Upper Lough Erne,,,,,-99,,6.0,7.0,Upper Lough Erne,Q11878874,,,,Upper Lough Erne,,,,,,,,,,Upper Lough Erne,,,,Upper Lough Erne,,,,4,1159117847
+Lake,9,Lac Alaotra,L. Alaotra,,,,,-99,,7.0,8.0,Lac Alaotra,Q575679,,,Lac Alaotra,Lake Alaotra,Lago Alaotra,lac Alaotra,Λίμνη Αλαότρα,,Alaotra-tó,Danau Alaotra,lago Alaotra,アラウチャ湖,,Alaotrameer,Alaotra,Lago Alaotra,Алаутра,Alaotra,Alaotra Gölü,,阿劳特拉湖,5,1159117863
+Lake,9,,,,_untitled_328,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117881
+Lake,9,Lago de Valencia,L. de Valencia,,,,,-99,,7.0,8.0,Lago de Valencia,Q1469728,,,Valenciasee,Lake Valencia,Lago de Valencia,lac de Valencia,,,,,lago di Valencia,,,Lake Valencia,,Lago de Valência,Валенсия,,,,巴倫西亞湖,5,1159117899
+Lake,9,Laguna Iberá,Lag. Iber,,,,,-99,,7.0,8.0,Laguna Iberá,Q21828387,,,,Laguna Iberá,,,,,,,,,,,,,,Laguna Iberá,,,,5,1159117913
+Lake,9,Laguna Iberá,Lag. Iber,,,,,-99,,7.0,8.0,Laguna Iberá,Q21828387,,,,Laguna Iberá,,,,,,,,,,,,,,Laguna Iberá,,,,5,1159117923
+Lake,9,Laguna Huaitunas,Lag. Huaitunas,,,,,-99,,7.0,8.0,Laguna Huaitunas,Q21801008,,,,Laguna Huatunas,,,,,,,,,,,,,,Laguna Huatunas,,,,5,1159117941
+Lake,9,Laguna Ragaguado,Lag. Ragaguado,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117959
+Lake,9,Lago Musters,L. Musters,,,,,-99,,7.0,8.0,Lago Musters,Q3215078,,,,Lago Musters,Lago Musters,lac Musters,,,,,lago Musters,,,Lac Musters,,,Мустерс,Lago Musters,,,穆斯特斯湖,4,1159117977
+Lake,9,Lago Cardiel,L. Cardiel,,,,,-99,,7.0,8.0,Lago Cardiel,Q2439795,,,,Cardiel Lake,Cardiel,lac Cardiel,,,,,lago Cardiel,,,Cardiel Lake,,,,Lago Cardiel,,,,5,1159117995
+Lake,9,Lago Rupanco,L. Rupanco,,,,,-99,,7.0,8.0,Lago Rupanco,Q1800404,,,Lago Rupanco,Rupanco Lake,Lago Rupanco,lac Rupanco,,,,,,,,,,,Рупанко,Lago Rupanco,,,魯潘科湖,5,1159118013
+Lake,9,,,,_untitled_327,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118031
+Lake,9,Lake Cheshi,L. Cheshi,Mweru Wantipa,,,,-99,,7.0,8.0,Lake Cheshi,Q651162,,,Mweru-Wantipa-See,Lake Mweru Wantipa,Lago Mweru Wantipa,lac Mweru Wantipa,,,,,lago Mweru Wantipa,ムウェル・ワンティパ湖,,Mweru-Wantipameer,Mweru Wantipa,,Мверу-Вантипа,,,,姆韋魯萬蒂帕湖,5,1159118083
+Lake,9,Ebinur Hu,Ebinur Hu,,,,,-99,,7.0,8.0,Ebinur Hu,Q31845317,,,,,,,,,,,,,,,,,,Ebinur Hu,,,,3,1159118103
+Lake,9,Lago di Bracciano,L. di Bracciano,,,,,-99,,7.0,8.0,Lago di Bracciano,Q896551,,,Braccianosee,Lake Bracciano,Lago de Bracciano,lac de Bracciano,Λα Μαρμότα,,,,lago di Bracciano,ブラッチャーノ湖,,Meer van Bracciano,Bracciano,Lago de Bracciano,Браччано,Braccianosjön,Bracciano Gölü,,布拉恰诺湖,5,1159118119
+Lake,9,,,,_untitled_326,,,-99,admin-0 more,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118129
+Lake,9,,,,_untitled_324,,,-99,admin-0 more,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118147
+Lake,9,,,,_untitled_321,,,-99,admin-0 more,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118165
+Lake,9,,,,_untitled_320,,,-99,admin-0 more,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118183
+Lake,9,,,,_untitled_319,,,-99,admin-0 more,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118201
+Lake,9,,,,_untitled_318,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118219
+Lake,9,,,,_untitled_316,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118237
+Lake,9,Lac Upemba,L. Upemba,,,,,-99,,7.0,8.0,Lac Upemba,Q1051621,,,Upembasee,Lake Upemba,Lago Upemba,lac Upemba,,,Upemba-tó,,,ウペンバ湖,,Upembameer,Upemba,,Упемба,Lac Upemba,,,烏朋巴湖,5,1159118255
+Lake,9,Lauwerszee,Lauwerszee,,,,,-99,,7.0,8.0,Lauwerszee,Q525364,لاويرسمير,,Lauwersmeer,Lauwersmeer,,Lauwersmeer,,,,,Lauwersmeer,,,Lauwersmeer,Lauwersmeer,,Лауэрсмер,,,,,5,1159118273
+Lake,9,,,,_untitled_315,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118291
+Lake,9,,,,_untitled_314,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118311
+Lake,9,,,,_untitled_313,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118331
+Lake,9,,,,_untitled_312,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118349
+Lake,9,,,,_untitled_311,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118367
+Lake,9,,,,_untitled_310,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118383
+Lake,9,,,,_untitled_309,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118401
+Lake,9,Jezioro Dąbie,Jezioro Dabie,,,,,-99,,7.0,8.0,Jezioro Dąbie,Q1158664,,,Dammscher See,Dąbie Lake,,,,,,,lago Dąbie,,,Dąbie-meer,Dąbie,,Домбе,Dąbiesjön,,,棟別湖,5,1159118421
+Lake,9,Marqakol,Marqakl,,,,,-99,,7.0,8.0,Marqakol,Q1299817,,,Markakol,Lake Markakol,Lago Markakol,lac Markakol,,,,,,マルカコル湖,,,Markaköl,,Маркаколь,,,,,5,1159118445
+Lake,9,Ozero Beloye,O. Beloye,Lake Beloye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118459
+Lake,9,,,,_untitled_307,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118473
+Lake,9,Achit Nuur,Achit Nuur,,,,,-99,,7.0,8.0,Achit Nuur,Q968728,,,Atschit Nuur,Achit Lake,Achit Nuur,lac Achit,,,,,Ačit Nuur,,,Achit Lake,Aczit nuur,,Ачит-Нуур,,,Hồ Achit,阿奇特湖,5,1159118491
+Lake,9,,,,_untitled_305,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118507
+Lake,9,Ozero Ozhogino,O. Ozhogino,Lake Ozhogino,,,,-99,,7.0,8.0,Ozero Ozhogino,Q2476728,,,,Lake Ozhogino,,,,,,,,,,,Ożogino,,Ожогино,,,,奧若吉諾湖,5,1159118527
+Lake,9,Ozero Sagarychye,O. Sagarychye,Lake Sagarychye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118543
+Lake,9,Ozero Bakul,O. Bakul,Lake Bakul,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118561
+Lake,9,Ozero Soluntakh,O. Soluntakh,Lake Soluntakh,,,,-99,,7.0,8.0,Ozero Soluntakh,Q4428523,,,,,,,,,,,,,,,,,Солунтах,,,,,5,1159118579
+Lake,9,,,,_untitled_304,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118597
+Lake,9,,,,_untitled_303,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118609
+Lake,9,,,,_untitled_302,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118617
+Lake,9,,,,_untitled_301,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118635
+Lake,9,Ozero Bolshoy Olr,O. Bolshoy Olr,Lake Bolshoy Olr,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118645
+Lake,9,Ozero Krugovatoye,O. Krugovatoye,Lake Krugovatoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118665
+Lake,9,Ozero Ilirgytgyn,O. Ilirgytgyn,Lake Ilirgytgyn,,,,-99,,7.0,8.0,Ozero Ilirgytgyn,Q1108073,,,Osero Ilirgytgyn,,,,,,,,,,,Ilirgitkin,,,Илиргыткин,,,,伊利爾格特金湖,5,1159118681
+Lake,9,Ozero Elgygytgyn,O. Elgygytgyn,Lake Elgygytgyn,,,,-99,,7.0,8.0,Ozero Elgygytgyn,Q934857,,,Elgygytgyn,Elgygytgyn Lake,Lago Elgygytgyn,Cratère d'El'gygytgyn,Ελγκιγκιτγκίν,,,,lago El'gygytgyn,エリギギトギン湖,,Elgygytgynmeer,Elgygytgyn,Lago El'gygytgyn,Эльгыгытгын,,,,埃利格格特根湖,5,1159118699
+Lake,9,Ozero Kronotskoye,O. Kronotskoye,Lake Kronotskoye,,,,-99,,7.0,8.0,Ozero Kronotskoye,Q1115810,,,,Lake Kronotskoye,,lac Kronotski,,,,,Lago Kronotskij,,,Kronotskojemeer,Jezioro Kronockie,,Кроноцкое,,,,克羅諾基湖,5,1159118717
+Lake,9,,,,_untitled_300,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118741
+Lake,9,,,,_untitled_299,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118755
+Lake,9,Luoma Hu,Luoma Hu,,,,,-99,,7.0,8.0,Luoma Hu,Q31845797,,,,,,,,,,,,,,,,,,Luoma Hu,,,,4,1159118773
+Lake,9,,,,_untitled_298,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118791
+Lake,9,,,,_untitled_297,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118809
+Lake,9,Wuchang Hu,Wuchang Hu,,,,,-99,,7.0,8.0,Wuchang Hu,Q11124334,,,,Lake Wuchang,,,,,,,,,,,,,,Wuchang Hu,,,武昌湖,5,1159118831
+Lake,9,,,,_untitled_296,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118849
+Lake,9,,,,_untitled_295,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118857
+Lake,9,,,,_untitled_294,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118887
+Lake,9,,,,_untitled_293,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118893
+Lake,9,,,,_untitled_292,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118911
+Lake,9,,,,_untitled_291,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118929
+Lake,9,,,,_untitled_290,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118947
+Lake,9,,,,_untitled_289,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118965
+Lake,9,,,,_untitled_288,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159118983
+Lake,9,,,,_untitled_287,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119001
+Lake,9,Dalai Nur,Dalai Nur,,,,,-99,,7.0,8.0,Dalai Nur,Q675467,,,Dalai Nur,Dalai Nur,,,,,,,,,,,Dalai Nur,,Далай-Нур,Dalai Nur,,,达里诺尔,4,1159119011
+Lake,9,Kenohan Jempang,Kenohan Jempang,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119025
+Lake,9,,,,_untitled_286,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119043
+Lake,9,Lake Taal,L. Taal,,,,,-99,,7.0,8.0,Lake Taal,Q537695,,,Taalsee,Taal Lake,Lago Taal,lac Taal,,,,,lago Taal,タール湖,,Taalmeer,Jezioro Taal,Lago Taal,Тааль,,,,塔阿爾湖,5,1159119059
+Lake,9,,,,_untitled_285,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119079
+Lake,9,Ozero Kiyeng-Kyuyel,O. Kiyeng-Kyuyel,Lake Kiyeng-Kyuyel,,,,-99,,7.0,8.0,Ozero Kiyeng-Kyuyel,Q930182,,,,,,,,,,,,,,Kiejeng-Kjoejolmeer,,,Киенг-Кюель,,,,基延格-丘耶利湖,5,1159119093
+Lake,9,Ozero Gusinoye,O. Gusinoye,Lake Gusinoye,,,,-99,,7.0,8.0,Ozero Gusinoye,Q671989,,,Gussinojesee,Lake Gusinoye,Lago Gusínoye,lac Goussinoïe,,,,,,,,Goesinojemeer,Jezioro Gęsie,,Гусиное,,,,古西諾耶湖,5,1159119111
+Lake,9,,,,_untitled_284,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119127
+Lake,9,,,,_untitled_283,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119137
+Lake,9,Ozero Busani,O. Busani,Lake Busani,,,,-99,,7.0,8.0,Ozero Busani,Q3561592,,,,,,,,,,,Busani,,,,Busani,,Бусани,,,,,5,1159119161
+Lake,9,Ozero Baunt,O. Baunt,Lake Baunt,,,,-99,,7.0,8.0,Ozero Baunt,Q811672,,,Baunt,Baunt,,lac Baount,,,,,,,,Baoent,Baunt,,Баунт,,,,巴溫特湖,5,1159119183
+Lake,9,Ozero Kipylyushi,O. Kipylyushi,Lake Kipylyushi,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119195
+Lake,9,Ozero Kipylyushi,O. Kipylyushi,Lake Kipylyushi,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119217
+Lake,9,Ozero Isinginskoye,O. Isinginskoye,Lake Isinginskoye,,,,-99,,7.0,8.0,Ozero Isinginskoye,Q19819696,,,,,,,,,,,,,,,,,Исинга,,,,,5,1159119231
+Lake,9,Ozero Bolshaya Kharga,O. Bolshaya Kharga,Lake Bolshaya Kharga,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119255
+Lake,9,Ozero Bolshoye Yeravnoye,O. Bolshoye Yeravnoye,Lake Bolshoye Yeravnoye,,,,-99,,7.0,8.0,Ozero Bolshoye Yeravnoye,Q4092295,,,,,,,,,,,,,,,,,Большое Еравное озеро,,,,,5,1159119273
+Lake,9,,,,_untitled_282,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119295
+Lake,9,,,,_untitled_281,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119309
+Lake,9,,,,_untitled_280,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119329
+Lake,9,,,,_untitled_279,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119347
+Lake,9,Ozero Arakhley,O. Arakhley,Lake Arakhley,,,,-99,,7.0,8.0,Ozero Arakhley,Q1110298,,,,,Lago Arajléi,lac Arakhleï,,,,,,,,Arachley,,,Арахлей,,,,阿拉赫列伊湖,5,1159119371
+Lake,9,Ozero Irgen,O. Irgen,Lake Irgen,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119381
+Lake,9,,,,_untitled_277,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119403
+Lake,9,,,,_untitled_276,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119419
+Lake,9,Telmen Nuur,Telmen Nuur,,,,,-99,,7.0,8.0,Telmen Nuur,Q2570858,,,,Telmen Lake,,,,,,,Tėlmėn nuur,,,Telmen Lake,Telmen nuur,,Тэлмэн-Нуур,,,,台爾明湖,5,1159119433
+Lake,9,Sangiyn Dalay Nuur,Sangiyn Dalay Nuur,,,,,-99,,7.0,8.0,Sangiyn Dalay Nuur,Q2721984,,,,Sangiin Dalai Lake,,,,,,,Sangijn Dalaj nuur,サンギンダライ湖,,Sangiin Dalai Lake,Sangijn Dalaj nuur,,,,,Hồ Sangiin Dalai,桑根達來湖,5,1159119451
+Lake,9,Hh Nuur,Hh Nuur,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119481
+Lake,9,,,,_untitled_275,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119499
+Lake,9,,,,_untitled_274,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119519
+Lake,9,,,,_untitled_273,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119525
+Lake,9,,,,_untitled_272,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119551
+Lake,9,,,,_untitled_271,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119569
+Lake,9,,,,_untitled_270,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119591
+Lake,9,Ulgain Gobi,Ulgain Gobi,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119607
+Lake,9,Ozero Tembenchi,O. Tembenchi,Lake Tembenchi,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119623
+Lake,9,Ozero Vivi,O. Vivi,Lake Vivi,,,,-99,,7.0,8.0,Ozero Vivi,Q1786498,,,Wiwisee,Lake Vivi,,lac Vivi,Λίμνη Βίβι,,,,,ヴィヴィ湖,,Vivi,,Lago Vivi,Виви,,,,維維湖,5,1159119645
+Lake,9,,,,_untitled_269,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119651
+Lake,9,Ozero Agata,O. Agata,Lake Agata,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119667
+Lake,9,Ozero Severnoye,O. Severnoye,Lake Severnoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119697
+Lake,9,Ozero Ayan,O. Ayan,Lake Ayan,,,,-99,,7.0,8.0,Ozero Ayan,Q41635249,,,,,,Lac Ayan,,,,,,,,,,,,,,,,5,1159119709
+Lake,9,,,,_untitled_268,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119725
+Lake,9,,,,_untitled_267,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119741
+Lake,9,,,,_untitled_266,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119759
+Lake,9,Ozero Kokora,O. Kokora,Lake Kokora,,,,-99,,7.0,8.0,Ozero Kokora,Q1120394,,,,Kokora,,,,,,,lago Kokora,,,Kokora,,,Кокора,,,,科科羅湖,5,1159119779
+Lake,9,,,,_untitled_265,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119797
+Lake,9,,,,_untitled_264,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119815
+Lake,9,Ozero Portnyagino,O. Portnyagino,Lake Portnyagino,,,,-99,,7.0,8.0,Ozero Portnyagino,Q4373293,,,,,,lac Portniaguino,,,,,,,,,,,Портнягино,,,,波爾特尼亞吉諾湖,5,1159119835
+Lake,9,Ozero Kungasalakh,O. Kungasalakh,Lake Kungasalakh,,,,-99,,7.0,8.0,Ozero Kungasalakh,Q1112333,,,,,,,,,,,,,,Koengasalach,,,Кунгасалах,,,,昆加薩拉赫湖,5,1159119853
+Lake,9,,,,_untitled_263,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119871
+Lake,9,Aqqikkol Hu,Aqqikkol Hu,,,,,-99,,7.0,8.0,Aqqikkol Hu,Q16936775,,,,Aqqikkol Hu,,,,,,,,,,,,,,Aqqikkol Hu,,,阿其克库勒湖,4,1159119895
+Lake,9,,,,_untitled_262,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119911
+Lake,9,Gas Hu,Gas Hu,,,,,-99,,7.0,8.0,Gas Hu,Q28794395,,,,Gas Hure Hu,,,,,,,,,,,,,,Gas Hure Hu,,,,5,1159119929
+Lake,9,Hoh Sai Hu,Hoh Sai Hu,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119947
+Lake,9,Huiten Nur,Huiten Nur,,,,,-99,,7.0,8.0,Huiten Nur,Q28794416,,,,Huiten Nur,,,,,,,,,,,,,,Huiten Nur,,,,4,1159119961
+Lake,9,,,,_untitled_261,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119979
+Lake,9,,,,_untitled_260,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159119997
+Lake,9,,,,_untitled_259,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120019
+Lake,9,,,,_untitled_258,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120043
+Lake,9,,,,_untitled_257,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120061
+Lake,9,,,,_untitled_256,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120079
+Lake,9,,,,_untitled_255,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120097
+Lake,9,,,,_untitled_254,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120117
+Lake,9,,,,_untitled_253,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120139
+Lake,9,,,,_untitled_252,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120155
+Lake,9,,,,_untitled_251,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120165
+Lake,9,Lumajangdong Co,Lumajangdong Co,,,,,-99,,7.0,8.0,Lumajangdong Co,Q6703023,,,,Lumajangdong Lake,,,,,,,,,,,,,,Lumajangdong Co,,,鲁玛江东错,5,1159120185
+Lake,9,Gozha Co,Gozha Co,,,,,-99,,7.0,8.0,Gozha Co,Q5619693,,,Gozha Co,Guozha Lake,,,,,,,,,,,,,,Gozha Co,,,郭扎错,5,1159120203
+Lake,9,,,,_untitled_249,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120221
+Lake,9,,,,_untitled_248,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120239
+Lake,9,,,,_untitled_247,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120257
+Lake,9,,,,_untitled_246,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120275
+Lake,9,Gyaring Co,Gyaring Co,,,,,-99,,7.0,8.0,Gyaring Co,Q11111042,,,,Geren Cuo,,,,,,,,,,,,,,Geren Cuo,,,格仁错,5,1159120293
+Lake,9,Ngangzi Co,Ngangz Co,,,,,-99,,7.0,8.0,Ngangzi Co,Q11087306,,,,,,,,,,,,,,,,,,Ngangzi Co,,,昂孜错,5,1159120311
+Lake,9,,,,_untitled_245,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120329
+Lake,9,,,,_untitled_244,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120347
+Lake,9,,,,_untitled_243,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120365
+Lake,9,,,,_untitled_242,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120383
+Lake,9,,,,_untitled_241,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120393
+Lake,9,,,,_untitled_240,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120415
+Lake,9,,,,_untitled_239,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120429
+Lake,9,,,,_untitled_238,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120447
+Lake,9,,,,_untitled_237,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120465
+Lake,9,Alesayqin Ha,Alesayqin Ha,,,,,-99,,7.0,8.0,Alesayqin Ha,Q4701734,,,Aksai Chin,Aksayqin Hu,,,,अक्साई चिन झील,,,,,,,,,,Aksayqin Hu,,,阿克赛钦湖,5,1159120483
+Lake,9,Ozero Samotlor,O. Samotlor,Lake Samotlor,,,,-99,,7.0,8.0,Ozero Samotlor,Q4406902,,,,,,,,,,,,,,,,,Самотлор,,,,,5,1159120507
+Lake,9,Ozero Tormemtor,O. Tormemtor,Lake Tormemtor,,,,-99,,7.0,8.0,Ozero Tormemtor,Q4461133,,,,,,,,,,,,,,,,,Торм-Эмтор,,,,,5,1159120531
+Lake,9,Ozero Chrtovo,O. Chrtovo,Lake Chrtovo,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120545
+Lake,9,Ozero Chaselskoye,O. Chaselskoye,Lake Chaselskoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120563
+Lake,9,,,,_untitled_236,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120585
+Lake,9,,,,_untitled_235,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120601
+Lake,9,Ozero Untor,O. Untor,Lake Untor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120617
+Lake,9,Munduyskoye Ozero,Munduyskoye O.,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120635
+Lake,9,Ozero Sobachye,O. Sobachye,Lake Sobachye,,,,-99,,7.0,8.0,Ozero Sobachye,Q3215207,,,,,,lac Sobatchie,,,,,,,,,,,Собачье,,,,索巴奇耶湖,5,1159120653
+Lake,9,Ozero Sobachye,O. Sobachye,Lake Sobachye,,,,-99,,7.0,8.0,Ozero Sobachye,Q3215207,,,,,,lac Sobatchie,,,,,,,,,,,Собачье,,,,索巴奇耶湖,5,1159120675
+Lake,9,Ozero Glubokoye,O. Glubokoye,Lake Glubokoye,,,,-99,,7.0,8.0,Ozero Glubokoye,Q518319,,,Glubokojesee,Lake Glubokoye,,lac Gloubokoïe,,,,,,,,Gloebokoe,,,Глубокое,,,,格盧博科耶湖,5,1159120681
+Lake,9,Ozero Purinskoye,O. Purinskoye,Lake Purinskoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120699
+Lake,9,Ozero Ayaturku,O. Ayaturku,Lake Ayaturku,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120717
+Lake,9,,,,_untitled_234,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120733
+Lake,9,Ozero Bol'shoye Topol'noye,O. Bol'shoye Topol'noye,Lake Bol'shoye Topol'noye,,,,-99,,7.0,8.0,Ozero Bol'shoye Topol'noye,Q4092460,,,,,,,,,,,,,,,,,Большое Топольное озеро,,,,,5,1159120753
+Lake,9,Ozero Kuchukskoye,O. Kuchukskoye,Lake Kuchukskoye,,,,-99,,7.0,8.0,Ozero Kuchukskoye,Q2642276,,,,,,lac de Koutchouk,,,,,Lago di Kuchuk,,,,,,Кучукское озеро,,,,庫丘克湖,5,1159120771
+Lake,9,Ozero Kuchukskoye,O. Kuchukskoye,Lake Kuchukskoye,,,,-99,,7.0,8.0,Ozero Kuchukskoye,Q2642276,,,,,,lac de Koutchouk,,,,,Lago di Kuchuk,,,,,,Кучукское озеро,,,,庫丘克湖,5,1159120789
+Lake,9,Ozero Maraldy,O. Maraldy,Lake Maraldy,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120805
+Lake,9,Ozero Gorkoye,O. Gorkoye,Lake Gorkoye,,,,-99,,7.0,8.0,Ozero Gorkoye,Q3565914,,,,,,,,,,,,,,,,,Чернокурьинское,,,,切爾諾庫利因斯卡埃湖,5,1159120829
+Lake,9,Ozero Tandovo,O. Tandovo,Lake Tandovo,,,,-99,,7.0,8.0,Ozero Tandovo,Q3565995,,,,,,,,,,,,,,,,,Тандово,,,,坦多沃湖,5,1159120841
+Lake,9,Ebeyty Lake,Ebeyty L.,,,,,-99,,7.0,8.0,Ebeyty Lake,Q4529522,,,,,,,,,,,,,,,,,Эбейты,,,,,5,1159120857
+Lake,9,Ozero Ik,O. Ik,Lake Ik,,,,-99,,7.0,8.0,Ozero Ik,Q4198953,,,,,,,,,,,,,,,,,Ик,,,,,5,1159120873
+Lake,9,Ozero Artevo,O. Artevo,Lake Artevo,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120893
+Lake,9,Ozero Bolshoy Uvat,O. Bolshoy Uvat,Lake Bolshoy Uvat,,,,-99,,7.0,8.0,Ozero Bolshoy Uvat,Q4092898,,,,,Lago Bolshói Uvat,,,,,,,,,,,,Большой Уват,,,,,5,1159120911
+Lake,9,Ozero Bolshoy Shishkarym,O. Bolshoy Shishkarym,Lake Bolshoy Shishkarym,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120921
+Lake,9,Ozero Andreyevskoye,O. Andreyevskoye,Lake Andreyevskoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120933
+Lake,9,Ozero Tuman,O. Tuman,Lake Tuman,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159120955
+Lake,9,Ozero Yakh-Tur,O. Yakh-Tur,Lake Yakh-Tur,,,,-99,,7.0,8.0,Ozero Yakh-Tur,Q4539674,,,,,,,,,,,,,,,,,Яхтур,,,,,5,1159120973
+Lake,9,Ozero Leushinskiy Tuman,O. Leushinskiy Tuman,Lake Leushinskiy Tuman,,,,-99,,7.0,8.0,Ozero Leushinskiy Tuman,Q3566268,,,,,,,,,,,,,,,,,Леушинский Туман,,,,列烏申斯基圖曼湖,5,1159120983
+Lake,9,Ozero Tursuntskiy Tuman,O. Tursuntskiy Tuman,Lake Tursuntskiy Tuman,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121005
+Lake,9,Ozero Syrkovoye,O. Syrkovoye,Lake Syrkovoye,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121015
+Lake,9,,,,_untitled_233,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121033
+Lake,9,Ozero Enetor,O. Enetor,Lake Enetor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121045
+Lake,9,Ozero Ergipskiy Sor,O. Ergipskiy Sor,Lake Ergipskiy Sor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121059
+Lake,9,Ozero Bolshoy Sor,O. Bolshoy Sor,Lake Bolshoy Sor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121087
+Lake,9,Ozero Vandmtor,O. Vandmtor,Lake Vandmtor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121101
+Lake,9,Ozero Bolshoy Kazymskiy Sor,O. Bolshoy Kazymskiy Sor,Lake Bolshoy Kazymskiy Sor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121111
+Lake,9,Ozero Shuryshkarskiy Sor,O. Shuryshkarskiy Sor,Lake Shuryshkarskiy Sor,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121123
+Lake,9,Ozero Yambuto,O. Yambuto,Lake Yambuto,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121139
+Lake,9,Ozero Yasaveyto,O. Yasaveyto,Lake Yasaveyto,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121155
+Lake,9,,,,_untitled_232,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121171
+Lake,9,Ozero Teke,O. Teke,Lake Teke,,,,-99,,7.0,8.0,Ozero Teke,Q2587598,,,,,,,,,,,,,,,Teke,,Теке,,,,,5,1159121185
+Lake,9,Qyzylqaq Kli,Qyzylqaq Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121201
+Lake,9,Žalauly Kli,Zhalauly Kli,,,,,-99,,7.0,8.0,Žalauly Kli,Q10269944,,,,,,,,,,,,,,,,,Жалаулы,,,,,5,1159121215
+Lake,9,Shreksor Kli,Shreksor Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121231
+Lake,9,Qarasor Kli,Qarasor Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121247
+Lake,9,Ozero Sartlan,O. Sartlan,Lake Sartlan,,,,-99,,7.0,8.0,Ozero Sartlan,Q2640299,,,,,,,,,,,,,,,,,Сартлан,,,,薩爾特蘭湖,5,1159121263
+Lake,9,,,,_untitled_231,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121279
+Lake,9,,,,_untitled_230,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121293
+Lake,9,Iken Zhbolat Lake,Iken Zhbolat L.,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121307
+Lake,9,,,,_untitled_229,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121323
+Lake,9,Qiyakty Kli,Qiyakty Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121337
+Lake,9,Kerey Kli,Kerey Kli,,,,,-99,,7.0,8.0,Kerey Kli,Q23014768,,,,Kere,,,,,,,,,,,,,,,,,,5,1159121363
+Lake,9,Qozhakl,Qozhakl,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121371
+Lake,9,Yke Lake,Yke L.,,,,,-99,,7.0,8.0,Yke Lake,Q2659831,,,,Aike,,,,,,,,,,,,,Айке,,,,艾克湖,5,1159121387
+Lake,9,Saryqopa Kli,Saryqopa Kli,,,,,-99,,7.0,8.0,Saryqopa Kli,Q2982888,,,,,,,,,,,,,,,Sarykopa,,Сарыкопа,,,,,5,1159121399
+Lake,9,,,,_untitled_228,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121415
+Lake,9,Shaghalalytengiz Kli,Shaghalalytengiz Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121431
+Lake,9,,,,_untitled_227,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121447
+Lake,9,Zharman Kli,Zharman Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121463
+Lake,9,Iken Aqsuat Kli,Iken Aqsuat Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121479
+Lake,9,Koybaghar Kli,Koybaghar Kli,,,,,-99,,7.0,8.0,Koybaghar Kli,Q12575603,,,,,,,,,,,,,,,,,Койбагар,,,,,5,1159121491
+Lake,9,Imantau Kli,Imantau Kli,,,,,-99,,7.0,8.0,Imantau Kli,Q12547114,,,,,,,,,,,,,,,,,Имантау,,,,,5,1159121507
+Lake,9,Qalybek Kli,Qalybek Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121523
+Lake,9,Kishi Qaraoy Kli,Kishi Qaraoy Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121537
+Lake,9,,,,_untitled_226,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121555
+Lake,9,,,,_untitled_224,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121575
+Lake,9,,,,_untitled_223,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121585
+Lake,9,Pyhäjärvi,Pyhjrvi,,,,,-99,,7.0,8.0,Pyhäjärvi,Q1635550,,,Pyhäjärvi,Pyhäjärvi,,,,,,,,,,,,,,Pyhäjärvi,,,皮海湖,5,1159121605
+Lake,9,,,,_untitled_222,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121617
+Lake,9,,,,_untitled_221,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121635
+Lake,9,,,,_untitled_220,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121653
+Lake,9,,,,_untitled_219,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121671
+Lake,9,,,,_untitled_218,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121683
+Lake,9,,,,_untitled_217,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121699
+Lake,9,,,,_untitled_216,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121715
+Lake,9,,,,_untitled_215,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121731
+Lake,9,,,,_untitled_214,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121743
+Lake,9,,,,_untitled_213,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121759
+Lake,9,,,,_untitled_212,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121775
+Lake,9,,,,_untitled_211,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121791
+Lake,9,,,,_untitled_210,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121807
+Lake,9,,,,_untitled_209,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121819
+Lake,9,,,,_untitled_208,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121833
+Lake,9,,,,_untitled_206,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121849
+Lake,9,,,,_untitled_205,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121865
+Lake,9,,,,_untitled_204,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121881
+Lake,9,,,,_untitled_203,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121891
+Lake,9,,,,_untitled_202,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121901
+Lake,9,,,,_untitled_201,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121917
+Lake,9,,,,_untitled_200,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121933
+Lake,9,,,,_untitled_198,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121949
+Lake,9,,,,_untitled_197,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121965
+Lake,9,,,,_untitled_196,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121981
+Lake,9,,,,_untitled_194,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159121995
+Lake,9,,,,_untitled_193,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122011
+Lake,9,,,,_untitled_192,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122027
+Lake,9,,,,_untitled_191,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122043
+Lake,9,,,,_untitled_190,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122055
+Lake,9,,,,_untitled_189,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122075
+Lake,9,,,,_untitled_188,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122093
+Lake,9,,,,_untitled_187,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122099
+Lake,9,Randijaure,Randijaure,,,,,-99,,7.0,8.0,Randijaure,Q15436784,,,,,,Randijaure,,,,,,,,,,,,Randijaure,,,,4,1159122117
+Lake,9,Storuman,Storuman,,,,,-99,,7.0,8.0,Storuman,Q465037,,,Storuman,Storuman,,Storuman,,,Storuman,,,,,Storuman,,,,Storuman,,,,4,1159122133
+Lake,9,,,,_untitled_186,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122149
+Lake,9,,,,_untitled_185,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122169
+Lake,9,,,,_untitled_184,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122187
+Lake,9,,,,_untitled_183,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122201
+Lake,9,,,,_untitled_182,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122215
+Lake,9,Tyrifjorden,Tyrifjorden,Lake Tyri,,,,-99,,7.0,8.0,Tyrifjorden,Q696445,,,Tyrifjord,Tyrifjorden,Tyrifjorden,Tyrifjord,,,Tyrifjorden,,Tyrifjorden,ティーリフィヨレン,튀리피오르덴 호,Tyrifjord,,Tyrifjorden,Тюрифьорд,Tyrifjorden,Tyrifjorden,,蒂里湖,4,1159122235
+Lake,9,,,,_untitled_181,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122253
+Lake,9,,,,_untitled_180,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122265
+Lake,9,Snåsavatnet,Snåsavatnet,Snåsa Lake,,,,-99,,7.0,8.0,Snåsavatnet,Q1777782,,,Snåsavatnet,Snåsavatnet,Lago Snåsa,Snåsavatnet,,,Snåsavatnet,,Snåsavatnet,,,Snåsavatnet,,,,,,,,4,1159122279
+Lake,9,,,,_untitled_179,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122287
+Lake,9,,,,_untitled_178,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122299
+Lake,9,,,,_untitled_177,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122311
+Lake,9,Røssvatnet,Røssvatnet,,,,,-99,,7.0,8.0,Røssvatnet,Q1352298,,,Røssvatnet,Røssvatnet,Røssvatnet,Røssvatnet,,,,,lago Røssvatnet,,,Røssvatnet,,,Рёссватн,Røssvatnet,,,,4,1159122329
+Lake,9,,,,_untitled_176,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122349
+Lake,9,,,,_untitled_175,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122363
+Lake,9,,,,_untitled_174,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122373
+Lake,9,,,,_untitled_173,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122389
+Lake,9,,,,_untitled_172,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122403
+Lake,9,,,,_untitled_171,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122419
+Lake,9,,,,_untitled_170,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122435
+Lake,9,,,,_untitled_169,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122453
+Lake,9,,,,_untitled_168,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122467
+Lake,9,,,,_untitled_167,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122477
+Lake,9,,,,_untitled_166,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122489
+Lake,9,,,,_untitled_165,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122499
+Lake,9,,,,_untitled_164,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122511
+Lake,9,,,,_untitled_163,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122527
+Lake,9,,,,_untitled_162,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122543
+Lake,9,,,,_untitled_161,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122559
+Lake,9,,,,_untitled_160,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122575
+Lake,9,,,,_untitled_159,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122589
+Lake,9,,,,_untitled_158,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122605
+Lake,9,,,,_untitled_157,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122621
+Lake,9,,,,_untitled_155,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122637
+Lake,9,,,,_untitled_154,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122653
+Lake,9,,,,_untitled_153,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122669
+Lake,9,,,,_untitled_152,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122673
+Lake,9,,,,_untitled_151,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122691
+Lake,9,,,,_untitled_150,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122711
+Lake,9,,,,_untitled_149,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122725
+Lake,9,,,,_untitled_148,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122741
+Lake,9,,,,_untitled_147,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122763
+Lake,9,,,,_untitled_146,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122773
+Lake,9,,,,_untitled_145,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122787
+Lake,9,,,,_untitled_144,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122801
+Lake,9,Songhua Hu,Songhua Hu,,,,,-99,,7.0,8.0,Songhua Hu,Q837876,,,,,,lac Songhua,,,,,,松花湖,쑹화 호,,,,,Songhua Hu,,,松花湖,5,1159122817
+Lake,9,Yueliang Pao,Yueliang Pao,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122829
+Lake,9,,,,_untitled_7,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122863
+Lake,5,Puma Yumco,Puma Yumco,,,New or modified in version 1.3,,-99,,4.7,6.0,Puma Yumco,Q6477446,,,Puma Yumco,Lake Puma Yumco,,,,,,,,,,,,,,Puma Yumco,,,普莫雍错,5,1159122887
+Lake,2,Mälaren,Mälaren,Lake Malar,,New or modified in version 2.0,,-99,,2.0,3.7,Mälaren,Q184492,بحيرة مالارين,,Mälaren,Mälaren,Lago Mälar,lac Mälar,Μέλαρεν,,Mälaren-tó,Mälaren,Mälaren,メーラレン湖,멜라렌 호,Mälarmeer,Melar,Mälaren,Меларен,Mälaren,Mälaren Gölü,Mälaren,梅拉伦湖,4,1159122891
+Reservoir,8,Rye Patch Reservoir,Rye Patch Res.,,,,Rye Patch Dam,1936,,6.0,7.0,Rye Patch Res.,Q7384983,,,,Rye Patch Reservoir,,,,,,,,,,,,,,,,,,4,1159122907
+Reservoir,8,Khashm el Girba Dam,Khashm el Girba Dam,,,,Khashm el Girba Dam,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159122923
+Reservoir,7,Mingevir Reservoir,Mingevir Res.,,,,Mingechaur Dam,1953,,5.7,6.7,Mingevir Res.,Q1859076,,,Mingəçevir-Stausee,Mingachevir reservoir,,réservoir de Mingachevir,,,,,Bacino di Mingäçevir,ミンゲチェヴィル貯水池,,,Zbiornik Mingeczaurski,,Мингечаурское водохранилище,,,,,5,1159122939
+Reservoir,8,Lake Pedder,L. Pedder,,,,,1972,,6.0,7.0,Lake Pedder,Q653152,,,Lake Pedder,Lake Pedder,Lago Pedder,lac Pedder,,,,,,,,Lake Pedder,Jezioro Pedder,,Педдер,Lake Pedder,,,佩德湖,4,1159122955
+Reservoir,8,Lake Gordon,L. Gordon,,,,Gordon Dam,1974,,6.0,7.0,Lake Gordon,Q366813,,,Lake Gordon,Lake Gordon,,lac Gordon,,,,,,,,Lake Gordon,Jezioro Gordon,,Гордон,Lake Gordon,,,,4,1159122971
+Reservoir,9,Ubolratna Reservoir,Ubolratna Res.,,,,Ubolratna,1965,,7.0,8.0,Ubolratna Res.,Q41566866,,,,Ubol Ratana Reservoir,,,,,,,,,,,,,,,,,,5,1159122989
+Reservoir,7,Xinfengjiang Shuiku,Xinfengjiang Sh.,,,,,-99,,5.7,6.7,Xinfengjiang Shuiku,Q1477854,,,Xinfeng-Stausee,Xinfengjiang Reservoir,Embalse Xinfengjiang,,,,,,,,,,,,,,,,新丰江水库,5,1159123003
+Reservoir,8,Krishna Raja Sagar,Krishna Raja Sagar,KRS,,,Krishna Raja Sagar,1932,,6.0,7.0,Krishna Raja Sagar,Q3536528,,,,Krishna Raja Sagara,,,,कृष्णराजसागर,,,,クリシュナラージャサーガラ・ダム,,,,,,,,,,5,1159123019
+Reservoir,9,,,,_untitled_8,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123029
+Reservoir,8,Bhadra Reservoir,Bhadra Res.,,,,Bhadra River Project Dam,1963,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123047
+Reservoir,8,Tungabhadra,Tungabhadra,,,,Tungabhadra Dam,1957,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123057
+Reservoir,7,Novosibirsk Reservoir,Novosibirsk Res.,Ob Sea,Novosibirskoye Reservoir,,Novosibirsk,1957,,5.7,6.7,Novosibirsk Res.,Q1542594,,,Nowosibirsker Stausee,Novosibirsk Reservoir,Embalse de Novosibirsk,réservoir de Novossibirsk,,,Novoszibirszki víztározó,,Bacino di Novosibirsk,ノヴォシビルスク貯水湖,,Stuwmeer van Novosibirsk,Zbiornik Nowosybirski,Reservatório de Novosibirsk,Новосибирское водохранилище,,,,新西伯利亞水庫,4,1159123075
+Reservoir,3,Lake Zaysan,L. Zaysan,,,,Bukhtarma,1960,,3.0,5.0,Lake Zaysan,Q216621,,,Saissansee,Lake Zaysan,Lago Zaysan,lac Zaysan,,,,Danau Zaysan,lago Zajsan,ザイサン湖,,Zaysanmeer,Zajsan,Lago Zaysan,Зайсан,Zajsan,Zaysan Gölü,Hồ Zaysan,斋桑泊,4,1159123091
+Reservoir,6,Lake Habbaniyah,L. Habbaniyah,,,,Haditha,1983,,5.0,6.5,Lake Habbaniyah,Q2539972,بحيرة الحبانية,,Al-Habbaniyya-See,Lake Habbaniyah,Lago Habbaniyah,lac Habbaniya,,,,,Habbaniyya,,,Lake Habbaniyah,,,Эль-Хаббания,Habbaniyyasjön,Habbaniye Gölü,,哈巴尼亚湖,4,1159123107
+Reservoir,3,Buhayrat ath Tharthar,Buhayrat ath Tharthar,Lake Tharthar,Largest lake in Iraq,,,-99,,3.0,4.0,Buhayrat ath Tharthar,Q1640519,منخفض الثرثار,,Tharthar-See,Lake Tharthar,Lago Tharthar,lac-réservoir du Thartar,,,,,Buhayrat ath Thartar,,,Lake Tharthar,,Lago Tharthar,Тартар,,,Hồ Tharthar,塞尔萨尔湖,5,1159123125
+Reservoir,7,Saksak Dagi,Saksak Dagi,,,New or modified in version 1.2,Karakaya,1987,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159123145
+Reservoir,4,,,,,New or modified in version 1.2,Dniprodzershynsk,1964,,4.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123163
+Reservoir,7,Kiev Reservoir,Kiev Res.,Kiyevskoye,,,Kiev,1964,,5.7,6.7,Kiev Reservoir,Q1425651,,,Kiewer Meer,Kiev Reservoir,Embalse de Kiev,réservoir de Kiev,,,,,,,,Kiev Reservoir,Zbiornik Kijowski,,Киевское водохранилище,,,,基輔水庫,4,1159123175
+Reservoir,4,Lake Kovdozero,L. Kovdozero,Lapinjarvi,,New or modified in version 1.2,Verkhne-Tulomskaya,1965,,4.0,5.0,Lake Kovdozero,Q240398,,,Kowdosero,Lake Kovdozero,embalse de Kovdozero,lac Kovdozero,,,,,,,,Kovdozero,,,Ковдозеро,,,,科夫多澤羅湖,4,1159123191
+Reservoir,6,Lake Imandra,L. Imandra,,,,Kumskaya,1963,,5.0,6.5,Lake Imandra,Q265997,,,Imandra,Lake Imandra,Lago Imandra,lac Imandra,,,,,lago Imandra,イマンドラ湖,이만트라 호,Imandrameer,Imandra,,Имандра,Imandra,,,伊曼德拉湖,4,1159123217
+Reservoir,9,Ondozero,Ondozero,,,,Onda,1956,,7.0,8.0,Ondozero,Q1634873,,,Ondosero,,,Ondosero,,,,,,,,Ondozero,,,Ондозеро,,,,翁多澤羅湖,5,1159123229
+Reservoir,4,Koitere,Koitere,,,,Kaltimo,1958,,4.0,5.0,Koitere,Q1345130,,,Koitere,Koitere,,Koitere,,,,,,,,Koitere,,,Койтере,Koitere,,,,4,1159123247
+Reservoir,4,Rikkavesi,Rikkavesi,,,,Puntarikoski,1957,,4.0,5.0,Rikkavesi,Q7334058,,,Rikkavesi,Rikkavesi,,,,,,,,,,,,,,Rikkavesi,,,,4,1159123265
+Reservoir,4,Lake Il'Men',L. Il'Men',,,,Volkhov,1926,,4.0,5.0,Lake Il'Men',Q203462,,,Ilmensee,Lake Ilmen,Lago Ilmen,lac Ilmen,,,Ilmeny-tó,,lago Il'men',イリメニ湖,일멘 호,Ilmenmeer,Ilmień,Lago Ilmen,Ильмень,Ilmen,İlmen Gölü,,伊爾門湖,5,1159123281
+Reservoir,7,Cheboksary Reservoir,Cheboksary Res.,,,New or modified in version 1.2,Cheboksary Dam,1986,,5.7,6.7,Cheboksary Reservoir,Q571123,,,Tscheboksarsker Stausee,Cheboksary Reservoir,Embalse de Cheboksary,réservoir de Tcheboksary,,,,,,,,Tsjeboksarskoe vodochranilisjtsje,,,Чебоксарское водохранилище,,,,切博克薩雷水庫,4,1159123291
+Reservoir,4,Oulujärvi,Oulujarvi,,,,Jylhama,1950,,4.0,5.0,Oulujärvi,Q580019,أولو جيرفي,,Oulujärvi,Oulujärvi,Lago Oulu,lac Oulu,Οουλουγιάρβι,,,,Oulujärvi,オウル湖,,Oulujärvi,Oulujärvi,,Оулуярви,Ule träsk,,,奧盧湖,5,1159123301
+Reservoir,7,Kemijärvi,Kemijarvi,,,,Seitakorva,1968,,5.7,6.7,Kemijärvi,Q1738491,,,Kemijärvi,Kemijärvi,,lac Kemijärvi,,,,,,,,Kemijärvi,Kemijärvi,,Кемиярви,Kemi träsk,,,凱米湖,5,1159123319
+Reservoir,5,Umbozero Lake,Umbozero L.,,,,Iova,1960,,4.7,6.0,Umbozero Lake,Q1460079,,,Umbosero,Lake Umbozero,Lago Umbozero,lac Oumbozero,,,,,,,,Oembozero,Umboziero,,Умбозеро,Umbozero,,,溫博澤羅湖,5,1159123333
+Reservoir,8,Paduskoye More,Paduskoye More,,,New or modified in version 1.2,Kniazaya Guba,1955,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123351
+Reservoir,8,Porttipahta Reservoir,Porttipahta Res.,,,,Porttipahdan/Tekorjarvi Lake,1970,,6.0,7.0,Porttipahta Reservoir,Q2105296,,,Porttipahta-Stausee,Porttipahta Reservoir,,,,,,,,,,,,,,Porttipahta bassäng,,,,4,1159123363
+Reservoir,8,Lokan Tekojarvi,Lokan Tekojarvi,Lokka Reservoir,,,Lokka,1967,,6.0,7.0,Lokan Tekojarvi,Q1868580,,,Lokka-Stausee,Lokka Reservoir,,lac Lokka,,,,,,,,,Lokan tekojärvi,,Локка,Lokka bassäng,,,洛卡水庫,5,1159123381
+Reservoir,5,Akkajaure,Akkajaure,,,,Satishaure,1966,,4.7,6.0,Akkajaure,Q419614,,,Akkajaure,Akkajaure,Akkajaure,Akkajaure,,,,,,,,Akkajaure,,Akkajaure,Аккаявре,Akkajaure,,,阿卡湖,4,1159123397
+Reservoir,7,Stora Lulevatten,Stora Lulevatten,Great Lule Lake,,,Suorva (eastern dam),1972,,5.7,6.7,Stora Lulevatten,Q1760356,,,Stora Lulevatten,Stora Lulevatten,,,,,,,,,,Stora Lulevatten,,Stora Lulevatten,,Stora Lulevatten,,,,4,1159123415
+Reservoir,8,Mjøsa,Mhisa,,,,,-99,,6.0,7.0,Mjøsa,Q212209,بحيرة ميوسا,,Mjøsa,Mjøsa,Mjøsa,Mjøsa,,,Mjøsa,,Mjøsa,ミョーサ湖,미에사 호,Mjøsa,Mjøsa,Mjøsa,Мьёса,Mjøsa,Mjøsa,Hồ Mjøsa,米约萨湖,5,1159123435
+Reservoir,8,M'Bakaou Reservoir,M'Bakaou Res.,,,,M'Bakaou,1971,,6.0,7.0,M'Bakaou Reservoir,Q23671062,,,,Mbakaou Reservoir,,,,,,,,,,,,,,Mbakaou Reservoir,,,,5,1159123453
+Reservoir,9,,,,_untitled_4,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123465
+Reservoir,9,Tiete,Tiete,,,,Barra Bonita,1963,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123481
+Reservoir,9,Barra Bonita,Barra Bonita,,,,Jurumirim Dike,1962,,7.0,8.0,Barra Bonita,Q22072127,,,,Barra Bonita Reservoir,,,,,,,,,,,,,,Barra Bonita Reservoir,,,,5,1159123497
+Reservoir,9,Bariri,Bariri,,,,Nova Avanhandava,1982,,7.0,8.0,Bariri,Q22072128,,,,Bariri Reservoir,,,,,,,,,,,,,,Bariri Reservoir,,,,5,1159123517
+Reservoir,9,,,,,,Tres Irmaos,1999,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123531
+Reservoir,9,,,,_untitled_3,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123547
+Reservoir,9,,,Theodomiro Sampaio,,,Emborcação Dam,1981,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123567
+Reservoir,5,Lago Gatun,L. Gatun,Gatun lake,,,Gatun Dam,1913,,4.7,6.0,Lago Gatun,Q313637,بحيرة غاتون,,Gatúnsee,Gatun Lake,Lago Gatún,lac Gatún,,गाटुन झील,,,lago Gatún,ガトゥン湖,,Gatúnmeer,Gatún,Lago Gatún,Гатун,Gatúnsjön,Gatun Gölü,Hồ Gatun,加通湖,5,1159123579
+Reservoir,7,Presa Miguel Alemán,Psa. Miguel Aleman,,,,,-99,,5.7,6.7,Presa Miguel Alemán,Q6844402,,,,Miguel Alemán Lake,,,,,,,,,,,,,,,,,,5,1159123597
+Reservoir,8,Lake Novillo,L. Novillo,Plutarco Elias Calles Reservoir,,,Plutarco Elias Calles (el Novillo),1964,,6.0,7.0,Lake Novillo,Q6477152,,,,Lake Novillo,Presa El Novillo,,,,,,,,,,,,,,,,,4,1159123611
+Reservoir,7,Lake Mohave,L. Mohave,,,,Davis,1950,,5.7,6.7,Lake Mohave,Q1801012,,,Lake Mohave,Lake Mohave,,Lake Mohave,,,,,,モハーベ湖,,Lake Mohave,,,,,,,,4,1159123625
+Reservoir,9,Lac Low,L. Low,Low Lake,,,Barage OA-11,1980,,7.0,8.0,Lac Low,Q6692903,,,,Low Lake,,Low Lake,,,,,,,,,,,,,,,,5,1159123639
+Reservoir,4,Southern Indian Lake,Southern Indian L.,,,,Missi Falls Control,1976,,4.0,5.0,Southern Indian Lake,Q1888211,,,Southern Indian Lake,Southern Indian Lake,Lago Southern Indian,lac Southern Indian,,,,,,サザンインディアン湖,,,Jezioro Indiańskie Południowe,,Саутерн-Индиан-Лейк,Southern Indian Lake,,,南印第安湖,4,1159123651
+Reservoir,7,Tobin Lake,Tobin L.,,,,Squaw Rapids Dam,1962,,5.7,6.7,Tobin Lake,Q7359179,,,,Tobin Lake,,lac Tobin,,,,,,,,,,,,Tobin Lake,,,,4,1159123665
+Reservoir,4,Cedar Lake,Cedar L.,,,,Grand Rapids,1965,,4.0,5.0,Cedar Lake,Q1052532,,,Cedar Lake,Cedar Lake,Lago Cedar,lac des Cèdres,,,,,Cedar Lake,シーダー湖,,Cedar Lake,Cedar,Lago Cedar,Сидар,Cedar Lake,,,錫達湖,4,1159123681
+Reservoir,7,Sipiwesk Lac,Sipiwesk L.,,,,Kelsey (Sipiwesk and Cauchon Ls.),1960,,5.7,6.7,Sipiwesk Lac,Q10315644,,,,,,,,,,,,,,,,Lago Sipiwesk,,,,,,5,1159123697
+Reservoir,7,Ogoki Reservoir,Ogoki Res.,,,,Waboose,1942,,5.7,6.7,Ogoki Reservoir,Q14638138,,,Ogoki Reservoir,Ogoki Reservoir,,,,,,,,,,,,,,Ogoki Reservoir,,,,4,1159123719
+Reservoir,8,Umfreville Lake,Umfreville L.,,,,,-99,,6.0,7.0,Umfreville Lake,Q7359539,,,,Umfreville Lake,,Umfreville Lake,,,,,,,,,,,,Umfreville Lake,,,,4,1159123733
+Reservoir,8,,,,,,Caribou Falls,1958,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159123751
+Reservoir,8,Lac Seul,L. Seul,,,,,-99,,6.0,7.0,Lac Seul,Q958928,,,Lac Seul,Lac Seul,Lago Seul,lac Seul,,,,,lago Seul,,,Lac Seul,Lac Seul,,Лак-Сёль,Lac Seul,,,瑟勒湖,4,1159123765
+Reservoir,5,Cabonga Reservoir,Cabonga Res.,Réservoir Cabonga,,,Cabonga Dam,1957,,4.7,6.0,Cabonga Reservoir,Q1328792,,,réservoir Cabonga,Cabonga Reservoir,,réservoir Cabonga,,,,,réservoir Cabonga,,,,,,,réservoir Cabonga,,,卡邦加水庫,4,1159123781
+Reservoir,5,Lake Abitibi,L. Abitibi,,,,Twin Falls,1921,,4.7,6.0,Lake Abitibi,Q321534,,,Abitibisee,Lake Abitibi,Lago Abitibi,lac Abitibi,,,,,lago Abitibi,,,Lake Abitibi,,Lago Abitibi,Абитиби,Abitibisjön,,,阿伯蒂比湖,4,1159123795
+Reservoir,6,Dozois Reservoir,Dozois Res.,Réservoir Dozois,,,Dozois,1949,,5.0,6.5,Dozois Reservoir,Q1330203,,,réservoir Dozois,Dozois Reservoir,réservoir Dozois,réservoir Dozois,,,,,réservoir Dozois,,,réservoir Dozois,,,,Réservoir Dozois,,,多祖瓦水庫,4,1159123805
+Reservoir,7,Dozois Reservoir,Dozois Res.,Réservoir Dozois,,,Dozois,1949,,5.7,6.7,Dozois Reservoir,Q1330203,,,réservoir Dozois,Dozois Reservoir,réservoir Dozois,réservoir Dozois,,,,,réservoir Dozois,,,réservoir Dozois,,,,Réservoir Dozois,,,多祖瓦水庫,4,1159123829
+Reservoir,4,Lac Saint-Jean,L. St.-Jean,,,,Isle Maligne Powerhouse Dam,1925,,4.0,5.0,Lac St.-Jean,Q979922,,,Lac Saint-Jean,Lac Saint-Jean,Lago Saint-Jean,lac Saint-Jean,,,,,lago Saint-Jean,サンジャン湖,,Lac Saint-Jean,Saint-Jean,,Сен-Жан,Lac Saint-Jean,,,,5,1159123839
+Reservoir,7,Lake Péribonca,L. Peribonca,Lake Péribonca,,,Passes Dangereuses,1943,,5.7,6.7,Lake Péribonca,Q6477455,,,,Lake Péribonca,,lac Péribonka,,,,,,,,,,,,Lac Péribonka,,,,5,1159123857
+Reservoir,4,Réservoir de La Grande 2,Rs. de La Grande 2,,,,,-99,,4.0,5.0,Réservoir de La Grande 2,Q22617464,,,,,,lac Awapakamich,,,,,,,,,,,,Lac Awapakamich,,,,5,1159123871
+Reservoir,7,Saratov Reservoir,Saratov Res.,Saratovskoe Reservoir,,New or modified in version 1.2,,1967,,5.7,6.7,Saratov Reservoir,Q1431535,,,Saratower Stausee,Saratov Reservoir,Embalse de Sarátov,réservoir de Saratov,,,,,Bacino di Saratov,,,Saratovskoe vodochranilisjtsje,Zbiornik Saratowski,,Саратовское водохранилище,,,,薩拉托夫水庫,4,1159123883
+Reservoir,7,Nizhnekamsk Reservoir,Nizhnekamsk Res.,Lower Kama Reservoir,,New or modified in version 1.2,Lower Kama Dam,1978,,5.7,6.7,Nizhnekamsk Reservoir,Q1425346,,,Nischnekamsker Stausee,Nizhnekamsk Reservoir,Embalse del Kama Inferior,réservoir de Nijnekamsk,,,Nyizsnyekamszki-víztározó,,Bacino di Nižnekamsk,,,Nizjnekamskoe vodochranilisjtsje,,,Нижнекамское водохранилище,,,,下卡姆斯克水庫,4,1159123899
+Reservoir,6,Serebryanskoe Reservoir,Serebryanskoe Res.,,,New or modified in version 1.2,,-99,,5.0,6.5,Serebryanskoe Reservoir,Q3511603,,,,,,,,,,,,,,,,,Серебрянское водохранилище,,,,,5,1159123919
+Reservoir,7,Ataturk Barajt,Ataturk Barajt,,,New or modified in version 1.2,Ataturk,1992,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159123929
+Reservoir,2,Réservoir Manicouagan,Rs. Manicouagan,,,,,1960,,2.0,3.7,Réservoir Manicouagan,Q756106,,,Manicouagan-Stausee,Manicouagan Reservoir,Lago Manicouagan,réservoir Manicouagan,,,,,lago Manicouagan,マニクアガン湖,,Manicouagan Reservoir,Manicouagan,,Маникуаган,Manicouaganreservoaren,,,曼尼古根隕石坑,5,1159123939
+Reservoir,4,Réservoir de La Grande 3,Rs. de La Grande 3,,,,,1982,,4.0,5.0,Réservoir de La Grande 3,Q2179011,,,Réservoir La Grande 3,Réservoir La Grande 3,,réservoir La Grande 3,,,,,,,,,,,,Réservoir La Grande 3,,,,5,1159123951
+Reservoir,4,Lake Mead,L. Mead,,,,,1936,,4.0,5.0,Lake Mead,Q654515,,,Lake Mead,Lake Mead,Lago Mead,lac Mead,,,Mead-tó,Lake Mead,lago Mead,ミード湖,미드 호,Lake Mead,Mead,Lago Mead,Мид,Lake Mead,,,米德湖,4,1159123963
+Reservoir,4,Lake Powell,L. Powell,,,,,1966,,4.0,5.0,Lake Powell,Q667507,بحيرة باول,,Lake Powell,Lake Powell,Lago Powell,lac Powell,,,Powell-tó,,lago Powell,パウエル湖,파월 호,Powellmeer,Powell,,Пауэлл,,Lake Powell,,鲍威尔湖,4,1159123979
+Reservoir,4,Smallwood Reservoir,Smallwood Res.,,,,Churchill Falls,1971,,4.0,5.0,Smallwood Reservoir,Q1539726,,,Smallwood Reservoir,Smallwood Reservoir,Embalse de Smallwood,réservoir Smallwood,,,,,Bacino Smallwood,,,Smallwood Reservoir,,Albufeira de Smallwood,Смолвуд,Smallwoodreservoaren,,,斯莫爾伍德水庫,4,1159123999
+Reservoir,5,Williston Lake,Williston L.,,,,W.A.C. Bennett Dam,1967,,4.7,6.0,Williston Lake,Q967775,,,Williston Lake,Williston Lake,Lago Williston,lac Williston,,,Williston-tó,,lago Williston,,,Williston Lake,,Lago Williston,Уиллистон,Williston Lake,,,,4,1159124009
+Reservoir,5,Fort Peck Lake,Ft. Peck L.,,,,,1961,,4.7,6.0,Fort Peck Lake,Q4492006,,,,Fort Peck Lake,,,,,,,,,,,,,Форт-Пек,,,,,4,1159124029
+Reservoir,5,Lake Sakakawea,L. Sakakawea,,,,,1956,,4.7,6.0,Lake Sakakawea,Q1801077,,,Lake Sakakawea,Lake Sakakawea,Lago Sakakawea,lac Sakakawea,,,,,lago Sakakawea,,,Lake Sakakawea,,,Сакакавиа,,,,沙卡卡威亞湖,4,1159124039
+Reservoir,5,Lake Oahe,L. Oahe,,,,,1961,,4.7,6.0,Lake Oahe,Q474408,,,Lake Oahe,Lake Oahe,,lac Oahe,,,,,,,,Lake Oahe,,,Оахе,,,,,4,1159124053
+Reservoir,5,Réservoir Gouin,Rs. Gouin,,,,,1918,,4.7,6.0,Réservoir Gouin,Q1540136,خزان Gouin,,Gouin-Stausee,Gouin Reservoir,Embalse Gouin,réservoir Gouin,,,,,Bacino Gouin,,,Gouin Reservoir,,,,Réservoir Gouin,,,古安水庫,5,1159124077
+Reservoir,5,Lower Arrow Lake,Lower Arrow L.,,,,Hugh Keenleyside (Arrow),1960,,4.7,6.0,,Q280135,,,Arrow Lake,Arrow Lakes,Lagos Arrow,lacs Arrow,,,,,Laghi Arrow,アロー湖,,Arrow Lakes,,Lago Arrow,,,,,,0,1159124087
+Reservoir,5,Amistad Reservoir,Amistad Res.,,,,Internacional La Amistad,1968,admin-0 more,4.7,6.0,Amistad Reservoir,Q1634424,,,Amistad-Stausee,Amistad Reservoir,Presa de la Amistad,,,,,,,,,Amistad Reservoir,,,,,,,,4,1159124109
+Reservoir,5,Réservoir Baskatong,Rs. Baskatong,,,,,1927,,4.7,6.0,Réservoir Baskatong,Q1329423,,,Réservoir Baskatong,Baskatong Reservoir,,réservoir Baskatong,,,,,,,,,,,Баскатонг,Réservoir Baskatong,,,,5,1159124119
+Reservoir,5,Lake Chelan,L. Chelan,,,,,1927,,4.7,6.0,Lake Chelan,Q1115201,,,Lake Chelan,Lake Chelan,Lago Chelan,lac Chelan,,,,,lago Chelan,,,Lake Chelan,Lake Chelan,,Челан,,,,奇蘭湖,4,1159124141
+Reservoir,5,Millerton Lake,Millerton L.,,,,,1942,,4.7,6.0,Millerton Lake,Q6859416,,,,Millerton Lake,,Millerton Lake,,,,,,,,Millerton Lake,,Reservatório Millerton,,,,,,4,1159124147
+Reservoir,5,Réservoir Pipmuacan,Rs. Pipmuacan,,,,,1963,,4.7,6.0,Rés. Pipmuacan,Q1471254,,,Réservoir Pipmuacan,Pipmuacan Reservoir,,réservoir Pipmuacan,,,,,,,,,,,,Réservoir Pipmuacan,,,皮普馬康水庫,5,1159124167
+Reservoir,6,Lake Francis Case,L. Francis Case,,,,Fort Randall Dam,1952,,5.0,6.5,L. Francis Case,Q6475894,,,,Lake Francis Case,,Lake Francis Case,,,,,,,,,,,,,,,,4,1159124183
+Reservoir,6,Falcon Lake,Falcon L.,,,,International Falcon Lake,1954,admin-0 more,5.0,6.5,Falcon L.,Q4967120,,,,Falcon International Reservoir,Lago Falcón,Falcon International Reservoir,,,,,,ファルコン湖,,,,,,,,,,5,1159124201
+Reservoir,6,Réservoir de Caniapiscau,Rs. de Caniapiscau,,,,,1980,,5.0,6.5,Rés. de Caniapiscau,Q1033302,,,Caniapiscau-Stausee,Caniapiscau Reservoir,Embalse de Caniapiscau,réservoir de Caniapiscau,,,,,Bacino di Caniapiscau,,,Caniapiscau Reservoir,,,Каниаписко,Kaniapiskausjön,,,卡尼亞皮斯科水庫,5,1159124219
+Reservoir,6,Lac Bermen,L. Bermen,,,,,-99,,5.0,6.5,Lac Bermen,Q6474964,,,Lac Bermen,Lake Bermen,,lac Bermen,,,,,,,,,,,,Lac Bermen,,,,5,1159124231
+Reservoir,6,Réservoir de Caniapiscau,Rs. de Caniapiscau,,,,Barrage KA-3,1980,,5.0,6.5,Rés. de Caniapiscau,Q1033302,,,Caniapiscau-Stausee,Caniapiscau Reservoir,Embalse de Caniapiscau,réservoir de Caniapiscau,,,,,Bacino di Caniapiscau,,,Caniapiscau Reservoir,,,Каниаписко,Kaniapiskausjön,,,卡尼亞皮斯科水庫,5,1159124249
+Reservoir,6,Kentucky Lake,Kentucky L.,,,,Kentuckey Dam,1944,,5.0,6.5,Kentucky L.,Q2781219,,,,Kentucky Lake,,Kentucky Lake,,,,,,,,Kentucky Lake,,,,,,,,4,1159124267
+Reservoir,6,J. Strom Thurmond Lake,J. Strom Thurmond L.,Clarks Hill Lake,,,,1953,,5.0,6.5,Strom Thurmond Lake,Q6477865,,,,Lake Strom Thurmond,,,,,,,,クラークスヒル湖,,,,,,,,,,5,1159124279
+Reservoir,6,Kinbasket Lake,Kinbasket L.,,,,Mica Dam,1973,,5.0,6.5,Kinbasket Lake,Q317407,,,,Kinbasket Lake,,lac Kinbasket,,,,,,キンバスケット湖,,,,Lago Kinbasket,Кинбаскет,Kinbasket Lake,,,,4,1159124293
+Reservoir,6,Shasta Lake,Shasta L.,,,,,1945,,5.0,6.5,Shasta Lake,Q14683954,,,,Shasta Lake,,lac Shasta,,,,,,シャスタ湖,,Shasta Lake,,,,,,,沙斯塔湖,4,1159124305
+Reservoir,6,Wheeler Lake,Wheeler L.,,,,Wheeler Dam,1980,,5.0,6.5,Wheeler Lake,Q3561541,,,,Wheeler Lake,Lago Wheeler,lac Wheeler,Λίμνη Γουίλερ,,,,,,,,,,,,,,韋勒湖,4,1159124317
+Reservoir,7,Franklin D. Roosevelt Lake,Franklin D. Roosevelt L.,,,,Grand Coulee Dam,1941,,5.7,6.7,Franklin D. Roosevelt Lake,Q3042661,,,,Franklin D. Roosevelt Lake,Lago Franklin D. Roosevelt,lac Franklin D. Roosevelt,,,,,,ルーズベルト湖,,Franklin D. Roosevelt Lake,,,,,,,富蘭克林·D·羅斯福湖,4,1159124331
+Reservoir,7,Upper Arrow Lake,Upper Arrow L.,,,,Hugh Keenleyside (Arrow),1960,,5.7,6.7,,Q280135,,,Arrow Lake,Arrow Lakes,Lagos Arrow,lacs Arrow,,,,,Laghi Arrow,アロー湖,,Arrow Lakes,,Lago Arrow,,,,,,0,1159124345
+Reservoir,7,Kinbasket Lake,Kinbasket L.,,,,Mica Dam,1973,,5.7,6.7,Kinbasket Lake,Q317407,,,,Kinbasket Lake,,lac Kinbasket,,,,,,キンバスケット湖,,,,Lago Kinbasket,Кинбаскет,Kinbasket Lake,,,,4,1159124359
+Reservoir,7,Caballo Reservoir,Caballo Res.,,,,Caballo Dam,1938,,5.7,6.7,Caballo Res.,Q5015210,,,,Caballo Lake,Lago Caballo,Caballo Lake,,,,,,,,,,,,,,,,5,1159124371
+Reservoir,7,Elephant Butte Reservoir,Elephant Butte Res.,,,,Elephant Butte Dam,1916,,5.7,6.7,Elephant Butte Reservoir,Q5359306,,,,Elephant Butte Reservoir,,Elephant Butte Reservoir,,,,,,,,,,,,,,,,4,1159124385
+Reservoir,7,Lake Diefenbaker,L. Diefenbaker,,,,,1967,,5.7,6.7,Lake Diefenbaker,Q399604,,,Lake Diefenbaker,Lake Diefenbaker,,lac Diefenbaker,,,,,,,,Lake Diefenbaker,,,Дифенбейкер,Lake Diefenbaker,,,迪芬贝克湖,4,1159124399
+Reservoir,7,Ossokmanuan Lake,Ossokmanuan L.,,,,,-99,,5.7,6.7,Ossokmanuan Lake,Q7107531,,,,Ossokmanuan Lake,,Ossokmanuan Lake,,,,,,,,,,Lago Ossokmanuan,,,,,,4,1159124413
+Reservoir,7,Red Bluff Lake,Red Bluff L.,,,,,-99,,5.7,6.7,Red Bluff Lake,Q7303773,,,,Red Bluff Reservoir,,Red Bluff Reservoir,,,,,,,,,,,,,,,,5,1159124425
+Reservoir,7,Brantley Lake,Brantley L.,,,,Brantley Dam,1980,,5.7,6.7,Brantley Lake,Q4957685,,,,Brantley Lake,,Brantley Lake,,,,,,,,,,,,,,,,4,1159124439
+Reservoir,7,Lake C.W. McConaughy,L. C.W. McConaughy,,,,,1941,,5.7,6.7,Lake McConaughy,Q6476851,,,,Lake McConaughy,,Lake McConaughy,,,,,,マッコーニイ湖,,,,,,,,,,5,1159124453
+Reservoir,7,Seminoe Reservoir,Seminoe Res.,,,,,1939,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159124467
+Reservoir,7,Trinity Lake,Trinity L.,Clair Engle L.,,,,1933,,5.7,6.7,Trinity Lake,Q2453582,,,Trinity Lake,Trinity Lake,,Trinity Lake,,,,,,,,Trinity Lake,,,,,,,,5,1159124479
+Reservoir,7,John H. Kerr Reservoir,John H. Kerr Res.,,,,,1953,,5.7,6.7,Kerr Res.,Q1700320,,,John H. Kerr Reservoir,Kerr Lake,,lac Kerr,,,,,,,,Kerr Lake,,,,,,,,5,1159124493
+Reservoir,7,Lake Texoma,L. Texoma,,,,Denison Dam,1944,,5.7,6.7,Lake Texoma,Q3215230,,,,Lake Texoma,,lac Texoma,,,,,,,,,,,,,,,,4,1159124507
+Reservoir,7,Flaming Gorge Reservoir,Flaming Gorge Res.,,,,,1964,,5.7,6.7,Flaming Gorge Reservoir,Q176598,,,Flaming Gorge Reservoir,Flaming Gorge Reservoir,,Flaming Gorge Reservoir,,,,,,,,Flaming Gorge Reservoir,,,,,,,,4,1159124521
+Reservoir,7,American Falls Reservoir,American Falls Res.,,,,,1978,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159124537
+Reservoir,7,Presa de la Boquilla,Psa. de la Boquilla,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159124547
+Reservoir,7,Presa del Infiernillo,Psa. del Infiernillo,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159124567
+Reservoir,7,Presa de la Angostura,Psa. de la Angostura,,,,La Angostura,1974,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159124581
+Reservoir,7,Petenwell Lake,Petenwell L.,,,,,1940,,5.7,6.7,Petenwell Lake,Q180509,,,Petenwell Lake,Petenwell Lake,,Petenwell Lake,,,,,,,,Petenwell Lake,,,,,,,,4,1159124599
+Reservoir,7,Lake Seminole,L. Seminole,,,,Jim Woodruff Lock and Dam,1952,,5.7,6.7,Lake Seminole,Q3215219,,,,Lake Seminole,,lac Séminole,,,,,,,,,,,,,,,,4,1159124611
+Reservoir,8,Lake Barkley,L. Barkley,,,,Barkley Dam,1963,,6.0,7.0,Lake Barkley,Q6474916,,,,Lake Barkley,,Lake Barkley,,,,,,,,,,,,,,,,4,1159124623
+Reservoir,8,Presa Marte R. Gomez,Psa. Marte R. Gomez,,,,Presidente Aleman Temascal Dam,1955,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124635
+Reservoir,8,Lake Moultrie,L. Moultrie,,,,,1940,,6.0,7.0,Lake Moultrie,Q6476999,,,,Lake Moultrie,,lac Moultrie,,,,,,,,,,,,,,,,4,1159124649
+Reservoir,8,Lake Marion,L. Marion,,,,,-99,,6.0,7.0,Lake Marion,Q4309904,,,,Lake Marion,Lago Marion,lac Marion,,,,,,,,,,,Мэрион,,,,,4,1159124659
+Reservoir,8,Lake Meredith,L. Meredith,,,,Sanford Dam,1965,,6.0,7.0,Lake Meredith,Q1801005,,,Lake Meredith,Lake Meredith,,Lake Meredith,,,,,,,,Lake Meredith,,,,,,,,4,1159124673
+Reservoir,8,Ute Reservoir,Ute Res.,,,,Ute Dam,1963,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124687
+Reservoir,8,Conchas Lake,Conchas L.,,,,Conchas Dam,1939,,6.0,7.0,Conchas Lake,Q5158618,,,,Conchas Lake,Lago Conchas,Conchas Lake,,,,,,,,,,,,,,,,4,1159124701
+Reservoir,8,Toledo Bend Reservoir,Toledo Bend Res.,,,,Toledo Bend Dam,1968,,6.0,7.0,Toledo Bend Reservoir,Q7330278,,,Toledo Bend Reservoir,Toledo Bend Reservoir,,,,,,,,,,,,,,,,,,4,1159124713
+Reservoir,8,Palisades Reservoir,Palisades Res.,,,,,1957,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124727
+Reservoir,8,Glendo Reservoir,Glendo Res.,,,,,1957,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124741
+Reservoir,8,Pathfinder Reservoir,Pathfinder Res.,,,,,1909,,6.0,7.0,Pathfinder Reservoir,Q7144767,,,,Pathfinder Reservoir,,,,,,,,,,,,,,,,,,4,1159124745
+Reservoir,8,Presa Nezahualcyotl,Psa. Nezahualcyotl,,,,Netzahualcoyotl,1964,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124757
+Reservoir,8,Presa Manuel vila Camacho,Psa. Manuel vila Camacho,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124773
+Reservoir,8,Presa Vicente Guerrero,Psa. Vicente Guerrero,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124783
+Reservoir,8,Presa Alvaro Obregon,Psa. lvaro Obregon,,,,,1952,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124797
+Reservoir,8,Lake Oroville,L. Oroville,,,,,1968,,6.0,7.0,Lake Oroville,Q6477226,,,,Lake Oroville,,lac Oroville,,,,,,,,Lake Oroville,,,Оровилл,Oroville dammen,,,奧羅維爾湖,4,1159124813
+Reservoir,8,Boysen Reservoir,Boysen Res.,,,,,1952,,6.0,7.0,Boysen Reservoir,Q896063,,,Boysen State Park,Boysen Reservoir,,Boysen Reservoir,,,,,,,,,,,,,,,,4,1159124821
+Reservoir,8,Hartwell Lake,Hartwell L.,,,,,1960,,6.0,7.0,Hartwell Lake,Q1800945,,,Lake Hartwell,Lake Hartwell,,lac Hartwell,,,,,,,,Lake Hartwell,,,,,,,,5,1159124837
+Reservoir,8,Lake Sidney Lanier,L. Sidney Lanier,,,,Buford Dam,1958,,6.0,7.0,Lake Lanier,Q3295796,,,Laniersee,Lake Lanier,Lago Lanier,,,,,,,,,Lake Lanier,,Lago Lanier,,Lake Lanier,,,拉尼爾湖,5,1159124851
+Reservoir,8,Lake Gaston,L. Gaston,,,,,1960,,6.0,7.0,Lake Gaston,Q732199,,,Lake Gaston,Lake Gaston,,Lake Gaston,,,,,,,,Lake Gaston,,,,,,,,4,1159124863
+Reservoir,8,Smith Mountain Lake,Smith Mtn. L.,,,,,1963,,6.0,7.0,Smith Mountain Lake,Q7332083,,,,Smith Mountain Lake,,Smith Mountain Lake,,,,,,スミス・マウンテン・ダム,,,,,,,,,史密斯山湖,4,1159124883
+Reservoir,8,Walter F. George Reservoir,Walter F. George Res.,,,,Walter F. George (Lock and  Dam),1962,,6.0,7.0,Walter F. George Res.,Q7333077,,,Walter F. George Lake,Walter F. George Lake,,Walter F. George Lake,,,,,,,,,,,,,,,,5,1159124897
+Reservoir,9,Réservoir Outardes Quatre,Rs. Outardes Quatre,,,,,1969,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124911
+Reservoir,9,Logan Martin Lake,Logan Martin L.,Coosa River Reservoir,,,Logan Martin Dam,1965,,7.0,8.0,Logan Martin Lake,Q6667090,,,,Logan Martin Lake,,Logan Martin Lake,,,,,,,,,,,,,,,,4,1159124925
+Reservoir,9,Mitchell Lake,Mitchell L.,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159124935
+Reservoir,9,Lake Murray,L. Murray,,,,,1930,,7.0,8.0,Lake Murray,Q6477034,,,,Lake Murray,,,,,,,,,,,,,,,,,,4,1159124947
+Reservoir,2,Rybinsk Reservoir,Rybinsk Res.,,,,,1941,,2.0,3.7,Rybinsk Reservoir,Q375029,,,Rybinsker Stausee,Rybinsk Reservoir,Embalse Rybinsk,réservoir de Rybinsk,,,,,Bacino di Rybinsk,ルイビンスク人造湖,,Stuwmeer van Rybinsk,Zbiornik Rybiński,,Рыбинское водохранилище,Rybinskreservoaren,Rıbinsk Baraj Gölü,,雷賓斯克水庫,4,1159124965
+Reservoir,4,Kainji Reservoir,Kainji Res.,,,,,1968,,4.0,5.0,Kainji Reservoir,Q770141,,,Kainji-Stausee,Kainji Lake,Lago Kainji,lac Kainji,,,,,lago Kainji,カインジ湖,,Kainji Lake,Kainji,Lago Kainji,Каинджи,Kainji,,,卡因吉大壩,5,1159124975
+Reservoir,4,Kakhovka Reservoir,Kakhovka Res.,,,,,1956,,4.0,5.0,Kakhovka Reservoir,Q1540436,,,Kachowkaer Stausee,Kakhovka Reservoir,Embalse de Kajovka,réservoir de Kakhovka,,,,,,,,Kakhovka Reservoir,Zbiornik Kachowski,,Каховское водохранилище,,,Hồ chứa nước Kakhovka,卡霍夫卡水庫,4,1159124989
+Reservoir,4,Kremenchuk Reservoir,Kremenchuk Res.,,,,,1959,,4.0,5.0,Kremenchuk Reservoir,Q1431500,,,Krementschuker Stausee,Kremenchuk Reservoir,Embalse de Kremenchuk,réservoir de Krementchouk,,,,,,,,Kremenchuk Reservoir,Zbiornik Kremieńczucki,,Кременчугское водохранилище,Krementjukdammen,,,克列緬丘格水庫,4,1159125001
+Reservoir,4,Samara Reservoir,Samara Res.,Kuybyshev Reservoir,,,,1955,,4.0,5.0,Samara Reservoir,Q745937,,,Kuibyschewer Stausee,Kuybyshev Reservoir,Embalse de Kúibyshev,réservoir de Kouïbychev,,,,,Bacino di Samara,クイビシェフ湖,,Koeybisjevskoe vodochranilisjtsje,Zbiornik Kujbyszewski,,Куйбышевское водохранилище,Kujbysjevreservoaren,,,古比雪夫水庫,5,1159125013
+Reservoir,4,Represa de Sobradinho,Rs. de Sobradinho,Sobradinho Reservoir,,,,1982,,4.0,5.0,Represa de Sobradinho,Q22031160,,,,Represa de Sobradinho,,,,,,,,,,,,,,Represa de Sobradinho,,,,3,1159125027
+Reservoir,5,Ozero Kubenskoye,Oz. Kubenskoye,Lake Kubenskoye,,,Kubenskoye Dam,1917,,4.7,6.0,Ozero Kubenskoye,Q1463552,,,Kubenasee,Lake Kubenskoye,,lac Koubenskoïe,,,,,lago Kubenskoe,クベンスコエ湖,,Koebenskoe ozero,Jezioro Kubieńskie,,Кубенское озеро,,,,庫邊斯科耶湖,5,1159125041
+Reservoir,5,Lake Kariba,L. Kariba,,,,Kariba Dam,1959,admin-0,4.7,6.0,Lake Kariba,Q1047206,بحيرة كاريبا,,,Lake Kariba,Lago Kariba,lac Kariba,,कैरीबा झील,Kariba-tó,,lago Kariba,カリバ湖,,Karibameer,Kariba,Lago Kariba,Кариба,Karibasjön,Kariba Gölü,Hồ Kariba,卡里巴水庫,4,1159125055
+Reservoir,5,Nam Ngum Reservoir,Nam Ngum Res.,,,,Nam Ngum,1972,,4.7,6.0,Nam Ngum Reservoir,Q6132621,,,Nam-Ngum-Talsperre,Nam Ngum Dam,,,,,,,,ナムグムダム,,Ang Nam Ngum,,,,Nam Ngum Dam,,,南俄大壩,5,1159125069
+Reservoir,5,Lake Argyle,L. Argyle,,,,Ord River Dam,1972,,4.7,6.0,Lake Argyle,Q1757739,,,Lake Argyle,Lake Argyle,,lac Argyle,,,,,,,,Lake Argyle,,,,,,,,3,1159125081
+Reservoir,5,Lake Nasser,L. Nasser,,,,,1970,,4.7,6.0,Lake Nasser,Q182796,بحيرة ناصر,,Nassersee,Lake Nasser,Lago Nasser,lac Nasser,,,Nasszer-tó,,lago Nasser,ナセル湖,나세르 호,Nassermeer,Jezioro Nasera,Lago Nasser,Насер,Nassersjön,Nasır Gölü,,納賽爾湖,4,1159125095
+Reservoir,5,Toktogul Suu Saktagychy,Toktogul Suu Saktagychy,Toktogul Reservoir,,,,1978,,4.7,6.0,Toktogul Suu Saktagychy,Q16508570,,,,,Embalse de Toktogul,lac de Toktogoul,,,,,,,,,,,Токтогульское водохранилище,,,,,5,1159125107
+Reservoir,5,Professor Doctor Ingenieur W. J. Van Blommestein Meer,Van Blommestein Meer,"Brokopondo Reservoir, Brokopondostuwmeer",,,,1964,,4.7,6.0,Brokopondo Res.,Q926100,خزان بروكوبوندو,,Brokopondo-Stausee,Brokopondo Reservoir,Embalse de Brokopondo,Brokopondo,,,,,lago di Brokopondo,,,Brokopondostuwmeer,Zbiornik Brokopondo,Albufeira de Brokopondo,Брокопондо,,,,布羅科蓬多水庫,5,1159125121
+Reservoir,5,Represa Itaipu,Rs. Itaipu,,,,Itaipu,1984,admin-0 more,4.7,6.0,Represa Itaipu,Q10315670,,,Itaipu-Stausee,Itaipu Reservoir,,,,,,,,,,,,Lago de Itaipu,,,,,,5,1159125135
+Reservoir,5,Lake Volta,L. Volta,,,,,1965,,4.7,6.0,Lake Volta,Q201679,بحيرة فولتا,,Volta-Stausee,Lake Volta,Lago Volta,lac Volta,,वोल्टा झील,Volta-tó,,Volta,ヴォルタ湖,볼타 호,Voltameer,Wolta,Lago Volta,Вольта,Voltasjön,Volta Gölü,Hồ Volta,沃尔特水库,3,1159125149
+Reservoir,6,Bratsk Reservoir,Bratsk Res.,Bratskoye Vodokhranilishche,,,,1964,,5.0,6.5,Bratsk Reservoir,Q899803,,,Bratsker Stausee,Bratsk Reservoir,Embalse Bratsk,réservoir de Bratsk,,,Bratszki-víztározó,,Bacino di Bratsk,ブラーツクダム,,Stuwmeer van Bratsk,Zbiornik Bracki,,Братское водохранилище,,,,布拉茨克水庫,4,1159125163
+Reservoir,6,Represa de Tucuruí,Rs. de Tucuruí,,,,Tucuruí Dam,1984,,5.0,6.5,Represa de Tucuruí,Q3215567,,,,,,lac de Tucuruí,,,,,,,,,,,,,,,,5,1159125177
+Reservoir,6,Represa Três Marias,Rs. Tres Marias,,,,Tres Marias,1960,,5.0,6.5,Represa Três Marias,Q1457581,,,Três-Marias-Stausee,Três Marias Dam,,,,,,,,,,,,Usina Hidrelétrica de Três Marias,Трес-Мариас,,,,,5,1159125193
+Reservoir,6,Repressa de Jupia,Rs. de Jupia,,,,Ilha Solteira,-99,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159125243
+Reservoir,6,Shardara Bgeni,Shardara Bgeni,Shardara Reservoir,,,,1965,,5.0,6.5,,,,,,,,,,,,,,,,,,,,,,,,0,1159125247
+Reservoir,6,Vilyuy Reservoir,Vilyuy Res.,Vilyuyskoye Vodokhranilishche,,,,-99,,5.0,6.5,Vilyuy Reservoir,Q2065167,,,Wiljui-Stausee,Vilyuy Dam,Embalse de Viliui,,,,,,Bacino del Viljuj,,,Viljoej-stuwmeer,Wilujski Zbiornik Wodny,,Вилюйское водохранилище,,,,,5,1159125251
+Reservoir,7,Krasnoyarsk Reservoir,Krasnoyarsk Res.,Krasnoyarskoye Reservoir,,,Krasnoyarsk,1967,,5.7,6.7,Krasnoyarsk Reservoir,Q1786720,,,Krasnojarsker Stausee,Krasnoyarsk Reservoir,Embalse de Krasnoyarsk,,,,,,Bacino di Krasnojarsk,,,stuwmeer van Krasnojarsk,Zbiornik Krasnojarski,,Красноярское водохранилище,,,,克拉斯諾亞爾斯克水庫,4,1159125261
+Reservoir,7,Kostroma Reservoir,Kostroma Res.,,,,,-99,,5.7,6.7,Kostroma Reservoir,Q4235571,,,,,,,,,,,,,,,,,Костромское водохранилище,,,,,5,1159125269
+Reservoir,7,Uglich Reservoir,,,,,Uglich,1940,,5.7,6.7,Uglich Reservoir,Q1479284,,,Uglitscher Stausee,Uglich Reservoir,Embalse de Úglich,réservoir d'Ouglitch,,,,,,,,Oeglitsjskoe vodochranilisjtsje,Zbiornik Uglicki,,Угличское водохранилище,,,,烏格利奇水庫,4,1159125283
+Reservoir,7,Ivankovo Reservoir,Ivankovo Res.,,_untitled_141,,Ivankovo,1937,,5.7,6.7,Ivankovo Reservoir,Q1676050,,,Iwankowoer Stausee,Ivankovo Reservoir,Embalse de Ivánkovo,réservoir d'Ivankovo,,,,,,,,Ivankovskoe vodochranilisjtsje,,,Иваньковское водохранилище,,,,伊万科夫水库,4,1159125297
+Reservoir,7,Tarbela Dam,Tarbela Dam,,,,,1976,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125311
+Reservoir,7,Lago de Cahora Bassa,Lago de Cahora Bassa,Cahora Bassa,,,,1974,,5.7,6.7,Lago de Cahora Bassa,Q755015,,,Cahora-Bassa-Stausee,Cahora Bassa,Embalse de Cahora Bassa,Cahora Bassa,,,Cahora Bassa-víztározó,,Diga di Cabora Bassa,カオラ・バッサ,,Cahora Bassa,Cahora Bassa,Barragem de Cahora Bassa,Кабора-Басса ГЭС,Cahora Bassa,,,卡布拉巴萨水库,5,1159125323
+Reservoir,7,Roseires Reservoir,Roseires Res.,,,,,1966,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125337
+Reservoir,7,Votkinsk Reservoir,Votkinsk Res.,Votkinskoe Reservoir,,,Votkinsk,1963,,5.7,6.7,Votkinsk Reservoir,Q779468,,,Wotkinsker Stausee,Votkinsk Reservoir,Embalse de Votkinsk,réservoir de Votkinsk,,,Votkinszki-víztározó,,Bacino di Votkinsk,,,Votkinskoe vodochranilisjtsje,,,Воткинское водохранилище,,,,沃特金斯克水庫,4,1159125351
+Reservoir,7,Kama Reservoir,Kama Res.,,,,,1954,,5.7,6.7,Kama Reservoir,Q631189,,,Kamastausee,Kama Reservoir,Embalse del Kama,réservoir de la Kama,,,Kámai-víztározó,,Bacino della Kama,,,Kamskoe vodochranilisjtsje,,,Камское водохранилище,,,,卡馬水庫,4,1159125365
+Reservoir,7,Buhayrat al-Assad,Buhayrat al-Assad,Lake Assad,,New or modified in version 1.2,Tabqa Dam,1974,,5.7,6.7,Buhayrat al-Assad,Q979315,بحيرة الأسد,,,Lake Assad,Buhayrat al Asad,lac el-Assad,,,,,lago Assad,,,Assadmeer,Al-Asad,Lago Assad,Эль-Асад,Asadsjön,,,,5,1159125377
+Reservoir,7,Keban Baraji,Keban Baraji,,,New or modified in version 1.2,Keban,1974,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125393
+Reservoir,7,Volgograd Reservoir,Volgograd Res.,,,,,1961,,5.7,6.7,Volgograd Reservoir,Q1500709,,,Wolgograder Stausee,Volgograd Reservoir,Embalse de Volgogrado,réservoir de Volgograd,,,,,Bacino di Volgograd,,,Volgogradskoe vodochranilisjtsje,Zbiornik Wołgogradzki,,Волгоградское водохранилище,,Volgograd Baraj Gölü,,伏爾加格勒水庫,4,1159125405
+Reservoir,7,Gorky Reservoir,Gorky Res.,,,,,1955,,5.7,6.7,Gorky Reservoir,Q952975,,,Gorkier Stausee,Gorky Reservoir,Embalse de Gorki,réservoir de Gorki,,,,,Bacino di Gor'kij,,,Gorkovskoe vodochranilisjtsje,,,Горьковское водохранилище,,,,高尔基水库,4,1159125415
+Reservoir,7,Ust-Ilimsk Reservoir,Ust-Ilimsk Res.,Ust-Ilimskoye Reservoir,,,,1977,,5.7,6.7,Ust-Ilimsk Reservoir,Q1973182,,,Ust-Ilimsker Stausee,Ust-Ilimsk Reservoir,Embalse de Ust-Ilimsk,,,,Uszty-Ilimszki-víztározó,,Bacino di Ust'-Ilimsk,,,Oest-Ilimskoe vodochranilisjtsje,Zbiornik Ust-Ilimski,,Усть-Илимское водохранилище,,,,,4,1159125431
+Reservoir,7,Obanbori Qayroqum,Obanbori Qayroqum,Qayroqum Reservoir,,,,1957,,5.7,6.7,Obanbori Qayroqum,Q668883,,,Kairakkum-Stausee,Kayrakkum Reservoir,Embalse de Kairakkum,réservoir de Kaïrakkoum,,,,,,,,,Zbiornik Kajrakkumski,Represa de Kayrakkum,Таджикское Море,,,,,5,1159125443
+Reservoir,7,Embalse de Entrepeas,Emb. de Entrepeas,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125457
+Reservoir,7,Gobind Sagar Reservoir,Gobind Sagar Res.,,,,Bhakra Dam,1962,,5.7,6.7,Gobind Sagar Res.,Q5575508,,,,Gobind Sagar,,,,गोविन्द सागर,,,,,,,,,,,,,,5,1159125469
+Reservoir,7,Hinakud Dam,Hinakud Dam,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125483
+Reservoir,7,Nagarjuna Sagar Dam,Nagarjuna Sagar Dam,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125497
+Reservoir,7,Danjiangkou Shuiku,Danjiangkou Sk.,,,,,-99,,5.7,6.7,Danjiangkou Shuiku,Q28798322,,,,Danjiangkou Shuiku,,,,,,,,,,,,,,Danjiangkou Shuiku,,,,4,1159125505
+Reservoir,7,Kapchagay Reservoir,Kapchagay Res.,Qapshaghay Bgeni Reservoir,,,,1970,,5.7,6.7,Kapchagay Reservoir,Q1112158,,,Kaptschagai-Stausee,Kapchagay Reservoir,Embalse de Kapchagay,lac de Kapchagaï,,,,,lago  di Kapchagay,,,,Zbiornik Kapszagajski,,Капчагайское водохранилище,,Kapçagay Göleti,,,4,1159125523
+Reservoir,7,Bloemhof Dam,Bloemhof Dam,Oppermansdrif Dam,,,Bloemhofdam (Oppermansdrift),1970,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125533
+Reservoir,7,Vaal Dam,Vaal Dam,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125549
+Reservoir,7,Wyangala Reservoir,Wyangala Res.,,,,,1971,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125559
+Reservoir,7,Lac de Kossou,L. de Kossou,,,,,1973,,5.7,6.7,Lac de Kossou,Q267679,,,Kossoustausee,Lake Kossou,,lac de Kossou,,,,,,,,,Kossou,,Коссу,Lac de Kossou,Kossou Gölü,,科蘇湖,5,1159125571
+Reservoir,7,Zeya Reservoir,Zeya Res.,Zeyskoye,,,Zeya Dam,1978,,5.7,6.7,Zeya Reservoir,Q2576979,,,,,Embalse de Zeya,,,,,,Bacino della Zeja,,,Zejareservoir,,,Зейское водохранилище,,,,結雅水庫,5,1159125585
+Reservoir,7,Embalse de García de Sola,Emb. de Garcia  de Sola,,,,,1962,,5.7,6.7,Embalse de García de Sola,Q8775340,,,,García Sola Reservoir,Embalse de García de Sola,,,,,,,ガルシーア・ソラ貯水池,,,,,,,,,,5,1159125599
+Reservoir,7,Embalse de Orellana,Emb. de Orellana,,,,,1989,,5.7,6.7,Embalse de Orellana,Q11681443,,,,embalse de Orellana,embalse de Orellana,,,,,,,,,,,Represa de Orellana,,,,,,4,1159125611
+Reservoir,7,Chao Nen Dam,Chao Nen Dam,,,,,1981,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125625
+Reservoir,7,Xinanjiang Shuiku,Xinanjiang Sk.,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125639
+Reservoir,7,Guanting Shuiku,Guanting Sk.,,,,Guanting,1954,,5.7,6.7,Guanting Shuiku,Q4151226,,,,,,,,,,,,,,,,,Гуаньтин,Guanting Shuiku,,,官厅水库,4,1159125653
+Reservoir,7,Embalse de Cala,Emb. de Cara,,,,Embalse de Cÿara,1953,,5.7,6.7,Embalse de Cala,Q5830417,,,,,Embalse de Cala,,,,,,,,,,,,,,,,,5,1159125665
+Reservoir,7,Represa Porto Primavera,Rs. Porto Primavera,,,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125673
+Reservoir,7,Lake Mulwala,L. Mulwala,,,,,1939,,5.7,6.7,Lake Mulwala,Q3215071,,,,Lake Mulwala,,lac Mulwala,,,,,,,,,Mulwala,,,Lake Mulwala,,,,3,1159125685
+Reservoir,7,Lake Hume,L. Hume,,,,Hume Dam,1936,,5.7,6.7,Lake Hume,Q21960566,,,,Lake Hume,,Lake Hume,,,,,,,,,,,,Lake Hume,,,,3,1159125699
+Reservoir,7,Kaptai Lake,Karnaphuli Res.,,,,Kaptai Dam,1962,,5.7,6.7,Kaptai Lake,Q10995968,,কাপ্তাই হ্রদ,Karnaphuli-Stausee,Kaptai Lake,Lago Kaptai,,,,,,,,,,,,,,,,,5,1159125711
+Reservoir,7,Lac de Buyo,Lac de Buyo,,,,,1980,,5.7,6.7,Lac de Buyo,Q4809051,,,,Lake Buyo,Lago de Buyo,,,,,,,,,,Buyo,,,,Buyo Gölü,,,5,1159125721
+Reservoir,7,Embalse de Guri,Emb. de Guri,,,,,-99,,5.7,6.7,Embalse de Guri,Q5830486,,,Guri-Stausee,Guri Reservoir,Embalse de Guri,Lac Guri,,,,,,,,,,,,,,,,5,1159125735
+Reservoir,7,Kabalebo Dam,Kabalebo Dam,,,,Kabalebo Dam,1982,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125751
+Reservoir,7,Lago Rincón del Bonete,L. Rincon del Bonete,,,,,1945,,5.7,6.7,Lago Rincón del Bonete,Q3276492,,,,Lago Rincón del Bonete,Lago Rincón del Bonete,,,,,,,リンコン・デル・ボネテ湖,,Lago Rincón del Bonete,Lago Artificial de Rincón del Bonete,,,,,,,5,1159125767
+Reservoir,7,Embalse Ezequiel Ramos Mexia,Emb. Ezequiel Ramos Mexia,,,,,-99,,5.7,6.7,Embalse Ezequiel Ramos Mexia,Q21842470,,,,Embalse Ezequiel Ramos Mexía,,,,,,,,,,,,,,Embalse Ezequiel Ramos Mexía,,,,5,1159125781
+Reservoir,7,Tsimlyansk Reservoir,Tsimlyansk Res.,,,,,1952,,5.7,6.7,Tsimlyansk Reservoir,Q203536,,,Zimljansker Stausee,Tsimlyansk Reservoir,Embalse de Tsimliansk,réservoir de Tsimliansk,,,,,Bacino di Cimljansk,チムリャンスク湖,,Tsimljanskoe vodochranilisjtsje,Zbiornik Cymlański,,Цимлянское водохранилище,,,,齐姆良斯克水库,4,1159125793
+Reservoir,7,Represa de São Simão,Rs. de São Simão,,Source: Times Atlas,,Barangen de São Simão,1978,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159125807
+Reservoir,8,Camatague,Camatague,,,,Embalse de Guarico,1967,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125821
+Reservoir,8,Embalse de Guárico,Emb. de Gurico,,,,,-99,,6.0,7.0,Embalse de Guárico,Q5623127,,,,Guárico Reservoir,Embalse del Guárico,,,,,,,,,,,,,,,,,5,1159125835
+Reservoir,8,Barragem Itumbiara,Itumbiara,,,,Barragem Itumbiara,1980,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125855
+Reservoir,8,Burrendong Reservoir,Burrendong Res.,,,,,1967,,6.0,7.0,Burrendong Reservoir,Q6475111,,,,Lake Burrendong,,,,,,,,,,,,,,Lake Burrendong,,,,5,1159125863
+Reservoir,8,Vanderkloof Dam,Vanderkloof Dam,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125877
+Reservoir,8,Gariep Dam,Gariep Dam,Hendrik Verwoerd Dam,,,Gariep Dam,1971,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125893
+Reservoir,8,Stanley Reservoir,Stanley Res.,,,,Mettur Dam,1934,,6.0,7.0,Stanley Reservoir,Q7332268,,,,Stanley Reservoir,,lac Stanley,,,,,,,,,,,,,,,,4,1159125909
+Reservoir,8,Gandhi Sagar Dam,Gandhi Sagar Dam,,,,,1960,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125923
+Reservoir,8,Bhumphol K. K. Nam,Bhumphol K. K. Nam,,,,Bhumibol Dam,1964,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125929
+Reservoir,8,Siri Kit Dam,Siri Kit Dam,,,,Sirikit,1972,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125943
+Reservoir,8,Represa Agua Vermetha,Rs. Agua Vermetha,,,,,1979,,6.0,7.0,Represa Agua Vermetha,Q22072124,,,,Agua Vermelha Reservoir,,,,,,,,,,,,,,Agua Vermelha Reservoir,,,,5,1159125955
+Reservoir,8,Represa Furnas,Rs. Furnas,,,,,1963,,6.0,7.0,Represa Furnas,Q22048562,,,,Lagoa dos Bois,,,,,,,,,,,,,,Lagoa dos Bois,,,,5,1159125969
+Reservoir,8,Represa Itarare,Rs. Itarare,,,,Xavantes,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125983
+Reservoir,8,Represa Iepe,Rs. Iepe,,,,Capivara,1976,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159125997
+Reservoir,9,Senanayake Samudra,Senanayake Samudra,,,,Gal Oya Dam,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126009
+Reservoir,9,Embalse de Buendía,Emb. de Buenda,,,,,-99,,7.0,8.0,Embalse de Buendía,Q8775297,,,,Buendía Reservoir,embalse de Buendía,,,,,,,,,,,,,,,,,5,1159126023
+Reservoir,9,Baidagang Shuiku,Baidagang Sk.,,,,,-99,,7.0,8.0,Baidagang Shuiku,Q31846409,,,,,,,,,,,,,,,,,,Beidagang Shuiku,,,,5,1159126037
+Reservoir,9,Khantayskoye Reservoir,Khantayskoye Res.,,,,,1970,,7.0,8.0,Khantayskoye Reservoir,Q233071,,,Chantaisee,Lake Khantayskoye,Lago de Khantai,lac de Khantaï,,,,,,,,Hantayskoe ozero,Jezioro Chantajskie,,Хантайское озеро,,,,漢泰湖,5,1159126045
+Reservoir,9,Kauno marios,Kauno marios,,,Version 1.4,,-99,,7.0,8.0,Kauno marios,Q1737137,,,Kaunasser Meer,Kaunas Reservoir,,,,,,,,,,Kauno marios,,,Каунасское водохранилище,,,,考納斯水庫,5,1159126063
+Reservoir,9,Supung Reservoir,Supung Res.,,,,Shuifeng Dam,1943,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126073
+Alkaline Lake,1,Lake Eyre North,L. Eyre N.,Kati Thanda,Largest lake in Australia,,,-99,,1.7,3.6,Lake Eyre North,Q21890573,,,,Lake Eyre North,,Lake Eyre North,,,,,,,,,,,,Lake Eyre North,,,,3,1159126091
+Alkaline Lake,3,Lake Disappointment,L. Disappointment,,,,,-99,,3.0,4.0,Lake Disappointment,Q1638191,,,Lake Disappointment,Lake Disappointment,Lago Disappointment,lac Disappointment,,,,,,ディサポイントメント湖,디서포인트먼트 호,Lake Disappointment,Jezioro Disappointment,,Дисаппойнтмент,Lake Disappointment,,,失望湖,4,1159126103
+Alkaline Lake,3,Lake Mackay,L. Mackay,Wilkinkarra,,,,-99,,3.0,4.0,Lake Mackay,Q1074063,,,Lake Mackay,Lake Mackay,Lago Mackay,Lake Mackay,,,Mackay-tó,,,,,Lake Mackay,,,Маккай,Lake Mackay,,,,4,1159126115
+Alkaline Lake,3,Lake Gairdner,L. Gairdner,,,,,-99,,3.0,4.0,Lake Gairdner,Q965973,,,Lake Gairdner,Lake Gairdner,Lago Gairdner,Lake Gairdner,,,Gairdner-tó,,,,,Lake Gairdner,Gairdner,,Гэрднер,Lake Gairdner,,,,4,1159126129
+Alkaline Lake,3,Lake Torrens,L. Torrens,,,,,-99,,3.0,4.0,Lake Torrens,Q163855,,,Lake Torrens,Lake Torrens,Lago Torrens,lac Torrens,,,Torrens-tó,,,トレンズ湖,,Lake Torrens,Torrens,Lago Torrens,Торренс,Lake Torrens,,Hồ Torrens,托伦斯湖,4,1159126147
+Alkaline Lake,3,Lake Frome,L. Frome,,,,,-99,,3.0,4.0,Lake Frome,Q626907,,,Lake Frome,Lake Frome,Lago Frome,Lake Frome,,,Frome-tó,,,,,Lake Frome,Frome,,Фром,Lake Frome,,,,4,1159126159
+Alkaline Lake,5,Lake Barlee,L. Barlee,,,,,-99,,4.7,6.0,Lake Barlee,Q1465138,,,Lake Barlee,Lake Barlee,Lago Barlee,lac Barlee,,,,,,バーリー湖,,Lake Barlee,Barlee,,,Lake Barlee,,,,4,1159126175
+Alkaline Lake,5,Lake Eyre South,L. Eyre S.,,,,,-99,,4.7,6.0,Lake Eyre South,Q21890578,,,,Lake Eyre South,,Lake Eyre South,,,,,,,,,,,,Lake Eyre South,,,,4,1159126189
+Alkaline Lake,7,,,,_untitled_1,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159126203
+Alkaline Lake,7,,,,_untitled_0,,,-99,,5.7,6.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159126217
+Alkaline Lake,7,Lake Amadeus,L. Amadeus,,,,,-99,,5.7,6.7,Lake Amadeus,Q584201,,,Lake Amadeus,Lake Amadeus,Lago Amadeo,lac Amédée,,,,,lago Amadeus,アマデウス湖,,Lake Amadeus,Amadeus,Lago Amadeus,Амадиус,Amadeus-sjön,,,阿马迪厄斯湖,4,1159126231
+Alkaline Lake,7,Lake Carnegie,L. Carnegie,,,,,-99,,5.7,6.7,Lake Carnegie,Q3214793,,,,Lake Carnegie,,lac Carnegie,,,Carnegie-tó,,,,,,Carnegie Lake,,,Lake Carnegie,,,,4,1159126243
+Alkaline Lake,7,Lake Moore,L. Moore,,,,,-99,,5.7,6.7,Lake Moore,Q21886613,,,,Lake Moore,,Lake Moore,,,,,,,,,,,,Lake Moore,,,,3,1159126255
+Alkaline Lake,7,Lake Carey,L. Carey,,,,,-99,,5.7,6.7,Lake Carey,Q6475174,,,Lake Carey,Lake Carey,,Lake Carey,,,,,,,,,,,,Lake Carey,,,,3,1159126269
+Alkaline Lake,7,Lake Everard,L. Everard,,,,,-99,,5.7,6.7,Lake Everard,Q21890550,,,,Lake Everard,,Lake Everard,,,,,,,,,,,,Lake Everard,,,,4,1159126283
+Alkaline Lake,8,,,,_untitled_85,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126295
+Alkaline Lake,8,,,,_untitled_84,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126309
+Alkaline Lake,8,Lake Neale,L. Neale,,,,,-99,,6.0,7.0,Lake Neale,Q8878462,,,,Lake Neale,,Lake Neale,,,,,,,,,,,,Lake Neale,,,,4,1159126323
+Alkaline Lake,8,Lake Wells,L. Wells,,,,,-99,,6.0,7.0,Lake Wells,Q21882542,,,,Lake Wells,,Lake Wells,,,,,,,,,,,,Lake Wells,,,,4,1159126347
+Alkaline Lake,8,Lake Ballard,L. Ballard,,,,,-99,,6.0,7.0,Lake Ballard,Q7358147,,,,Lake Ballard,,lac Ballard,,,,,,,,,,,,Lake Ballard,,,,4,1159126349
+Alkaline Lake,8,Lake Goongarrie,L. Goongarrie,,,,,-99,,6.0,7.0,Lake Goongarrie,Q21891300,,,,Lake Goongarrie,,Lake Goongarrie,,,,,,,,,,,,Lake Goongarrie,,,,4,1159126363
+Alkaline Lake,8,,,,_untitled_83,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126377
+Alkaline Lake,8,Lake Cowan,L. Cowan,,,,,-99,,6.0,7.0,Lake Cowan,Q21892401,,,,Lake Cowan,,Lake Cowan,,,,,,,,,,,,Lake Cowan,,,,3,1159126391
+Alkaline Lake,8,,,,_untitled_82,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126403
+Alkaline Lake,1,Great Salt Lake,Great Salt L.,,,,,-99,,1.7,3.6,Great Salt Lake,Q178741,البحيرة المالحة الكبرى,গ্রেট সল্ট লেক,Großer Salzsee,Great Salt Lake,Gran Lago Salado,Grand Lac Salé,Μεγάλη Αλμυρή Λίμνη,महान नमक झील,Nagy-sóstó,Danau Garam Besar,Gran Lago Salato,グレートソルト湖,그레이트솔트 호,Great Salt Lake,Wielkie Jezioro Słone,Grande Lago Salgado,Большое Солёное озеро,Stora Saltsjön,Büyük Tuz Gölü,Hồ Muối Lớn,大盐湖,4,1159126421
+Alkaline Lake,2,Laguna Madre,Lag. Madre,,,,,-99,admin-0 more,2.0,3.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159126435
+Alkaline Lake,3,Salton Sea,Salton Sea,,,,,-99,,3.0,4.0,Salton Sea,Q503301,بحر سالتون,,Saltonsee,Salton Sea,Lago Saltón,Salton Sea,,,Salton-tó,,lago Salton,ソルトン湖,솔턴 호,Salton Sea,Salton Sea,Lago Salton,Солтон-Си,Salton Sea,Salton Denizi,Biển Salton,索爾頓湖,4,1159126453
+Alkaline Lake,4,Lago Enriquillo,L. Enriquillo,,,,,-99,,4.0,5.0,Lago Enriquillo,Q1464758,,,Lago Enriquillo,Lake Enriquillo,Lago Enriquillo,lac Enriquillo,,,Enriquillo-tó,,lago Enriquillo,エンリキージョ湖,,Enriquillomeer,Enriquillo,Lago Enriquillo,Энрикильо,Lago Enriquillo,,,恩里基湖,5,1159126465
+Alkaline Lake,5,Goose Lake,Goose L.,,,,,-99,,4.7,6.0,Goose Lake,Q1309664,,,Goose Lake,Goose Lake,Lago Goose,Goose Lake,,,,,,グース湖,,Goose Lake,,,,,,,,4,1159126483
+Alkaline Lake,5,Pyramid Lake,Pyramid L.,,,,,-99,,4.7,6.0,Pyramid Lake,Q761535,بحيرة بيراميد,,Pyramid Lake,Pyramid Lake,Lago Pirámide,Pyramid Lake,,,Pyramid Lake,,lago Pyramid,ピラミッド湖,피라미드 호,Pyramid Lake,Pyramid,,Пирамид,,,,金字塔湖,4,1159126491
+Alkaline Lake,5,Malheur Lake,Malheur L.,,,,,-99,,4.7,6.0,Malheur Lake,Q3215037,,,Malheur Lake,Malheur Lake,,lac Malheur,,,,,,,,,,,,,,,,4,1159126509
+Alkaline Lake,6,Harney Lake,Harney L.,,,,,-99,,5.0,6.5,Harney Lake,Q5659764,,,,Harney Lake,,Harney Lake,,,,,,,,,,,,,,,,4,1159126529
+Alkaline Lake,7,Etang Saumâtre,Etang Saumâtre,Lac Azuéi,,,,-99,admin-0 more,5.7,6.7,Etang Saumâtre,Q2722327,,,Étang de Saumatre,étang Saumâtre,Lago del Fondo,étang Saumâtre,,,,,,,,Étang Saumâtre,Étang Saumâtre,,Соматр,Étang Saumâtre,,,,5,1159126541
+Alkaline Lake,0,Aral Sea,Aral Sea,,,,,-99,admin-0 more,1.0,3.0,Aral Sea,Q35883,بحر آرال,,Aralsee,Aral Sea,Mar de Aral,Mer d'Aral,Λίμνη Αράλη,अरल सागर,Aral-tó,Laut Aral,lago d'Aral,アラル海,아랄 해,Aralmeer,Jezioro Aralskie,Mar de Aral,Аральское море,Aralsjön,Aral Gölü,Biển Aral,鹹海,4,1159126555
+Alkaline Lake,1,Lagoa Mirim,Lagoa Mirim,,,,,-99,admin-0 more,1.7,3.6,Lagoa Mirim,Q876280,,,Laguna Merín,Lagoa Mirim,Laguna Merín,Lagoa Mirim,,,,,Lagoa Mirim,メリン湖,미링 호,Merínlagune,Lagoa Mirim,Lagoa Mirim,Лагоа-Мирин,Lagoa Mirim,,,密林湖,4,1159126619
+Alkaline Lake,2,IJsselmeer,IJsselmeer,"Lake IJssel, Lake Yssel",,,,-99,admin-0 more,2.0,3.7,IJsselmeer,Q4121,بحيرة آيسل,,IJsselmeer,IJsselmeer,Ĳsselmeer,IJsselmeer,,,,IJsselmeer,IJsselmeer,アイセル湖,에이설 호,IJsselmeer,IJsselmeer,IJsselmeer,Эйсселмер,IJsselmeer,IJsselmeer,,艾瑟爾湖,4,1159126631
+Alkaline Lake,2,Syvash,Syvash,,,,,-99,admin-0 more,2.0,3.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159126643
+Alkaline Lake,2,Issyk-Kul,Issyk-Kul,Ysyk Köl,,,,-99,,2.0,3.7,Issyk-Kul,Q42191,بحيرة إيسيك كول,,Yssykköl,Issyk-Kul,Lago Issyk-Kul,Yssyk Koul,,इसिक कुल,Iszik-köl,Issyk Kul,Ysykköl,イシク・クル,이식쿨 호,Issyk Koelmeer,Issyk-kul,Issyk-Kul,Иссык-Куль,Issyk-Kul,Issık Göl,Issyk Kul,伊塞克湖,4,1159126655
+Alkaline Lake,3,Lake Turkana,L. Turkana,Lake Rudolf,,,,-99,,3.0,4.0,Lake Turkana,Q182719,بحيرة توركانا,,Turkana-See,Lake Turkana,Lago Turkana,lac Turkana,Τουρκάνα,तुर्काना झील,Turkana-tó,Danau Turkana,lago Turkana,トゥルカナ湖,투르카나 호,Turkanameer,Jezioro Rudolfa,Lago Turkana,Рудольф,Turkanasjön,Turkana Gölü,Hồ Turkana,图尔卡纳湖,4,1159126669
+Alkaline Lake,3,Kaliningradskiy Zaliv,Kaliningradskiy Zaliv,Vistula Lagoon,,,,-99,admin-0 more,3.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159126681
+Alkaline Lake,3,Zalew Wislany,Zalew Wislany,Vistula Lagoon,,,,-99,admin-0 more,3.0,4.0,,Q5605,,,Frisches Haff,Vistula Lagoon,Laguna del Vístula,Lagune de la Vistule,,,,,Laguna della Vistola,ヴィスワ潟,비스툴라 석호,Wislahaf,Zalew Wiślany,,Калининградский залив,Frisches Haff,Vistül Lagünü,,维斯图拉潟湖,0,1159126693
+Alkaline Lake,3,Uvs Nuur,Uvs Nuur,,,,,-99,,3.0,4.0,Uvs Nuur,Q81150,,,Uws Nuur,Uvs Lake,Uvs,Uvs nuur,,,Uvsz-tó,Danau Uvs,Uvs Nuur,ウヴス・ヌール,,Uvs Nuur,Uws-nur,Lago Uvs,Убсу-Нур,Uvs Nuur,Ubsa Gölü,Hồ Uvs,烏布蘇湖,5,1159126709
+Alkaline Lake,3,Qinghai Hu,Qinghai Hu,Koko Nor,,,,-99,,3.0,4.0,Qinghai Hu,Q201294,بحيرة تشينغهاي,,Qinghai-See,Qinghai Lake,Lago Qinghai,lac Qinghai,,चिंगहई झील,,Danau Qinghai,lago Qinghai,青海湖,칭하이 호,Qinghaimeer,Kuku-nor,,Кукунор,Qinghaisjön,Koko Nor,Hồ Thanh Hải,青海湖,5,1159126725
+Alkaline Lake,3,Lake Razazah,L. Razazah,Lake Milh,,,,-99,,3.0,4.0,Lake Razazah,Q2007652,بحيرة الرزازة,,Razzaza-See,Lake Milh,Lago Razzaza,,,,,,,ミル湖,,,,,Эль-Мильх,,,,,5,1159126735
+Alkaline Lake,3,Dead Sea,Dead Sea,Salt Sea,,,,-99,admin-0 more,3.0,4.0,Dead Sea,Q23883,البحر الميت,মৃত সাগর,Totes Meer,Dead Sea,Mar Muerto,mer Morte,Νεκρά θάλασσα,मृत सागर,Holt-tenger,Laut Mati,Mar Morto,死海,사해,Dode Zee,Morze Martwe,Mar Morto,Мёртвое море,Döda havet,Lut Gölü,Biển Chết,死海,4,1159126747
+Alkaline Lake,4,Lake Urmia,L. Urmia,,,,,-99,,4.0,5.0,Lake Urmia,Q199551,بحيرة أرومية,উর্মিয়া হ্রদ,Urmiasee,Lake Urmia,Lago Urmía,lac d'Ourmia,,,Urmia-tó,,lago di Urmia,オルーミーイェ湖,우르미아 호,Urmiameer,Urmia,Lago Urmia,Урмия,Urmiasjön,Urmiye Gölü,Hồ Urmia,爾米亞湖,4,1159126761
+Alkaline Lake,4,Sarygamysh Köli,Sarygamysh Köli,,,,,-99,admin-0 more,4.0,5.0,Sarygamysh Köli,Q257416,,,Sarykamyschsee,Sarygamysh Lake,Lago Sariqamish,lac Sary Kamysh,,,,,Sarygamysh,サリカミシュ湖,,Sarygamysh Lake,Jezioro Sarykamyskie,,Сарыкамышское озеро,,Sarıkamış Gölü,,薩雷卡梅什湖,5,1159126775
+Alkaline Lake,4,Alakol,Alakol,Alakol Lake,,,,-99,,4.0,5.0,Alakol,Q310547,,,Alakölsee,Lake Alakol,Lago Alakol,lac Alakol,,,,,lago Alakol,アラコル湖,,Lake Alakol,Ała-kol,,Алаколь,Alakol,Alagöl,,阿拉湖,5,1159126789
+Alkaline Lake,4,Mar Chiquita,Mar Chiquita,Mar de Ansenuza,,,,-99,,4.0,5.0,Mar Chiquita,Q21837060,,,,,,,,,,,,,,,,,,Laguna Mar Chiquita,,,,5,1159126805
+Alkaline Lake,4,Lake Tuz,L. Tuz,,,,,-99,,4.0,5.0,Lake Tuz,Q211823,,,Tuz Gölü,Lake Tuz,Lago Tuz,lac Tuz,Λίμνη Τουζ,,Tuz-tó,,lago Salato,トゥズ湖,,Tuz Gölü,Tuz,Lago Tuz,Туз,Tuz Gölü,Tuz Gölü,Hồ Tuz,圖茲湖,4,1159126815
+Alkaline Lake,4,Lake Van,L. Van,,,,,-99,,4.0,5.0,Lake Van,Q126307,بحيرة وان,,Vansee,Lake Van,Lago de Van,lac de Van,Βαν,,Van-tó,Danau Van,lago di Van,ヴァン湖,반 호,Vanmeer,Wan,Lago de Van,Ван,Vansjön,Van Gölü,Hồ Van,凡湖,4,1159126829
+Alkaline Lake,5,Lake Abaya,L. Abaya,Abaya Hayk,,,,-99,,4.7,6.0,Lake Abaya,Q304933,,,Abajasee,Lake Abaya,Lago Abaya,lac Abaya,,,,,lago Margherita,アバヤ湖,,Abayameer,Jezioro Małgorzaty,Lago Abaya,Абая,Ābaya Hāyk',,,阿拜亞湖,4,1159126845
+Alkaline Lake,5,Dead Sea,Dead Sea,,,,,-99,admin-0 more,4.7,6.0,Dead Sea,Q23883,البحر الميت,মৃত সাগর,Totes Meer,Dead Sea,Mar Muerto,mer Morte,Νεκρά θάλασσα,मृत सागर,Holt-tenger,Laut Mati,Mar Morto,死海,사해,Dode Zee,Morze Martwe,Mar Morto,Мёртвое море,Döda havet,Lut Gölü,Biển Chết,死海,4,1159126865
+Alkaline Lake,5,Lake Hammar,L. Hammar,,,,,-99,,4.7,6.0,Lake Hammar,Q2668029,هور الحمّار,,,Lake Hammar,Lago Hammar,Al-hammar,,,,,,ハンマール湖,,,,,Эль-Хаммар,,Hamar Gölü,,,4,1159126873
+Alkaline Lake,5,Khyargas Nuur,Khyargas Nuur,Khyargas Lake,,,,-99,,4.7,6.0,Khyargas Nuur,Q1125601,,,Chjargas Nuur,Khyargas Nuur,Lago Khyargas,lac Khyargas,,,,,Hjargas nuur,キヤールガス・ヌール,,Khyargas Nuur,Chjargas nuur,Lago Khyargas,Хяргас-Нуур,,,Hồ Khyargas,吉爾吉斯湖,4,1159126887
+Alkaline Lake,5,Lake Assal,L. Assal,,,,,-99,,4.7,6.0,Lake Assal,Q81239,بحيرة عسل,আসাল হ্রদ,Assalsee,Lake Assal,Lago Assal,lac Assal,Λίμνη Ασσάλ,,,,lago Assal,アッサル湖,아살 호,Assalmeer,Asal,Lago Assal,Ассаль,Assalsjön,Asal Gölü,,阿萨勒湖,4,1159126901
+Alkaline Lake,6,Tengiz Köli,Tengiz Köli,Lake Tengiz,,,,-99,,5.0,6.5,Tengiz Köli,Q931708,,,Tengizsee,Lake Tengiz,Lago Tengiz,lac Tengiz,,,,,lago Tengiz,テンギス湖,,Tengizmeer,Tengyz,,Тенгиз,,Tengiz,,田吉茲湖,5,1159126917
+Alkaline Lake,6,Qusmuryn Köli,Qusmuryn Köli,,,,,-99,,5.0,6.5,Qusmuryn Köli,Q2454806,,,,,,,,,Kušmurun,,,,,,Kusmuryn,,Кушмурун,Ozero Kushmurun,,,,5,1159126933
+Alkaline Lake,7,Har Nuur,Har Nuur,Khar Lake,,,,-99,,5.7,6.7,Har Nuur,Q1445991,,,,Khar Lake,Khar Nuur,,,,,,Har Nuur,,,,Char nuur,Lago Khar,Хар-Нуур,,,Khar Nuur,哈爾湖,5,1159126941
+Alkaline Lake,7,Lago Poopó,L. Poopó,,,,,-99,,5.7,6.7,Lago Poopó,Q464945,,,Poopó-See,Poopó Lake,Lago Poopó,lac Poopó,,,Poopó-tó,,lago Poopó,ポオポ湖,,Poopomeer,Poopó,Lago Poopó,Поопо,Poopósjön,Poopó Gölü,,波波湖,5,1159126951
+Alkaline Lake,7,Chew Bahir,Chew Bahir,Lake Istifanos,,,,-99,,5.7,6.7,Chew Bahir,Q662811,,,Chew Bahir,Lake Chew Bahir,Lago Chew Bahir,lac Chew Bahir,,,Csev-Bahir-tó,,Chew Bahir,,,Lake Chew Bahir,,,Чоу-Бахр,Chew Bahir,,,楚拜亥湖,5,1159126967
+Alkaline Lake,7,Lake Chamo,L. Chamo,,,,,-99,,5.7,6.7,Lake Chamo,Q1060962,,,Chamosee,Lake Chamo,Lago Chamo,lac Chamo,,,,,lago Ciamò,,,Chamomeer,,Lago Chamo,Чамо,Ch'amo Hāyk',,,查莫湖,4,1159126977
+Alkaline Lake,7,Lake Abbe,L. Abbe,,,,,-99,admin-0 more,5.7,6.7,Lake Abbe,Q306194,بحيرة آبي,,Abbe-See,Lake Abbe,Lago Abbe,lac Abbe,,,Abbé-tó,,lago Abbe,アッベ湖,아베 호,Abbemeer,Jezioro Abie,Lago Abbe,Аббе,Abbesjön,Abbe Gölü,,阿貝湖,4,1159126991
+Alkaline Lake,7,Lake Eyasi,L. Eyasi,,,,,-99,,5.7,6.7,Lake Eyasi,Q1291135,,,Eyasisee,Lake Eyasi,Lago Eyasi,lac Eyasi,,,,,Eyasi,エヤシ湖,,Lake Eyasi,,,Эяси,,,,埃亞西湖,4,1159127005
+Alkaline Lake,7,Lake Natron,L. Natron,,,,,-99,,5.7,6.7,Lake Natron,Q838080,بحيرة النطرون,,Natronsee,Lake Natron,Lago Natron,lac Natron,Λίμνη Νάτρον,,Nátron-tó,,lago Natron,ナトロン湖,나트론 호,Natronmeer,Natron,Lago Natron,Натрон,,,,納特龍湖,4,1159127021
+Alkaline Lake,7,Aydar Ko‘l,Aydar Ko‘l,Aydar Lake,,,,-99,,5.7,6.7,Aydar Ko‘l,Q280771,,,Aydarkoʻl,Aydar Lake,Lago Aidar,lac Aydar,,,,,,アイダール湖,,,Ajdar-kul,,Айдаркуль,,,,,5,1159127033
+Alkaline Lake,8,Great Bitter Lake,Great Bitter L.,,,,,-99,,6.0,7.0,Great Bitter Lake,Q526440,البحيرات المرة,,Bitterseen,Great Bitter Lake,Gran Lago Amargo,Lacs Amer,,,,,Laghi amari,グレートビター湖,그레이트 비터 호,Bittermeren,Wielkie Jezioro Gorzkie,Grande Lago Amargo,Большое Горькое озеро,Bittersjöarna,,,大苦湖,4,1159127045
+Alkaline Lake,9,Airag Lake,Airag L.,,,,,-99,,7.0,8.0,Airag Lake,Q2426550,,,,Airag Lake,Lago Airag,lac Airag,,,,,Ajrag nuur,,,Airag Lake,Ajrag nuur,Lago Airag,Айраг-Нуур,,,,艾拉格湖,4,1159127061
+Alkaline Lake,9,Qypshaq Kli,Qypshaq Kli,,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159127071
+Alkaline Lake,9,Ozero Shalkar,O. Shalkar,Lake Shalkar,,,,-99,,7.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159127087
+Lake,4,Lake Taupo,L. Taupo,,,,,-99,,4.0,5.0,Lake Taupo,Q199903,بحيرة تابو,,Lake Taupo,Lake Taupo,Lago Taupo,lac Taupo,Λίμνη Τάουπο,ताऊपो झील,Taupói-tó,Danau Taupo,lago Taupo,タウポ湖,타우포 호,Taupomeer,Taupo,Lago Taupo,Таупо,Tauposjön,,Hồ Taupo,陶波湖,4,1159127099
+Lake,5,Lake Tekapo,L. Tekapo,,,,,-99,,4.7,6.0,Lake Tekapo,Q1194022,بحيرة تيكابو,,Lake Tekapo,Lake Tekapo,Lago Tékapo,lac Tekapo,,,,,,テカポ湖,테카포 호수,Lake Tekapo,Tekapo,,Текапо,Lake Tekapo,,Hồ Tekapo,特卡波湖,4,1159127119
+Lake,7,Lake Ohau,L. Ohau,,,,,-99,,5.7,6.7,Lake Ohau,Q1349516,,,Lake Ohau,Lake Ohau,Lago Ohau,,,,,,,オハウ湖,오하우 호수,Ohaumeer,Ohau,,Охау,Lake Ohau,,,奧豪湖,4,1159127131
+Lake,5,Lake Te Anau,L. Te Anau,,,,,-99,,4.7,6.0,Lake Te Anau,Q1140471,,,Lake Te Anau,Lake Te Anau,Lago Te Anau,lac Te Anau,,,,,,テ・アナウ湖,테아나우 호수,Te Anaumeer,Te Anau,,Те-Анау,Te Anau,Te Anau Gölü,,蒂阿瑙湖,4,1159127143
+Lake,5,Lake Wakatipu,L. Wakatipu,,,,,-99,,4.7,6.0,Lake Wakatipu,Q127469,بحيرة واكاتيبو,,Lake Wakatipu,Lake Wakatipu,Wakatipu,lac Wakatipu,,,,,,ワカティプ湖,와카티푸 호수,Wakatipumeer,Wakatipu,,Уакатипу,Lake Wakatipu,,,瓦卡蒂普湖,4,1159127155
+Reservoir,5,Lake Pukaki,L. Pukaki,,natural lake,,Pukaki Lake Control,1976,,4.7,6.0,Lake Pukaki,Q1347588,,,Lake Pukaki,Lake Pukaki,,lac Pukaki,,,,,,プカキ湖,푸카키 호수,Lake Pukaki,Pukaki,,Пукаки,Lake Pukaki,,,普卡基湖,4,1159127169
+Reservoir,5,Lake Manapouri,L. Manapouri,,natural lake used for hydro-electric power,,,-99,,4.7,6.0,Lake Manapouri,Q1192384,,,Lake Manapouri,Lake Manapouri,Lago Manapouri,lac Manapouri,,,,,,マナポウリ湖,마나포우리 호수,Lake Manapouri,Manapouri,,Манапоури,,,,馬納普里湖,4,1159127183
+Reservoir,5,Lake Te Anau,L. Te Anau,,Largest lake in Australasia by fresh water volume. Natural lake.,,,-99,,4.7,6.0,Lake Te Anau,Q1140471,,,Lake Te Anau,Lake Te Anau,Lago Te Anau,lac Te Anau,,,,,,テ・アナウ湖,테아나우 호수,Te Anaumeer,Te Anau,,Те-Анау,Te Anau,Te Anau Gölü,,蒂阿瑙湖,4,1159127195
+Lake,5,Lake Wanaka,L. Wanaka,,,,,-99,,4.7,6.0,Lake Wanaka,Q1192728,,,Lake Wanaka,Lake Wanaka,,lac Wanaka,,,,,,ワナカ湖,와나카 호수,Wanakameer,Wanaka,,Уанака,Lake Wanaka,,,瓦納卡湖,4,1159127213
+Reservoir,5,Lake Hawea,L. Hawea,,natural lake,,,-99,,4.7,6.0,Lake Hawea,Q1440634,,,Lake Hāwea,Lake Hawea,Lago Hawea,lac Hawea,,,,,,ハウェア湖,,Lake Hawea,Hawea,,Хавеа,Lake Hāwea,,,哈威亞湖,4,1159127227
+Lake,7,Lake Rotorua,L. Rotorua,,,,,-99,,5.7,6.7,Lake Rotorua,Q1192621,,,Lake Rotorua,Lake Rotorua,,lac Rotorua,Λίμνη Ροτορούα,,Rotoruai-tó,,,ロトルア湖,로토루아 호수,Lake Rotorua,Rotorua,,Роторуа,,,,羅托魯阿湖,4,1159127233
+Lake,7,Lake Wairarapa,L. Wairarapa,,,,,-99,,5.7,6.7,Lake Wairarapa,Q590903,,,Lake Wairarapa,Lake Wairarapa,,Lake Wairarapa,,,,,,,,Lake Wairarapa,Wairarapa,Lago Wairarapa,Уаирарапа,,,,懷拉拉帕湖,4,1159127249
+Reservoir,7,Lake Benmore,L. Benmore,,,,,-99,,5.7,6.7,Lake Benmore,Q917385,,,Lake Benmore,Lake Benmore,,lac Benmore,,,,,,,,Lake Benmore,,,Бенмор,,,,本莫爾湖,4,1159127261
+Reservoir,7,Lake Coleridge,L. Colerdige,,natural lake,,,-99,,5.7,6.7,Lake Coleridge,Q4634,,,Lake Coleridge,Lake Coleridge,Coleridge,lac Coleridge,,,,,lago Coleridge,コールリッジ湖,,Lake Coleridge,Coleridge,,Колридж,,,,科爾里奇湖,4,1159127275
+Reservoir,7,Lake Waikaremoana,L. Waikaremoana,,natural lake,,,-99,,5.7,6.7,Lake Waikaremoana,Q4272,,,Lake Waikaremoana,Lake Waikaremoana,Waikaremoana,lac Waikaremoana,,,,,lago Waikaremoana,ワイカレモアナ湖,,Lake Waikaremoana,,,Уаикаремоана,,,,懷卡雷莫阿納湖,4,1159127287
+Lake,7,Lake Hauroko,L. Hauroko,,,,,-99,,5.7,6.7,Lake Hauroko,Q1800949,,,Lake Hauroko,Lake Hauroko,Lago Hauroko,lac Hauroko,,,Hauroko,,,ハウロコ湖,,Lake Hauroko,Hauroko,,Хауроко,,,,豪羅科湖,4,1159127301
+Lake,7,Lake Poteriteri,L. Poteriteri,,,,,-99,,5.7,6.7,Lake Poteriteri,Q4269,,,Lake Poteriteri,Lake Poteriteri,Poteriteri,lac Poteriteri,,,Poteriteri,,lago Poteriteri,ポテリテリ湖,,Lake Poteriteri,,,Потеритери,,,,波特里特里湖,4,1159127315
+Reservoir,7,Lake Monowai,L. Monowai,,natural lake,,,-99,,5.7,6.7,Lake Monowai,Q1271947,,,Lake Monowai,Lake Monowai,,Lake Monowai,,,,,,モノワイ湖,,Lake Monowai,,,Моноваи,,,,莫諾懷湖,4,1159127329
+Lake,8,Lake Rotoroa,L. Rotoroa,,,,,-99,,6.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159127335
+Lake,8,Lake Rotoiti,L. Rotoiti,,,,,-99,,6.0,7.0,Lake Rotoiti,Q1801067,,,Lake Rotoiti,Lake Rotoiti,,lac Rotoiti,,,,,,ロトイチ湖,,Lake Rotoiti,,Lago Rotoiti,,,,,,4,1159127353
+Lake,7,Lake Dunstan,L. Dunstan,,hydro lake,,Clyde Dam,-99,added,5.7,6.7,Lake Dunstan,Q1303872,,,Lake Dunstan,Lake Dunstan,,Lake Dunstan,,,,,,,,Lake Dunstan,,,Данстан,,,,,4,1159127371
+Lake,3,St. Marys River,St. Marys R.,Great Lakes,,,,-99,admin-0,3.0,6.0,St. Marys River,Q940488,,,Saint Marys River,St. Marys River,Río St. Marys,rivière Sainte-Marie,,,,,Fiume Saint Marys,セントマリー川,,St. Marys River,St. Marys,Rio Saint Mary's,Сент-Мэрис,Saint Marys River,,,,4,1159127385

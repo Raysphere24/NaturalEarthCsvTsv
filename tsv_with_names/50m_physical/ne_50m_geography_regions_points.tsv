@@ -1,0 +1,163 @@
+scalerank	featurecla	name	comment	name_alt	lat_y	long_x	region	subregion	min_zoom	label	name_ar	name_bn	name_de	name_en	name_es	name_fr	name_el	name_hi	name_hu	name_id	name_it	name_ja	name_ko	name_nl	name_pl	name_pt	name_ru	name_sv	name_tr	name_vi	name_zh	wikidataid	wdid_score	ne_id
+2	waterfall	Niagara Falls			43.087653000	-79.044073000	North America		5.0	Niagara Falls	شلالات نياجارا	নায়াগ্রা জলপ্রপাত	Niagarafälle	Niagara Falls	Cataratas del Niágara	chutes du Niagara	Καταρράκτες του Νιαγάρα	नायाग्रा जल प्रपात	Niagara-vízesés	Niagara	cascate del Niagara	ナイアガラの滝	나이아가라 폭포	Niagarawatervallen	Wodospad Niagara	Cataratas do Niágara	Ниагарский водопад	Niagarafallen	Niagara Şelalesi	Thác Niagara	尼亚加拉瀑布	Q34221	3	1159105019
+2	waterfall	Salto Angel		Angel Falls	5.686836000	-62.061848000	South America		5.0	Salto Angel	شلالات آنجل	অ্যাঞ্জেল জলপ্রপাত	Salto Ángel	Angel Falls	Salto Ángel	Salto Angel	Καταρράκτες Έιντζελ	एन्जिल जलप्रपात	Angel-vízesés	Air terjun Angel	Salto Angel	エンジェルフォール	앙헬 폭포	Ángelwaterval	Salto Angel	Salto Ángel	Анхель	Angelfallen	Angel Şelalesi	Thác nước Ángel	安赫尔瀑布	Q80299	5	1159105051
+2	waterfall	Iguazu Falls			-25.568265000	-54.582842000	South America		5.0	Iguazu Falls	شلالات إجوازو	ইগুয়াসু জলপ্রপাত	Iguazú-Wasserfälle	Iguaçu Falls	Cataratas del Iguazú	chutes d'Iguazú	Καταρράκτες Ιγκουασού		Iguazú-vízesés	Air terjun Iguazu	cascate dell'Iguazú	イグアスの滝	이구아수 폭포	Watervallen van de Iguaçu	Wodospad Iguazú	Cataratas do Iguaçu	Игуасу	Iguazúfallen	Iguazú Şelalesi	Thác Iguazu	伊瓜苏瀑布	Q36332	5	1159105053
+3	cape	Gees Gwardafuy			11.812855000	51.235173000	Africa		5.1	Gees Gwardafuy			Kap Guardafui	Cape Guardafui	Cabo Guardafui	Cap Gardafui					Capo Guardafui	グアルダフィ岬		Cape Guardafui	Gees Gwardafuy	Cabo Guardafui	Гвардафуй	Kap Gardafai		Cape Guardafui	瓜達富伊角	Q1145030	5	1159104885
+3	waterfall	Victoria Falls			-17.770790000	25.460133000	Africa		5.1	Victoria Falls	شلالات فيكتوريا	ভিক্টোরিয়া জলপ্রপাত	Victoriafälle	Victoria Falls	Cataratas Victoria	chutes Victoria	Καταρράκτες Βικτωρίας	विक्टोरिया जलप्रपात	Viktória-vízesés	Air terjun Victoria	Cascate Vittoria	ヴィクトリアの滝	빅토리아 폭포	Victoriawatervallen	Wodospady Wiktorii	Cataratas Vitória	Виктория	Victoriafallen	Victoria Şelalesi	Thác Victoria	维多利亚瀑布	Q43278	3	1159104887
+3	island	Wright Island			-50.959168000	-72.995002000	Antarctica		5.1	Wright I.			Wright Island	Wright Island										Wright Island				Wright Island			萊特島	Q6980542	5	1159104901
+3	island	Grant Island			-50.959168000	-72.995002000	Antarctica		5.1	Grant I.	جزيرة غرانت		Grant-Insel	Grant Island	Isla Grant	île Grant								Grant Island		Ilha Grant		Grant Island			格蘭特島	Q1543171	5	1159104903
+3	island	Newman Island			-50.959168000	-72.995002000	Antarctica		5.1	Newman I.				Newman Island										Newman Island				Newman Island			維曼島	Q6272638	5	1159104905
+3	island	Dean Island			-50.959168000	-72.995002000	Antarctica		5.1	Dean I.	جزيرة دين		Dean Insel	Dean Island	Isla Dean									Dean Island		Ilha dean		Dean Island			迪安島	Q559842	5	1159104907
+3	cape	Cape Canaveral			28.483713000	-80.534941000	North America		5.1	Cape Canaveral	رأس كانافيرال		Cape Canaveral	Cape Canaveral	Cabo Cañaveral	Cap Canaveral	Ακρωτήριο Κανάβεραλ		Cape Canaveral	Cape Canaveral	Cape Canaveral	ケープ・カナベラル	케이프커내버럴	Cape Canaveral	Canaveral	Cabo Canaveral	Канаверал	Cape Canaveral	Cape Canaveral		卡纳维拉尔角	Q193401	3	1159105007
+3	cape	Cape Mendocino			40.350222000	-124.323474000	North America		5.1	Cape Mendocino				Cape Mendocino	Cabo Mendocino	Cap Mendocino				Tanjung Mendocino	Capo Mendocino			Cape Mendocino		Cabo Mendocino						Q780339	3	1159105009
+3	cape	Cabo San Lucas			22.887711000	-109.969843000	North America		5.1		كابو سان لوكاس	কাবু সান লুকাস	Cabo San Lucas	Cabo San Lucas	Cabo San Lucas	Cabo San Lucas	Κάβο Σαν Λούκας	कबो सैन लुकस	Cabo San Lucas	Cabo San Lucas	Cabo San Lucas	サンルーカス岬	카보산루카스	Cabo San Lucas	Cabo San Lucas	Cabo San Lucas	Кабо-Сан-Лукас	Cabo San Lucas	Cabo San Lucas	Cabo San Lucas	卡布聖盧卡斯	Q1020776	2	1159105011
+3	cape	Cape Churchill			58.752014000	-93.182023000	North America		5.1																								0	1159105013
+3	cape	Cape Cod			41.734867000	-69.964865000	North America		5.1	Cape Cod			Cape Cod	Cape Cod	Cabo Cod	cap Cod	Ακρωτήριο Κοντ		Cape Cod		Capo Cod	ケープコッド	케이프코드	Cape Cod	Cape Cod	Cabo Cod	Кейп-Код	Cape Cod	Cod Burnu		鳕鱼角	Q49152	3	1159105015
+3	cape	Cape May			37.201700000	-75.926791000	North America		5.1	Cape May				Cape May								メイ岬					Мэй					Q2065437	3	1159105017
+3	cape	Cabo de Hornos		Cape Horn	-55.862824000	-67.169425000	South America		5.1	Cabo de Hornos	كايب هورن	কেপ হর্ন	Kap Hoorn	Cape Horn	Cabo de Hornos	Cap Horn	Ακρωτήριο Χορν	हॉर्न अंतरीप	Horn-fok	Tanjung Horn	Capo Horn	ホーン岬	혼 곶	Kaap Hoorn	Horn	Cabo Horn	Горн	Kap Horn	Horn Burnu	Cape Horn	合恩角	Q4078	5	1159105049
+3	cape	Cape of Good Hope			-34.307311000	18.441206000	Africa		5.1	Cape of Good Hope	رأس الرجاء الصالح		Kap der Guten Hoffnung	Cape of Good Hope	Cabo de Buena Esperanza	Cap de Bonne-Espérance	Ακρωτήριο της Καλής Ελπίδος	केप ऑफ़ गुड होप	Jóreménység foka	Tanjung Harapan	Capo di Buona Speranza	喜望峰	희망봉	Kaap de Goede Hoop	Przylądek Dobrej Nadziei	Cabo da Boa Esperança	Мыс Доброй Надежды	Godahoppsudden	Ümit Burnu	Mũi Hảo Vọng	好望角	Q4092	3	1159105165
+3	cape	Cape Palmas			4.373924000	-7.457356000	Africa		5.1	Cape Palmas			Cape Palmas	Cape Palmas	Cabo Palmas	Cap des Palmes			Pálma-fok		Capo Palmas	パルマス岬		Cape Palmas		Cabo Palmas	Пальмас					Q1034489	3	1159105169
+3	cape	Cape Verde			14.732312000	-17.471776000	Africa		5.1	Cape Verde	شبه جزيرة الرأس الأخضر		Cabo Verde	Cap-Vert	Cabo Verde	Presqu'île du Cap-Vert			Zöld-fok		Penisola di Capo Verde	ヴェルデ岬	베르데 곶	Kaap Verde	Przylądek Zielony	Cabo Verde	Зелёный Мыс	Kap Verdehalvön	Cap-Vert		佛得角半島	Q216889	5	1159105171
+3	cape	Cap Bon			37.073954000	11.024061000	Africa		5.1	Cap Bon	الرأس الطيب		Kap Bon	Cap Bon	Cabo Bon	cap Bon					Capo Bon	ボン岬半島		Kaap Bon	Al-Watan al-Kibli	Cabo Bon	Бон	Kap Bon			卡本半岛	Q849879	3	1159105173
+3	pole	Oceanic pole of inaccessibility			-48.865032000	-123.401986000	Seven seas (open ocean)	South Pacific Ocean	5.1				Pol der Unzugänglichkeit	pole of inaccessibility	Polo de inaccesibilidad	pôle d'inaccessibilité			Némó-pont	Titik terpencil	Polo dell'inaccessibilità	到達不能極	도달불능극	pool van ontoegankelijkheid	Biegun niedostępności	Polo de inacessibilidade	Полюс недоступности	Otillgänglighetspol		Cực bất khả tiếp cận	難抵極	Q752003	1	1159105175
+3	pole	South Magnetic Pole 2005 (est)			-48.865032000	-123.401986000	Antarctica	Southern Ocean	5.1				magnetischer Südpol	South Magnetic Pole		Pôle Sud magnétique					Polo Sud Magnetico	南磁極	자남극			Polo sul magnético	южный магнитный полюс	Magnetiska sydpolen		Cực Nam từ	地磁南极	Q1043682	5	1159105177
+3	pole	North Magnetic Pole 2005 (est)			-48.865032000	-123.401986000	Seven seas (open ocean)	Arctic Ocean	5.1		قطب شمالي مغناطيسي		magnetischer Nordpol	North Magnetic Pole	Polo Norte magnético	Pôle Nord magnétique	Μαγνητικός Βόρειος Πόλος					北磁極	자북극	magnetische noordpool		Polo norte magnético	Северный магнитный полюс	Magnetiska nordpolen	Manyetik Kuzey Kutbu	Cực Bắc từ	地磁北极	Q842763	5	1159105179
+4	cape	Lands End			50.069677000	-5.668629000	Europe	British Isles	5.7	Lands End																		Land's End				Q24640353	5	1159104689
+4	cape	Cape York			76.218919000	-68.218612000	North America	Greenland	5.7	Cape York			Kap York	Cape York	Cabo York	Cap York					Capo York	ヨーク岬		Cape York	Kap York		Йорк	Kap York				Q1636266	2	1159104697
+4	cape	Nunap Isua		Cape Farewell	59.862583000	-43.900880000	North America	Greenland	5.7				Kap Farvel	Cape Farewell	Cabo Farewell	Cap Farvel	Ακρωτήριο Φάρβελ		Farvel-fok		Capo Farvel			Kaap Vaarwel	Farvel	Cabo Farvel	Фарвель	Kap Farvel			法韦尔角	Q128097	5	1159104701
+4	cape	Cape Vohimena			-25.546355000	45.158683000	Africa	Indian Ocean	5.7				Naturreservat Cap Sainte Marie	Cape Saint Marie		Cap Sainte-Marie								Cape Saint Marie								Q1352197	1	1159104711
+4	island	Vavau			-18.590062000	-173.976769000	Oceania	Polynesia	5.7	Vavau				Vavaʻu										Vavaʻu								Q20456736	5	1159104833
+4	island	I. de Pascua		Easter I.	-27.102117000	-109.367953000	Oceania	Polynesia	5.7		جزيرة القيامة	ইস্টার দ্বীপ	Osterinsel	Easter Island	Isla de Pascua	île de Pâques	Νησί του Πάσχα	ईस्टर द्वीप	Húsvét-sziget	Pulau Paskah	Isola di Pasqua	イースター島	이스터 섬	Paaseiland	Wyspa Wielkanocna	Ilha de Páscoa	Остров Пасхи	Påskön	Paskalya Adası	Đảo Phục Sinh	復活節島	Q14452	5	1159104835
+4	cape	Cape Agulhas			-34.801182000	19.993472000	Africa		5.7	Cape Agulhas	رأس أقولاس		Kap Agulhas	Cape Agulhas	Cabo de las Agujas	Cap des Aiguilles		एगुलस अन्तरीप		Tanjung Agulhas	Cape Agulhas	アガラス岬	아굴라스 곶	Kaap Agulhas	Przylądek Igielny	Cabo das Agulhas	Игольный	Agulhas	Agulhas Burnu		厄加勒斯角	Q4085	3	1159104883
+4	plain	Plain of Jars			20.550709000	101.890532000	Asia		5.7				Ebene der Tonkrüge	Plain of Jars	Llanura de las Jarras	Plaine des Jarres					Piana delle giare	ジャール平原	단지평원	Vlakte der Kruiken	Równina Dzbanów		Долина Кувшинов	Krukslätten		Cánh đồng Chum	查爾平原	Q870258	5	1159104967
+4	cape	Cabo Corrientes			20.409471000	-105.683581000	North America		5.7	Cabo Corrientes				Cabo Corrientes	Cabo Corrientes	Cabo Corrientes			Corrientes-fok					Cabo Corrientes		Cabo Corrientes			Corrientes Burnu	Cabo Corrientes		Q2932434	3	1159104991
+4	cape	Pt. Eugenia			27.861925000	-115.076290000	North America		5.7	Pt. Eugenia																							0	1159104993
+4	cape	Point Conception			34.582313000	-120.659016000	North America		5.7					Point Conception	Punta Concepción	Point Conception						ポイント・コンセプション				Point Conception					康塞普申角	Q3307973	5	1159104995
+4	cape	Cape Hatteras			35.437762000	-75.450543000	North America		5.7	Cape Hatteras			Cape Hatteras	Cape Hatteras	Cabo Hatteras	Cap Hatteras			Cape Hatteras		Capo Hatteras	ハッテラス岬		Cape Hatteras	Wikipedystka:Allegria/Przylądek Hatteras	Cabo Hatteras	Хаттерас				哈特拉斯角	Q978032	3	1159104997
+4	cape	Cape Sable			25.124896000	-81.090442000	North America		5.7	Cape Sable				Cape Sable	Cabo Sable	Cap Sable						サブレ岬			Cape Sable	Cabo Sable					沙布耳角	Q2937102	3	1159104999
+4	cape	Cape Hope			68.356380000	-166.815582000	North America		5.7	Cape Hope				Point Hope								ホープ岬				Point Hope						Q7208042	5	1159105001
+4	cape	Point Barrow			71.372637000	-156.615894000	North America		5.7	Point Barrow		ব্যারো বিন্দু	Point Barrow	Point Barrow	Punta Barrow	Point Barrow					Punta Barrow	ポイント・バロー	배로 곶	Point Barrow	Point Barrow	Point Barrow	Барроу	Point Barrow	Point Barrow		巴罗角	Q1343019	3	1159105003
+4	cape	Punta Negra			-5.948875000	-81.108252000	South America		5.7				Punta Negra	Punta Negra	Punta Negra	Punta Negra								Punta Negra								Q987098	5	1159105045
+4	cape	Punta Lavapié			-37.262867000	-73.606377000	South America		5.7																								0	1159105047
+4	cape	Punta Galera			0.731221000	-80.062205000	South America		5.7																								0	1159105157
+4	cape	Cap Lopez			-0.604761000	8.726423000	Africa		5.7																								0	1159105159
+4	cape	Cape Bobaomby			-11.966598000	49.262904000	Africa		5.7	Cape Bobaomby				Cap d'Ambre		Cap d'Ambre									Tanjona Bobaomby			Cap d'Ambre				Q2937135	5	1159105161
+4	cape	Cap Blanc			20.822108000	-17.052856000	Africa		5.7																								0	1159105163
+5	cape	South West Cape			-43.510984000	146.054227000	Oceania	Australia	6.0	South West Cape				South West Cape														South West Cape				Q7568836	3	1159104653
+5	cape	Cape Howe			-37.488775000	149.958534000	Oceania	Australia	6.0																								0	1159104655
+5	cape	Cape Otway			-38.857622000	143.565403000	Oceania	Australia	6.0	Cape Otway			Cape Otway	Cape Otway	Cabo Otway	Cap Otway						ケープ・オトウェイ		Cape Otway		Cabo Otway		Cape Otway				Q838457	3	1159104657
+5	cape	Cape Jaffa			-36.944244000	139.690866000	Oceania	Australia	6.0																								0	1159104659
+5	cape	Cape Carnot			-34.920233000	135.656027000	Oceania	Australia	6.0																								0	1159104661
+5	cape	Cape Byron			-28.658282000	153.632849000	Oceania	Australia	6.0	Cape Byron			Cape Byron	Cape Byron	Cabo Byron	Cap Byron								Cape Byron	Przylądek Byrona	Cabo Byron	Байрон	Kap Byron		Cape Byron	拜伦角	Q1034320	3	1159104665
+5	cape	Cape Manifold			-22.702081000	150.811228000	Oceania	Australia	6.0																								0	1159104667
+5	cape	Cape York			-10.710859000	142.522018000	Oceania	Australia	6.0	Cape York			Kap York	Cape York	Cabo York									Kaap York	Jork	Cabo York	Йорк	Kap York				Q1728345	3	1159104669
+5	cape	Cape Melville			-14.163629000	144.506417000	Oceania	Australia	6.0																								0	1159104671
+5	cape	Cape Arnhem			-12.337984000	136.952429000	Oceania	Australia	6.0																								0	1159104673
+5	cape	West Cape Howe			-35.104301000	117.597011000	Oceania	Australia	6.0																								0	1159104675
+5	cape	Cape Leeuwin			-34.297841000	115.106330000	Oceania	Australia	6.0	Cape Leeuwin			Kap Leeuwin	Cape Leeuwin	Cabo Leeuwin	Cap Leeuwin					Capo Leeuwin	ルーウィン岬		Kaap Leeuwin	Cape Leeuwin	Cabo Leeuwin		Cape Leeuwin			露纹角	Q1536418	3	1159104677
+5	cape	Cape Pasley			-33.929054000	123.517283000	Oceania	Australia	6.0																								0	1159104679
+5	cape	Cape Londonderry			-13.713856000	126.964514000	Oceania	Australia	6.0																								0	1159104683
+5	cape	Steep Point			-26.168220000	113.169959000	Oceania	Australia	6.0	Steep Point			Steep Point	Steep Point	Punta Steep	Pointe Escarpée									Steep Point	Steep Point	Стип-Пойнт	Steep Point				Q1999953	3	1159104685
+5	cape	North West Cape			-21.809776000	114.117534000	Oceania	Australia	6.0																								0	1159104687
+5	cape	Cabo Gracias a Dios			14.994242000	-83.158660000	North America	Central America	6.0																								0	1159104691
+5	cape	Cape Brewster			70.150754000	-22.122616000	North America	Greenland	6.0	Cape Brewster				Cape Brewster					Brewster-fok		Capo Brewster			Kaap Brewster								Q3657109	3	1159104693
+5	cape	Cape Morris Jesup			83.626331000	-32.491541000	North America	Greenland	6.0	Cape Morris Jesup			Kap Morris Jesup	Cape Morris Jesup	Cabo Morris Jesup	Cap Morris Jesup					Capo Morris Jesup	モリス・ジェサップ岬	모리스재섭곶	Kaap Morris Jesup	Kap Morris Jesup	Cabo Morris Jesup	Моррис-Джесуп	Kap Morris Jesup	Morris Jesup Burnu		莫里斯·杰塞普角	Q917353	3	1159104695
+5	island	Grímsey			66.669359000	-18.251096000	Europe	Iceland	6.0	Grímsey			Grímsey	Grímsey	Grímsey	Grímsey			Grímsey		Grímsey	グリムセイ島		Grímsey	Grímsey	Grímsey	Гримсей	Grímsey			格里姆赛岛	Q213707	5	1159104705
+5	island	Surtsey			63.217764000	-20.434929000	Europe	Iceland	6.0	Surtsey	سرتسي		Surtsey	Surtsey	Surtsey	Surtsey	Σούρτσεϊ	सरट्से	Surtsey	Surtsey	Surtsey	スルツェイ島	쉬르트세이 섬	Surtsey	Surtsey	Surtsey	Суртсей	Surtsey	Surtsey	Surtsey	敘爾特塞	Q178124	3	1159104707
+5	cape	Cap Est			-15.274849000	50.499889000	Africa	Indian Ocean	6.0																								0	1159104709
+5	cape	Cape Cretin			-6.637492000	147.852392000	Oceania	Melanesia	6.0																								0	1159104727
+5	island	Îles Chesterfield			-19.204470000	159.951710000	Oceania	Melanesia	6.0																								0	1159104729
+5	island	Pagan			18.119631000	145.785087000	Oceania	Micronesia	6.0	Pagan	باجان		Pagan	Pagan	isla de Pagán	île Pagan					Pagan	パガン島		Pagan	Pagan	Ilha Pagan	Паган	Pagan	Pagan		帕甘島	Q1126761	3	1159104751
+5	island	Wake I.			19.303497000	166.636262000	Oceania	Micronesia	6.0																								0	1159104755
+5	island	Tabiteuea			-1.201405000	174.755207000	Oceania	Micronesia	6.0	Tabiteuea			Tabiteuea	Tabiteuea	Tabiteuea	Tabiteuea					Tabiteuea	タビテウエア	타비테우에아	Tabiteuea		Tabiteuea	Табитеуэа	Tabiteuea	Tabiteuea	Tabiteuea		Q1059267	3	1159104757
+5	island	Aranuka			0.226766000	173.626286000	Oceania	Micronesia	6.0	Aranuka			Aranuka	Aranuka	Aranuka	Aranuka	Αρανούκα				Aranuka	アラヌーカ環礁	아라누카	Aranuka		Aranuka	Аранука	Aranuka			阿拉努卡環礁	Q626095	3	1159104759
+5	island	Nauru			-0.505856000	166.930778000	Oceania	Micronesia	6.0	Nauru				Nauru		Nauru																Q30151675	3	1159104761
+5	island	Ebon			4.599770000	168.736432000	Oceania	Micronesia	6.0																								0	1159104763
+5	island	Jaluit			5.964455000	169.682894000	Oceania	Micronesia	6.0	Jaluit																		Jaluit				Q27577106	3	1159104765
+5	island	Mili			6.107334000	171.725875000	Oceania	Micronesia	6.0																								0	1159104767
+5	island	Majuro			7.118009000	171.159743000	Oceania	Micronesia	6.0	Majuro																		Majuro Island				Q27577464	5	1159104769
+5	island	Ailinglapalap			7.276392000	168.596926000	Oceania	Micronesia	6.0	Ailinglapalap																		Ailinglaplap				Q27577510	5	1159104773
+5	island	Kwajalein			8.746619000	167.735072000	Oceania	Micronesia	6.0																								0	1159104775
+5	island	Rongelap			11.164329000	166.869876000	Oceania	Micronesia	6.0																								0	1159104777
+5	island	Bikini			11.639231000	165.550698000	Oceania	Micronesia	6.0	Bikini																		Bikini				Q27577613	3	1159104779
+5	cape	Cape Reinga			-34.432767000	172.728503000	Oceania	New Zealand	6.0	Cape Reinga			Cape Reinga	Cape Reinga	Cabo Reinga	Cap Reinga			Reinga-fok		Capo Reinga		레잉가 곶	Cape Reinga		Cabo Reinga	Реинга				雷恩加角	Q1034494	3	1159104781
+5	island	Kanton Island			-2.757106000	-171.717033000	Oceania	Polynesia	6.0	Kanton			Kanton	Kanton Island	Kanton	Canton	Νήσος Καντών				Canton	カントン島	캔턴 섬	Kanton	Kanton	Ilha Kanton	Кантон	Kantonatollen			阿巴里靈阿環礁	Q30895	5	1159104819
+5	island	Tabuaeran		Fanning I.	3.866545000	-159.326781000	Oceania	Polynesia	6.0																								0	1159104821
+5	island	Malden Island			-4.042491000	-154.983478000	Oceania	Polynesia	6.0	Malden			Malden	Malden Island	Isla Malden	Malden	Μάλντεν Νήσος				Malden	マルデン島	몰덴 섬	Malden	Malden Island	Ilha Malden	Молден	Malden Island			莫爾登島	Q532590	5	1159104823
+5	island	Rarotonga			-21.201867000	-159.797637000	Oceania	Polynesia	6.0	Rarotonga	راروتونغا	রারোটোঙ্গা	Rarotonga	Rarotonga	Rarotonga	Rarotonga	Ραροτόνγκα	रैरोटोंगा	Rarotonga	Rarotonga	Rarotonga	ラロトンガ島	라로통가 섬	Rarotonga	Rarotonga	Rarotonga	Раротонга	Rarotonga	Rarotonga	Rarotonga	拉罗汤加岛	Q471793	3	1159104827
+5	island	Rangiroa			-15.204600000	-147.773967000	Oceania	Polynesia	6.0	Rangiroa			Rangiroa	Rangiroa	Rangiroa	Rangiroa			Rangiroa		Rangiroa	ランギロア環礁		Rangiroa	Rangiroa	Rangiroa	Рангироа	Rangiroa			倫吉拉環礁	Q757399	3	1159104829
+5	island	Funafuti			-8.491577000	179.198413000	Oceania	Polynesia	6.0	Funafuti			Fongafale	Fongafale	Fongafale	Fongafale	Φονγκαφάλε		Fongafale		Fongafale			Fongafale	Fongafale	Fongafale	Фонгафале	Fongafale	Fongafale		風加法列	Q731947	5	1159104831
+5	island	Saint Croix			17.762944000	-64.763088000	North America	West Indies	6.0	St. Croix			Saint Croix	Saint Croix	Saint Croix	Sainte-Croix	Σαιντ Κρουά		Saint Croix		Saint Croix	セント・クロイ島	세인트크로이 섬	Saint Croix	Saint Croix	Saint Croix	Санта-Крус	Saint Croix			圣克洛伊岛	Q642481	5	1159104837
+5	island	Grand Cayman			19.315829000	-81.271416000	North America	West Indies	6.0	Grand Cayman			Grand Cayman	Grand Cayman	Gran Caimán	Grand Cayman	Γκραντ Κέιμαν				Grand Cayman	グランドケイマン		Grand Cayman	Wielki Kajman	Grande Caimão	Большой Кайман	Grand Cayman			大開曼	Q737765	3	1159104839
+5	island	San Salvador			24.052793000	-74.492848000	North America	West Indies	6.0	San Salvador	جزيرة سان سلفادور	সান সালভাদর আইল্যান্ড	San Salvador	San Salvador Island	San Salvador	San Salvador	Σαν Σαλβαντόρ	सैन साल्वाडोर द्वीप		Pulau San Salvador	San Salvador	サン・サルバドル島	산살바도르 섬	San Salvador	San Salvador	San Salvador	Сан-Сальвадор	San Salvador	San Salvador Adaları	Đảo San Salvador	圣萨尔瓦多岛	Q845540	5	1159104841
+5	island	Grenada			12.105978000	-61.723079000	North America	West Indies	6.0	Grenada	غرينادا		Grenada	Grenada	Grenada	Grenade								Grenada	Grenada	Grenada	Гренада					Q3116419	3	1159104845
+5	island	Barbuda			17.622525000	-61.789243000	North America	West Indies	6.0	Barbuda	بربودا	বারবুডা	Barbuda	Barbuda	Barbuda	Barbuda	Μπαρμπούντα	बारबूडा	Barbuda	Barbuda	Barbuda	バーブーダ島	바부다 섬	Barbuda	Barbuda	Barbuda	Барбуда	Barbuda	Barbuda	Barbuda	巴布達島	Q238752	3	1159104847
+5	island	Antigua			17.040441000	-61.775982000	North America	West Indies	6.0	Antigua																		Antigua				Q22087941	2	1159104849
+5	island	Guadeloupe			16.180583000	-61.656947000	North America	West Indies	6.0	Guadeloupe				Guadeloupe		Guadeloupe								Guadeloupe	Gwadelupa							Q3118683	3	1159104851
+5	island	Dominica			15.452943000	-61.352652000	North America	West Indies	6.0	Dominica				Dominica		Dominique																Q27507993	3	1159104853
+5	island	Martinique			14.672462000	-61.008715000	North America	West Indies	6.0	Martinique	مارتينيك	মার্তিনিক	Martinique	Martinique	Martinica	Martinique	Μαρτινίκα	मार्टीनिक	Martinique	Martinik	Martinica	マルティニーク	마르티니크	Martinique	Martynika	Martinica	Мартиника	Martinique	Martinique	Martinique	馬提尼克	Q17054	3	1159104855
+5	island	Saint Lucia			13.918332000	-60.982225000	North America	West Indies	6.0	Saint Lucia				Saint Lucia		Sainte-Lucie																Q27508090	3	1159104857
+5	island	Saint Vincent			13.270131000	-61.207143000	North America	West Indies	6.0	Saint Vincent	سانت فنسنت		St. Vincent	Saint Vincent	Isla de San Vicente	Saint-Vincent	Άγιος Βικέντιος				Saint Vincent	セントビンセント島	세인트빈센트 섬	Saint Vincent	Saint Vincent	Ilha de São Vicente	Сент-Винсент	Saint Vincent			圣文森特岛	Q379656	3	1159104859
+5	island	Barbados			13.164326000	-59.566742000	North America	West Indies	6.0	Barbados				Barbados		Barbade																Q30151210	3	1159104863
+5	island	Tobago			11.259334000	-60.677992000	South America	West Indies	6.0	Tobago	توباغو	টোবাগো	Tobago	Tobago	Tobago	Tobago	Τομπάγκο	टोबैगो	Tobago	Tobago	Tobago	トバゴ島	토바고 섬	Tobago	Tobago	Tobago	Тобаго	Tobago	Tobago	Tobago	多巴哥岛	Q185111	3	1159104865
+5	island	Margarita			10.981467000	-64.051401000	South America	West Indies	6.0	Margarita	جزيرة مارغريتا		Isla Margarita	Isla Margarita	Isla de Margarita	Margarita	Νήσος Μαργαρίτα		Margarita	Isla Margarita	Margarita	マルガリータ島	마르가리타 섬	Isla Margarita	Margarita	Ilha de Margarita	Маргарита	Isla Margarita			玛格丽塔岛	Q334738	5	1159104867
+5	island	Curaçao			12.185355000	-68.999109000	North America	West Indies	6.0	Curaçao	كوراساو	কিউরাসাও	Curaçao	Curaçao	Curazao	Curaçao	Κουρασάο	कुराकाओ	Curaçao	Curaçao	Curaçao	キュラソー島	퀴라소	Curaçao	Curaçao	Curaçao	Кюрасао	Curaçao	Curaçao	Curaçao	库拉索	Q25279	3	1159104869
+5	island	Aruba			12.502849000	-69.964880000	North America	West Indies	6.0	Aruba	أروبا	আরুবা	Aruba	Aruba	Aruba	Aruba	Αρούμπα	अरूबा	Aruba	Aruba	Aruba	アルバ	아루바	Aruba	Aruba	Aruba	Аруба	Aruba	Aruba	Aruba	阿魯巴	Q21203	3	1159104871
+5	cape	Ra’s Banäs			23.950592000	35.778059000	Africa		6.0																								0	1159104873
+5	cape	Ponta das Salinas			-12.832908000	12.928991000	Africa		6.0																								0	1159104875
+5	cape	Ponta das Palmeirinhas			-9.071387000	12.999549000	Africa		6.0																								0	1159104877
+5	cape	Cabo Bojador			26.157836000	-14.473111000	Africa		6.0	Cabo Bojador	رأس بوجادور		Kap Bojador	Cape Bojador	Cabo Bojador	Cap Boujdour					Capo Bojador	カボ・ボハドール	보자도르 곶	Kaap Bojador	Ras Budżdur	Cabo Bojador	Буждур	Kap Bojador			博哈多爾角	Q185222	5	1159104881
+5	cape	Cape Comorin			8.143554000	77.471497000	Asia		6.0	Cape Comorin		কন্যাকুমারী	Kap Komorin	Cape Comorin	Cabo Comorin	Cap Comorin											Коморин	Kap Comorin				Q946721	2	1159104929
+5	cape	Dondra Head			5.947528000	80.616321000	Asia		6.0	Dondra Head				Dondra Head	Dondra							ドンドラヘッド			Dewundara Tuduwa	Cabo Dondra	Дондра Хэд	Dondra Head			栋德勒角	Q2426307	3	1159104931
+5	cape	Cape Yelizavety			54.416083000	142.720445000	Asia		6.0	Cape Yelizavety				Cape Elizabeth		Cap Élisabeth					Capo Elizaveta	エリザベス岬		Mis Elizaveti	Przylądek Elżbiety		Мыс Елизаветы					Q2469144	5	1159104935
+5	cape	Pt. Yuzhnyy			57.733572000	156.796426000	Asia		6.0																								0	1159104937
+5	cape	Cape Sata			31.026941000	130.695089000	Asia		6.0	Cape Sata				Cape Sata	Cabo Sata	Cap Sata						佐多岬	사타 곶		Przylądek Sata	Cabo Sata					佐多岬	Q431595	3	1159104939
+5	cape	Cape Aniva			46.081706000	143.434871000	Asia		6.0	Cape Aniva				Cape Aniva		Cap Aniva					Capo Aniva	中知床岬		Aniva			мыс Анива				阿尼瓦岬	Q1083875	3	1159104941
+5	cape	Cape Terpeniya			48.669280000	144.712582000	Asia		6.0	Cape Terpeniya						Cap Terpenia					Capo Terpenija	北知床岬					Мыс Терпения					Q4309490	5	1159104943
+5	cape	Cape Lopatka			50.914155000	156.651536000	Asia		6.0	Cape Lopatka				Cape Lopatka	Cabo Lopatka	Cap Lopatka					capo Lopatka	ロパートカ岬	로팟카 곶	Kaap Lopatka	Łopatka	Cabo Lopatka	Лопатка				洛帕特卡角	Q1199044	3	1159104945
+5	cape	Cape Ozernoy			57.770800000	163.246685000	Asia		6.0																								0	1159104947
+5	cape	Cape Olyutorskiy			59.960807000	170.312651000	Asia		6.0	Cape Olyutorskiy				Cape Olyutorsky		Cap Olioutorski								Kaap Oljoetorski	Przylądek Olutorski		Олюторский					Q3463471	5	1159104949
+5	cape	Cape Navarin			62.327239000	179.074225000	Asia		6.0	Cape Navarin							Ακρωτήριο Ναυαρίνου				Capo Navarin			Capo Navarin	Przylądek Nawarin		Наварин					Q3562501	5	1159104953
+5	cape	Cape Lopatka			71.907853000	150.066042000	Asia		6.0	Cape Lopatka				Cape Lopatka	Cabo Lopatka	Cap Lopatka					capo Lopatka	ロパートカ岬	로팟카 곶	Kaap Lopatka	Łopatka	Cabo Lopatka	Лопатка				洛帕特卡角	Q1199044	3	1159104955
+5	cape	Cape Ince			42.084312000	34.983358000	Asia		6.0																								0	1159104957
+5	cape	Ra’s Fartak			15.677412000	52.229105000	Asia		6.0																								0	1159104959
+5	cape	Ras Sharbatat			18.164534000	56.568270000	Asia		6.0																								0	1159104961
+5	cape	Ra's al Had			22.530158000	59.849134000	Asia		6.0	Ra's al Had	رأس الحد		Ras al-Hadd	Ras al Hadd		Ras al Hadd						ラス・アル・ハッド									拉斯阿爾哈德	Q1329208	5	1159104963
+5	island	Hachijō-jima			33.109796000	139.804903000	Asia		6.0	Hachijō-jima			Hachijō-jima	Hachijō-jima	Hachijōjima	Hachijō-jima					Hachijō-jima	八丈島	하치조 섬	Hachijojima			Хатидзёдзима	Hachijō-jima	Hachijōjima		八丈島	Q1191120	5	1159104965
+5	cape	Nordkapp			71.183370000	25.662398000	Europe		6.0	Nordkapp	رأس الشمال النرويجي		Nordkap	North Cape	Cabo Norte	Cap Nord	Βόρειο Ακρωτήριο		Északi-fok		Capo Nord	ノールカップ		Noordkaap	Przylądek Północny	Cabo Norte	Нордкап	Nordkap			北角	Q4069	5	1159104971
+5	cape	Cabo de São Vicentete			37.038304000	-8.969391000	Europe		6.0	Cabo de São Vicentete			Cabo de São Vicente	Cape St. Vincent	Cabo de San Vicente	Cap Saint-Vincent					Cabo de São Vicente	サン・ヴィセンテ岬		Kaap Sint-Vincent	Przylądek Świętego Wincentego	Cabo de São Vicente	Сан-Висенте	Kap Sankt Vincent	Cabo de São Vicente		圣维森特角	Q4103	5	1159104973
+5	cape	Cabo Fisterra			42.952418000	-9.267837000	Europe		6.0	Cabo Fisterra			Kap Finisterre	Cape Finisterre	Cabo Finisterre	Cap Finisterre					Cabo Fisterra	フィニステレ岬		Cabo Finisterre	Cabo Fisterra	Cabo Finisterra	Финистерре	Kap Finisterre				Q1136198	5	1159104975
+5	cape	Cape San Blas			29.713967000	-85.270961000	North America		6.0	Cape San Blas				Cape San Blas																		Q5035028	3	1159104977
+5	cape	Cape Sable			43.469097000	-65.610769000	North America		6.0	Cape Sable																							0	1159104979
+5	cape	Cape Bauld			51.568576000	-55.430306000	North America		6.0																								0	1159104981
+5	cape	Cape Fear			33.867949000	-77.990568000	North America		6.0	Cape Fear			Cape Fear	Cape Fear	Cape Fear	Cape Fear						ケープフェア				Cabo Fear	Кейп-Фир					Q1034413	3	1159104983
+5	island	I. Guadalupe			29.052552000	-118.317465000	Seven seas (open ocean)	North Pacific Ocean	6.0	I. Guadalupe	جزيرة غوادالوبي		Guadalupe	Guadalupe Island	Isla Guadalupe	île Guadalupe	Νήσος Γουαδαλούπη				Guadalupe	グアダルーペ島	과달루페 섬	Isla Guadalupe	Guadalupe	Ilha de Guadalupe	Гуадалупе	Guadalupeön		Đảo Guadalupe	瓜達盧普島	Q853909	5	1159104985
+5	island	Miquelon			46.929526000	-56.329884000	North America		6.0	Miquelon				Miquelon	Isla de Miquelón	Miquelon											Микелон					Q15076349	3	1159104989
+5	island	I. Robinson Crusoe			-33.589852000	-78.872522000	Seven seas (open ocean)	South Pacific Ocean	6.0	I. Robinson Crusoe	جزيرة روبنسون كروزو		Robinsón Crusoe	Robinson Crusoe Island	Isla Robinson Crusoe	île Robinson Crusoe			Robinson Crusoe sziget	Pulau Robinson Crusoe	Isola di Robinson Crusoe	ロビンソン・クルーソー島	로빈슨크루소 섬	Robinson Crusoe	Robinson Crusoe	Ilha Robinson Crusoe	Остров Робинзона Крузо	Robinson Crusoe-ön	Robinson Crusoe Adası		魯賓遜克魯索島	Q329422	5	1159105027
+5	cape	Cabo Orange			4.125735000	-51.242144000	South America		6.0	Cabo Orange				Cape Orange	Cabo Orange	Cap Orange										Cabo Orange						Q963259	5	1159105029
+5	cape	Cabo de Santa Marta Grande			-28.558078000	-48.735526000	South America		6.0																								0	1159105031
+5	cape	Punta del Este			-34.975503000	-54.933154000	South America		6.0																								0	1159105033
+5	cape	Cabo San Antonio			-36.381052000	-56.655377000	South America		6.0																								0	1159105035
+5	cape	Cabo Corrientes			-38.135985000	-57.546212000	South America		6.0																								0	1159105037
+5	cape	Punta Rasa			-40.834718000	-62.282201000	South America		6.0																								0	1159105039
+5	cape	Cabo Dos Bahías			-44.988700000	-65.615952000	South America		6.0																								0	1159105043
+5	cape	Cabo Delgado			-10.670103000	40.624309000	Africa		6.0	Cabo Delgado			Kap Delgado	Cape Delgado		Cap Delgado					Capo Delgado	デルガド岬		Cape Delgado		Cabo Delgado					德尔加杜角	Q1728307	5	1159105111
+5	cape	Ponta da Barra			-23.829888000	35.515696000	Africa		6.0																								0	1159105115
+5	cape	Ponta São Sebastio			-22.118899000	35.480417000	Africa		6.0																								0	1159105117
+5	cape	Ras Cantin			32.581636000	-9.273918000	Africa		6.0	Ras Cantin						Cap Cantin																Q18214270	5	1159105119
+5	cape	Ra’s Kasr			18.076817000	38.573746000	Africa		6.0																								0	1159105121
+5	cape	Ponta de Jericoacoara			-2.850440000	-40.067208000	South America		6.0																								0	1159105123
+5	cape	Cabo de São Roque			-5.193476000	-35.447654000	South America		6.0	Cabo de São Roque			Rochuskap	Cape São Roque	Cabo de São Roque	Cap Saint Roque					Capo San Rocco			Cape São Roque	São Roque	Cabo de São Roque		Cabo de São Roque			聖洛克岬	Q2535130	5	1159105125
+5	cape	Ponta da Baleia			-17.710136000	-39.157619000	South America		6.0																								0	1159105127
+5	cape	Cabo de São Tomé			-21.996382000	-41.009692000	South America		6.0	Cabo de São Tomé				Cabo de São Tomé	Cabo de São Tomé										Cabo de São Tomé	Cabo de São Tomé		Cabo de São Tomé			圣多美角	Q8254538	5	1159105129
+5	cape	Cabo Frio			-22.869501000	-41.962188000	South America		6.0	Cabo Frio																							0	1159105133
+5	cape	Cabo San Diego			-54.640600000	-65.213650000	South America		6.0	Cabo San Diego					Cabo San Diego	Cap San Diego																Q5738394	3	1159105135
+5	cape	Cabo Tres Puntas			-47.237629000	-65.774707000	South America		6.0																								0	1159105137
+5	cape	Cap Saint André			-16.174457000	44.467405000	Africa		6.0	Cap Saint André						cap Saint-André																Q2937092	5	1159105139
+5	cape	Cape St. Lucia			-28.552694000	32.367221000	Africa		6.0																								0	1159105141
+5	cape	Cape St. Francis			-34.171766000	24.817688000	Africa		6.0																								0	1159105143
+5	island	Minamitori-shima		Marcus I.	24.319813000	153.958899000	Seven seas (open ocean)	North Pacific Ocean	6.0	Minamitori-shima			Minami-Torishima	Minamitorishima	Minami Torishima	île Minamitori					Minami Torishima	南鳥島	미나미토리 섬	Minamitorishima	Minami Tori-shima	Minamitorishima	Минамитори	Minami-Torishima	Minami Torishima	Minamitorishima	南鸟岛	Q1047492	5	1159105145
+5	island	Islas de Martín Vaz			-20.559422000	-29.338439000	Seven seas (open ocean)	Southern Atlantic Ocean	6.0	Is. Martín Vaz				Islas de Martín Vaz	Islas de Martín Vaz																	Q17505593	3	1159105147
+5	island	Rockall			58.163524000	-12.408715000	Seven seas (open ocean)	North Atlantic Ocean	6.0	Rockall			Rockall	Rockall	Rockall	Rockall			Rockall	Rockall	Rockall	ロッコール島	로칼 섬	Rockall	Rockall	Rockall	Роколл	Rockall	Rockall	Rockall	羅科爾	Q206137	2	1159105151
+5	island	I. de Cozumel			20.444687000	-86.880555000	North America		6.0	I. de Cozumel	كوزوميل		Cozumel	Cozumel Island	Isla Cozumel	Cozumel	Κόζουμελ		Cozumel	Cozumel	Cozumel	コズメル		Cozumel Island	Cozumel	Cozumel	Косумель	Cozumel		Cozumel	科苏梅尔岛	Q20119933	5	1159105153
+5	island	Bermuda Islands			32.317339000	-64.742895000	Seven seas (open ocean)	North Atlantic Ocean	6.0																								0	1159105155

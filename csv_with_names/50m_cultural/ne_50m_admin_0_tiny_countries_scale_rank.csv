@@ -1,0 +1,77 @@
+scalerank,featurecla,sr_sov_a3,sr_adm0_a3,sr_gu_a3,sr_su_a3,sr_subunit,sr_label_i,sr_label_o
+6.00000000000,Admin-0 Tiny Countries,GB1,VGB,VGB,VGB,British Virgin Islands,4,4
+2.00000000000,Admin-0 Tiny Countries,GB1,TCA,TCA,TCA,Turks and Caicos Islands,3,6
+4.00000000000,Admin-0 Tiny Countries,NL1,CUW,CUW,CUW,Curaçao,4,6
+4.00000000000,Admin-0 Tiny Countries,NL1,ABW,ABW,ABW,Aruba,4,6
+4.00000000000,Admin-0 Tiny Countries,GB1,CYM,CYM,CYM,Cayman Islands,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,NZL,COK,COK,COK,Cook Islands,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,WSM,WSM,WSM,WSM,Samoa,2,4
+3.00000000000,Admin-0 Tiny Countries Pacific,USA,ASM,ASM,ASM,American Samoa,3,5
+3.00000000000,Admin-0 Tiny Countries Pacific,NZL,NIU,NIU,NIU,Niue,3,6
+3.00000000000,Admin-0 Tiny Countries Pacific,NZL,TKL,TKL,TKL,Tokelau,4,6
+3.00000000000,Admin-0 Tiny Countries Pacific,FR1,WLF,WLF,WLF,Wallis and Futuna,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,TON,TON,TON,TON,Tonga,3,4
+2.00000000000,Admin-0 Tiny Countries Pacific,FR1,PYF,PYF,PYF,French Polynesia,2,5
+2.00000000000,Admin-0 Tiny Countries Pacific,GB1,PCN,PCN,PCN,Pitcairn Islands,3,6
+6.00000000000,Admin-0 Tiny Countries,ATG,ATG,ATG,ATG,Antigua and Barbuda,4,4
+4.00000000000,Admin-0 Tiny Countries,KNA,KNA,KNA,KNA,Saint Kitts and Nevis,4,4
+6.00000000000,Admin-0 Tiny GeoUnit,FR1,MAF,MAF,MAF,Saint Martin,4,4
+6.00000000000,Admin-0 Tiny Countries,GB1,AIA,AIA,AIA,Anguilla,4,4
+4.00000000000,Admin-0 Tiny GeoUnit,FR1,GLP,GLP,GLP,Guadeloupe,2,5
+6.00000000000,Admin-0 Tiny Countries,DMA,DMA,DMA,DMA,Dominica,4,4
+4.00000000000,Admin-0 Tiny GeoUnit,FR1,MTQ,MTQ,MTQ,Martinique,3,5
+6.00000000000,Admin-0 Tiny Countries,LCA,LCA,LCA,LCA,Saint Lucia,4,4
+6.00000000000,Admin-0 Tiny Countries,VCT,VCT,VCT,VCT,Saint Vincent and the Grenadines,4,4
+6.00000000000,Admin-0 Tiny Countries,GRD,GRD,GRD,GRD,Grenada,4,4
+2.00000000000,Admin-0 Tiny Countries,BRB,BRB,BRB,BRB,Barbados,3,5
+2.00000000000,Admin-0 Tiny Countries,TTO,TTO,TTO,TTO,Trinidad and Tobago,2,5
+2.00000000000,Admin-0 Tiny Countries,STP,STP,STP,STP,Sao Tome and Principe,3,4
+2.00000000000,Admin-0 Tiny Countries,GB1,BAC,SHN,BAC,Ascension,3,6
+2.00000000000,Admin-0 Tiny Countries,GB1,SHN,SHN,SHN,Saint Helena,2,6
+2.00000000000,Admin-0 Tiny Countries,MLT,MLT,MLT,MLT,Malta,3,5
+2.00000000000,Admin-0 Tiny Countries,BHR,BHR,BHR,BHR,Bahrain,2,2
+2.00000000000,Admin-0 Tiny Countries,MDV,MDV,MDV,MDV,Maldives,2,4
+2.00000000000,Admin-0 Tiny Countries,GB1,IOT,IOT,IOT,British Indian Ocean Territory,2,6
+2.00000000000,Admin-0 Tiny Countries,SGP,SGP,SGP,SGP,Singapore,3,3
+2.00000000000,Admin-0 Tiny Countries,BRN,BRN,BRN,BRN,Brunei,2,2
+2.00000000000,Admin-0 Tiny Countries Pacific,PLW,PLW,PLW,PLW,Palau,2,6
+2.00000000000,Admin-0 Tiny Countries Pacific,USA,MNP,MNP,MNP,Northern Mariana Islands,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,USA,GUM,GUM,GUM,Guam,2,6
+2.00000000000,Admin-0 Tiny Countries Pacific,FSM,FSM,FSM,FSM,Federated States of Micronesia,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,MHL,MHL,MHL,MHL,Marshall Islands,2,6
+2.00000000000,Admin-0 Tiny Countries Pacific,KIR,KIR,KIR,KIR,Kiribati,2,6
+2.00000000000,Admin-0 Tiny Countries Pacific,NRU,NRU,NRU,NRU,Nauru,3,6
+2.00000000000,Admin-0 Tiny Countries Pacific,TUV,TUV,TUV,TUV,Tuvalu,5,6
+1.00000000000,Admin-0 Tiny Countries Pacific,VUT,VUT,VUT,VUT,Vanuatu,2,4
+6.00000000000,Admin-0 Tiny Countries,LBN,LBN,LBN,LBN,Lebanon,4,5
+6.00000000000,Admin-0 Tiny countries,ISR,PSX,WEB,WEB,West Bank,6,6
+2.00000000000,Admin-0 Tiny Countries,MUS,MUS,MUS,MUS,Mauritius,2,4
+1.00000000000,Admin-0 Tiny Countries,FR1,ATF,ATF,ATF,French Southern and Antarctic Lands,2,6
+2.00000000000,Admin-0 Tiny Countries,COM,COM,COM,COM,Comoros,2,6
+3.00000000000,Admin-0 Tiny Countries,SYC,SYC,SYC,SYC,Seychelles,2,6
+2.00000000000,Admin-0 Tiny Countries,DN1,FRO,FRO,FRO,Faroe Islands,3,6
+3.00000000000,Admin-0 Tiny Countries,FI1,ALD,ALD,ALD,Aland,5,6
+2.00000000000,Admin-0 Tiny GeoUnit,NOR,NJM,NJM,NJM,Jan Mayen,2,6
+2.00000000000,Admin-0 Tiny Countries,FR1,SPM,SPM,SPM,Saint Pierre and Miquelon,3,6
+2.00000000000,Admin-0 Tiny Countries,GB1,BMU,BMU,BMU,Bermuda,2,4
+2.00000000000,Admin-0 Tiny GeoUnit,PRT,PAZ,PAZ,PAZ,Azores,2,6
+2.00000000000,Admin-0 Tiny GeoSubunit,ESP,ESC,ESP,ESC,Canary Islands,2,6
+2.00000000000,Admin-0 Tiny GeoUnit,PRT,PMD,PMD,PMD,Madeira,3,6
+5.00000000000,Admin-0 Tiny Countries,LUX,LUX,LUX,LUX,Luxembourg,5,6
+4.00000000000,Admin-0 Tiny Countries,GB1,GGY,GGY,GGY,Guernsey,5,6
+4.00000000000,Admin-0 Tiny Countries,GB1,GIB,GIB,GIB,Gibraltar,5,6
+3.00000000000,Admin-0 Tiny Countries,GB1,JEY,JEY,JEY,Jersey,6,6
+4.00000000000,Admin-0 Tiny Countries,GB1,IMN,IMN,IMN,Isle of Man,5,5
+5.00000000000,Admin-0 Tiny Countries,LIE,LIE,LIE,LIE,Liechtenstein,6,6
+5.00000000000,Admin-0 Tiny Countries,SMR,SMR,SMR,SMR,San Marino,5,5
+4.00000000000,Admin-0 Tiny Countries,VAT,VAT,VAT,VAT,Vatican,5,6
+4.00000000000,Admin-0 Tiny Countries,MCO,MCO,MCO,MCO,Monaco,5,6
+4.00000000000,Admin-0 Tiny Countries,AND,AND,AND,AND,Andorra,5,6
+6.00000000000,Admin-0 Tiny Countries,USA,VIR,VIR,VIR,United States Virgin Islands,3,4
+6.00000000000,Admin-0 Tiny Countries,ISR,PSX,GAZ,GAZ,Gaza,6,6
+6.00000000000,Admin-0 Tiny GeoUnit,FR1,BLM,BLM,BLM,Saint Barthelemy,4,4
+6.00000000000,Admin-0 Tiny Countries,NL1,SXM,SXM,SXM,Sint Maarten,4,4
+2.00000000000,Admin-0 Tiny Countries,GB1,SGS,SGS,SGS,South Georgia and the Islands,3,6
+5.00000000000,Admin-0 Tiny GeoUnit,NL1,NLD,NLY,NLY,Caribbean Netherlands,5,6
+3.00000000000,Admin-0 map unit,CH1,HKG,HKG,HKG,Hong Kong S.A.R.,3,6
+5.00000000000,Admin-0 map unit,CH1,MAC,MAC,MAC,Macao S.A.R,5,6

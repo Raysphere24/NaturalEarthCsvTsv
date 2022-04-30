@@ -1,0 +1,1336 @@
+id	wso_id	objectid	featurecla	scalerank	rivernum	dissolve	name	min_zoom	strokeweig	name_alt	min_label	label	wikidataid	name_ar	name_bn	name_de	name_en	name_es	name_fr	name_el	name_hi	name_hu	name_id	name_it	name_ja	name_ko	name_nl	name_pl	name_pt	name_ru	name_sv	name_tr	name_vi	name_zh	wdid_score	ne_id
+N	N	N	C	N	N	C	C	N	N	C	N	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	N	N
+0	0	0	River	0	409056	409056River		7.0	0.20		8.0																								0	1159107643
+1	1456942	1	River	10	401001	401001River	Oka	6.0	0.20	Volga	7.0	Oka	Q172089	نهر أوكا	ওকা নদী	Oka	Oka	Río Oká	Oka	Ποταμός Οκά		Oka		Oka	オカ川	오카 강	Oka	Oka	Rio Oka	Ока	Oka	Oka Nehri	Sông Oka	奧卡河	5	1159107657
+1	1456942	1	River	10	401001	401001River	Oka	6.0	0.20	Volga	7.0	Oka	Q172089	نهر أوكا	ওকা নদী	Oka	Oka	Río Oká	Oka	Ποταμός Οκά		Oka		Oka	オカ川	오카 강	Oka	Oka	Rio Oka	Ока	Oka	Oka Nehri	Sông Oka	奧卡河	5	1159107671
+2	1456942	2	River	10	401002	401002River	Oka	6.0	0.20		7.0	Oka	Q172089	نهر أوكا	ওকা নদী	Oka	Oka	Río Oká	Oka	Ποταμός Οκά		Oka		Oka	オカ川	오카 강	Oka	Oka	Rio Oka	Ока	Oka	Oka Nehri	Sông Oka	奧卡河	5	1159107685
+4	1456942	4	River	11	401004	401004River	Oka	6.7	0.20		7.7	Oka	Q172089	نهر أوكا	ওকা নদী	Oka	Oka	Río Oká	Oka	Ποταμός Οκά		Oka		Oka	オカ川	오카 강	Oka	Oka	Rio Oka	Ока	Oka	Oka Nehri	Sông Oka	奧卡河	5	1159107697
+915	566445	15	River	12	401015	401015River	Svratka	7.0	0.20	Svitava	8.0	Svratka	Q45254			Schwarza	Svratka		Svratka			Svratka		Svratka			Svratka	Svratka		Свратка	Svratka			斯夫拉特卡河	3	1159107711
+3691	2294484	26	River	10	401026	401026River		6.0	0.20		7.0																								0	1159107725
+1687	1456948	34	River	10	401034	401034River	Sukhona	6.0	0.20	Northern Dvina	7.0	Sukhona	Q82812			Suchona	Sukhona	Río Sújona	Soukhona			Szuhona		Suchona	スホナ川		Soechona	Suchona		Сухона				蘇霍納河	5	1159107737
+1661	748037	50	River	11	401050	401050River		6.7	0.20		7.7																								0	1159107751
+5661	1205569	60	River	10	401060	401060River		6.0	0.20		7.0																								0	1159107763
+4657	1205570	71	River	10	401071	401071River	Tundzha	6.0	0.20		7.0	Tundzha	Q731777			Tundscha	Tundzha	Río Tundzha	Toundja			Tundzsa		Tundža	トゥンジャ	툰자 강	Toendzja	Tundża		Тунджа	Tundzja	Tunca Nehri		登萨河	4	1159107769
+6657	50	74	River	11	401074	401074River		6.7	0.20		7.7																								0	1159107775
+2631	6	82	River	11	401082	401082River	Eger	6.7	0.20	Ohre	7.7	Eger	Q155045			Eger	Ohře	Ohře	Ohře					Ohře	エーガー川		Eger	Ochrza	Rio Ohře	Огрже	Eger			奥赫热河	5	1159107785
+3614	2294484	98	River	11	401098	401098River		6.7	0.20		7.7																								0	1159107793
+2196	748037	111	River	10	401111	401111River	Snov	6.0	0.20		7.0	Snov	Q1540215			Snow	Snov	Río Snov	Snov					Snov	スノウ川		Snov	Snow		Снов				斯諾夫河	5	1159107797
+6183	1457777	123	River	11	401123	401123River		6.7	0.20		7.7																								0	1159107805
+5179	1460380	136	River	11	401136	401136River		6.7	0.20		7.7																								0	1159107811
+1153	1456942	148	River	11	401148	401148River		6.7	0.20		7.7																								0	1159107817
+1149	566445	159	River	12	401159	401159River		7.0	0.20		8.0																								0	1159107823
+4140	1348536	163	River	11	401163	401163River	Karasu	6.7	0.20		7.7																								0	1159107833
+1136	1456942	171	River	12	401171	401171River		7.0	0.20		8.0																								0	1159107839
+3136	1456990	175	River	10	401175	401175River	Ilovlya	6.0	0.20		7.0	Ilovlya	Q2557120			Ilowlja	Ilovlya	Río Ilovlia						Ilovlja	イローヴリャ川		Ilovlya			Иловля				伊洛夫利亞河	5	1159107845
+3123	2294484	184	River	12	401184	401184River		7.0	0.20		8.0																								0	1159107851
+621	1456942	225	River	11	401225	401225River		6.7	0.20		7.7																								0	1159107865
+4791	1034724	230	River	12	401230	401230River	Rena	7.0	0.20		8.0	Rena	Q1364212			Renaelva	Renaelva		Renaelva								Renaelva								5	1159107877
+625	566445	233	River	10	401233	401233River	Waldnaab	6.0	0.20	Naab	7.0	Waldnaab	Q447783			Waldnaab	Waldnaab		Waldnaab								Waldnaab			Вальднаб					3	1159107893
+629	1456942	242	River	11	401242	401242River		6.7	0.20		7.7																								0	1159107909
+2774	1413804	247	River	11	401247	401247River		6.7	0.20		7.7																								0	1159107919
+6774	831462	254	River	11	401254	401254River	Ähtävänjoki	6.7	0.20		7.7	Ähtävänjoki	Q254701			Ähtävänjoki	Ähtävänjoki														Esse å			艾赫泰韋河	5	1159107941
+326	1456942	266	River	11	401266	401266River		6.7	0.20		7.7																								0	1159107949
+327	1456942	268	River	12	401268	401268River		7.0	0.20		8.0																								0	1159107961
+328	2294484	271	River	11	401271	401271River		6.7	0.20		7.7																								0	1159107973
+4731	4	288	River	11	401288	401288River	Šventoji	6.7	0.20		7.7	Šventoji	Q392760			Šventoji	Šventoji	Río Šventoji	Šventoji						シュヴェントイ川		Šventoji	Święta		Швянтойи				什文托伊河	5	1159107989
+5731	1457789	289	River	11	401289	401289River		6.7	0.20		7.7																								0	1159108007
+2714	566445	299	River	12	401299	401299River	Levi Iskar	7.0	0.20	Iskar	8.0	Levi Iskar	Q217805	نهر اسكر		Iskar	Iskar	Río Iskar	Iskar			Iszker		Iskăr	イスクル川	이스커르 강	Iskar	Iskyr	Rio Iskar	Искыр	Iskăr	İskar Nehri		伊斯克爾河	5	1159108019
+1296	1413799	323	River	10	401323	401323River	Sakmara	6.0	0.20		7.0	Sakmara	Q68939			Sakmara	Sakmara	Sakmara	Sakmara			Szakmara		Sakmara	サクマラ川		Sakmara			Сакмара			Sông Sakmara	薩克馬拉河	5	1159108033
+1279	1456942	339	River	11	401339	401339River		6.7	0.20		7.7																								0	1159108043
+2270	2294484	340	Intermittent River	12	401340	401340Intermittent River		7.0	0.20		8.0																								0	1159108055
+5279	4	349	River	12	401349	401349River		7.0	0.20		8.0																								0	1159108069
+6236	831231	392	River	12	401392	401392River		7.0	0.20		8.0																								0	1159108085
+7223	442368	402	River	10	401402	401402River	Narcea	6.0	0.20		7.0	Narcea	Q14520			Narcea	Narcea	Narcea	Narcea					Narcea	ナルセア川		Narcea			Нарсеа	Río Narcea			納爾塞阿河	5	1159108099
+936	1456942	433	River	11	401433	401433River		6.7	0.20		7.7																								0	1159108113
+634	566445	445	River	11	401445	401445River	Salzach	6.7	0.20		7.7	Salzach	Q152661	سالزاك		Salzach	Salzach	Salzach	Salzach	Ζάλτσαχ		Salzach		Salzach	ザルツァハ川	잘차흐 강	Salzach	Salzach	Rio Salzach	Зальцах	Salzach	Salzach	Salzach	薩爾察赫河	4	1159108127
+6861	291525	478	River	10	401478	401478River	Berkel	6.0	0.20		7.0	Berkel	Q707763			Berkel	Berkel		Berkel						ベルケル川		Berkel	Berkel		Беркель	Berkel			貝克爾河	4	1159108135
+337	1456942	482	River	11	401482	401482River		6.7	0.20		7.7																								0	1159108149
+2831	1348536	498	River	10	401498	401498River	Hrazdan	6.0	0.20		7.0	Hrazdan	Q30548			Hrasdan	Hrazdan	Río Hrazdan	Hrazdan	Ποταμός Ραζντάν		Hrazdan		fiume Hrazdan	フラズダン川		Hrazdan	Hrazdan		Раздан	Hrazdan	Hrazdan Nehri		賀拉茲丹河	5	1159108165
+3831	566445	500	River	10	401500	401500River	Ialomița	6.0	0.20		7.0	Ialomița	Q726693			Ialomița	Ialomița	Río Ialomița	Ialomița	Ιαλομίτσα		Ialomița		Ialomița			Ialomița	Jałomica	Rio Ialomiţa	Яломица	Ialomiţa	Ialomița Nehri		雅洛米察河	5	1159108181
+22	1456942	528	River	11	401528	401528River	Volga	6.7	0.20		7.7	Volga	Q626	فولغا	ভোলগা নদী	Wolga	Volga	Volga	Volga	Βόλγας	वोल्गा नदी	Volga	Sungai Volga	Volga	ヴォルガ川	볼가 강	Wolga	Wołga	Rio Volga	Волга	Volga	Volga Nehri	Sông Volga	伏尔加河	4	1159108195
+26	1456942	532	River	12	401532	401532River		7.0	0.20		8.0																								0	1159108207
+1366	1456942	565	River	10	401565	401565River	Samara	6.0	0.20		7.0	Samara	Q649527			Samara	Samara	Río Samara	Samara			Szamara		Samara	サマーラ川	사마라 강	Samara	Samara	Rio Samara	Самара	Samarafloden		Sông Samara	薩馬拉河	5	1159108223
+6336	1205765	605	River	11	401605	401605River		6.7	0.20		7.7																								0	1159108241
+1319	2294484	615	Intermittent River	11	401615	401615Intermittent River		6.7	0.20		7.7																								0	1159108255
+4319	1034727	623	River	11	401623	401623River	Könkämäeno	6.7	0.20	Munio, Torne	7.7	Könkämäeno	Q1633982			Könkämäeno	Könkämäeno		Könkämäeno								Könkämärivier				Könkämäälven				5	1159108269
+2306	748037	631	River	10	401631	401631River		6.0	0.20		7.0																								0	1159108283
+943	1456942	642	River	11	401642	401642River		6.7	0.20		7.7																								0	1159108293
+648	1456942	666	River	12	401666	401666River		7.0	0.20		8.0																								0	1159108307
+4987	2294484	669	River	12	401669	401669River		7.0	0.20		8.0																								0	1159108323
+6987	1349122	671	River	10	401671	401671River		6.0	0.20		7.0																								0	1159108331
+3961	442352	685	River	10	401685	401685River	Esla	6.0	0.20		7.0	Esla	Q14764			Esla	Esla	Esla	Esla					Esla	エルサ川		Esla		Rio Esla	Эсла	Eslafloden			埃斯拉河	5	1159108345
+345	1456942	690	River	11	401690	401690River		6.7	0.20		7.7																								0	1159108357
+3957	2	698	River	11	401698	401698River	Wkra	6.7	0.20		7.7	Wkra	Q771440			Wkra	Wkra	Río Wkra	Wkra			Wkra		Wkra	ウクラ川		Wkra	Wkra		Вкра				弗克拉河	4	1159108373
+2931	831202	711	River	11	401711	401711River		6.7	0.20		7.7																								0	1159108385
+6931	83773	716	River	10	401716	401716River	Annalee	6.0	0.20	Erne	7.0	Annalee	Q11958206				Annalee																		5	1159108397
+5914	291194	729	River	10	401729	401729River	Adour	6.0	0.20		7.0	Adour	Q207366		আদুর নদী	Adour	Adour	Adur	Adour	Αντούρ		Adour	Adour	Adour	アドゥール川		Adour	Adour	Rio Adour	Адур	Adour	Adour		阿杜尔河	4	1159108419
+4901	1457789	735	River	11	401735	401735River		6.7	0.20		7.7																								0	1159108431
+3496	291115	751	River	11	401751	401751River	Aube	6.7	0.20	Seine	7.7	Aube	Q548466			Aube	Aube	Aube	Aube	Ωμπ		Aube	Sungai Aube	Aube	オーブ川		Aube	Aube	Rio Aube	Об	Aube	Aube Nehri		奧布河	4	1159108437
+5479	1457138	775	River	12	401775	401775River		7.0	0.20		8.0																								0	1159108457
+2449	2294484	799	River	11	401799	401799River		6.7	0.20		7.7																								0	1159108473
+3449	1457725	802	River	11	401802	401802River		6.7	0.20		7.7																								0	1159108491
+1436	1456990	810	River	10	401810	401810River	Krasivaya Mecha	6.0	0.20	Don	7.0	Krasivaya Mecha	Q2542105			Krassiwaja Metscha	Krasivaya Mecha	Río Krasívaya Mecha						Krasivaja Meča			Krasivaya Mecha			Красивая Меча				克拉西瓦亞梅恰河	5	1159108507
+4423	1034724	824	River	11	401824	401824River	Otta	6.7	0.20		7.7	Otta	Q1808066			Otta	Otta		Otta								Otta		Rio Otta	Отта	Otta				4	1159108525
+2419	1456942	833	River	10	401833	401833River		6.0	0.20		7.0																								0	1159108535
+6419	83751	841	River	10	401841	401841River	Great Ouse	6.0	0.20		7.0	Great Ouse	Q19716			Great Ouse	Great Ouse	Gran Ouse	Great Ouse					Great Ouse	グレートウーズ川	그레이트우즈 강	Great Ouse	Great Ouse		Грейт-Уз	Great Ouse			大烏茲河	5	1159108553
+4406	831212	848	River	12	401848	401848River		7.0	0.20		8.0																								0	1159108567
+956	2294484	859	River	10	401859	401859River		6.0	0.20		7.0																								0	1159108577
+351	1456942	874	River	12	401874	401874River		7.0	0.20		8.0																								0	1159108589
+352	1456942	875	River	10	401875	401875River	Klyazma	6.0	0.20		7.0	Klyazma	Q12556970	كليازما		Kljasma	Klyazma	Río Kliazma	Kliazma			Kljazma		Kljaz'ma	クリャージマ川	클랴지마 강	Kljazma	Klaźma	Rio Kliazma	Клязьма	Kljazma			克利亞濟馬河	5	1159108601
+354	1456942	877	River	11	401877	401877River		6.7	0.20		7.7																								0	1159108615
+5583	2294495	904	River	11	401904	401904River		6.7	0.20		7.7																								0	1159108629
+1570	1456942	906	River	10	401906	401906River		6.0	0.20		7.0																								0	1159108643
+7583	765953	909	River	10	401909	401909River		6.0	0.20		7.0																								0	1159108655
+4579	748037	915	River	10	401915	401915River		6.0	0.20		7.0																								0	1159108669
+5579	291364	917	River	10	401917	401917River	Charente	6.0	0.20		7.0	Charente	Q123362	شارنت	শারন্ত্‌ নদী	Charente	Charente	Charente	Charente	Σαράντ				Charente	シャラント川	샤랑트강	Charente	Charente	Rio Charente	Шаранта	Charente			夏朗德河	4	1159108683
+1566	1413799	920	River	11	401920	401920River		6.7	0.20		7.7																								0	1159108697
+4540	831212	940	River	12	401940	401940River		7.0	0.20		8.0																								0	1159108709
+4536	1034736	954	River	10	401954	401954River	Vindel	6.0	0.20	Umea	7.0	Vindel	Q1272368			Vindelälven	Vindel	Río Vindel	Vindelälven			Vindelälven			ビンデル川		Vindelälven		Vindelälven		Vindelälven			溫德爾河	5	1159108721
+5536	831242	955	River	10	401955	401955River		6.0	0.20		7.0																								0	1159108735
+2523	1348536	958	River	10	401958	401958River	Akhurian	6.0	0.20		7.0	Akhurian	Q1996981			Achurjan	Akhurian	Río Akhurian	Akhourian	Ποταμός Αχουριάν				Fiume Akhurian	アフリアン川		Akhurian	Achurian		Ахурян	Achurjan	Arpaçay		阿胡良河	5	1159108747
+3092	831202	993	River	10	401993	401993River		6.0	0.20		7.0																								0	1159108755
+5088	1456948	1003	River	11	402003	402003River		6.7	0.20		7.7																								0	1159108769
+2058	2294484	1024	River	11	402024	402024River		6.7	0.20		7.7																								0	1159108789
+6058	1413909	1028	River	11	402028	402028River		6.7	0.20		7.7																								0	1159108801
+1045	1456942	1029	River	11	402029	402029River		6.7	0.20		7.7																								0	1159108817
+7032	442582	1046	River	10	402046	402046River	Mijares	6.0	0.20	Millars	7.0	Mijares	Q20142			Mijares	Mijares	Mijares	Mijares					Mijares	ミハレス川		Mijares							米哈雷斯河	5	1159108829
+5028	2	1051	River	10	402051	402051River	Drwęca	6.0	0.20		7.0	Drwęca	Q1261531			Drwęca	Drwęca		Drwęca			Drwęca		Drwęca			Drwęca	Drwęca	Rio Drwęca	Дрвенца				德爾文察河	5	1159108843
+7028	83770	1054	River	10	402054	402054River	Tweed	6.0	0.20		7.0	Tweed	Q503262			Tweed	Tweed	Río Tweed	Tweed			Tweed		Tweed	ツイード川		Tweed	Tweed	Rio Tweed	Твид	Tweed			特威德河	5	1159108853
+960	566445	1071	River	10	402071	402071River	Drau	6.0	0.20		7.0	Drau	Q171009	درافا		Drau	Drava	Drava	Drave	Ντράβα		Dráva		Drava	ドラーヴァ川	드라바 강	Drau	Drawa	Rio Drava	Драва	Drava	Drava		德拉瓦河	5	1159108867
+961	566445	1072	River	10	402072	402072River	Raab	6.0	0.20		7.0	Raab	Q182138			Raab	Rába	Río Raba	Raab			Rába		Rába			Rába	Raba		Раба	Rába	Raab Nehri		拉布河	5	1159108877
+965	2294484	1076	Intermittent River	10	402076	402076Intermittent River		6.0	0.20		7.0																								0	1159108895
+364	1456942	1095	River	12	402095	402095River		7.0	0.20		8.0																								0	1159108907
+368	1456942	1099	River	11	402099	402099River		6.7	0.20		7.7																								0	1159108919
+51	1456942	1102	River	12	402102	402102River	Belaya	7.0	0.20		8.0	Belaya	Q192157	نهر بيلايا		Belaja	Belaya	Río Bélaya	Belaïa	Ποταμός Μπελάγια		Belaja		Belaja	ベラヤ川	벨라야 강	Belaja	Biała	Rio Belaya	Белая	Belaja	Ağizel Nehri	Sông Belaya	別拉亞河	5	1159108935
+57	1456942	1108	River	11	402108	402108River	Vazuza	6.7	0.20		7.7	Vazuza	Q778886			Wasusa	Vazuza	Río Vazuza	Vazouza					Vazuza	ヴァズーザ川		Vazoeza	Wazuza		Вазуза			Sông Vazuza	瓦祖扎河	5	1159108949
+2679	1456942	1129	River	11	402129	402129River		6.7	0.20		7.7																								0	1159108961
+4679	748077	1133	River	10	402133	402133River	Synyukha	6.0	0.20		7.0	Synyukha	Q1817349			Synjucha									スィニューハ川			Siniucha		Синюха				錫紐哈河	5	1159108973
+6679	748202	1137	River	10	402137	402137River		6.0	0.20		7.0																								0	1159108985
+5653	442364	1150	River	11	402150	402150River	Zêzere	6.7	0.20		7.7	Zêzere	Q15671			Rio Zêzere	Zêzere	Zêzere	Zêzere			Zêzere		Zêzere	ゼゼレ川		Zêzere	Zêzere	Rio Zêzere	Зезере	Zêzere				5	1159109003
+4623	1034727	1177	River	11	402177	402177River	Lainio	6.7	0.20		7.7	Lainio	Q2271889				Lainio										Lainiorivier				Lainioälven			莱尼奥河	5	1159109015
+6623	748218	1180	River	10	402180	402180River		6.0	0.20		7.0																								0	1159109031
+4192	1413826	1205	River	11	402205	402205River		6.7	0.20		7.7																								0	1159109033
+2162	2294484	1226	Intermittent River	12	402226	402226Intermittent River		7.0	0.20		8.0																								0	1159109045
+3158	748037	1236	River	10	402236	402236River		6.0	0.20		7.0																								0	1159109057
+4158	4	1237	River	11	402237	402237River	Merkys	6.7	0.20		7.7	Merkys	Q1419589			Merkys	Merkys	Río Merkys	Merkys								Merkys	Mereczanka		Мяркис				梅爾基斯河	5	1159109067
+6158	1457789	1240	River	12	402240	402240River		7.0	0.20		8.0																								0	1159109079
+4115	831212	1268	River	10	402268	402268River		6.0	0.20		7.0																								0	1159109089
+5115	831252	1269	River	12	402269	402269River	Hossanj	7.0	0.20	Emaj, Oulujoki	8.0																								0	1159109099
+6115	831242	1270	River	11	402270	402270River		6.7	0.20		7.7																								0	1159109105
+379	1456942	1310	River	12	402310	402310River		7.0	0.20		8.0																								0	1159109117
+62	1456942	1313	River	12	402313	402313River		7.0	0.20		8.0																								0	1159109129
+1770	566445	1333	River	10	402333	402333River	Timiş	6.0	0.20		7.0	Timiş	Q214894	نهر تيميس		Temesch	Timiş	Tamiš / Timiș	Timiș	Τίμις		Temes		Timiș	ティミシュ川	티미슈 강	Timiș	Temesz	Rio Timiş	Тимиш		Timiş Nehri		蒂米什河	5	1159109139
+1766	1456942	1348	River	11	402348	402348River		6.7	0.20		7.7																								0	1159109151
+6753	1415988	1361	River	11	402361	402361River		6.7	0.20		7.7																								0	1159109161
+2749	1457128	1366	River	11	402366	402366River		6.7	0.20		7.7																								0	1159109173
+4740	1	1368	River	11	402368	402368River	Gwda	6.7	0.20		7.7	Gwda	Q1429579			Gwda	Gwda		Gwda					Gwda			Gwda	Gwda		Гвда	Gwda				4	1159109185
+3749	1457725	1369	River	12	402369	402369River		7.0	0.20		8.0																								0	1159109195
+1736	1456948	1376	River	11	402376	402376River		6.7	0.20		7.7																								0	1159109207
+2736	1205569	1378	River	12	402378	402378River		7.0	0.20		8.0																								0	1159109211
+6723	748225	1390	River	11	402390	402390River		6.7	0.20		7.7																								0	1159109229
+5275	831238	1431	River	11	402431	402431River		6.7	0.20		7.7																								0	1159109233
+6245	2294484	1457	River	12	402457	402457River		7.0	0.20		8.0																								0	1159109249
+7245	129795	1459	River	10	402459	402459River	Simeto	6.0	0.20		7.0	Simeto	Q1235338	نهر سيميتو		Simeto	Simeto	Simeto	Simeto					Simeto			Simeto	Simeto	Simeto	Симето				錫梅托河	4	1159109263
+5232	1034723	1463	River	11	402463	402463River	Faxälven	6.7	0.20		7.7	Faxälven	Q458829			Faxälven	Faxälven										Faxälven				Faxälven				5	1159109273
+5228	1205572	1471	River	10	402471	402471River	Treska	6.0	0.20	Vardar	7.0	Treska	Q26475			Treska	Treska	Río Treska	Treska			Treska		Treska			Treska	Treska		Треска	Treska	Treska			3	1159109281
+983	2294484	1493	River	12	402493	402493River		7.0	0.20		8.0																								0	1159109293
+989	566445	1499	River	11	402499	402499River	Mosoni-Duna	6.7	0.20		7.7	Mosoni-Duna	Q763066			Moson-Donau						Mosoni-Duna					Moson-Donau	Dunaj Moszoński			Mosoni-Duna				5	1159109303
+76	1456942	1526	River	12	402526	402526River		7.0	0.20		8.0																								0	1159109315
+5883	1205611	1541	River	12	402541	402541River		7.0	0.20		8.0																								0	1159109327
+2866	2294484	1559	River	11	402559	402559River		6.7	0.20		7.7																								0	1159109345
+1836	1456948	1585	River	11	402585	402585River		6.7	0.20		7.7																								0	1159109355
+2823	1413804	1593	River	11	402593	402593River		6.7	0.20		7.7																								0	1159109367
+1388	1413799	1627	River	10	402627	402627River	Ilek	6.0	0.20		7.0	Ilek	Q598256	نهر إلك		Ilek	Ilek	Río Ilek	Ilek			Ilek		Ilek			Ilek	Ilek		Илек				伊列克河	5	1159109373
+2388	2294484	1630	Intermittent River	12	402630	402630Intermittent River		7.0	0.20		8.0																								0	1159109389
+3388	1413825	1631	River	10	402631	402631River	Zhem	6.0	0.20		7.0																								0	1159109399
+3375	291110	1639	River	10	402639	402639River	Sarre	6.0	0.20		7.0	Sarre	Q153972	نهر السار		Saar	Saar	Sarre	Sarre			Saar		Saar	ザール川	자르 강	Saar	Saara	Rio Sarre	Саар	Saar		Sông Saar	萨尔河	5	1159109413
+4375	566445	1640	River	12	402640	402640River		7.0	0.20		8.0																								0	1159109427
+1362	1456942	1643	River	10	402643	402643River		6.0	0.20		7.0																								0	1159109435
+1332	748037	1666	River	10	402666	402666River	Haryn	6.0	0.20	Prypyat	7.0	Haryn	Q1134536			Horyn	Horyn	Río Horyn	Horyn					Horyn'	ホルィニ川		Horyn	Horyń		Горынь	Horyn			戈倫河	5	1159109453
+6332	1205604	1674	River	10	402674	402674River	Aoos	6.0	0.20		7.0	Aoos	Q81503			Vjosa	Vjosë	Río Viosa	Vjosa	Αώος		Vjosa		Aoos		비오서 강	Vjosë	Wjosa	Rio Vjosë	Вьоса	Vjosa			维约萨河	5	1159109465
+1328	2294484	1676	River	10	402676	402676River		6.0	0.20		7.0																								0	1159109481
+5315	831270	1689	River	10	402689	402689River	Kokemaen	6.0	0.20		7.0																								0	1159109495
+992	2294484	1703	Intermittent River	11	402703	402703Intermittent River		6.7	0.20		7.7																								0	1159109517
+997	1413799	1708	River	12	402708	402708River		7.0	0.20		8.0																								0	1159109531
+691	1456942	1712	River	11	402712	402712River		6.7	0.20		7.7																								0	1159109549
+693	1456942	1714	River	12	402714	402714River		7.0	0.20		8.0																								0	1159109563
+699	1456942	1720	River	10	402720	402720River		6.0	0.20		7.0																								0	1159109569
+394	1456942	1725	River	10	402725	402725River		6.0	0.20		7.0																								0	1159109583
+84	2294484	1735	River	10	402735	402735River		6.0	0.20		7.0																								0	1159109597
+84	2294484	1735	River	10	402735	402735River		6.0	0.20		7.0																								0	1159109609
+85	1456942	1736	River	10	402736	402736River	Belaya	6.0	0.20		7.0	Belaya	Q815250			Belaja	Belaya	Río Bélaya	Belaïa					Belaja			Belaja			Белая				別拉亞河	5	1159109623
+3996	1456993	1743	River	10	402743	402743River	Vashka	6.0	0.20		7.0	Vashka	Q637310			Waschka	Vashka	Río Vashka	Vachka			Vaska	Sungai Vashka	Vaška			Vasjka	Waszka		Вашка				瓦什卡河	5	1159109625
+1979	2294484	1757	River	11	402757	402757River		6.7	0.20		7.7																								0	1159109639
+4979	1456948	1763	River	11	402763	402763River		6.7	0.20		7.7																								0	1159109655
+4940	1456948	1789	River	10	402789	402789River		6.0	0.20		7.0																								0	1159109677
+3923	2294484	1806	Intermittent River	12	402806	402806Intermittent River		7.0	0.20		8.0																								0	1159109699
+5906	17	1829	River	10	402829	402829River	Łyna	6.0	0.20	Pregolya	7.0	Łyna	Q5620			Alle	Łyna	Alle	Alle					Alle	アーレ川	위나 강	Łyna	Łyna		Лава	Łyna			維納河	5	1159109713
+6488	831330	1845	River	10	402845	402845River		6.0	0.20		7.0																								0	1159109727
+6475	129534	1854	River	10	402854	402854River	Morača	6.0	0.20	Bojana	7.0	Morača	Q157736			Morača	Morača	Río Morača	Morača			Morača		Morača			Morača	Morača	Rio Moraca	Морача	Morača			莫拉查河	5	1159109741
+5462	1205578	1860	River	11	402860	402860River		6.7	0.20		7.7																								0	1159109753
+6445	129528	1878	River	12	402878	402878River	Neretva	7.0	0.20		8.0	Neretva	Q190777	نهر نيريتفا		Neretva	Neretva	Río Neretva	Neretva	Νερέτβα		Neretva		Narenta	ネレトヴァ川	네레트바 강	Neretva	Neretwa	Rio Neretva	Неретва	Neretva	Neretva		内雷特瓦河	4	1159109767
+5432	129496	1884	River	10	402884	402884River	Salto	6.0	0.20	Velino, Nera	7.0	Salto	Q71609			Salto	Salto		Salto					Salto			Salto								4	1159109783
+6432	1205814	1885	River	11	402885	402885River		6.7	0.20		7.7																								0	1159109797
+5428	831228	1892	River	10	402892	402892River	Tana River	6.0	0.20	Tenojoki	7.0	Karasjokka	Q1728986			Karasjohka	Karasjohka	Río Karasjohka	Karasjohka					Karasjohka			Karasjohka				Kárášjohka älv				5	1159109809
+94	1456942	1916	River	11	402916	402916River		6.7	0.20		7.7																								0	1159109823
+1588	748037	1928	River	10	402928	402928River		6.0	0.20		7.0																								0	1159109837
+2575	566445	1937	River	10	402937	402937River	Beli Timok	6.0	0.20	Timok	7.0	Beli Timok	Q753919			Timok	Timok	Río Timok	Timok	Τίμοκ		Timok		Timok	ティモック川		Timok	Timok	Rio Timok	Тимок				蒂莫克河	5	1159109851
+4575	1460380	1939	River	11	402939	402939River		6.7	0.20		7.7																								0	1159109867
+1558	2294484	1950	Intermittent River	11	402950	402950Intermittent River		6.7	0.20		7.7																								0	1159109875
+4558	2	1953	River	10	402953	402953River	Bzura	6.0	0.20		7.0	Bzura	Q656640			Bzura	Bzura	Bzura	Bzoura					Bzura			Bzura	Bzura	Rio Bzura	Бзура				布楚拉河	4	1159109887
+5558	2294493	1954	Intermittent River	10	402954	402954Intermittent River		6.0	0.20		7.0																								0	1159109899
+6558	1034734	1955	River	11	402955	402955River	Namsen	6.7	0.20		7.7	Namsen	Q1518561			Namsen	Namsen	Río Namsen	Namsen					Namsen			Namsen			Намсен	Namsen				4	1159109921
+3545	6	1959	River	12	402959	402959River	Weisse Elster	7.0	0.20		8.0	Weisse Elster	Q44729	إلستر الأبيض		Weiße Elster	Weisse Elster	Río Weiße Elster	Elster Blanche			Fehér Elster		Elster Bianco	白エルスター川		Weiße Elster	Biała Elstera		Вайсе-Эльстер	Weisse Elster		Weiße Elster	魏瑟埃爾斯特河	4	1159109933
+1532	1413799	1962	River	12	402962	402962River		7.0	0.20		8.0																								0	1159109947
+2528	566445	1973	River	10	402973	402973River	Prut	6.0	0.20		7.0	Prut	Q182445	بروت		Pruth	Prut	Río Prut	Prout	Προύθος		Prut	Sungai Prut	Prut	プルト川	프루트 강	Proet	Prut	Rio Prut	Прут	Prut	Prut	Prut	普魯特河	4	1159109957
+4502	1034727	1992	River	11	402992	402992River	Torne	6.7	0.20		7.7	Torne	Q121538			Torne älv	Torne	Río Torne	Torne			Tornionjoki		Torne	トルネ川		Torne älv	Torne	Rio Torne	Турнеэльвен	Torne älv	Torne Nehri		托尔讷河	5	1159109969
+1097	566445	1997	River	11	402997	402997River	Latorytsya	6.7	0.20	Bodrog	7.7	Latorytsya	Q603664			Latorica	Latorica	Río Latorica	Latorica			Latorca		Latorica	ラトリカ川		Latorica	Latorica		Латорица				拉托里察河	5	1159109985
+5071	1413799	2017	River	10	403017	403017River		6.0	0.20		7.0																								0	1159110003
+6067	1034750	2026	River	10	403026	403026River	Mane	6.0	0.20	Tinne, Skien	7.0																								0	1159110013
+3041	1	2038	River	11	403038	403038River	Oder	6.7	0.20		7.7	Oder	Q552	الأودر	ওডার নদী	Oder	Oder	Óder	Oder	Όντερ		Odera	Sungai Oder	Oder	オーデル川	오데르 강	Oder	Odra	Rio Oder	Одра	Oder	Oder Nehri	Oder	奧得河	4	1159110035
+7041	442592	2044	River	11	403044	403044River	Sado	6.7	0.20		7.7	Sado	Q16669			Sado	Sado	Sado	Sado					Sado	サド川	사두 강	Sado	Sado	Rio Sado	Саду	Sado			薩多河	5	1159110049
+1024	2294484	2051	Intermittent River	12	403051	403051Intermittent River		7.0	0.20		8.0																								0	1159110059
+1007	566445	2067	River	11	403067	403067River	Ljubljanica	6.7	0.20	Sava	7.7	Ljubljanica	Q339990			Ljubljanica	Ljubljanica	Ljubljanica	Ljubljanica	Λιουμπλιάνικα		Ljubljanica		Ljubljanica	リュブリャニツァ川		Ljubljanica	Lublanica		Любляница				盧布爾雅尼察河	4	1159110073
+1007	566445	2067	River	11	403067	403067River	Ljubljanica	6.7	0.10		7.7	Ljubljanica	Q339990			Ljubljanica	Ljubljanica	Ljubljanica	Ljubljanica	Λιουμπλιάνικα		Ljubljanica		Ljubljanica	リュブリャニツァ川		Ljubljanica	Lublanica		Любляница				盧布爾雅尼察河	4	1159110079
+2688	831202	2085	River	10	403085	403085River	Msta	6.0	0.20	Volkhov, Ladoga	7.0	Msta	Q1139404			Msta	Msta	Río Msta	Msta					Msta	ムスタ川		Msta	Msta	Rio Msta	Мста				姆斯塔河	5	1159110091
+3675	1413799	2093	River	11	403093	403093River		6.7	0.20		7.7																								0	1159110105
+6662	129541	2103	River	10	403103	403103River	Volturno	6.0	0.20		7.0	Volturno	Q572191	فولتورنو		Volturno	Volturno	Volturno	Volturno			Volturno		Volturno	ヴォルトゥルノ川	볼투르노 강	Volturno	Volturno	Rio Volturno	Вольтурно	Volturno			沃尔图诺河	4	1159110119
+1645	1456990	2111	River	12	403111	403111River		7.0	0.20		8.0																								0	1159110131
+1628	2294484	2126	Intermittent River	11	403126	403126Intermittent River		6.7	0.20		7.7																								0	1159110141
+3628	291110	2128	River	10	403128	403128River	Sûre	6.0	0.20		7.0	Sûre	Q158847			Sauer	Sauer	Sûre	Sûre					Sûre	ザウアー川	자우어 강	Sûre	Sûre	Rio Sûre	Зауэр	Sûre	Sauer Nehri		绍尔河	5	1159110161
+5615	1205597	2137	River	10	403137	403137River	Susurluk	6.0	0.20	Kocacay	7.0																								0	1159110169
+1602	566445	2138	River	10	403138	403138River	Sitnica	6.0	0.20	Ibar, Zapadna Morava, Juzna Morava, Velika Morava	7.0	Sitnica	Q1066857			Sitnica	Sitnica		Sitnica			Sitnica		Sitnica			Sitnica	Sitnica		Ситница	Sitnica				4	1159110181
+4197	1456990	2150	River	11	403150	403150River		6.7	0.20		7.7																								0	1159110195
+4184	2294493	2158	Intermittent River	12	403158	403158Intermittent River		7.0	0.20		8.0																								0	1159110209
+4171	1348535	2166	River	10	403166	403166River	Terek	6.0	0.20		7.0	Terek	Q82776	تيريك		Terek	Terek	Térek	Terek					Terek	テレク川	테레크 강	Terek	Terek	Rio Terek	Терек	Terek	Terek Irmağı		捷列克河	5	1159110221
+4167	831224	2173	River	10	403173	403173River	Drysa	6.0	0.20		7.0	Drysa	Q2622731			Drissa												Dryssa		Дрисса	Drysa			德里薩河	5	1159110235
+3154	831202	2180	River	12	403180	403180River		7.0	0.20		8.0																								0	1159110249
+3137	566445	2196	River	10	403196	403196River	Siret	6.0	0.20		7.0	Siret	Q208302			Sereth	Siret	Río Siret	Siret	Σερέτης		Szeret	Sungai Siret	Siret	シレト川		Siret	Seret	Siret	Сирет	Siret	Siret Nehri		錫雷特河	5	1159110259
+3124	1413799	2205	River	10	403205	403205River		6.0	0.20		7.0																								0	1159110275
+1107	566445	2217	River	10	403217	403217River	Hornád	6.0	0.20		7.0	Hornád	Q846744	هورناد		Hornád	Hornád	Hernád	Hornád			Hernád		Hornád	ヘルナッド川	호르나트 강	Hornád	Hornad		Горнад	Hernád			霍爾納德河	5	1159110289
+2107	1456948	2220	River	11	403220	403220River		6.7	0.20		7.7																								0	1159110301
+6775	831239	2246	River	10	403246	403246River		6.0	0.20		7.0																								0	1159110311
+1762	1456948	2247	River	12	403247	403247River		7.0	0.20		8.0																								0	1159110335
+2745	1456948	2263	River	11	403263	403263River		6.7	0.20		7.7																								0	1159110347
+3745	1457780	2264	River	10	403264	403264River		6.0	0.20		7.0																								0	1159110361
+6745	1457128	2268	River	12	403268	403268River		7.0	0.20		8.0																								0	1159110375
+1728	566445	2274	River	11	403274	403274River	Nišava	6.7	0.20		7.7	Nišava	Q583062			Nišava	Nišava	Río Nišava	Nišava	Νισάβα		Nišava			ニシャヴァ		Nišava	Niszawa	Rio Nišava	Нишава				尼沙瓦	5	1159110379
+3702	831224	2291	River	10	403291	403291River	Ula	6.0	0.20		7.0	Ula	Q2984979			Ula	Ula		Oulla									Uła		Улла	Ula			烏拉河	4	1159110391
+2297	748037	2297	River	12	403297	403297River	Uzh	7.0	0.20		8.0	Uzh	Q1757262			Usch	Uzh	Río Uzh	Ouj									Uż		Уж				烏日河	5	1159110407
+5284	1205572	2307	River	11	403307	403307River	Crna	6.7	0.20		7.7	Crna	Q1140644			Crna Reka	Crna	Crna	Tsrna	Εριγώνας		Crna Reka						Crna Reka		Црна-Река	Crna Reka				4	1159110419
+2254	2294484	2327	Intermittent River	10	403327	403327Intermittent River		6.0	0.20		7.0																								0	1159110431
+6241	1205597	2340	River	11	403340	403340River		6.7	0.20		7.7																								0	1159110453
+1224	1413799	2349	River	12	403349	403349River		7.0	0.20		8.0																								0	1159110471
+4224	831202	2354	River	12	403354	403354River		7.0	0.20		8.0																								0	1159110489
+6224	1457789	2357	River	12	403357	403357River		7.0	0.20		8.0																								0	1159110497
+5892	1034749	2379	River	12	403379	403379River	Arbogaan	7.0	0.20		8.0	Arbogaan	Q630136			Arbogaån	Arboga											Arbogaån			Arbogaån				5	1159110509
+2888	4	2383	River	11	403383	403383River	Usha	6.7	0.20	Nyoman	7.7	Usha	Q661778			Uša	Usha		Oucha								Usha	Usza		Уша				烏沙河	5	1159110521
+2888	4	2383	River	10	403383	403383River	Usha	6.0	0.20	Nyoman	7.0	Usha	Q661778			Uša	Usha		Oucha								Usha	Usza		Уша				烏沙河	5	1159110535
+2888	4	2383	River	10	403383	403383River	Usha	6.0	0.20	Nyoman	7.0	Usha	Q661778			Uša	Usha		Oucha								Usha	Usza		Уша				烏沙河	5	1159110547
+1397	1456942	2445	River	11	403445	403445River	Samara	6.7	0.20		7.7	Samara	Q649527			Samara	Samara	Río Samara	Samara			Szamara		Samara	サマーラ川	사마라 강	Samara	Samara	Rio Samara	Самара	Samarafloden		Sông Samara	薩馬拉河	5	1159110561
+4397	2294495	2448	River	10	403448	403448River		6.0	0.20		7.0																								0	1159110575
+5371	1205572	2465	River	12	403465	403465River	Bregalnica	7.0	0.20		8.0	Bregalnica	Q849296			Bregalnica	Bregalnica	Río Bregalnica	Bregalnitsa			Bregalnica			ブレガニツァ川			Bregałnica		Брегальница	Bregalnica	Bregalnica Nehri			4	1159110589
+5354	291110	2481	River	12	403481	403481River	Lippe	7.0	0.20		8.0	Lippe	Q153945	ليبه		Lippe	Lippe	Río Lippe	Lippe	Λίππε		Lippe	Lippe	Lippe	リッペ川	리페 강	Lippe	Lippe	Rio Lippe	Липпе	Lippe		Lippe	利珀河	4	1159110601
+1341	2294484	2483	Intermittent River	12	403483	403483Intermittent River		7.0	0.20		8.0																								0	1159110615
+2311	748037	2508	River	10	403508	403508River		6.0	0.20		7.0																								0	1159110629
+3307	291112	2519	River	10	403519	403519River	Saône	6.0	0.20		7.0	Saône	Q187834			Saône	Saône	Saona	Saône	Σον		Saône	Sungai Saône	Saona	ソーヌ川	손 강	Saône	Saona	Rio Saône	Сона	Saône	Saône		索恩河	5	1159110643
+4992	129489	2528	River	10	403528	403528River	Adige	6.0	0.20		7.0	Adige	Q13696	أديجي		Etsch	Adige	Adigio	Adige	Αδίγης		Adige	Sungai Adige	Adige	アディジェ川	아디제 강	Adige	Adyga	Rio Ádige	Адидже	Adige	Adige Nehri	Sông Adige	阿迪杰河	4	1159110655
+4988	1034751	2535	River	11	403535	403535River		6.7	0.20		7.7																								0	1159110663
+1958	566445	2552	River	11	403552	403552River		6.7	0.20		7.7																								0	1159110673
+5902	1348671	2592	River	10	403592	403592River	Rioni	6.0	0.20		7.0	Rioni	Q203409	نهر رايوني		Rioni	Rioni	Río Rioni	Rioni	Φάσις		Rioni		Rioni	リオニ川	리오니 강	Rioni	Rioni	Rio Rioni	Риони	Rioni		Rioni	里奥尼河	4	1159110691
+2471	6	2610	River	10	403610	403610River	Uhlava	6.0	0.20	Berounka	7.0	Uhlava	Q45248			Úhlava	Úhlava		Úhlava								Úhlava			Углава	Úhlava			烏赫拉瓦河	5	1159110739
+3471	6	2612	River	12	403612	403612River	Unstrut	7.0	0.20		8.0	Unstrut	Q168390			Unstrut	Unstrut	Río Unstrut	Unstrut			Unstrut	Unstrut	Unstrut	ウンシュトルト川		Unstrut	Unstruta	Unstrut	Унструт	Unstrut		Unstrut	温斯特鲁特河	4	1159110753
+5471	442404	2615	River	12	403615	403615River	Cabriel	7.0	0.20		8.0	Cabriel	Q20054			Cabriel	Cabriel	Cabriel	Cabriel					Cabriel	カブリエル川		Cabriel							卡夫列爾河	4	1159110769
+5441	442353	2637	River	11	403637	403637River	Cinca	6.7	0.20		7.7	Cinca	Q23152	سينكا		Cinca	Cinca	Cinca	Cinca	Σίνκα				Cinca	シンカ川		Cinca	Cinca		Синка	Río Cinca			辛卡河	5	1159110789
+6441	442395	2638	River	10	403638	403638River	Mondego	6.0	0.20		7.0	Mondego	Q15656			Mondego	Mondego	Mondego	Mondego			Mondego		Mondego	モンデゴ川	몬데구 강	Mondego	Mondego	Mondego	Мондегу	Mondego	Mondego Nehri		蒙德古河	5	1159110813
+5424	442355	2655	River	10	403655	403655River	Sil	6.0	0.20	Mino	7.0	Sil	Q14556			Sil	Sil	Sil	Sil					Sil	シル川		Sil	Sil	Rio Sil	Силь	Río Sil			錫爾河	4	1159110867
+6411	1034754	2664	River	10	403664	403664River	Altaelva	6.0	0.20		7.0	Altaelva	Q433744			Altaelv	Altaelva	Río de Alta	Altaelva			Altaelva		Alta	アルタ川		Altaelva			Алтаэльв	Altaälven				4	1159110885
+705	1456942	2680	River	10	403680	403680River		6.0	0.20		7.0																								0	1159110903
+707	1456942	2683	River	11	403683	403683River		6.7	0.20		7.7																								0	1159110919
+401	1456942	2699	River	11	403699	403699River		6.7	0.20		7.7																								0	1159110937
+3567	6	2717	River	11	403717	403717River	Zwickauer Mulde	6.7	0.20	Mulde	7.7	Zwickauer Mulde	Q149393			Zwickauer Mulde	Zwickau Mulde		Zwickauer Mulde								Zwickau Mulde	Zwickauer Mulde		Цвиккауэр-Мульде				茨維考穆爾德河	5	1159110949
+4554	566445	2726	River	11	403726	403726River	Buzău	6.7	0.20		7.7	Buzău	Q833164			Buzău	Buzău	Río Buzău	Buzău			Bodza						Buzău	Rio Buzău					布澤烏河	5	1159110973
+2524	6	2754	River	11	403754	403754River	Sázava	6.7	0.20		7.7	Sázava	Q38771			Sasau	Sázava	Río Sázava	Sázava								Sázava	Sázava		Сазава	Sázava			薩扎瓦河	5	1159110983
+3524	1413799	2756	River	11	403756	403756River		6.7	0.20		7.7																								0	1159110997
+5524	1034740	2759	River	10	403759	403759River	Ljungan	6.0	0.20		7.0	Ljungan	Q949042	نهر ليونغان		Ljungan	Ljungan	Río Ljungan	Ljungan					Ljungan			Ljungan	Ljungan	Ljungan	Юнган	Ljungan			永安河	4	1159111013
+6524	1205597	2760	River	11	403760	403760River		6.7	0.20		7.7																								0	1159111027
+2511	2	2763	River	10	403763	403763River	San	6.0	0.20	Wisla	7.0	San	Q216488			San	San	Río San	San			San		San	サン川		San	San	Rio San	Сан	San			桑河	4	1159111041
+3507	1456990	2773	River	11	403773	403773River	Sal	6.7	0.20		7.7	Sal	Q1576907			Sal	Sal	Río Sal	Sal					Sal			Sal	Sał		Сал				薩爾河	5	1159111057
+1093	2294484	2779	River	11	403779	403779River		6.7	0.20		7.7																								0	1159111077
+4093	291110	2782	River	12	403782	403782River	Ohm	7.0	0.20	Lahn	8.0	Ohm	Q639355			Ohm	Ohm		Ohm						オーム川		Ohm			Ом				歐姆河	3	1159111091
+7093	1457790	2788	River	10	403788	403788River		6.0	0.20		7.0																								0	1159111103
+3080	1413826	2789	River	12	403789	403789River		7.0	0.20		8.0																								0	1159111117
+5089	1034751	2797	River	10	403797	403797River		6.0	0.20		7.0																								0	1159111131
+1050	566445	2816	River	10	403816	403816River		6.0	0.20		7.0																								0	1159111147
+6046	831212	2840	River	11	403840	403840River		6.7	0.20		7.7																								0	1159111163
+3020	831224	2853	River	10	403853	403853River	Kasplya	6.0	0.20		7.0	Kasplya	Q1798377			Kasplja	Kasplya	Río Kasplia	Kasplia						カースプリャ川		Kasplja	Kaspla		Каспля	Kasplja			卡斯普利亞河	5	1159111175
+2003	748037	2875	River	12	403875	403875River	Byesyedz	7.0	0.20		8.0	Byesyedz	Q2415430			Bessed	Besed		Besed									Biesiedź		Беседь				別謝季河	5	1159111189
+3697	291115	2894	River	10	403894	403894River	Aire	6.0	0.20	Aisne, Oise	7.0	Aire	Q408614			Aire	Aire	Aire	Aire			Aire	Aire	Aire			Aire	Aire	Rio Aire	Эра				艾爾河	4	1159111203
+1684	748037	2898	River	10	403898	403898River	Sozh	6.0	0.20		7.0	Sozh	Q784682			Sosch	Sozh	Río Sozh	Soj					Sož	ソジ川	소지 강	Sozh	Soż		Сож	Sozj	Soj Nehri		索日河	5	1159111217
+1684	748037	2898	River	10	403898	403898River	Sozh	6.0	0.20		7.0	Sozh	Q784682			Sosch	Sozh	Río Sozh	Soj					Sož	ソジ川	소지 강	Sozh	Soż		Сож	Sozj	Soj Nehri		索日河	5	1159111229
+1684	748037	2898	River	12	403898	403898River	Sozh	7.0	0.20		8.0	Sozh	Q784682			Sosch	Sozh	Río Sozh	Soj					Sož	ソジ川	소지 강	Sozh	Soż		Сож	Sozj	Soj Nehri		索日河	5	1159111253
+2654	291110	2931	River	10	403931	403931River	Regnitz	6.0	0.20	Main	7.0	Regnitz	Q643525			Regnitz	Regnitz	Río Regnitz	Regnitz			Regnitz	Regnitz	Regnitz	レグニッツ川		Regnitz	Regnitz	Regnitz	Регниц	Regnitz		Sông Regnitz	雷格尼茨河	4	1159111265
+112	1456942	2941	River	11	403941	403941River		6.7	0.20		7.7																								0	1159111283
+114	1456942	2946	River	10	403946	403946River	Mologa	6.0	0.20		7.0	Mologa	Q1133858			Mologa	Mologa	Río Mologa	Mologa					Mologa	モロガ川		Mologa	Mołoga		Молога	Mologa			莫洛加河	5	1159111303
+6641	832524	2949	River	10	403949	403949River	Kyrönjoki	6.0	0.20		7.0	Kyrönjoki	Q1795192			Kyrönjoki	Kyrönjoki		Kyrönjoki								Kyrönjoki	Kyrönjoki		Кюрё	Kyro älv			屈勒河	5	1159111319
+117	1456942	2953	River	11	403953	403953River		6.7	0.20		7.7																								0	1159111329
+118	1456942	2955	River	12	403955	403955River	Mologa	7.0	0.20		8.0	Mologa	Q1133858			Mologa	Mologa	Río Mologa	Mologa					Mologa	モロガ川		Mologa	Mołoga		Молога	Mologa			莫洛加河	5	1159111343
+4624	2294484	2965	Intermittent River	12	403965	403965Intermittent River		7.0	0.20		8.0																								0	1159111355
+7624	1348697	2969	River	12	403969	403969River		7.0	0.20		8.0																								0	1159111369
+3611	831202	2971	River	11	403971	403971River	Shelon`	6.7	0.20		7.7	Shelon`	Q1047568			Schelon	Shelon	Río Shelón	Chelon					Šelon	シェロニ川	셸론 강	Sjelon		Rio Shelon	Шелонь	Sjelon			舍隆河	5	1159111383
+5193	1457138	2989	River	11	403989	403989River		6.7	0.20		7.7																								0	1159111399
+3189	1456948	2999	River	11	403999	403999River		6.7	0.20		7.7																								0	1159111421
+5180	1205603	3000	River	10	404000	404000River	Carsamba	6.0	0.20		7.0																								0	1159111433
+3163	748037	3018	River	12	404018	404018River		7.0	0.20		8.0																								0	1159111439
+4163	1456942	3019	River	10	404019	404019River		6.0	0.20		7.0																								0	1159111445
+6163	1205813	3021	River	11	404021	404021River	Goksu (northern branch)	6.7	0.20		7.7																								0	1159111453
+5150	1456993	3032	River	10	404032	404032River		6.0	0.20		7.0																								0	1159111459
+3133	2294484	3050	Intermittent River	11	404050	404050Intermittent River		6.7	0.20		7.7																								0	1159111463
+6129	1034731	3068	River	11	404068	404068River		6.7	0.20		7.7																								0	1159111473
+1116	2294484	3069	Intermittent River	12	404069	404069Intermittent River		7.0	0.20		8.0																								0	1159111479
+7103	291133	3085	River	10	404085	404085River	Grote Gete	6.0	0.20	Gete, Demer, Dijle, Rupel	7.0	Grote Gete	Q690960			Grote Gete			Grande Gette								Grote Gete								4	1159111487
+722	1456942	3089	River	11	404089	404089River		6.7	0.20		7.7																								0	1159111493
+2771	831224	3114	River	10	404114	404114River		6.0	0.20		7.0																								0	1159111499
+3767	6	3129	River	11	404129	404129River	Schwarze Elster	6.7	0.20		7.7	Schwarze Elster	Q149182	إلستر الأسود		Schwarze Elster	Black Elster	Río Schwarze Elster	Elster Noire						黒エルスター川		Schwarze Elster	Czarna Elstera	Rio Schwarze Elster	Шварце-Эльстер	Schwarze Elster			黑埃爾斯特河	5	1159111507
+127	1456942	3157	River	10	404157	404157River		6.0	0.20		7.0																								0	1159111513
+7289	748223	3210	River	11	404210	404210River		6.7	0.20		7.7																								0	1159111519
+2263	1456948	3219	River	12	404219	404219River		7.0	0.20		8.0																								0	1159111527
+3246	2294495	3245	River	10	404245	404245River		6.0	0.20		7.0																								0	1159111537
+4246	2294495	3246	River	10	404246	404246River		6.0	0.20		7.0																								0	1159111551
+2229	1205569	3263	River	10	404263	404263River	Kızılırmak	6.0	0.20		7.0	Kızılırmak	Q257785	نهر قيزيل إرماك	কিজিলির্মাক নদী	Kızılırmak	Kızılırmak	Río Kizil Irmak	Kızılırmak	Άλυς		Kızılırmak		Kızılırmak	クズルウルマク川	키질이르마크 강	Kizil Irmak	Kızılırmak	Rio Kızılırmak	Кызылырмак	Kızılırmak	Kızılırmak		克泽尔河	5	1159111569
+5220	831210	3266	River	11	404266	404266River	Kem	6.7	0.20		7.7	Kem	Q1130713			Kem	Kem	Río Kem	Kem					Kem'	ケミ川		Kem	Kiem		Кемь	Kem			科恩河	5	1159111589
+4229	1348535	3267	River	12	404267	404267River	Malka	7.0	0.20		8.0	Malka	Q1366569	مالكا		Malka	Malka	Río Malka	Malka						マルカ川		Malka			Малка				馬爾卡河	5	1159111599
+6229	1034740	3272	River	11	404272	404272River		6.7	0.20		7.7																								0	1159111615
+3216	2	3275	River	10	404275	404275River	Wieprz	6.0	0.20		7.0	Wieprz	Q1130403			Wieprz	Wieprz	Río Wieprz	Wieprz					Wieprz			Wieprz	Wieprz	Rio Wieprz	Вепш				維普日河	4	1159111631
+2203	1456948	3282	River	10	404282	404282River		6.0	0.20		7.0																								0	1159111645
+5203	1456948	3286	River	10	404286	404286River		6.0	0.20		7.0																								0	1159111661
+2884	1456942	3308	River	12	404308	404308River		7.0	0.20		8.0																								0	1159111677
+1871	748037	3314	River	12	404314	404314River	Druts	7.0	0.20		8.0	Druts	Q1261492			Drut	Drut		Drout						ドルツィ川			Druć		Друть				德魯蒂河	5	1159111689
+434	1456942	3322	River	12	404322	404322River		7.0	0.20		8.0																								0	1159111703
+1867	748037	3327	River	11	404327	404327River		6.7	0.20		7.7																								0	1159111709
+437	2294484	3329	River	12	404329	404329River		7.0	0.20		8.0																								0	1159111725
+3867	129487	3332	River	10	404332	404332River	Tanaro	6.0	0.20		7.0	Tanaro	Q851323			Tanaro	Tanaro	Tanaro	Tanaro					Tanaro	ターナロ川		Tanaro	Tanaro	Rio Tanaro	Танаро	Tanaro			塔纳罗河	4	1159111741
+3854	442364	3340	River	12	404340	404340River	Alberche	7.0	0.20		8.0	Alberche	Q16513			Alberche	Alberche	Alberche	Alberche					Alberche	アルベルチェ川		Alberche	Alberche		Альберче	Río Alberche			阿爾韋奇河	4	1159111757
+4854	1205578	3341	River	12	404341	404341River	Yeşilırmak	7.0	0.20		8.0	Yeşilırmak	Q1145293			Yeşilırmak	Yeşilırmak	Río Yeşilırmak	Yeşilırmak	Γεσίλ Ιρμάκ		Yeşilırmak		Yeşil			Yeşilırmak		Rio Yeşilırmak	Ешильырмак		Yeşilırmak		耶希勒馬克河	5	1159111771
+4841	442404	3353	River	10	404353	404353River	Júcar	6.0	0.20		7.0	Júcar	Q14311			Júcar	Júcar	Júcar	Júcar					Júcar	フカル川		Júcar	Júcar	Rio Júcar	Хукар	Júcar			胡卡爾河	5	1159111787
+135	1456942	3355	River	11	404355	404355River		6.7	0.20		7.7																								0	1159111803
+5837	831631	3366	River	10	404366	404366River	Venta	6.0	0.20		7.0	Venta	Q215397			Venta	Venta	Río Venta	Venta			Venta		Venta	ベンタ河		Venta	Windawa		Вента	Río Venta	Venta		文塔河	5	1159111819
+3811	442352	3378	River	11	404378	404378River	Adaja	6.7	0.20		7.7	Adaja	Q14750			Adaja	Adaja	Adaja	Adaja					Adaja	アダーハ川		Adaja		Rio Adaja	Адаха		Adaja			5	1159111823
+6811	1034790	3381	River	10	404381	404381River		6.0	0.20		7.0																								0	1159111829
+6807	291524	3388	River	11	404388	404388River	Vecht	6.7	0.20		7.7	Vecht	Q168904			Vechte	Vechte		Overijsselse Vecht						フェクト川		Overijsselse Vecht	Vechte		Фехте				費希特河	5	1159111841
+4380	831209	3402	River	11	404402	404402River	Kitinen	6.7	0.20		7.7	Kitinen	Q1743887			Kitinen	Kitinen		Kitinen						キティネン川		Kitinen	Kitinen			Kitinen			基蒂宁河	4	1159111851
+5333	1034751	3457	River	11	404457	404457River		6.7	0.20		7.7																								0	1159111867
+4320	831220	3466	River	12	404466	404466River		7.0	0.20		8.0																								0	1159111883
+4329	1034745	3469	River	10	404469	404469River	Västerdal	6.0	0.20	Dal	7.0	Västerdal	Q179015			Västerdalälven	Västerdal		Västerdalälven												Västerdalälven			韋斯特達爾河	5	1159111897
+1316	566445	3472	River	10	404472	404472River	Zala	6.0	0.20	Sio	7.0	Zala	Q144928			Zala	Zala	Río Zala	Zala			Zala	Sungai Zala	Zala	ザラ川	절러 강	Zala	Zala		Зала	Zala	Zala Nehri		佐洛河	4	1159111915
+5984	1205570	3514	River	10	404514	404514River	Ergene	6.0	0.20		7.0	Ergene	Q396585			Agrianes	Ergene	Río Ergene	Ergene						エルゲン川		Ergene	Ergene				Ergene			4	1159111931
+2967	831202	3533	River	12	404533	404533River		7.0	0.20		8.0																								0	1159111945
+449	1456942	3536	River	10	404536	404536River		6.0	0.20		7.0																								0	1159111961
+5954	291125	3544	River	11	404544	404544River	Auvézère	6.7	0.20	Isle	7.7	Auvézère	Q789569			Auvézère	Auvézère	Auvézère	Auvézère				Auvézère				Auvézère	Auvézère	Rio Auvézère					歐韋澤爾河	5	1159111977
+2937	831202	3564	River	10	404564	404564River		6.0	0.20		7.0																								0	1159111993
+4937	2294493	3567	Intermittent River	12	404567	404567Intermittent River		7.0	0.20		8.0																								0	1159112005
+5937	1034747	3568	River	10	404568	404568River	Begna	6.0	0.20	Dokka, Dramselva	7.0	Begna	Q792016			Begna	Begna		Begna			Begna					Begna				Begna				5	1159112021
+1924	748037	3569	River	11	404569	404569River	Pronya	6.7	0.20		7.7	Pronya	Q2993977			Pronja			Pronia						プロニャ川			Pronia		Проня				普羅尼亞河	5	1159112035
+6480	1348561	3609	River	10	404609	404609River	Samur	6.0	0.20		7.0	Samur	Q1342847	سامور		Samur	Samur	Río Samur	Samour								Samoer	Samur		Самур		Samurçay		薩穆爾河	5	1159112051
+1459	1456942	3631	River	11	404631	404631River		6.7	0.20		7.7																								0	1159112069
+4459	291126	3639	River	11	404639	404639River	Aveyron	6.7	0.20		7.7	Aveyron	Q751887			Aveyron	Aveyron	Aveyron	Aveyron			Aveyron	Sungai Aveyron	Aveyron	アヴェロン川		Aveyron	Aveyron	Rio Aveyron	Аверон	Aveyron			阿韋龍河	4	1159112077
+6459	291194	3643	River	12	404643	404643River	Le gave de Pau	7.0	0.20	Les Gaves Reunis	8.0	Le gave de Pau	Q855193			Gave de Pau	Gave de Pau	Gave de Pau	Gave de Pau			Gave de Pau		Gave de Pau	ポー川		Gave	Gave de Pau		Гав-де-По				波河	5	1159112093
+4446	291112	3650	River	11	404650	404650River	Arc	6.7	0.20	Isere	7.7	Arc	Q631049			Arc	Arc	Arc	Arc	Αρκ			Arc	Arc	アルク川		Arc	Arc	Rio Arc	Арк					4	1159112109
+1433	1413799	3652	River	11	404652	404652River		6.7	0.20		7.7																								0	1159112123
+6433	83809	3660	River	11	404660	404660River	Wye	6.7	0.20		7.7	Wye	Q19695			Wye	Wye	Wye	Wye		वेई नदी	Wye		Wye	ワイ川		Wye	Wye		Уай	Wye			威河	5	1159112137
+2420	2294484	3664	Intermittent River	12	404664	404664Intermittent River		7.0	0.20		8.0																								0	1159112153
+5420	1348535	3670	River	11	404670	404670River	Assa	6.7	0.20	Sunzha	7.7	Assa	Q738408			Assa	Assa	Río Asa												Асса					5	1159112163
+6429	831227	3675	River	11	404675	404675River		6.7	0.20		7.7																								0	1159112179
+751	1456942	3696	River	12	404696	404696River		7.0	0.20		8.0																								0	1159112193
+755	566445	3700	River	11	404700	404700River	Enns	6.7	0.20		7.7	Enns	Q217524	نهر إنز	ইন্স নদী	Enns	Enns	Río Enns	Enns			Enns	Enns	Enns	エンス川	엔스 강	Enns	Aniza	Enns	Энс	Enns		Enns	恩斯河	4	1159112203
+452	1456942	3707	River	12	404707	404707River		7.0	0.20		8.0																								0	1159112213
+457	1456942	3712	River	11	404712	404712River		6.7	0.20		7.7																								0	1159112233
+155	1456942	3720	River	12	404720	404720River	Shosha	7.0	0.20		8.0	Shosha	Q175612			Schoscha	Shosha	Río Shosha	Chocha					Šoša	ショーシャ川	쇼샤 강	Sjosja	Szosza		Шоша				紹沙河	5	1159112247
+156	1456942	3721	River	10	404721	404721River		6.0	0.20		7.0																								0	1159112263
+157	1456942	3722	River	11	404722	404722River		6.7	0.20		7.7																								0	1159112271
+4593	442365	3728	River	11	404728	404728River	Genil	6.7	0.20		7.7	Genil	Q17760	نهر شنيل		Genil	Genil	Genil	Genil	Χενίλ				Genil	ヘニル川		Genil	Genil	Rio Genil	Хениль	Río Genil			赫尼爾河	4	1159112285
+5593	1205579	3729	River	10	404729	404729River	Fliyos	6.0	0.20	Yenice	7.0	Fliyos	Q3572165			Filyos Çayı	Filyos		Yenice Irmağı			Filyos										Filyos Çayı			5	1159112299
+6580	1205603	3741	River	10	404741	404741River		6.0	0.20		7.0																								0	1159112311
+6559	1205599	3773	River	11	404773	404773River	Loudias	6.7	0.20		7.7	Loudias	Q3560044			Loudias	Loudias	Río Lidias		Λουδίας											Loudías Potamós				5	1159112327
+6533	748934	3788	River	10	404788	404788River		6.0	0.20		7.0																								0	1159112337
+2529	6	3794	River	11	404794	404794River	Elbe	6.7	0.20		7.7	Elbe	Q1644	إلبه		Elbe	Elbe	río Elba	Elbe	Έλβας		Elba	Elbe	Elba	エルベ川	엘베 강	Elbe	Łaba	Rio Elba	Эльба	Elbe	Elbe Nehri	Elbe	易北河	4	1159112353
+5503	291115	3818	River	11	404818	404818River	Eure	6.7	0.20		7.7	Eure	Q23798			Eure	Eure	Eure	Eure			Eure		Eure	ウール川	외르 강	Eure	Eure	Rio Eure	Эр				厄尔河	4	1159112365
+4098	2294484	3825	River	11	404825	404825River		6.7	0.20		7.7																								0	1159112381
+3085	566445	3831	River	10	404831	404831River	Ogosta	6.0	0.20		7.0	Ogosta	Q2355194				Ogosta		Ogosta					Ogosta	オゴスタ川		Ogosta	Ogosta		Огоста	Ogosta	Ogosta		奧戈斯塔河	4	1159112393
+2072	2294484	3838	Intermittent River	12	404838	404838Intermittent River		7.0	0.20		8.0																								0	1159112407
+4072	291126	3841	River	10	404841	404841River	Lot	6.0	0.20		7.0	Lot	Q211766			Lot	Lot	Lot	Lot	Λοτ		Lot		Lot	ロット川		Lot	Lot	Rio Lot	Ло	Lot			洛特河	4	1159112419
+5038	129487	3874	River	10	404874	404874River	Oglio	6.0	0.20		7.0	Oglio	Q848670			Oglio	Oglio	Oglio	Oglio					Oglio	オーリオ川		Oglio	Oglio	Rio Oglio	Ольо	Oglio			奧利奧河	4	1159112433
+6038	1034747	3875	River	12	404875	404875River	Hallingdalselva	7.0	0.20		8.0	Hallingdalselva	Q1538332			Hallingdalselva	Hallingdalselva		Hallingdalselva								Hallingdalselva								4	1159112447
+6025	1205813	3884	River	10	404884	404884River	S. Göksu	6.0	0.20		7.0	Göksu	Q732201			Göksu	Göksu	Río Göksu	Göksu Nehri					Göksu	ギョクス川		Selef	Göksu	Göksu	Гёксу		Göksu		格克蘇河	5	1159112461
+3012	1205592	3887	River	12	404887	404887River	Porsuk	7.0	0.20		8.0	Porsuk	Q2720896			Porsuk Çayı	Porsuk		Porsuk Çayı			Porsuk		Porsuk Çayı	ポルスク川		Porsuk	Porsuk				Porsuk Çayı		波索克河	5	1159112473
+4012	442352	3889	River	11	404889	404889River	Luna	6.7	0.20	Orbigo	7.7	Luna																							0	1159112487
+461	1456942	3913	River	10	404913	404913River	Vetluga	6.0	0.20		7.0	Vetluga	Q467419			Wetluga	Vetluga	Río Vetluga	Vetlouga			Vetluga		Vetluga	ヴェトルガ川	베틀루가 강	Vetloega	Wietługa		Ветлуга				韋特盧加河	5	1159112501
+469	1456942	3921	River	11	404921	404921River		6.7	0.20		7.7																								0	1159112517
+163	1456942	3925	River	11	404925	404925River		6.7	0.20		7.7																								0	1159112533
+167	1456942	3929	River	12	404929	404929River		7.0	0.20		8.0																								0	1159112545
+169	1456942	3931	River	10	404931	404931River		6.0	0.20		7.0																								0	1159112561
+1680	2294484	3938	Intermittent River	12	404938	404938Intermittent River		7.0	0.20		8.0																								0	1159112573
+3663	1205569	3962	River	10	404962	404962River	Delice	6.0	0.20		7.0	Delice	Q3021654			Delice Çayı	Delice		Delice Irmağı			Delice										Delice Irmağı			5	1159112587
+6663	1034894	3965	River	10	404965	404965River	Emån	6.0	0.20		7.0	Emån	Q1339836			Emån	Emån		Emån								Emån				Emån			埃姆河	5	1159112599
+3646	831202	3983	River	12	404983	404983River		7.0	0.20		8.0																								0	1159112613
+3620	1456990	3998	River	12	404998	404998River		7.0	0.20		8.0																								0	1159112627
+5616	1034860	4013	River	11	405013	405013River	Lågen	6.7	0.20		7.7	Lågen	Q1420630			Lågen	Numedalslågen	Numedalslågen	Numedalslågen					Numedalslågen			Numedalslågen	Numedalslågen		Логен	Numedalslågen				5	1159112643
+2603	1456990	4017	River	10	405017	405017River		6.0	0.20		7.0																								0	1159112659
+4198	831222	4026	River	10	405026	405026River	Velikaya	6.0	0.20	Lake Peipus, Narva	7.0	Velikaya	Q23550			Welikaja	Velikaya	Río Velíkaya	Velikaïa					Velikaja	ヴェリーカヤ川	벨리카야 강	Velikaja	Wielikaja	Rio Velikaya	Великая				韋利卡亞河	5	1159112675
+4185	831220	4034	River	10	405034	405034River	Kymijoki	6.0	0.20		7.0	Kymijoki	Q890526			Kymijoki	Kymi	Río Kymi	Kymijoki					Kymijoki	キュミ川		Kymijoki	Kymijoki	Rio Kymi	Кюмийоки	Kymmene älv			屈米河	5	1159112689
+4185	831220	4034	River	12	405034	405034River	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159112705
+3142	1456948	4065	River	10	405065	405065River	Vaga	6.0	0.20		7.0	Vaga	Q63090			Waga	Vaga	Vaga	Vaga			Vaga		Vaga			Waga	Waga		Вага				瓦加河	4	1159112721
+4142	2294493	4066	Intermittent River	11	405066	405066Intermittent River		6.7	0.20		7.7																								0	1159112737
+2138	1456948	4072	River	12	405072	405072River		7.0	0.20		8.0																								0	1159112753
+4138	6	4074	River	11	405074	405074River		6.7	0.20		7.7																								0	1159112769
+4125	1348541	4082	River	12	405082	405082River	Bolshaya Laba	7.0	0.20	Laba	8.0	Bolshaya Laba	Q2474304				Bolshaya Laba	Río Bolshaya Labá	Bolchaïa Laba									Bolszaja Łaba		Большая Лаба				大拉巴河	5	1159112785
+6125	831210	4084	River	11	405084	405084River		6.7	0.20		7.7																								0	1159112803
+1108	566445	4094	River	11	405094	405094River	Hron	6.7	0.20		7.7	Hron	Q213230	نهر هورن		Hron	Hron	Río Hron	Hron			Garam		Hron	フロン川	흐론 강	Hron	Hron	Rio Hron	Грон	Hron			赫龍河	4	1159112823
+778	566445	4111	River	10	405111	405111River	Someşul Cald	6.0	0.20	Somesul Mic, Somes, Tysa	7.0	Someşul Cald	Q783444				Someşul Cald					Meleg-Szamos													5	1159112841
+2750	291110	4168	River	10	405168	405168River	Warme Steinach	6.0	0.20	Roter Main, Main	7.0	Warme Steinach	Q869541			Warme Steinach	Warme Steinach		Warme Steinach								Warme Steinach			Варме-Штайнах					4	1159112849
+1298	2294484	4223	Intermittent River	12	405223	405223Intermittent River		7.0	0.20		8.0																								0	1159112865
+3298	1348536	4225	River	11	405225	405225River		6.7	0.20		7.7																								0	1159112881
+4298	1205592	4226	River	12	405226	405226River		7.0	0.20		8.0																								0	1159112897
+5298	831202	4227	River	11	405227	405227River		6.7	0.20		7.7																								0	1159112909
+3255	566445	4255	River	10	405255	405255River	Yantra	6.0	0.20		7.0	Yantra	Q217126			Jantra	Yantra	Río Yantra	Yantra			Jantra	Sungai Yantra	Jantra		얀트라 강	Jantra	Jantra	Rio Yantra	Янтра	Jantra	Yantra Nehri		揚特拉河	4	1159112923
+1238	2294484	4269	River	10	405269	405269River		6.0	0.20		7.0																								0	1159112933
+1238	2294484	4269	Intermittent River	10	405269	405269Intermittent River		6.0	0.20		7.0																								0	1159112945
+6208	17	4299	River	10	405299	405299River	Pissa	6.0	0.20	Pregolya	7.0																								0	1159112973
+788	2294484	4310	River	11	405310	405310River		6.7	0.20		7.7																								0	1159112985
+789	1456942	4311	River	11	405311	405311River		6.7	0.20		7.7																								0	1159113009
+488	2294484	4320	River	11	405320	405320River	Tohma	6.7	0.20		7.7																								0	1159113023
+180	1456942	4322	River	11	405322	405322River		6.7	0.20		7.7																								0	1159113037
+1893	566445	4332	River	10	405332	405332River		6.0	0.20		7.0																								0	1159113049
+2846	748037	4381	River	12	405381	405381River		7.0	0.20		8.0																								0	1159113067
+4846	1	4384	River	10	405384	405384River		6.0	0.20		7.0																								0	1159113083
+6833	832281	4393	River	10	405393	405393River	Siika	6.0	0.20		7.0	Siika	Q890262			Siikajoki	Siikajoki														Siikajoki			錫卡河	5	1159113101
+3829	1457128	4401	River	12	405401	405401River		7.0	0.20		8.0																								0	1159113117
+2803	748037	4416	River	11	405416	405416River		6.7	0.20		7.7																								0	1159113133
+4803	1205611	4419	River	10	405419	405419River	Büyük Menderes	6.0	0.20		7.0	Büyük Menderes	Q211089			Großer Mäander	Büyük Menderes	Río Menderes	Méandre	Μαίανδρος		Büyük Menderes	Sungai Büyük Menderes	Meandro	メンデレス川		Meander	Menderes	Rio Büyük Menderes	Большой Мендерес	Menderes	Büyük Menderes Nehri		大門德雷斯河	5	1159113151
+1398	1456948	4423	River	10	405423	405423River	Vychegda	6.0	0.20	Northern Dvina	7.0	Vychegda	Q65383			Wytschegda	Vychegda	Víchegda	Vytchegda			Vicsegda		Vyčegda	ヴィチェグダ川	비체그다 강	Vytsjegda	Wyczegda		Вычегда	Vytjegda			維切格達河	4	1159113165
+3398	1	4425	River	10	405425	405425River	Nysa Kłodzka	6.0	0.20		7.0	Nysa Kłodzka	Q1455991	نيس الشرقي		Nysa Kłodzka	Nysa Kłodzka		Nysa Kłodzka					Nysa Kłodzka	ニサ・クウォツカ川		Nysa Kłodzka	Nysa Kłodzka		Ныса-Клодзка	Nysa Kłodzka			尼斯克沃茲卡河	5	1159113179
+1372	748037	4436	River	11	405436	405436River	Styr	6.7	0.20	Prypyat	7.7	Styr	Q1136609	نهر الستاير		Styr	Styr	Río Styr	Styr					Styr	ストィル川		Styr	Styr		Стыр	Styr			斯特里河	5	1159113199
+6385	2294493	4437	River	11	405437	405437River		6.7	0.20		7.7																								0	1159113207
+3372	1348536	4440	River	10	405440	405440River	Alazani	6.0	0.20		7.0	Alazani	Q212795			Alasani	Alazani	Río Alazani	Alazani			Alazani		Alazani	アラザニ川	알라자니 강	Alazani	Alazani		Алазани	Alazani	Alazani		阿拉扎尼河	4	1159113223
+3338	566445	4473	River	11	405473	405473River	Argeș	6.7	0.20		7.7	Argeș	Q214811	أرجيش		Argeș	Argeș	Río Arges	Argeș			Argeș	Sungai Argeş	Argeș	アルジェシュ川		Argeș	Ardżesz	Rio Argeş	Арджеш	Argeș	Argeș Nehri		阿爾傑什河	5	1159113241
+793	1456942	4506	River	11	405506	405506River		6.7	0.20		7.7																								0	1159113255
+797	566445	4510	River	12	405510	405510River	Someșul Mare	7.0	0.20		8.0	Someșul Mare	Q637994			Someșul Mare	Someșul Mare		Someșul Mare			Nagy-Szamos					Someșul Mare	Wielki Samosz							5	1159113271
+495	1456942	4518	River	11	405518	405518River		6.7	0.20		7.7																								0	1159113287
+190	1456942	4523	River	10	405523	405523River		6.0	0.20		7.0																								0	1159113301
+191	1456942	4524	River	11	405524	405524River		6.7	0.20		7.7																								0	1159113317
+2989	291110	4544	River	10	405544	405544River	Neckar	6.0	0.20		7.0	Neckar	Q1673	نيكار		Neckar	Neckar	río Neckar	Neckar	Νέκαρ		Neckar	Neckar	Neckar	ネッカー川	네카어 강	Neckar	Neckar	Rio Neckar	Неккар	Neckar	Neckar Nehri	Neckar	内卡河	4	1159113333
+3989	1457138	4546	River	10	405546	405546River		6.0	0.20		7.0																								0	1159113349
+3989	1457138	4546	River	10	405546	405546River		6.0	0.20		7.0																								0	1159113365
+6976	831608	4558	River	10	405558	405558River	Pärnu	6.0	0.20		7.0	Pärnu	Q815462			Pärnu	Pärnu	Río Pärnu	Pärnu	Πάρνου		Pärnu-folyó		Pärnu			Pärnu	Parnawa	Rio Pärnu	Пярну	Pärnu	Pärnu Nehri	Sông Pärnu	派爾努河	5	1159113383
+1963	2294484	4559	Intermittent River	12	405559	405559Intermittent River		7.0	0.20		8.0																								0	1159113401
+4963	442364	4563	River	11	405563	405563River	Alagón	6.7	0.20		7.7	Alagón	Q16663			Alagón	Alagón	Alagón	Alagón					Alagón	アラゴン川		Alagón	Alagón	Rio Alagón	Алагон	Río Alagón			阿拉貢河	5	1159113413
+3950	1205592	4570	River	11	405570	405570River		6.7	0.20		7.7																								0	1159113427
+2920	1413826	4596	River	11	405596	405596River		6.7	0.20		7.7																								0	1159113443
+5929	1457791	4605	River	11	405605	405605River		6.7	0.20		7.7																								0	1159113459
+5916	831220	4613	River	11	405613	405613River		6.7	0.20		7.7																								0	1159113475
+3498	442353	4625	River	10	405625	405625River	Alagón	6.0	0.20		7.0	Alagón	Q20357			Aragón	Aragón	Río Aragón	Aragon	Αραγών				Aragón	アラゴン川		Aragón	Aragón	Rio Aragón	Арагон	Río Aragón			阿拉贡河	5	1159113491
+3485	1034751	4632	River	11	405632	405632River	Göta	6.7	0.20		7.7	Göta	Q214748	جوتا		Göta älv	Göta älv	Río Göta	Göta älv			Göta-folyó		Göta älv	イェータ川	예타 강	Göta älv	Göta älv	Göta älv	Гёта-Эльв	Göta älv	Göta älv	Sông Göta	约塔河	5	1159113507
+3485	1034751	4632	River	12	405632	405632River	Göta	7.0	0.20		8.0	Göta	Q214748	جوتا		Göta älv	Göta älv	Río Göta	Göta älv			Göta-folyó		Göta älv	イェータ川	예타 강	Göta älv	Göta älv	Göta älv	Гёта-Эльв	Göta älv	Göta älv	Sông Göta	约塔河	5	1159113523
+4485	748076	4634	River	10	405634	405634River		6.0	0.20		7.0																								0	1159113539
+6485	831239	4637	River	11	405637	405637River		6.7	0.20		7.7																								0	1159113551
+3472	1460380	4641	River	11	405641	405641River		6.7	0.20		7.7																								0	1159113567
+5472	831270	4642	River	12	405642	405642River		7.0	0.20		8.0																								0	1159113583
+5468	831270	4650	River	11	405650	405650River		6.7	0.20		7.7																								0	1159113597
+6442	1348733	4667	River	11	405667	405667River		6.7	0.20		7.7																								0	1159113613
+4438	831209	4673	River	12	405673	405673River		7.0	0.20		8.0																								0	1159113619
+5425	1348535	4682	River	11	405682	405682River		6.7	0.20		7.7																								0	1159113635
+2408	1456990	4695	River	10	405695	405695River		6.0	0.20		7.0																								0	1159113651
+6408	1415901	4699	River	10	405699	405699River		6.0	0.20		7.0																								0	1159113667
+2585	1413804	4709	River	10	405709	405709River		6.0	0.20		7.0																								0	1159113683
+5585	1034751	4713	River	10	405713	405713River		6.0	0.20		7.0																								0	1159113697
+6585	129662	4715	River	10	405715	405715River	Reno	6.0	0.20		7.0	Reno	Q658594			Reno	Reno	Reno	Reno	Ρένο				Reno	レーノ川		Reno	Reno		Рено				雷諾河	4	1159113713
+4572	566445	4719	River	10	405719	405719River	Trotuș	6.0	0.20		7.0	Trotuș	Q541441			Trotuș	Trotuș		Trotuș			Tatros		Trotuș			Trotuș							特羅圖什河谷	5	1159113729
+2568	748037	4724	River	10	405724	405724River		6.0	0.20		7.0																								0	1159113743
+2525	748037	4752	River	11	405752	405752River		6.7	0.20		7.7																								0	1159113761
+3508	1413825	4771	River	11	405771	405771River		6.7	0.20		7.7																								0	1159113773
+5508	1205584	4773	River	10	405773	405773River	Strimonas	6.0	0.20		7.0	Strimonas	Q204127	نهر ستروما		Struma	Struma	Río Estrimón	Strymon	Στρυμόνας		Sztruma		Struma	ストルマ川	스트루마 강	Strimon	Struma	Rio Struma	Струма	Struma	Struma Nehri		斯特鲁马河	5	1159113797
+7081	1422996	4791	River	11	405791	405791River		6.7	0.20		7.7																								0	1159113817
+5064	1413826	4807	River	12	405807	405807River		7.0	0.20		8.0																								0	1159113833
+2051	2294484	4811	Intermittent River	12	405811	405811Intermittent River		7.0	0.20		8.0																								0	1159113853
+3034	2294484	4828	Intermittent River	12	405828	405828Intermittent River		7.0	0.20		8.0																								0	1159113871
+7021	1205804	4841	River	11	405841	405841River	Küçük Menderes	6.7	0.20		7.7	Küçük Menderes	Q922382			Kleiner Mäander	Küçükmenderes	Caístro	Caystre	Κάυστρος ποταμός		Küçük Menderes					Küçük Menderes		Rio Küçük Menderes	Малый Мендерес		Küçük Menderes		小門德雷斯河	5	1159113891
+4017	1460380	4846	River	12	405846	405846River		7.0	0.20		8.0																								0	1159113911
+6698	83748	4865	River	10	405865	405865River	Swale	6.0	0.20	Ouse	7.0	Swale	Q3396347			Swale	Swale	Río Swale	Swale								Swale				Swale				5	1159113929
+1672	2294484	4872	Intermittent River	11	405872	405872Intermittent River		6.7	0.20		7.7																								0	1159113943
+3668	566445	4881	River	11	405881	405881River	Bistrița	6.7	0.20		7.7	Bistrița	Q767793			Bistrița	Bistrița	Río Bistrița	Bistrița	Μπίστριτσα		Aranyos-Beszterce		Bistrica			Bistrița		Rio Bistriţa	Бистрица				比斯特里察河	5	1159113961
+3655	1457128	4888	River	12	405888	405888River		7.0	0.20		8.0																								0	1159113977
+4642	831211	4895	River	10	405895	405895River	Vyg	6.0	0.20	Выг	7.0	Vyg	Q1506596			Wyg	Vyg	Río Vyg						Vyg	ヴイグ川		Vig	Wyg		Выг				維格河	5	1159113997
+1638	748037	4899	River	11	405899	405899River		6.7	0.20		7.7																								0	1159114017
+2638	748037	4900	River	11	405900	405900River		6.7	0.20		7.7																								0	1159114035
+2612	2294484	4913	River	10	405913	405913River		6.0	0.20		7.0																								0	1159114051
+3612	1413799	4915	River	12	405915	405915River		7.0	0.20		8.0																								0	1159114073
+4612	442364	4916	River	10	405916	405916River	Tiétar	6.0	0.20		7.0	Tiétar	Q16661			Tiétar	Tiétar	Tiétar	Tiétar					Tiétar	ティエタル川		Tiétar		Rio Tiétar		Río Tiétar			鐵塔爾河	5	1159114085
+2608	1413804	4921	River	11	405921	405921River		6.7	0.20		7.7																								0	1159114103
+5181	1413799	4939	River	12	405939	405939River		7.0	0.20		8.0																								0	1159114121
+5177	1205772	4947	River	12	405947	405947River	Aksu	7.0	0.20		8.0	Aksu	Q421630			Aksu Çayı	Aksu	Río Aksu	Aksu Nehri					Aksu Nehri						Аксу		Aksu Çayı			5	1159114141
+4164	1457789	4954	River	10	405954	405954River		6.0	0.20		7.0																								0	1159114157
+5164	1456942	4955	River	10	405955	405955River		6.0	0.20		7.0																								0	1159114177
+2134	1456948	4975	River	10	405975	405975River		6.0	0.20		7.0																								0	1159114201
+4134	291115	4978	River	12	405978	405978River	Ouanne	7.0	0.20	Loing	8.0	Ouanne	Q621203			Ouanne	Ouanne	Ouanne	Ouanne								Ouanne		Rio Ouanne					瓦訥河	4	1159114217
+1798	748037	5006	River	11	406006	406006River	Iputs	6.7	0.20		7.7	Iputs	Q1813407			Iput	Iput		Ipout						イプチ川		Ipoet	Ipuć		Ипуть	Iput			伊普季河	5	1159114245
+5798	442404	5010	River	11	406010	406010River		6.7	0.20		7.7																								0	1159114261
+6798	832482	5012	River	12	406012	406012River	Lapuan	7.0	0.20		8.0	Lapuan	Q1351274			Lapuanjoki	Lapuanjoki														Lappo å			拉普阿河	5	1159114281
+2742	2294484	5042	River	11	406042	406042River		6.7	0.20		7.7																								0	1159114295
+4742	291125	5044	River	10	406044	406044River	Chavanon	6.0	0.20	Dordogne	7.0	Chavanon	Q1068523			Chavanon	Chavanon	Chavanon	Chavanon								Chavanon	Chavanon	Chavanon					沙瓦農河	4	1159114309
+1738	1456942	5047	River	10	406047	406047River		6.0	0.20		7.0																								0	1159114337
+6738	1348689	5053	River	10	406053	406053River		6.0	0.20		7.0																								0	1159114353
+2725	831224	5056	River	10	406056	406056River	Daugava	6.0	0.20	Western Dvina	7.0	Daugava	Q8197	نهر دفينا		Düna	Daugava	Daugava	Daugava	Νταουγκάβα	डुगावा नदी	Daugava	Sungai Daugava	Daugava	ダウガヴァ川	다우가바 강	Westelijke Dvina	Dźwina	Rio Duína Ocidental	Западная Двина	Daugava	Daugava Nehri	Sông Tây Dvina	道加瓦河	5	1159114367
+3725	1	5057	River	11	406057	406057River	Prosna	6.7	0.20		7.7	Prosna	Q304527			Prosna	Prosna	Río Prosna	Prosna					Prosna			Prosna	Prosna		Просна				普羅斯納河	4	1159114381
+3294	566445	5078	River	12	406078	406078River	Vedea	7.0	0.20		8.0	Vedea	Q685222			Vedea	Vedea		Vedea					Vedea			Vedea	Vedea				Vedea Nehri		韋代亞河	5	1159114397
+5294	1413804	5080	River	11	406080	406080River		6.7	0.20		7.7																								0	1159114415
+6294	1034752	5082	River	12	406082	406082River		7.0	0.20		8.0																								0	1159114433
+2277	2294484	5093	Intermittent River	10	406093	406093Intermittent River		6.0	0.20		7.0																								0	1159114449
+5277	2	5096	River	11	406096	406096River		6.7	0.20		7.7																								0	1159114467
+4264	1348535	5103	River	12	406103	406103River	Baksan	7.0	0.20		8.0	Baksan	Q804509	باكسان		Baksan	Baksan		Baksan						バクサン川		Baksan	Baksan		Баксан				巴克桑河	5	1159114485
+3234	6	5125	River	10	406125	406125River	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159114489
+6221	1205573	5137	River	11	406137	406137River	Devoll	6.7	0.20	Shkumbini	7.7	Devoll	Q83839			Devoll	Devoll					Devoll		Fiume Devoli	デヴォル川		Devoll	Devoll	Rio Devoli		Lumi i Devollit				5	1159114517
+1217	566445	5139	River	12	406139	406139River	Slana	7.0	0.20	Sajo	8.0	Slana	Q576032			Sajó	Sajó	Sajó	Sajó			Sajó		Sajó	シャイオ川	셔요 강	Sajó	Sajó		Слана	Sajó			紹約河	5	1159114533
+4217	291115	5143	River	12	406143	406143River	Petit Gland	7.0	0.20	Gland, Oise	8.0																								0	1159114551
+2885	1413804	5163	River	11	406163	406163River		6.7	0.20		7.7																								0	1159114575
+2868	2294484	5178	River	12	406178	406178River		7.0	0.20		8.0																								0	1159114591
+1855	748037	5183	River	10	406183	406183River		6.0	0.20		7.0																								0	1159114611
+3812	1413825	5214	River	12	406214	406214River		7.0	0.20		8.0																								0	1159114625
+3394	1348536	5228	River	11	406228	406228River	Iori	6.7	0.20		7.7	Iori	Q163384			Iori	Iori	Río Iori	Iori			Iori		Iori	イオリ川	이오리 강	Iori	Iori		Иори	Iori			約里河	5	1159114645
+3377	1456948	5244	River	11	406244	406244River		6.7	0.20		7.7																								0	1159114665
+6351	1348584	5263	River	10	406263	406263River		6.0	0.20		7.0																								0	1159114681
+1347	2294484	5265	Intermittent River	11	406265	406265Intermittent River		6.7	0.20		7.7																								0	1159114701
+1321	566445	5279	River	11	406279	406279River	Crisul Alb	6.7	0.20	Koros	7.7	Crisul Alb	Q833573			Körös	Körös	Río Criș	Körös			Körösök		Körös			Körös	Keresz		Кёрёш	Körös			克勒什河	5	1159114719
+1317	566445	5289	River	10	406289	406289River	Vrbas	6.0	0.20		7.0	Vrbas	Q21743696																		Vrbas				3	1159114745
+4317	1348536	5293	River	10	406293	406293River	Terter	6.0	0.20		7.0	Terter	Q737240			Tartar	Tartar		Tartar					Tartar			Tartar			Тертер					5	1159114755
+5317	1413804	5294	River	11	406294	406294River		6.7	0.20		7.7																								0	1159114775
+2998	831202	5307	River	11	406307	406307River		6.7	0.20		7.7																								0	1159114793
+3998	442403	5308	River	11	406308	406308River	Zújar	6.7	0.20		7.7	Zújar	Q16707			Zújar	Zújar	Zújar	Zújar					Zújar	スハル川		Zújar		Rio Zújar	Сухар	Río Zújar				5	1159114813
+5998	566445	5310	River	10	406310	406310River		6.0	0.20		7.0																								0	1159114831
+4985	1034722	5316	River	11	406316	406316River	Stora Lule	6.7	0.20	Lule	7.7	Stora Lule	Q857676			Lule älv	Lule	Río Lule	Luleälven			Luleälven		Lule	ルーレ川	룰 강	Lule älv	Luleälven	Luleälven	Лулеэльвен	Lule älv			吕勒河	5	1159114847
+4968	1413804	5330	River	12	406330	406330River		7.0	0.20		8.0																								0	1159114873
+5968	831290	5331	River	10	406331	406331River	Mūša	6.0	0.20	Lielupe	7.0	Mūša	Q1142038			Mūša	Mūša	Mūša	rivière Musa					Mūša	ムーシャ川	무샤 강	Mūša	Musza		Муса		Mūša Nehri		穆沙河	5	1159114897
+1955	2294484	5333	Intermittent River	12	406333	406333Intermittent River		7.0	0.20		8.0																								0	1159114915
+1942	748037	5339	River	11	406339	406339River	Ubort	6.7	0.20		7.7	Ubort	Q1050400			Ubort	Ubort		Oubort			Uborty						Uborć		Уборть	Ubarts			烏博爾季河	5	1159114927
+6955	832348	5340	River	12	406340	406340River	Kala	7.0	0.20		8.0	Kala	Q1397707			Kalajoki	Kalajoki														Kalajoki älv			卡拉河	5	1159114945
+6942	442394	5346	River	10	406346	406346River	Cardoner	6.0	0.20	Llobregat	7.0	Cardoner	Q31434			Cardener	Cardener	Cardener	Cardener					Cardener	カルデネール川		Cardener			Карденер				卡爾德內爾河	5	1159114963
+1938	2294484	5348	River	10	406348	406348River		6.0	0.20		7.0																								0	1159114981
+5938	1413826	5352	River	10	406352	406352River		6.0	0.20		7.0																								0	1159115001
+5908	831222	5373	River	11	406373	406373River		6.7	0.20		7.7																								0	1159115023
+1481	1456942	5382	River	12	406382	406382River		7.0	0.20		8.0																								0	1159115047
+5481	831618	5388	River	10	406388	406388River	Gauja	6.0	0.20		7.0	Gauja	Q207928			Gauja	Gauja	Río Gauja	Gauja			Gauja		Gauja	ガウヤ川	가우야 강	Gauja	Gauja	Rio Gauja	Гауя	Gauja			高亞河	4	1159115059
+4477	442352	5395	River	12	406395	406395River	Tormes	7.0	0.20		8.0	Tormes	Q14755			Tormes	Tormes	Tormes	Tormes					Tormes	トルメス川		Tormes	Tormes	Rio Tormes	Тормес	Río Tormes		Sông Tormes	托爾梅斯河	5	1159115077
+6477	129502	5397	River	10	406397	406397River	Piave	6.0	0.20		7.0	Piave	Q213462	نهر بيافي		Piave	Piave	Piave	Piave			Piave		Piave	ピアーヴェ川		Piave	Piawa	Rio Piave	Пьяве	Piave	Piave Nehri		皮亞韋河	4	1159115101
+3447	1413799	5418	River	11	406418	406418River		6.7	0.20		7.7																								0	1159115119
+5421	831224	5436	River	10	406436	406436River	Aiviekste	6.0	0.20		7.0	Aiviekste	Q176087			Aiviekste	Aiviekste		Aiviekste					Aiviekste			Aiviekste	Ewikszta	Rio Aiviekste	Айвиексте	Aiviekste			艾維埃克斯泰河	5	1159115141
+4417	1	5443	River	10	406443	406443River		6.0	0.20		7.0																								0	1159115161
+5417	1413804	5444	River	12	406444	406444River		7.0	0.20		8.0																								0	1159115181
+804	1456942	5460	River	12	406460	406460River		7.0	0.20		8.0																								0	1159115201
+809	566445	5465	River	10	406465	406465River	Traun	6.0	0.20		7.0	Traun	Q664341			Traun	Traun	Río Traun	Traun			Traun	Traun	Traun	トラウン川		Traun	Traun		Траун	Traun			特勞恩河	4	1159115217
+3594	1413799	5468	River	12	406468	406468River		7.0	0.20		8.0																								0	1159115237
+4594	1348536	5469	River	11	406469	406469River	Vorotan	6.7	0.20	Akera	7.7	Vorotan	Q737363			Worotan	Vorotan	Río Vorotan	Vorotan					Vorotan	ヴォロタン川		Vorotan			Воротан	Vorotan	Vorotan	Vorotan	沃洛坦河	5	1159115259
+6594	1034781	5473	River	10	406473	406473River		6.0	0.20		7.0																								0	1159115277
+502	1456942	5476	River	12	406476	406476River		7.0	0.20		8.0																								0	1159115299
+4577	1034723	5493	River	11	406493	406493River	Vojmån	6.7	0.20	Angerman	7.7	Vojmån	Q2530569			Vojmån															Vojmån				5	1159115323
+1564	748037	5495	River	12	406495	406495River		7.0	0.20		8.0																								0	1159115341
+4564	1	5500	River	12	406500	406500River	Bóbr	7.0	0.20		8.0	Bóbr	Q148307	بوبر		Bober	Bóbr	Río Bóbr	Bóbr					Bóbr	ボーブル川		Bóbr	Bóbr	Rio Bóbr	Бубр	Bóbr			布布爾河	5	1159115357
+6564	566918	5503	River	10	406503	406503River	Kamchiya	6.0	0.20		7.0	Kamchiya	Q1461510	نهر كامتشيا		Kamtschija	Kamchiya	Río Kamchiya							カムチヤ川			Kamczija	Kamchiya	Камчия	Kamtjija			卡姆奇亞河	4	1159115369
+6547	291513	5527	River	10	406527	406527River	Aude	6.0	0.20		7.0	Aude	Q214240			Aude	Aude	Aude	Aude	Ωντ			Sungai Aude	Aude	オード川	오드 강	Aude	Aude	Rio Aude	Од				奧德河	4	1159115393
+1534	1456990	5528	River	10	406528	406528River	Voronezh	6.0	0.20		7.0	Voronezh	Q847893			Woronesch	Voronezh	Vorónezh	Voronej					Voronež	ヴォロネジ川	보로네시 강	Voronezj			Воронеж		Voronej Nehri	Sông Voronezh	沃羅涅日河	5	1159115413
+2521	2294484	5537	Intermittent River	11	406537	406537Intermittent River		6.7	0.20		7.7																								0	1159115433
+4504	2294484	5557	Intermittent River	11	406557	406557Intermittent River		6.7	0.20		7.7																								0	1159115453
+2090	1456990	5562	River	12	406562	406562River	Tikhaya Sosna	7.0	0.20		8.0	Tikhaya Sosna	Q690360			Tichaja Sosna	Tikhaya Sosna	Tíjaya Sosná	Tikhaïa Sosna					Tichaja Sosna			Tichaja Sosna	Cicha Sosna		Тихая Сосна				季哈亞索斯納河	5	1159115465
+1099	2294484	5563	River	10	406563	406563River		6.0	0.20		7.0																								0	1159115485
+5086	1205570	5581	River	11	406581	406581River	Arda	6.7	0.20		7.7	Arda	Q500954			Arda	Arda	Río Arda	Arda	Άρδας		Arda		Arda	アルダ川	아르다 강	Arda	Arda	Rio Arda	Арда	Arda	Arda		阿爾達河	4	1159115505
+3073	831202	5585	River	12	406585	406585River		7.0	0.20		8.0																								0	1159115525
+4060	1457138	5598	River	11	406598	406598River		6.7	0.20		7.7																								0	1159115545
+6069	1348706	5603	River	10	406603	406603River	Zarriné-Rūd	6.0	0.20		7.0	Zarriné-Rūd	Q7516332				Zarriné-Rūd													Джагатучай					5	1159115567
+6043	442580	5622	River	11	406622	406622River	Turia	6.7	0.20		7.7	Turia	Q20118			Turia	Turia	Río Turia	Turia	Γκουαδαλαβιάρ				Turia	トゥリア川		Turia	Turia	Rio Túria	Туриа	Turia			圖里亞河	4	1159115587
+5026	1034741	5643	River	10	406643	406643River	Ljusnan	6.0	0.20		7.0	Ljusnan	Q1160449	نهر اليوسنان		Ljusnan	Ljusnan	Río Ljusnan	Ljusnan					Ljusnan	リュースナン川		Ljusnan	Ljusnan	Ljusnan	Юснан	Ljusnan			于斯南河	4	1159115609
+1013	2294484	5645	River	10	406645	406645River		6.0	0.20		7.0																								0	1159115629
+6013	83747	5652	River	10	406652	406652River	Shannon	6.0	0.20		7.0	Shannon	Q192820	شانون		Shannon	Shannon	Río Shannon	Shannon			Shannon	Shannon	Shannon	シャノン川	섀넌 강	Shannon	Shannon	Rio Shannon	Шаннон	Shannon			香农河	5	1159115649
+510	1456942	5686	River	10	406686	406686River	Sura	6.0	0.20		7.0	Sura	Q209891			Sura	Sura	Surá	Soura			Szura		Sura	スラ川	수라 강	Soera	Sura	Rio Sura	Сура				蘇拉河	5	1159115669
+4664	291111	5715	River	10	406715	406715River	Creuse	6.0	0.20		7.0	Creuse	Q841451			Creuse	Creuse	Creuse	Creuse	Κρεζ		Creuse		Creuse	クルーズ川		Creuse	Creuse	Rio Creuse	Крёз			Sông Creuse	克勒茲河	4	1159115691
+1651	1456942	5719	River	12	406719	406719River		7.0	0.20		8.0																								0	1159115713
+4634	831212	5745	River	11	406745	406745River		6.7	0.20		7.7																								0	1159115737
+6617	831237	5761	River	12	406761	406761River		7.0	0.20		8.0																								0	1159115753
+2604	2	5764	River	10	406764	406764River	Dunajec	6.0	0.20	Wisla	7.0	Dunajec	Q840694			Dunajec	Dunajec	Río Dunajec	Dunajec			Dunajec		Dunajec			Dunajec	Dunajec		Дунаец	Dunajec			杜納耶茨河	4	1159115777
+3604	831202	5765	River	12	406765	406765River		7.0	0.20		8.0																								0	1159115807
+5604	4	5767	River	10	406767	406767River		6.0	0.20		7.0																								0	1159115819
+1190	1413799	5770	River	11	406770	406770River	Or	6.7	0.20		7.7	Or	Q1807286			Or	Or	Río Or	Or			Or		Or'			Or	Or		Орь				奧爾河	5	1159115839
+2190	2294484	5772	Intermittent River	12	406772	406772Intermittent River		7.0	0.20		8.0																								0	1159115873
+5190	831211	5777	River	12	406777	406777River		7.0	0.20		8.0																								0	1159115893
+3160	1456948	5805	River	12	406805	406805River		7.0	0.20		8.0																								0	1159115925
+3143	1348536	5827	River	11	406827	406827River	Pambak	6.7	0.20	Debed	7.7	Pambak	Q2664921			Pambak	Pambak		Pambak											Памбак					5	1159115941
+3139	1205592	5840	River	11	406840	406840River		6.7	0.20		7.7																								0	1159115963
+3126	2	5851	River	10	406851	406851River	Narew	6.0	0.20		7.0	Narew	Q60055	ناريف		Narew	Narew	Río Narew	Narew			Narew		Narew	ナレフ川		Narew	Narew	Rio Narew	Нарев	Narew	Narev Nehri		納雷夫河	4	1159115981
+7113	831232	5865	River	12	406865	406865River		7.0	0.20		8.0																								0	1159116005
+3100	291110	5867	River	11	406867	406867River	Ill	6.7	0.20		7.7	Ill	Q668472	إيل		Ill	Ill	Ill	Ill	Ιλλ				Ill	イル川	일 강	Ill	Ill	Rio Ill	Иль	Ill			伊爾河	4	1159116013
+2109	1413799	5868	River	12	406868	406868River		7.0	0.20		8.0																								0	1159116033
+823	1456942	5884	River	12	406884	406884River		7.0	0.20		8.0																								0	1159116063
+828	1456942	5889	River	11	406889	406889River		6.7	0.20		7.7																								0	1159116079
+6794	83749	5898	River	10	406898	406898River	Suir	6.0	0.20	Barrow	7.0	Suir	Q1128134			Suir	Suir	Río Suir	Suir					Suir			Suir	Suir	Rio Suir	Шур	Suir				4	1159116099
+4751	1205578	5935	River	10	406935	406935River	Çekerek	6.0	0.20	Yesilirmak	7.0	Çekerek	Q4896922			Çekerek Çayı	Çekerek		Çekerek Irmağı													Çekerek Çayı			5	1159116125
+1734	1456990	5950	River	11	406950	406950River		6.7	0.20		7.7																								0	1159116149
+4717	831220	5968	River	12	406968	406968River	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159116163
+3704	4	5974	River	11	406974	406974River	Servač	6.7	0.20	Viliya	7.7	Servač	Q2987814			Servač	Servač		Servač								Servač	Serwecz		Сервач	Servatj			謝爾瓦奇河	5	1159116189
+5286	1456993	5998	River	11	406998	406998River		6.7	0.20		7.7																								0	1159116207
+1273	1413799	5999	River	11	406999	406999River		6.7	0.20		7.7																								0	1159116229
+5269	831274	6020	River	10	407020	407020River	Luga	6.0	0.20		7.0	Luga	Q14684			Luga	Luga	Lúga	Louga			Luga		Luga	ルーガ川	루가 강	Loega	Ługa	Rio Luga	Луга	Luga			盧加河	5	1159116241
+6269	831211	6022	River	11	407022	407022River		6.7	0.20		7.7																								0	1159116267
+2256	1456942	6026	River	11	407026	407026River		6.7	0.20		7.7																								0	1159116297
+3230	6	6044	River	10	407044	407044River	Saale	6.0	0.20		7.0	Saale	Q1678	زاله		Saale	Saale	Saale	Saale			Saale	Saale	Saale	ザーレ川	잘레 강	Saale	Soława	Rio Saale	Зале	Saale		Saale	薩勒河	4	1159116307
+1213	566445	6064	River	12	407064	407064River	Ipel	7.0	0.20		8.0	Ipel	Q748872			Ipeľ	Ipoly	Río Ipoly	Ipeľ			Ipoly		Ipeľ	イペリ川	이펠 강	Ipeľ	Ipola		Ипель	Ipoly			伊波伊河	5	1159116329
+3213	2	6068	River	12	407068	407068River		7.0	0.20		8.0																								0	1159116347
+6200	1413916	6083	River	11	407083	407083River		6.7	0.20		7.7																								0	1159116369
+5209	7	6084	River	10	407084	407084River	Aller	6.0	0.20		7.0	Aller	Q1967803	ألر		Aller	Aller	Río Aller	Aller			Aller	Aller	Aller	アラー川		Aller	Aller	Rio Aller	Аллер	Aller		Aller	阿勒尔河	4	1159116397
+830	1456942	6090	River	10	407090	407090River		6.0	0.20		7.0																								0	1159116421
+834	1456942	6094	River	12	407094	407094River		7.0	0.20		8.0																								0	1159116441
+2894	1456948	6101	River	11	407101	407101River		6.7	0.20		7.7																								0	1159116457
+4881	291111	6114	River	10	407114	407114River	Conie	6.0	0.20	Loir, Sarthe, Maine	7.0	Conie	Q1126058			Conie	Conie		Conie																3	1159116481
+5864	1205603	6135	River	12	407135	407135River		7.0	0.20		8.0																								0	1159116497
+232	1456942	6141	River	11	407141	407141River		6.7	0.20		7.7																								0	1159116523
+4851	831202	6145	River	11	407145	407145River		6.7	0.20		7.7																								0	1159116541
+6851	129540	6149	River	11	407149	407149River	Sacco	6.7	0.20	Liri, Garigliano	7.7	Sacco	Q547937			Sacco	Sacco	Río Sacco	Sacco			Sacco		Sacco			Sacco				Sacco			薩科河	4	1159116557
+3847	748037	6156	River	11	407156	407156River		6.7	0.20		7.7																								0	1159116573
+1834	1456942	6161	River	10	407161	407161River		6.0	0.20		7.0																								0	1159116593
+3834	442353	6164	River	10	407164	407164River	Jiloca	6.0	0.20	Jalon	7.0	Jiloca	Q23122		জিলোকা	Jiloca	Jiloca	Jiloca	rivière Jiloca					Jiloca	ヒロカ川		Jiloca				Río Jiloca			希洛卡河	4	1159116613
+4821	1413825	6172	River	10	407172	407172River		6.0	0.20		7.0																								0	1159116637
+6817	83749	6181	River	11	407181	407181River	Barrow	6.7	0.20		7.7	Barrow	Q936301			Barrow	Barrow	Río Barrow	Barrow					Barrow	バロー川		Barrow	Barrow		Барроу	Barrow				4	1159116647
+4804	1034736	6186	River	11	407186	407186River	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159116673
+5399	1205609	6201	River	10	407201	407201River	Gediz	6.0	0.20		7.0	Gediz	Q1351474			Gediz	Gediz	Gediz	Gediz	Έρμος ποταμός				Gediz	ゲティス川		Gediz	Hermos		Гедиз		Gediz Nehri		蓋迪茲河	5	1159116691
+2386	1456990	6208	River	12	407208	407208River	Seversky Donets	7.0	0.20		8.0	Seversky Donets	Q191238			Siwerskyj Donez	Seversky Donets	Donets	Donets	Ντόνετς		Donyec		Severskij Donec	ドネツ川	세베르스키도네츠 강	Severski Donets	Doniec	Rio Donets	Северский Донец	Donets	Donets Nehri		北頓涅茨河	5	1159116711
+4373	291110	6219	River	11	407219	407219River	Glan	6.7	0.20	Nahe	7.7	Glan	Q660690			Glan	Glan	Glan	Glan			Glan	Glan	Glan			Glan	Glan	Glan	Глан	Glan		Glan	格蘭河	3	1159116721
+5356	291110	6244	River	11	407244	407244River	Ruhr	6.7	0.20		7.7	Ruhr	Q1664	رور		Ruhr	Ruhr	río Ruhr	Ruhr	Ρουρ		Ruhr	Sungai Ruhr	Ruhr	ルール川	루르 강	Ruhr	Ruhra	Rio Ruhr	Рур	Ruhr	Ruhr	Ruhr	鲁尔河	4	1159116743
+4343	1456990	6251	River	12	407251	407251River		7.0	0.20		8.0																								0	1159116761
+2330	1456948	6255	River	12	407255	407255River	Yug	7.0	0.20		8.0	Yug	Q845960			Jug	Yug	Río Yug	Ioug			Jug		Jug	ユグ川	유크 강	Jug	Jug		Юг				尤克河	5	1159116783
+4339	831209	6264	River	10	407264	407264River	Kemijoki	6.0	0.20		7.0	Kemijoki	Q214779	كيميوكي		Kemijoki	Kemijoki	Río Kemi	Kemijoki			Kemijoki		Kemijoki	ケミ川	케미 강	Kemijoki	Kemijoki	Kemijoki	Кемийоки	Kemi älv			凱米河	4	1159116799
+5339	1348535	6266	River	10	407266	407266River	Sulak	6.0	0.20		7.0	Sulak	Q770781			Sulak	Sulak	Río Sulak	Soulak						スラク川		Soelak			Сулак				蘇拉克河	5	1159116817
+3326	442352	6273	River	11	407273	407273River	Pisuerga	6.7	0.20		7.7	Pisuerga	Q14757			Pisuerga	Pisuerga	Pisuerga	Pisuerga					Pisuerga	ピスエルガ川		Pisuerga	Pisuerga	Rio Pisuerga	Писуэрга	Pisuerga			皮苏埃加河	5	1159116837
+3313	442352	6282	River	10	407282	407282River	Pisuerga	6.0	0.20		7.0	Pisuerga	Q14757			Pisuerga	Pisuerga	Pisuerga	Pisuerga					Pisuerga	ピスエルガ川		Pisuerga	Pisuerga	Rio Pisuerga	Писуэрга	Pisuerga			皮苏埃加河	5	1159116853
+1300	566445	6285	River	10	407285	407285River	Lim	6.0	0.20	Drina	7.0	Lim	Q167916	نهر ليم		Lim	Lim	Río Lim	Lim	Λιμ		Lim		Lim	リム川		Lim	Lim		Лим	Lim			利姆河	4	1159116871
+2309	2294484	6292	River	11	407292	407292River		6.7	0.20		7.7																								0	1159116889
+3309	2294484	6294	Intermittent River	11	407294	407294Intermittent River		6.7	0.20		7.7																								0	1159116911
+6300	1205574	6297	River	10	407297	407297River	Enipefs	6.0	0.20	Pineios	7.0	Enipefs	Q376328			Pinios	Pineios	Río Peneo	Pénée	Πηνειός				Fiume Peneo	ピニオス川		Pinios	Pinios		Пиньос	Peneios			皮尼奥斯河	5	1159116929
+5981	831290	6330	River	11	407330	407330River	Nemunėlis	6.7	0.20		7.7	Nemunėlis	Q1352569			Nemunėlis	Nemunėlis	Río Nemunėlis	rivière Mēmele					Nemunėlis		네무넬리스 강	Nemunėlis	Niemenek	Rio Nemunėlis	Мемеле				內穆內利斯河	5	1159116955
+1977	1456990	6334	River	10	407334	407334River	Medveditsa	6.0	0.20		7.0	Medveditsa	Q1535189			Medwediza	Medveditsa	Río Medvéditsa	Medveditsa					Medvedica			Medveditsa	Miedwiedica		Медведица				梅德韋季察河	5	1159116969
+549	1456942	6339	River	11	407339	407339River		6.7	0.20		7.7																								0	1159116977
+5947	831232	6373	River	11	407373	407373River		6.7	0.20		7.7																								0	1159116995
+2934	2294484	6377	River	10	407377	407377River		6.0	0.20		7.0																								0	1159117013
+4490	2294514	6410	River	11	407410	407410River		6.7	0.20		7.7																								0	1159117031
+4499	1456942	6411	River	11	407411	407411River		6.7	0.20		7.7																								0	1159117041
+5473	1205611	6432	River	10	407432	407432River		6.0	0.20		7.0																								0	1159117061
+1430	566445	6465	River	10	407465	407465River	Zagyva	6.0	0.20		7.0	Zagyva	Q140454			Zagyva	Zagyva	Zagyva	Zagyva			Zagyva		Zagyva			Zagyva	Zagyva		Задьва	Zagyva			佐吉沃河	4	1159117073
+6439	748902	6481	River	11	407481	407481River		6.7	0.20		7.7																								0	1159117097
+1413	2294484	6490	Intermittent River	10	407490	407490Intermittent River		6.0	0.20		7.0																								0	1159117121
+2400	1348536	6498	River	10	407498	407498River		6.0	0.20		7.0																								0	1159117139
+2400	1348536	6498	River	10	407498	407498River	Aras	6.0	0.20		7.0	Aras	Q179751	نهر آراس		Aras	Aras	Río Aras	Araxe	Αράς	अरस नदी	Araksz		Aras	アラス川	아라스 강	Aras	Araks	Rio Arax	Аракс	Aras	Aras Nehri	Sông Aras	阿拉斯河	5	1159117151
+852	566445	6517	River	11	407517	407517River	Dyje	6.7	0.20	Morava	7.7	Dyje	Q660208			Thaya	Thaya	Dyje	Thaya			Thaya		Thaya	ターヤ川		Thaya	Dyja		Дие	Thaya			塔亞河	5	1159117179
+857	566445	6522	River	10	407522	407522River	Kupa	6.0	0.20	Sava	7.0	Kupa	Q211046	نهر كوبا		Kupa	Kupa	Río Kolpa	Kupa	Κούπα		Kulpa		Kupa	クパ川	쿠파 강	Kupa	Kupa		Купа	Kupa	Kupa Nehri		庫帕河	4	1159117189
+252	1456942	6537	River	11	407537	407537River		6.7	0.20		7.7																								0	1159117213
+253	1456942	6538	River	12	407538	407538River		7.0	0.20		8.0																								0	1159117231
+3599	1348536	6551	River	10	407551	407551River	Qotur/Ghotour Chai	6.0	0.20		7.0																								0	1159117239
+6573	442581	6571	River	10	407571	407571River	Sorraia	6.0	0.20		7.0	Sorraia	Q15663			Rio Sorraia	Sorraia	Sorraia	Sorraia					Sorraia	ソライア川			Sorraia	Rio Sorraia	Соррайя					5	1159117267
+4560	566445	6578	River	11	407578	407578River		6.7	0.20		7.7																								0	1159117287
+1530	748037	6599	River	12	407599	407599River	Prypyat	7.0	0.20		8.0	Prypyat	Q157042	نهر بريبيات		Prypjat	Pripyat	Río Prípiat	Pripiat			Pripjaty	Sungai Pripyat	Pryp"jat'	プリピャチ川	프리피야티강	Prypjat	Prypeć	Rio Pripiat	Припять	Prypjat		Sông Pripyat	普里皮亚季河	5	1159117303
+5539	748077	6612	River	11	407612	407612River		6.7	0.20		7.7																								0	1159117323
+6526	1034881	6623	River	10	407623	407623River	Verkselv	6.0	0.20	Nidelva	7.0	Verkselv																							0	1159117341
+6513	831314	6632	River	12	407632	407632River		7.0	0.20		8.0																								0	1159117363
+2500	1413799	6633	River	10	407633	407633River	Chagan	6.0	0.20		7.0	Chagan	Q1111259			Tschagan	Chagan		Chagan						チャガン川			Szagan		Чаган				恰甘河	5	1159117381
+1509	748037	6634	River	10	407634	407634River	Desna	6.0	0.20		7.0	Desna	Q202796	ديسنا		Desna	Desna	Río Desná	Desna			Gyeszna	Sungai Desna	Desna	デスナ川	데스나 강	Desna	Desna		Десна	Desna	Desna Nehri	Sông Desna	傑斯納河	5	1159117393
+4509	1457138	6642	River	12	407642	407642River		7.0	0.20		8.0																								0	1159117417
+6095	129528	6655	River	10	407655	407655River	Neretva	6.0	0.20		7.0	Neretva	Q190777	نهر نيريتفا		Neretva	Neretva	Río Neretva	Neretva	Νερέτβα		Neretva		Narenta	ネレトヴァ川	네레트바 강	Neretva	Neretwa	Rio Neretva	Неретва	Neretva	Neretva		内雷特瓦河	4	1159117437
+3082	2294493	6660	River	10	407660	407660River		6.0	0.20		7.0																								0	1159117457
+1035	2294484	6695	Intermittent River	12	407695	407695Intermittent River		7.0	0.20		8.0																								0	1159117481
+3018	4	6716	River	11	407716	407716River	Shchara	6.7	0.20		7.7	Shchara	Q1117401			Schtschara	Shchara		Chtchara								Schtschara	Szczara		Щара	Stjara			夏拉河	5	1159117499
+863	1456942	6733	River	12	407733	407733River		7.0	0.20		8.0																								0	1159117511
+266	1456942	6756	River	11	407756	407756River		6.7	0.20		7.7																								0	1159117529
+2699	1456948	6764	River	10	407764	407764River		6.0	0.20		7.0																								0	1159117557
+6690	1034726	6769	River	10	407769	407769River	Barduelva	6.0	0.20		7.0	Barduelva	Q185819			Barduelva	Barduelva	Barduelva	Barduelva								Barduelva			Бардуэльва	Barduelva				4	1159117573
+2686	2294484	6775	Intermittent River	12	407775	407775Intermittent River		7.0	0.20		8.0																								0	1159117581
+4686	1348541	6777	River	10	407777	407777River	Belaya	6.0	0.20		7.0	Belaya	Q815250			Belaja	Belaya	Río Bélaya	Belaïa					Belaja			Belaja			Белая				別拉亞河	5	1159117599
+3673	442365	6783	River	12	407783	407783River	Guadiana Menor	7.0	0.20	Guadalquivir	8.0	Guadiana Menor	Q14309	الوادي الكبير		Guadalquivir	Guadalquivir	Guadalquivir	Guadalquivir	Γουαδαλκιβίρ		Guadalquivir	Guadalquivir	Guadalquivir	グアダルキビール川	과달키비르 강	Guadalquivir	Gwadalkiwir	Rio Guadalquivir	Гвадалквивир	Guadalquivir	Guadalquivir	Guadalquivir	瓜达尔基维尔河	5	1159117617
+5673	1034723	6785	River	12	407785	407785River		7.0	0.20		8.0																								0	1159117635
+3643	566445	6811	River	10	407811	407811River	Moldova	6.0	0.20		7.0	Moldova	Q539053			Moldova	Moldova		Moldova				Sungai Moldova	Moldavia			Moldova	Mołdawa	Rio Moldávia	Молдова			Sông Moldova	摩爾多瓦河	5	1159117653
+1630	2294484	6815	Intermittent River	12	407815	407815Intermittent River		7.0	0.20		8.0																								0	1159117671
+4639	1205606	6824	River	10	407824	407824River	Seyhan	6.0	0.20		7.0	Seyhan	Q910975			Seyhan	Seyhan	Río Seyhan	Seyhan	Σάρος			Sungai Seyhan	Seyhan			Seyhan			Сейхан		Seyhan Nehri		塞伊漢河	5	1159117689
+2626	566445	6830	River	11	407830	407830River	Jiu	6.7	0.20		7.7	Jiu	Q530577	جيو		Jiu	Jiu	Río Jiu	Jiu			Zsil		Jiu	ジウ川	지우 강	Jiu	Jiu	Rio Jiu	Джиу		Jiu Nehri		日烏河	5	1159117699
+4626	2294514	6833	River	11	407833	407833River		6.7	0.20		7.7																								0	1159117721
+2600	748037	6844	River	11	407844	407844River	Ros	6.7	0.20	Vilshanka	7.7	Ros	Q1367245	نهر روس أوكرانيا		Ros	Ros	Río Ros'	Ros						ローシ川			Roś		Рось	Ros			羅西河	5	1159117739
+2609	831202	6848	River	10	407848	407848River	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159117753
+6600	291146	6853	River	10	407853	407853River	Vilaine	6.0	0.20		7.0	Vilaine	Q842462	نهر فيلاين		Vilaine	Vilaine	Río Vilaine	Vilaine	Βιλαίν				Vilaine	ヴィレーヌ川	빌렌 강	Vilaine	Vilaine	Rio Vilaine	Вилен				维莱讷河	4	1159117765
+5609	748037	6854	River	10	407854	407854River		6.0	0.20		7.0																								0	1159117783
+3178	1460380	6875	River	10	407875	407875River		6.0	0.20		7.0																								0	1159117805
+2152	1456948	6888	River	11	407888	407888River		6.7	0.20		7.7																								0	1159117817
+5148	831252	6900	River	11	407900	407900River		6.7	0.20		7.7																								0	1159117833
+3135	831202	6905	River	12	407905	407905River		7.0	0.20		8.0																								0	1159117849
+2122	2294484	6911	Intermittent River	12	407911	407911Intermittent River		7.0	0.20		8.0																								0	1159117861
+4105	291111	6931	River	11	407931	407931River	Cher	6.7	0.20		7.7	Cher	Q213503			Cher	Cher	Cher	Cher	Σερ		Cher		Cher	シェール川		Cher	Cher	Rio Cher	Шер	Cher			谢尔河	4	1159117879
+5786	1034749	6984	River	12	407984	407984River	Arbogaan	7.0	0.20		8.0	Arbogaan	Q630136			Arbogaån	Arboga											Arbogaån			Arbogaån				5	1159117895
+2773	1413804	6988	River	10	407988	407988River		6.0	0.20		7.0																								0	1159117917
+1769	566445	6994	River	11	407994	407994River	Golijska Moravica	6.7	0.20	Zapadna Morava	7.7	Golijska Moravica	Q378985			Westliche Morava	West Morava	Río Morava occidental	Zapadna Morava	Δυτικός Μοράβας		Nyugati-Morava		Morava occidentale	西モラヴァ川		Zapadna Morava	Zachodnia Morawa		Западная Морава				西摩拉瓦河	5	1159117933
+4756	1457138	7011	River	12	408011	408011River		7.0	0.20		8.0																								0	1159117943
+4743	2294514	7018	River	10	408018	408018River		6.0	0.20		7.0																								0	1159117961
+6739	831372	7035	River	11	408035	408035River		6.7	0.20		7.7																								0	1159117979
+5700	1034722	7057	River	11	408057	408057River	Lilla Lule	6.7	0.20		7.7																								0	1159117997
+1295	2294484	7064	River	11	408064	408064River		6.7	0.20		7.7																								0	1159118015
+2282	2294484	7072	River	11	408072	408072River		6.7	0.20		7.7																								0	1159118033
+3265	748037	7089	River	10	408089	408089River		6.0	0.20		7.0																								0	1159118045
+5252	1413804	7100	River	12	408100	408100River		7.0	0.20		8.0																								0	1159118057
+2218	748037	7128	River	10	408128	408128River	Teteriv	6.0	0.20		7.0	Teteriv	Q162741			Teteriw	Teteriv	Río Teteriv	Teteriv					Teteriv			Teteriv	Teterew		Тетерев				捷捷列夫河	4	1159118063
+2205	1456990	7136	River	12	408136	408136River		7.0	0.20		8.0																								0	1159118077
+585	1456942	7159	River	11	408159	408159River		6.7	0.20		7.7																								0	1159118093
+281	1456942	7165	River	12	408165	408165River	Vyatka	7.0	0.20		8.0	Vyatka	Q192495			Wjatka	Vyatka	Río Viatka	Viatka			Vjatka		Vjatka	ヴャトカ川		Vjatka	Wiatka	Rio Vyatka	Вятка	Vjatka			維亞特卡河	5	1159118121
+4886	1413804	7191	River	11	408191	408191River		6.7	0.20		7.7																								0	1159118143
+5873	1205772	7199	River	10	408199	408199River		6.0	0.20		7.0																								0	1159118159
+3869	1456990	7207	River	10	408207	408207River	Sredny Yegorlyk	6.0	0.20	Manych	7.0	Sredny Yegorlyk	Q3511544			Sredni Jegorlyk	Sredny Yegorlyk													Средний Егорлык				中葉戈爾雷克河	5	1159118167
+2830	2294484	7232	River	12	408232	408232River		7.0	0.20		8.0																								0	1159118185
+1813	2294484	7250	River	12	408250	408250River		7.0	0.20		8.0																								0	1159118203
+2813	1457725	7252	River	10	408252	408252River		6.0	0.20		7.0																								0	1159118223
+5813	1348714	7255	River	11	408255	408255River	Beisug	6.7	0.20		7.7	Beisug	Q814896			Beissug	Beysug	Río Beisug									Beysoeg			Бейсуг				別伊蘇格河	5	1159118239
+4800	291126	7263	River	12	408263	408263River	Hers-Vif	7.0	0.20		8.0	Hers-Vif	Q429566			Hers-Vif	Hers-Vif	Hers-Vif	Hers-Vif			Hers-Vif					Hers-Vif	Hers-Vif						埃爾斯-維夫河	5	1159118257
+2382	291110	7280	River	10	408280	408280River	Aare	6.0	0.20		7.0	Aare	Q1675	آر		Aare	Aare	río Aar	Aar	Άαρ		Aare	Sungai Aar	Aar	アーレ川	아레 강	Aare	Aare	Rio Aar	Аре	Aare	Aare		阿勒河	4	1159118283
+1365	566445	7293	River	12	408293	408293River	Sebes Koros	7.0	0.20		8.0	Sebes Koros	Q581015			Schnelle Kreisch	Crișul Repede	Río Crișul Repede	Crișul Repede			Sebes-Körös						Szybki Keresz	Rio Crişul Repede	Кришул-Репеде				湍克勒什河	5	1159118301
+3365	1456990	7298	River	12	408298	408298River		7.0	0.20		8.0																								0	1159118313
+1352	566445	7302	River	11	408302	408302River	Bosna	6.7	0.20		7.7	Bosna	Q208367	بوسنة		Bosna	Bosna	Bosna	Bosna	Μπόσνα		Boszna		Bosna	ボスナ川	보스나 강	Bosna	Bosna	Rio Bosna	Босна	Bosna	Bosna Nehri		波斯尼亚河	4	1159118339
+3352	566445	7306	River	12	408306	408306River	Yantra	7.0	0.20		8.0	Yantra	Q217126			Jantra	Yantra	Río Yantra	Yantra			Jantra	Sungai Yantra	Jantra		얀트라 강	Jantra	Jantra	Rio Yantra	Янтра	Jantra	Yantra Nehri		揚特拉河	4	1159118347
+6335	2294493	7326	River	11	408326	408326River		6.7	0.20		7.7																								0	1159118369
+4318	1456990	7338	River	11	408338	408338River	Manych	6.7	0.20		7.7	Manych	Q1047528			Manytsch	Manych	Río Manich	Manytch					Manyč	マヌィチ川	마니치 강	Manitsj	Zachodni Manycz	Rio Manych	Маныч				馬內奇河	5	1159118387
+4318	1456990	7338	River	11	408338	408338River	Manych	6.7	0.20		7.7	Manych	Q1047528			Manytsch	Manych	Río Manich	Manytch					Manyč	マヌィチ川	마니치 강	Manitsj	Zachodni Manycz	Rio Manych	Маныч				馬內奇河	5	1159118403
+3305	2	7344	River	10	408344	408344River	Pilica	6.0	0.20		7.0	Pilica	Q750418			Pilica	Pilica	Río Pilica	Pilica					Pilica	ピリッツァ川		Pilica	Pilica	Rio Pilica	Пилица	Pilica			皮利察河	4	1159118423
+895	1456942	7356	River	10	408356	408356River		6.0	0.20		7.0																								0	1159118443
+4990	1457789	7386	River	11	408386	408386River		6.7	0.20		7.7																								0	1159118461
+1973	1456990	7401	River	10	408401	408401River	Bityog	6.0	0.20		7.0																								0	1159118483
+2969	442364	7413	River	10	408413	408413River	Henares	6.0	0.20		7.0	Henares	Q16510	وادي الحجارة		Henares	Henares	Henares	Henares			Henares		Henares	エナレス川		Henares		Rio Henares		Río Henares			埃納雷斯河	4	1159118497
+4969	2294484	7417	River	11	408417	408417River		6.7	0.20		7.7																								0	1159118509
+5969	1205571	7419	River	11	408419	408419River	Beli Drim	6.7	0.20		7.7	Beli Drim	Q252385				White Drin	Drin Blanco	Drin blanc			Fehér-Drin		Beli Drim			White Drin	Biały Drin		Белый Дрин		Ak Drin		白鑽河	5	1159118525
+5956	1034895	7427	River	10	408427	408427River		6.0	0.20		7.0																								0	1159118549
+3943	442353	7432	River	12	408432	408432River	Jalón	7.0	0.20		8.0	Jalón	Q20380			Jalón	Jalón	Jalón	Jalón	Χαλόν				Jalón	ハロン川	할론 강	Jalón		Rio Jalón	Халон	Jalón			哈隆河	5	1159118569
+5943	1348572	7434	River	11	408434	408434River		6.7	0.20		7.7																								0	1159118591
+6926	831243	7456	River	10	408456	408456River		6.0	0.20		7.0																								0	1159118627
+3900	442365	7468	River	12	408468	408468River	Guadalimar	7.0	0.20		8.0	Guadalimar	Q17765	الوادي الأحمر		Guadalimar	Guadalimar	Guadalimar	Guadalimar					Guadalimar	グアダリマール川		Guadalimar		Rio Guadalimar		Río Guadalimar				4	1159118653
+4909	1034731	7473	River	10	408473	408473River	Kalix	6.0	0.20		7.0	Kalix	Q845520			Kalixälven	Kalix	Río Kalix	Kalixälven			Kalixälven		Kalix	カリクス川	칼릭스 강	Kalixälven	Kalixälven	Kalixälven	Каликсэльвен	Kalixälven			卡利克斯河	5	1159118659
+5495	831208	7483	River	10	408483	408483River	Patsoyoki	6.0	0.20		7.0																								0	1159118677
+5482	831222	7491	River	10	408491	408491River	Emajõgi	6.0	0.20		7.0	Emajõgi	Q215378			Emajõgi	Emajõgi	Emajõgi	Emajõgi			Emajõgi		Emajõgi		에마여기 강	Emajõgi	Emajõgi	Rio Emajõgi	Эмайыги	Emajõgi	Emajõgi		埃馬約吉河	5	1159118695
+2465	1456990	7502	River	11	408502	408502River	Oskol	6.7	0.20		7.7	Oskol	Q540067			Oskol	Oskol	Oskol	Oskol					Oskol			Oskol	Oskoł		Оскол				奧斯科爾河	5	1159118713
+3465	1457128	7505	River	11	408505	408505River		6.7	0.20		7.7																								0	1159118731
+5435	1205603	7533	River	11	408533	408533River		6.7	0.20		7.7																								0	1159118749
+5418	1034778	7549	River	10	408549	408549River	Pite	6.0	0.20		7.0	Pite	Q1330818			Piteälven	Pite	Río Pite	Piteälven			Piteälven		Pite	ピーテ川		Pite älv	Piteälven	Piteälven	Питеэльвен	Pite älv			皮特河	5	1159118767
+3405	2	7554	River	11	408554	408554River		6.7	0.20		7.7																								0	1159118781
+4405	1205570	7556	River	10	408556	408556River	Maritsa	6.0	0.20		7.0	Maritsa	Q204347	ماريتسا		Mariza	Maritsa	Río Maritsa	Maritsa	Έβρος		Marica		Evros	マリツァ川	마리차 강	Maritsa	Marica	Rio Maritsa	Марица	Maritsa	Meriç Nehri	Meriç	马里查河	4	1159118805
+5582	831408	7572	River	10	408572	408572River	Iijoki	6.0	0.20		7.0	Iijoki	Q1472085	ليجوكي		Iijoki	Iijoki		Iijoki					Iijoki	イー川		Iijoki	Iijoki		Иййоки	Ijo älv	Iijoki		伊河	4	1159118819
+6582	291223	7573	River	11	408573	408573River	Somme	6.7	0.20		7.7	Somme	Q37646	نهر السوم		Somme	Somme	Somme	Somme	Σομ				Somme	ソンム川	솜 강	Somme	Somma	Rio Somme	Сомма	Somme		Sông Somme	索姆河	5	1159118837
+5565	831242	7586	River	12	408586	408586River		7.0	0.20		8.0																								0	1159118867
+2505	2294484	7628	Intermittent River	12	408628	408628Intermittent River		7.0	0.20		8.0																								0	1159118881
+1091	566445	7636	River	12	408636	408636River		7.0	0.20		8.0																								0	1159118897
+4091	1	7639	River	10	408639	408639River	Noteć	6.0	0.20		7.0	Noteć	Q828869			Netze	Noteć	Río Notec	Noteć					Noteć	ノテチ川		Noteć	Noteć	Rio Noteć	Нотець	Noteć			諾泰奇河	5	1159118921
+1074	566445	7649	River	12	408649	408649River	Una	7.0	0.20		8.0	Una	Q212927			Una	Una	Río Una	Una	Ούνα		Una		Una	ウナ川	우나 강	Una	Una	Rio Una	Уна	Una			乌纳河	4	1159118933
+6087	1413804	7650	River	12	408650	408650River		7.0	0.20		8.0																								0	1159118957
+2074	1456942	7651	River	10	408651	408651River		6.0	0.20		7.0																								0	1159118979
+1061	1456942	7658	River	10	408658	408658River		6.0	0.20		7.0																								0	1159118997
+2031	748037	7684	River	12	408684	408684River	Ptsich	7.0	0.20		8.0	Ptsich	Q915889			Pzitsch	Ptsich	Río Pitichi							プツィチ川			Ptycz		Птичь	Ptsіtj			普齊奇河	4	1159119017
+4027	1034724	7695	River	10	408695	408695River	Glomma	6.0	0.20		7.0	Glomma	Q214535			Glomma	Glomma	Río Glomma	Glomma			Glomma		Glomma	グロンマ川	글로마 강	Glomma	Glomma	Rio Glomma	Гломма	Glomma	Glomma Nehri		格羅馬河	4	1159119031
+2014	1456948	7700	River	10	408700	408700River		6.0	0.20		7.0																								0	1159119049
+7014	1413804	7707	River	12	408707	408707River		7.0	0.20		8.0																								0	1159119067
+1665	748037	7735	River	11	408735	408735River	Yasyelda	6.7	0.20		7.7	Yasyelda	Q1509577			Jasselda	Yaselda		Iasselda						ヤセリダ川			Jasiołda		Ясельда	Jaselda			雅瑟達河	5	1159119087
+3665	2294484	7739	River	10	408739	408739River		6.0	0.20		7.0																								0	1159119109
+3652	1456990	7746	River	10	408746	408746River	Chyr	6.0	0.20		7.0	Chyr	Q71122			Tschir	Chir	Río Chir	Tchir					Čir			Tsjir			Чир	Tjir			奇爾河	5	1159119123
+1648	1456990	7750	River	12	408750	408750River	Khoper	7.0	0.20		8.0	Khoper	Q647052			Chopjor	Khopyor	Jopior	Khoper					Chopër		호표르 강	Chopor	Chopior	Rio Khoper	Хопёр	Chopjor			霍皮奧爾河	5	1159119139
+5635	7	7762	River	12	408762	408762River	Aller	7.0	0.20		8.0	Aller	Q1967803	ألر		Aller	Aller	Río Aller	Aller			Aller	Aller	Aller	アラー川		Aller	Aller	Rio Aller	Аллер	Aller		Aller	阿勒尔河	4	1159119159
+5622	1456942	7769	River	12	408769	408769River		7.0	0.20		8.0																								0	1159119177
+6157	1205591	7823	River	10	408823	408823River	Mesta	6.0	0.20		7.0	Mesta	Q193904			Nestos	Nestos	Río Mesta	Mesta	Νέστος		Meszta		Mesta	メスタ川		Mesta	Mesta	Rio Nesto	Места	Mesta	Mesta Karasu Nehri	Nestos	奈斯托斯河	5	1159119191
+4144	129487	7829	River	11	408829	408829River	Adda	6.7	0.20		7.7	Adda	Q63109	نهر أدا		Adda	Adda	Adda	Adda			Adda	Sungai Adda	Adda	アッダ川	아다 강	Adda	Adda	Rio Adda	Адда	Adda	Adda	Sông Adda	阿达河	4	1159119213
+2131	1456948	7834	River	10	408834	408834River		6.0	0.20		7.0																								0	1159119233
+3131	2294484	7836	Intermittent River	12	408836	408836Intermittent River		7.0	0.20		8.0																								0	1159119253
+1127	1456942	7841	River	10	408841	408841River		6.0	0.20		7.0																								0	1159119275
+3127	831202	7843	River	11	408843	408843River		6.7	0.20		7.7																								0	1159119289
+2114	1456948	7849	River	10	408849	408849River		6.0	0.20		7.0																								0	1159119307
+3114	1348536	7850	River	10	408850	408850River	Khrami	6.0	0.20	Debed	7.0	Khrami	Q1076875			Chrami	Khrami		Khrami								Chrami	Chrami	Rio Khrami	Храми	Khrami			赫拉米河	5	1159119331
+5101	1348572	7860	River	10	408860	408860River	Çoruh	6.0	0.20		7.0	Çoruh	Q70970			Çoruh	Çoruh	Río Çoruh	Tchorokhi	Άκαμψις		Çoruh			チョルフ川		Chorochi			Чорух	Çoruh	Çoruh Nehri		喬魯赫河	5	1159119349
+6101	1034752	7861	River	11	408861	408861River		6.7	0.20		7.7																								0	1159119361
+3782	2294484	7873	Intermittent River	12	408873	408873Intermittent River		7.0	0.20		8.0																								0	1159119379
+1765	2294484	7884	River	10	408884	408884River		6.0	0.20		7.0																								0	1159119401
+5765	1034749	7889	River	10	408889	408889River	Svartån	6.0	0.20	Arbogaan	7.0	Svartån	Q1720622			Svartån	Svartån														Svartån				5	1159119421
+5722	291111	7917	River	12	408917	408917River	Mayenne	7.0	0.20		8.0	Mayenne	Q280650			Mayenne	Mayenne	Mayenne	Mayenne			Mayenne		Mayenne	マイエンヌ川		Mayenne	Mayenne	Rio Mayenne	Майенн			Sông Mayenne	马耶讷河	4	1159119443
+1287	1413799	7940	River	12	408940	408940River		7.0	0.20		8.0																								0	1159119457
+3287	1205592	7944	River	11	408944	408944River	Sakarya	6.7	0.20		7.7	Sakarya	Q217466			Sakarya	Sakarya	Río Sakarya	Sakarya	Σαγγάριος		Sakarya		Sakarya	サカリヤ川	사카리아 강	Sakarya	Sakarya	Rio Sakarya	Сакарья	Sakarya	Sakarya Nehri		萨卡里亚河	5	1159119469
+6287	831415	7947	River	12	408947	408947River		7.0	0.20		8.0																								0	1159119487
+2274	1413799	7949	River	10	408949	408949River		6.0	0.20		7.0																								0	1159119515
+4274	831202	7953	River	10	408953	408953River		6.0	0.20		7.0																								0	1159119533
+6274	1205575	7955	River	10	408955	408955River	Acheloos	6.0	0.20		7.0	Acheloos	Q203923	نهر أخيلوس		Acheloos	Achelous	Río Aspropótamos	Achéloos	Αχελώος				Aspropotamo	アヘロオス川		Acheloos	Aspropotamos	Rio Aqueloo	Ахелоос	Acheloos	Akheloos Nehri		阿克洛奥斯河	5	1159119545
+1261	2294484	7956	River	11	408956	408956River		6.7	0.20		7.7																								0	1159119563
+3261	2294484	7960	River	10	408960	408960River		6.0	0.20		7.0																								0	1159119587
+6261	129530	7963	River	10	408963	408963River	Arno	6.0	0.20		7.0	Arno	Q115457	نهر أرنو		Arno	Arno	Arno	Arno	Άρνος		Arno	Arno	Arno	アルノ川	아르노 강	Arno	Arno	Rio Arno	Арно	Arno	Arno Nehri		阿諾河	4	1159119597
+6257	1456990	7971	River	12	408971	408971River		7.0	0.20		8.0																								0	1159119615
+5244	1348536	7978	River	10	408978	408978River		6.0	0.20		7.0																								0	1159119641
+3231	1456948	7984	River	12	408984	408984River		7.0	0.20		8.0																								0	1159119659
+6231	566704	7987	River	11	408987	408987River		6.7	0.20		7.7																								0	1159119681
+1201	748037	8004	River	10	409004	409004River	Dnepr	6.0	0.20		7.0	Dnepr	Q40855	دنيبر		Dnepr	Dnieper	Río Dniéper	Dniepr	Δνείπερος	नीपर	Dnyeper	Sungai Dnieper	Dnepr	ドニエプル川	드네프르 강	Dnjepr	Dniepr	Rio Dniepre	Днепр	Dnepr	Dinyeper	Sông Dnepr	第聂伯河	5	1159119695
+2201	1456990	8006	River	11	409006	409006River		6.7	0.20		7.7																								0	1159119705
+4201	1456948	8009	River	10	409009	409009River		6.0	0.20		7.0																								0	1159119723
+4882	1	8024	River	11	409024	409024River	Luzicka Nisa	6.7	0.20		7.7	Luzicka Nisa	Q5602	نايسه		Lausitzer Neiße	Lusatian Neisse	Neisse	Neisse	Λουσατιανός Νάιζε			Sungai Neisse	Neiße	ナイセ川	나이세 강	Neisse	Nysa Łużycka	Rio Neisse	Ныса-Лужицка	Neisse	Lusatian Neisse		尼萨河	5	1159119743
+6882	83746	8026	River	10	409026	409026River	Blackwater	6.0	0.20	Bann	7.0	Blackwater	Q19691			Bann	Bann	Bann	rivière Bann					Bann	バン川		Bann			Банн	Bann			班恩河	5	1159119763
+6865	95	8041	River	11	409041	409041River		6.7	0.20		7.7																								0	1159119781
+6848	1034880	8055	River	11	409055	409055River		6.7	0.20		7.7																								0	1159119799
+4835	831209	8058	River	12	409058	409058River	Ounasjoki	7.0	0.20		8.0	Ounasjoki	Q476153			Ounasjoki	Ounasjoki		Ounasjoki					Ounasjoki			Ounasjoki	Ounasjoki		Оунасйоки	Ounasjoki				4	1159119817
+1822	748037	8060	River	10	409060	409060River		6.0	0.20		7.0																								0	1159119833
+5818	442410	8073	River	10	409073	409073River	Segura	6.0	0.20		7.0	Segura	Q18612	شقورة		Río Segura	Segura	Segura	Segura					Segura	セグラ川		Segura	Segura	Rio Segura	Сегура	Segura			塞古拉	4	1159119851
+1805	1413799	8074	River	11	409074	409074River		6.7	0.20		7.7																								0	1159119869
+3805	1413826	8078	River	12	409078	409078River		7.0	0.20		8.0																								0	1159119887
+1387	566445	8089	River	12	409089	409089River		7.0	0.20		8.0																								0	1159119905
+2387	2294484	8092	Intermittent River	12	409092	409092Intermittent River		7.0	0.20		8.0																								0	1159119923
+1357	748037	8113	River	12	409113	409113River	Sluch	7.0	0.20		8.0	Sluch	Q1548111			Slutsch	Sluch	Río Sluch	Sloutch									Słucz		Случь	Slutj			斯盧奇河	5	1159119941
+2344	2	8121	River	10	409121	409121River	Zakhidnyy Buh	6.0	0.20	Narew, Wisla	7.0																								0	1159119959
+2327	1456948	8139	River	12	409139	409139River	Yug	7.0	0.20		8.0	Yug	Q845960			Jug	Yug	Río Yug	Ioug			Jug		Jug	ユグ川	유크 강	Jug	Jug		Юг				尤克河	5	1159119977
+4314	291111	8149	River	12	409149	409149River	Maulde	7.0	0.20	Vienne	8.0	Maulde																							0	1159119995
+1978	2294484	8175	Intermittent River	11	409175	409175Intermittent River		6.7	0.20		7.7																								0	1159120013
+1922	1456948	8209	River	11	409209	409209River		6.7	0.20		7.7																								0	1159120031
+2922	1205592	8210	River	10	409210	409210River	Sakarya	6.0	0.20		7.0	Sakarya	Q217466			Sakarya	Sakarya	Río Sakarya	Sakarya	Σαγγάριος		Sakarya		Sakarya	サカリヤ川	사카리아 강	Sakarya	Sakarya	Rio Sakarya	Сакарья	Sakarya	Sakarya Nehri		萨卡里亚河	5	1159120049
+4918	1456990	8220	River	12	409220	409220River		7.0	0.20		8.0																								0	1159120067
+3491	1457128	8233	River	12	409233	409233River		7.0	0.20		8.0																								0	1159120083
+1457	566445	8261	River	12	409261	409261River		7.0	0.20		8.0																								0	1159120099
+2431	1456990	8278	River	10	409278	409278River		6.0	0.20		7.0																								0	1159120121
+1427	1456990	8284	River	10	409284	409284River	Bystraya Sosna	6.0	0.20	Don	7.0	Bystraya Sosna	Q12562791			Bystraja Sosna	Bystraya Sosna	Río Sosná	Sosna					Sosna			Bistraja Sosna			Быстрая Сосна				索斯納河	5	1159120127
+4414	2294514	8297	River	10	409297	409297River		6.0	0.20		7.0																								0	1159120153
+6414	831236	8300	River	11	409300	409300River		6.7	0.20		7.7																								0	1159120175
+3401	1413799	8303	River	10	409303	409303River		6.0	0.20		7.0																								0	1159120191
+901	566445	8311	River	10	409311	409311River	Váh	6.0	0.20		7.0	Váh	Q202598	نهر فاه		Waag	Váh	Río Váh	Váh			Vág		Váh	ヴァーフ川	바흐 강	Váh	Wag	Rio Váh	Ваг	Waag			瓦赫河	5	1159120209
+904	566445	8314	River	10	409314	409314River	Svitava	6.0	0.20		7.0	Svitava	Q45094			Svitava	Svitava		Svitava					Svitava			Svitava	Svitava		Свитава	Svitava			斯維塔瓦河	4	1159120229
+607	566445	8333	River	10	409333	409333River	Isar	6.0	0.20		7.0	Isar	Q106588	إيسار	ইসার	Isar	Isar	Río Isar	Isar	Ίσαρ		Isar		Isar	イザール川	이자르 강	Isar	Izara	Rio Isar	Изар	Isar	Isar	Sông Isar	伊萨尔河	4	1159120247
+1587	748037	8334	River	10	409334	409334River	Byarezina	6.0	0.20		7.0	Byarezina	Q207927	نهر بيريزينا		Bjaresina	Berezina	Río Berézina	Bérézina					Beresina	ベレジナ川		Berezina	Berezyna	Rio Berezina	Березина	Berezina	Berezina Nehri		别列津纳河	5	1159120265
+5587	831208	8341	River	11	409341	409341River		6.7	0.20		7.7																								0	1159120281
+5574	1457780	8348	River	12	409348	409348River		7.0	0.20		8.0																								0	1159120299
+301	1456942	8352	River	10	409352	409352River	Vyatka	6.0	0.20		7.0	Vyatka	Q192495			Wjatka	Vyatka	Río Viatka	Viatka			Vjatka		Vjatka	ヴャトカ川		Vjatka	Wiatka	Rio Vyatka	Вятка	Vjatka			維亞特卡河	5	1159120319
+303	1456942	8357	River	12	409357	409357River		7.0	0.20		8.0																								0	1159120343
+304	1456942	8358	River	12	409358	409358River		7.0	0.20		8.0																								0	1159120363
+1557	2294484	8364	Intermittent River	11	409364	409364Intermittent River		6.7	0.20		7.7																								0	1159120373
+4544	831202	8378	River	10	409378	409378River		6.0	0.20		7.0																								0	1159120399
+1531	566445	8380	River	11	409380	409380River		6.7	0.20		7.7																								0	1159120409
+6544	1414283	8381	River	10	409381	409381River		6.0	0.20		7.0																								0	1159120427
+5514	1034738	8403	River	12	409403	409403River		7.0	0.20		8.0																								0	1159120445
+1079	1456942	8431	River	11	409431	409431River		6.7	0.20		7.7																								0	1159120463
+2070	2294484	8432	River	10	409432	409432River		6.0	0.20		7.0																								0	1159120481
+5066	2294484	8450	River	11	409450	409450River		6.7	0.20		7.7																								0	1159120499
+5053	1456990	8458	River	10	409458	409458River		6.0	0.20		7.0																								0	1159120517
+1040	2294484	8460	Intermittent River	12	409460	409460Intermittent River		7.0	0.20		8.0																								0	1159120535
+4049	831224	8470	River	10	409470	409470River	Dysna	6.0	0.20		7.0	Dysna	Q432399			Dysna	Dysna								ジスナ川		Dysna	Dzisna		Дисна	Dzіsna			季斯納河	5	1159120553
+1010	2294484	8492	Intermittent River	11	409492	409492Intermittent River		6.7	0.20		7.7																								0	1159120571
+5010	291111	8501	River	11	409501	409501River	Sarthe	6.7	0.20		7.7	Sarthe	Q736600	نهر سارت		Sarthe	Sarthe	Sarthe	Sarthe	Σαρτ		Sarthe		Sarthe	サルト川		Sarthe	Sarthe	Rio Sarthe	Сарта				萨尔特河	4	1159120589
+6019	748223	8505	River	11	409505	409505River		6.7	0.20		7.7																								0	1159120607
+4006	7	8513	River	12	409513	409513River	Fulda	7.0	0.20		8.0	Fulda	Q6434	فولدا		Fulda	Fulda	Fulda	Fulda					Fulda	フルダ川	풀다 강	Fulda	Fulda	Fulda	Фульда	Fulda			富尔达河	4	1159120623
+7006	83745	8516	River	10	409516	409516River	Tay	6.0	0.20		7.0	Tay	Q19719			Tay	Tay	Tay	Tay					Tay	テイ川		Tay	Tay		Тэй	Tay			泰河	4	1159120641
+2659	291110	3971	River	11	404971	404971River	Limmat	6.7	0.20		7.7	Limmat	Q14338	ليمات		Limmat	Limmat	Limago	Limmat			Limmat		Limmat	リマト川	리마트 강	Limmat	Limmat		Лиммат	Limmat	Limmat		利馬特河	4	1159120659
+2648	291110	7752	River	11	408752	408752River	Reuss	6.7	0.20		7.7	Reuss	Q4015	نهر الرويس		Reuss	Reuss	Reuss	Reuss			Reuss		Reuss	ロイス川	로이스 강	Reuss	Reuss	Rio Reuss	Ройс	Reuss	Reuss		羅伊斯河	4	1159120677
+2474	291110	8246	River	10	409246	409246River	Thielle	6.0	0.20		7.0	Thielle	Q24792			Zihl	Thielle	Thielle	Thièle												Zihl				4	1159120695
+10	0	0	River	10	401000	401000River		6.0	0.20		7.0																								0	1159120713
+8	0	0	River	12	401000	401000River	Hvítá	7.0	0.20		8.0	Hvítá	Q410410			Hvítá	Hvítá	Río Hvitá	Hvítá			Hvítá			クヴィタ		Hvítá	Hvítá	Hvítá	Хвитау	Hvítá			惠特河	4	1159120731
+7	0	0	River	10	401000	401000River	Hvítá	6.0	0.20		7.0	Hvítá	Q1303762			Hvítá	Hvítá		Hvítá								Hvítá	Hvítá			Hvítá				3	1159120749
+6	0	0	River	11	401000	401000River	Jökulsá í Fljótsdal	6.7	0.20		7.7	Jökulsá í Fljótsdal	Q14865199			Jökulsá í Fljótsdal	Jökulsá í Fljótsdal	Jökulsá í Fljótsdal	Jökulsá í Fljótsdal								Jökulsá í Fljótsdal				Jökulsá í Fljótsdal				4	1159120767
+5	0	0	River	10	401000	401000River	Jökulsá á Brú	6.0	0.20		7.0	Jökulsá á Brú	Q1715173			Jökulsá á Brú	Jökulsá á Dal	Jökulsá á Dal	Jökulsá á Brú					Jökulsá á Dal			Jökulsá á Dal	Jökulsá á Dal		Йёкюльсау-ау-Даль					5	1159120785
+4	0	0	River	12	401000	401000River		7.0	0.20		8.0																								0	1159120801
+3	0	0	River	11	401000	401000River	Blanda	6.7	0.20		7.7	Blanda	Q593129			Blanda	Blanda	Río Blanda	Blanda			Blanda		Blandá	ブランダ		Blanda	Blanda	Blanda	Бланда	Blanda				4	1159120819
+2	0	0	River	12	401000	401000River	Héraðsvötn	7.0	0.20		8.0	Héraðsvötn	Q1642978			Héraðsvötn	Héraðsvötn	Héraðsvötn	Héraðsvötn					Héraðsvötn			Héraðsvötn	Héraðsvötn		Херадсвётн	Héraðsvötn				4	1159120833
+1	0	0	River	10	401000	401000River	Skjálfandafljót	6.0	0.20		7.0	Skjálfandafljót	Q1339368			Skjálfandafljót	Skjálfandafljót	Río Skjálfandafljót	Skjálfandafljót					Skjálfandafljót	スキャゥルファンダフリョゥト		Skjálfandafljót	Skjálfandafljót		Скьяульфандафльоут	Skjálfandafljót				4	1159120851
+0	0	0	River	12	401000	401000River	Kaldakvísl	7.0	0.20		8.0																								0	1159120865
+0	0	-832	River	10	400168	400168River		6.0	0.20		7.0																								0	1159120875
+52	0	-833	River	10	400167	400167River		6.0	0.20		7.0																								0	1159120889
+51	0	-834	River	10	400166	400166River		6.0	0.20		7.0																								0	1159120905
+51	0	-835	River	10	400165	400165River		6.0	0.20		7.0																								0	1159120923
+50	0	-836	River	12	400164	400164River		7.0	0.20		8.0																								0	1159120943
+49	0	-837	River	10	400163	400163River		6.0	0.20		7.0																								0	1159120957
+49	0	-838	River	10	400162	400162River		6.0	0.20		7.0																								0	1159120969
+48	0	-839	River	10	400161	400161River		6.0	0.20		7.0																								0	1159120987
+47	0	-840	River	10	400160	400160River		6.0	0.20		7.0																								0	1159121001
+45	0	-841	River	12	400159	400159River		7.0	0.20		8.0																								0	1159121017
+42	0	-842	River	12	400158	400158River		7.0	0.20		8.0																								0	1159121035
+42	0	-843	River	10	400157	400157River		6.0	0.20		7.0																								0	1159121053
+40	0	-844	River	10	400156	400156River		6.0	0.20		7.0																								0	1159121065
+40	0	-845	River	12	400155	400155River		7.0	0.20		8.0																								0	1159121081
+39	0	-846	River	11	400154	400154River		6.7	0.20		7.7																								0	1159121099
+38	0	-847	River	10	400153	400153River		6.0	0.20		7.0																								0	1159121117
+38	0	-848	River	10	400152	400152River		6.0	0.20		7.0																								0	1159121129
+37	0	-849	River	11	400151	400151River		6.7	0.20		7.7																								0	1159121141
+35	0	-850	River	12	400150	400150River		7.0	0.20		8.0																								0	1159121165
+34	0	-851	River	10	400149	400149River		6.0	0.20		7.0																								0	1159121173
+33	0	-852	River	12	400148	400148River		7.0	0.20		8.0																								0	1159121189
+32	0	-853	River	11	400147	400147River		6.7	0.20		7.7																								0	1159121203
+31	0	-854	River	11	400146	400146River		6.7	0.20		7.7																								0	1159121219
+25	0	-855	River	12	400145	400145River		7.0	0.20		8.0																								0	1159121235
+24	0	-856	River	12	400144	400144River		7.0	0.20		8.0																								0	1159121249
+23	0	-857	River	11	400143	400143River		6.7	0.20		7.7																								0	1159121265
+22	0	-858	River	10	400142	400142River		6.0	0.20		7.0																								0	1159121285
+22	0	-859	River	12	400141	400141River		7.0	0.20		8.0																								0	1159121301
+21	0	-860	River	10	400140	400140River		6.0	0.20		7.0																								0	1159121311
+20	0	-861	River	12	400139	400139River		7.0	0.20		8.0																								0	1159121327
+19	0	-862	River	10	400138	400138River		6.0	0.20		7.0																								0	1159121347
+19	0	-863	River	10	400137	400137River		6.0	0.20		7.0																								0	1159121361
+18	0	-864	River	10	400136	400136River		6.0	0.20		7.0																								0	1159121377
+18	0	-865	River	10	400135	400135River		6.0	0.20		7.0																								0	1159121391
+16	0	-866	River	11	400134	400134River		6.7	0.20		7.7																								0	1159121411
+15	0	-867	River	11	400133	400133River		6.7	0.20		7.7																								0	1159121419
+13	0	-868	River	11	400132	400132River		6.7	0.20		7.7																								0	1159121443
+12	0	-869	River	10	400131	400131River		6.0	0.20		7.0																								0	1159121451
+12	0	-870	River	11	400130	400130River		6.7	0.20		7.7																								0	1159121473
+11	0	-871	River	12	400129	400129River		7.0	0.20		8.0																								0	1159121489
+11	0	-872	River	10	400128	400128River		6.0	0.20		7.0																								0	1159121503
+7	0	-873	River	12	400127	400127River		7.0	0.20		8.0																								0	1159121519
+7	0	-874	River	10	400126	400126River		6.0	0.20		7.0																								0	1159121535
+7	0	-875	River	12	400125	400125River		7.0	0.20		8.0																								0	1159121549
+6	0	-876	River	10	400124	400124River		6.0	0.20		7.0																								0	1159121563
+6	0	-877	River	11	400123	400123River		6.7	0.20		7.7																								0	1159121579
+4	0	-878	River	10	400122	400122River		6.0	0.20		7.0																								0	1159121595
+1	0	-879	River	10	400121	400121River		6.0	0.20		7.0																								0	1159121611
+0	0	-880	River	11	400120	400120River		6.7	0.20		7.7																								0	1159121627
+0	0	-881	River	10	400119	400119River		6.0	0.20		7.0																								0	1159121639
+0	0	-882	River	11	400118	400118River		6.7	0.20		7.7																								0	1159121659
+0	0	-883	River	10	400117	400117River		6.0	0.20		7.0																								0	1159121667
+0	0	-884	River	10	400116	400116River		6.0	0.20		7.0																								0	1159121681
+0	0	-885	River	10	400115	400115River		6.0	0.20		7.0																								0	1159121705
+0	0	-886	River	12	400114	400114River		7.0	0.20		8.0																								0	1159121713
+0	0	-887	River	10	400113	400113River		6.0	0.20		7.0																								0	1159121729
+0	0	-888	River	12	400112	400112River		7.0	0.20		8.0																								0	1159121741
+0	0	-889	River	10	400111	400111River		6.0	0.20		7.0																								0	1159121757
+0	0	-890	River	12	400110	400110River		7.0	0.20		8.0																								0	1159121773
+0	0	-891	River	10	400109	400109River		6.0	0.20		7.0																								0	1159121789
+0	0	-892	River	10	400108	400108River		6.0	0.20		7.0																								0	1159121805
+0	0	-893	River	11	400107	400107River		6.7	0.20		7.7																								0	1159121815
+0	0	-894	River	12	400106	400106River		7.0	0.20		8.0																								0	1159121831
+0	0	-895	River	10	400105	400105River		6.0	0.20		7.0																								0	1159121845
+33	0	-896	River	10	400104	400104River		6.0	0.20		7.0																								0	1159121861
+1687	1456948	34	Lake Centerline	10	401034	401034Lake Centerline	Sukhona	6.0	0.20	Northern Dvina	7.0	Sukhona	Q82812			Suchona	Sukhona	Río Sújona	Soukhona			Szuhona		Suchona	スホナ川		Soechona	Suchona		Сухона				蘇霍納河	5	1159121869
+1687	1456948	34	Lake Centerline	10	401034	401034Lake Centerline	Sukhona	6.0	0.20	Northern Dvina	7.0	Sukhona	Q82812			Suchona	Sukhona	Río Sújona	Soukhona			Szuhona		Suchona	スホナ川		Soechona	Suchona		Сухона				蘇霍納河	5	1159121885
+3136	1456990	175	Lake Centerline	10	401175	401175Lake Centerline	Ilovlya	6.0	0.20		7.0	Ilovlya	Q2557120			Ilowlja	Ilovlya	Río Ilovlia						Ilovlja	イローヴリャ川		Ilovlya			Иловля				伊洛夫利亞河	5	1159121911
+6774	831462	254	Lake Centerline	11	401254	401254Lake Centerline	Ahtavan	6.7	0.20		7.7																								0	1159121923
+328	2294484	271	Lake Centerline	11	401271	401271Lake Centerline		6.7	0.20		7.7																								0	1159121941
+1279	1456942	339	Lake Centerline	11	401339	401339Lake Centerline		6.7	0.20		7.7																								0	1159121955
+936	1456942	433	Lake Centerline	11	401433	401433Lake Centerline		6.7	0.20		7.7																								0	1159121975
+337	1456942	482	Lake Centerline	11	401482	401482Lake Centerline		6.7	0.20		7.7																								0	1159121989
+2831	1348536	498	Lake Centerline	10	401498	401498Lake Centerline	Hrazdan	6.0	0.20		7.0	Hrazdan	Q30548			Hrasdan	Hrazdan	Río Hrazdan	Hrazdan	Ποταμός Ραζντάν		Hrazdan		fiume Hrazdan	フラズダン川		Hrazdan	Hrazdan		Раздан	Hrazdan	Hrazdan Nehri		賀拉茲丹河	5	1159122003
+2306	748037	631	Lake Centerline	10	401631	401631Lake Centerline		6.0	0.20		7.0																								0	1159122019
+345	1456942	690	Lake Centerline	11	401690	401690Lake Centerline		6.7	0.20		7.7																								0	1159122035
+2931	831202	711	Lake Centerline	11	401711	401711Lake Centerline		6.7	0.20		7.7																								0	1159122057
+2931	831202	711	Lake Centerline	11	401711	401711Lake Centerline		6.7	0.20		7.7																								0	1159122067
+6931	83773	716	Lake Centerline	10	401716	401716Lake Centerline	Annalee	6.0	0.20	Erne	7.0	Annalee	Q11958206				Annalee																		5	1159122083
+4423	1034724	824	Lake Centerline	11	401824	401824Lake Centerline	Otta	6.7	0.20		7.7	Otta	Q1808066			Otta	Otta		Otta								Otta		Rio Otta	Отта	Otta				4	1159122101
+2419	1456942	833	Lake Centerline	10	401833	401833Lake Centerline		6.0	0.20		7.0																								0	1159122119
+4406	831212	848	Lake Centerline	12	401848	401848Lake Centerline		7.0	0.20		8.0																								0	1159122137
+354	1456942	877	Lake Centerline	11	401877	401877Lake Centerline		6.7	0.20		7.7																								0	1159122151
+4540	831212	940	Lake Centerline	12	401940	401940Lake Centerline		7.0	0.20		8.0																								0	1159122163
+5536	831242	955	Lake Centerline	10	401955	401955Lake Centerline		6.0	0.20		7.0																								0	1159122181
+5536	831242	955	Lake Centerline	10	401955	401955Lake Centerline		6.0	0.20		7.0																								0	1159122197
+364	1456942	1095	Lake Centerline	12	402095	402095Lake Centerline		7.0	0.20		8.0																								0	1159122211
+2679	1456942	1129	Lake Centerline	11	402129	402129Lake Centerline		6.7	0.20		7.7																								0	1159122227
+5115	831252	1269	Lake Centerline	12	402269	402269Lake Centerline	Hossanj	7.0	0.20	Emaj, Oulujoki	8.0																								0	1159122243
+5115	831252	1269	Lake Centerline	12	402269	402269Lake Centerline	Hossanj	7.0	0.20	Emaj, Oulujoki	8.0																								0	1159122259
+6115	831242	1270	Lake Centerline	11	402270	402270Lake Centerline		6.7	0.20		7.7																								0	1159122275
+2749	1457128	1366	Lake Centerline	11	402366	402366Lake Centerline		6.7	0.20		7.7																								0	1159122281
+5232	1034723	1463	Lake Centerline	11	402463	402463Lake Centerline	Faxa	6.7	0.20		7.7																								0	1159122301
+5232	1034723	1463	Lake Centerline	11	402463	402463Lake Centerline	Faxa	6.7	0.20		7.7																								0	1159122313
+1836	1456948	1585	Lake Centerline	11	402585	402585Lake Centerline		6.7	0.20		7.7																								0	1159122323
+1362	1456942	1643	Lake Centerline	10	402643	402643Lake Centerline		6.0	0.20		7.0																								0	1159122341
+5315	831270	1689	Lake Centerline	10	402689	402689Lake Centerline	Kokemäenjoki	6.0	0.20		7.0	Kokemäenjoki	Q1329599	كوكيماينيوكي		Kokemäenjoki	Kokemäenjoki		Kokemäenjoki					Kokemäenjoki	コケマエンヨキ		Kokemäenjoki	Kokemäenjoki		Кокемяэнйоки	Kumo älv	Kokemäenjoki		科凱邁基河	5	1159122353
+5315	831270	1689	Lake Centerline	10	402689	402689Lake Centerline	Kokemäenjoki	6.0	0.20		7.0	Kokemäenjoki	Q1329599	كوكيماينيوكي		Kokemäenjoki	Kokemäenjoki		Kokemäenjoki					Kokemäenjoki	コケマエンヨキ		Kokemäenjoki	Kokemäenjoki		Кокемяэнйоки	Kumo älv	Kokemäenjoki		科凱邁基河	5	1159122383
+691	1456942	1712	Lake Centerline	11	402712	402712Lake Centerline		6.7	0.20		7.7																								0	1159122399
+394	1456942	1725	Lake Centerline	10	402725	402725Lake Centerline		6.0	0.20		7.0																								0	1159122415
+6475	129534	1854	Lake Centerline	10	402854	402854Lake Centerline	Morača	6.0	0.20	Bojana	7.0	Morača	Q157736			Morača	Morača	Río Morača	Morača			Morača		Morača			Morača	Morača	Rio Moraca	Морача	Morača			莫拉查河	5	1159122431
+1558	2294484	1950	Lake Centerline	11	402950	402950Lake Centerline		6.7	0.20		7.7																								0	1159122445
+5558	2294493	1954	Lake Centerline	10	402954	402954Lake Centerline		6.0	0.20		7.0																								0	1159122461
+6558	1034734	1955	Lake Centerline	11	402955	402955Lake Centerline	Namsen	6.7	0.20		7.7	Namsen	Q1518561			Namsen	Namsen	Río Namsen	Namsen					Namsen			Namsen			Намсен	Namsen				4	1159122471
+4502	1034727	1992	Lake Centerline	11	402992	402992Lake Centerline	Torne	6.7	0.20		7.7	Torne	Q121538			Torne älv	Torne	Río Torne	Torne			Tornionjoki		Torne	トルネ川		Torne älv	Torne	Rio Torne	Турнеэльвен	Torne älv	Torne Nehri		托尔讷河	5	1159122487
+2688	831202	2085	Lake Centerline	10	403085	403085Lake Centerline	Msta	6.0	0.20	Volkhov, Ladoga	7.0	Msta	Q1139404			Msta	Msta	Río Msta	Msta					Msta	ムスタ川		Msta	Msta	Rio Msta	Мста				姆斯塔河	5	1159122497
+3154	831202	2180	Lake Centerline	12	403180	403180Lake Centerline		7.0	0.20		8.0																								0	1159122509
+3154	831202	2180	Lake Centerline	12	403180	403180Lake Centerline		7.0	0.20		8.0																								0	1159122525
+3154	831202	2180	Lake Centerline	12	403180	403180Lake Centerline		7.0	0.20		8.0																								0	1159122539
+3124	1413799	2205	Lake Centerline	10	403205	403205Lake Centerline		6.0	0.20		7.0																								0	1159122551
+6775	831239	2246	Lake Centerline	10	403246	403246Lake Centerline		6.0	0.20		7.0																								0	1159122567
+6775	831239	2246	Lake Centerline	10	403246	403246Lake Centerline		6.0	0.20		7.0																								0	1159122577
+6775	831239	2246	Lake Centerline	10	403246	403246Lake Centerline		6.0	0.20		7.0																								0	1159122599
+1762	1456948	2247	Lake Centerline	12	403247	403247Lake Centerline		7.0	0.20		8.0																								0	1159122617
+1224	1413799	2349	Lake Centerline	12	403349	403349Lake Centerline		7.0	0.20		8.0																								0	1159122625
+2888	4	2383	Lake Centerline	10	403383	403383Lake Centerline	Usha	6.0	0.20	Nyoman	7.0	Usha	Q661778			Uša	Usha		Oucha								Usha	Usza		Уша				烏沙河	3	1159122641
+4988	1034751	2535	Lake Centerline	11	403535	403535Lake Centerline		6.7	0.20		7.7																								0	1159122665
+4988	1034751	2535	Lake Centerline	11	403535	403535Lake Centerline		6.7	0.20		7.7																								0	1159122677
+5524	1034740	2759	Lake Centerline	10	403759	403759Lake Centerline	Ljungan	6.0	0.20		7.0	Ljungan	Q949042	نهر ليونغان		Ljungan	Ljungan	Río Ljungan	Ljungan					Ljungan			Ljungan	Ljungan	Ljungan	Юнган	Ljungan			永安河	4	1159122701
+5089	1034751	2797	Lake Centerline	10	403797	403797Lake Centerline		6.0	0.20		7.0																								0	1159122707
+6046	831212	2840	Lake Centerline	11	403840	403840Lake Centerline		6.7	0.20		7.7																								0	1159122727
+114	1456942	2946	Lake Centerline	10	403946	403946Lake Centerline	Mologa	6.0	0.20		7.0	Mologa	Q1133858			Mologa	Mologa	Río Mologa	Mologa					Mologa	モロガ川		Mologa	Mołoga		Молога	Mologa			莫洛加河	5	1159122747
+117	1456942	2953	Lake Centerline	11	403953	403953Lake Centerline		6.7	0.20		7.7																								0	1159122755
+3611	831202	2971	Lake Centerline	11	403971	403971Lake Centerline	Shelon	6.7	0.20		7.7	Shelon	Q1047568			Schelon	Shelon	Río Shelón	Chelon					Šelon	シェロニ川	셸론 강	Sjelon		Rio Shelon	Шелонь	Sjelon			舍隆河	5	1159122769
+7289	748223	3210	Lake Centerline	11	404210	404210Lake Centerline		6.7	0.20		7.7																								0	1159122783
+5220	831210	3266	Lake Centerline	11	404266	404266Lake Centerline	Kem	6.7	0.20		7.7	Kem	Q1130713			Kem	Kem	Río Kem	Kem					Kem'	ケミ川		Kem	Kiem		Кемь	Kem			科恩河	5	1159122797
+6229	1034740	3272	Lake Centerline	11	404272	404272Lake Centerline		6.7	0.20		7.7																								0	1159122815
+2884	1456942	3308	Lake Centerline	12	404308	404308Lake Centerline		7.0	0.20		8.0																								0	1159122831
+4380	831209	3402	Lake Centerline	11	404402	404402Lake Centerline	Kitinen	6.7	0.20		7.7	Kitinen	Q1743887			Kitinen	Kitinen		Kitinen						キティネン川		Kitinen	Kitinen			Kitinen			基蒂宁河	4	1159122847
+5333	1034751	3457	Lake Centerline	11	404457	404457Lake Centerline		6.7	0.20		7.7																								0	1159122853
+4320	831220	3466	Lake Centerline	12	404466	404466Lake Centerline		7.0	0.20		8.0																								0	1159122869
+4320	831220	3466	Lake Centerline	12	404466	404466Lake Centerline		7.0	0.20		8.0																								0	1159122877
+1316	566445	3472	Lake Centerline	10	404472	404472Lake Centerline	Zala	6.0	0.20	Sio	7.0	Zala	Q144928			Zala	Zala	Río Zala	Zala			Zala	Sungai Zala	Zala	ザラ川	절러 강	Zala	Zala		Зала	Zala	Zala Nehri		佐洛河	4	1159122899
+2967	831202	3533	Lake Centerline	12	404533	404533Lake Centerline		7.0	0.20		8.0																								0	1159122917
+2937	831202	3564	Lake Centerline	10	404564	404564Lake Centerline		6.0	0.20		7.0																								0	1159122931
+2937	831202	3564	Lake Centerline	10	404564	404564Lake Centerline		6.0	0.20		7.0																								0	1159122943
+2937	831202	3564	Lake Centerline	10	404564	404564Lake Centerline		6.0	0.20		7.0																								0	1159122959
+5937	1034747	3568	Lake Centerline	10	404568	404568Lake Centerline	Begna	6.0	0.20	Dokka, Dramselva	7.0	Begna	Q792016			Begna	Begna		Begna			Begna					Begna				Begna				5	1159122977
+155	1456942	3720	Lake Centerline	12	404720	404720Lake Centerline	Shosha	7.0	0.20		8.0	Shosha	Q175612			Schoscha	Shosha	Río Shosha	Chocha					Šoša	ショーシャ川	쇼샤 강	Sjosja	Szosza		Шоша				紹沙河	5	1159122995
+6533	748934	3788	Lake Centerline	10	404788	404788Lake Centerline		6.0	0.20		7.0																								0	1159123013
+461	1456942	3913	Lake Centerline	10	404913	404913Lake Centerline	Vetluga	6.0	0.20		7.0	Vetluga	Q467419			Wetluga	Vetluga	Río Vetluga	Vetlouga			Vetluga		Vetluga	ヴェトルガ川	베틀루가 강	Vetloega	Wietługa		Ветлуга				韋特盧加河	5	1159123025
+3646	831202	3983	Lake Centerline	12	404983	404983Lake Centerline		7.0	0.20		8.0																								0	1159123043
+4185	831220	4034	Lake Centerline	10	405034	405034Lake Centerline	Kymijoki	6.0	0.20		7.0	Kymijoki	Q890526			Kymijoki	Kymi	Río Kymi	Kymijoki					Kymijoki	キュミ川		Kymijoki	Kymijoki	Rio Kymi	Кюмийоки	Kymmene älv			屈米河	5	1159123061
+4185	831220	4034	Lake Centerline	12	405034	405034Lake Centerline	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159123081
+6125	831210	4084	Lake Centerline	11	405084	405084Lake Centerline		6.7	0.20		7.7																								0	1159123097
+5298	831202	4227	Lake Centerline	11	405227	405227Lake Centerline		6.7	0.20		7.7																								0	1159123117
+5298	831202	4227	Lake Centerline	11	405227	405227Lake Centerline		6.7	0.20		7.7																								0	1159123123
+488	2294484	4320	Lake Centerline	11	405320	405320Lake Centerline	Tohma	6.7	0.20		7.7																								0	1159123139
+180	1456942	4322	Lake Centerline	11	405322	405322Lake Centerline		6.7	0.20		7.7																								0	1159123155
+2803	748037	4416	Lake Centerline	11	405416	405416Lake Centerline		6.7	0.20		7.7																								0	1159123171
+6385	2294493	4437	Lake Centerline	11	405437	405437Lake Centerline		6.7	0.20		7.7																								0	1159123187
+3372	1348536	4440	Lake Centerline	10	405440	405440Lake Centerline	Alazani	6.0	0.20		7.0	Alazani	Q212795			Alasani	Alazani	Río Alazani	Alazani			Alazani		Alazani	アラザニ川	알라자니 강	Alazani	Alazani		Алазани	Alazani	Alazani		阿拉扎尼河	4	1159123199
+793	1456942	4506	Lake Centerline	11	405506	405506Lake Centerline		6.7	0.20		7.7																								0	1159123215
+5916	831220	4613	Lake Centerline	11	405613	405613Lake Centerline		6.7	0.20		7.7																								0	1159123225
+5916	831220	4613	Lake Centerline	11	405613	405613Lake Centerline		6.7	0.20		7.7																								0	1159123237
+3485	1034751	4632	Lake Centerline	12	405632	405632Lake Centerline	Göta	7.0	0.20		8.0	Göta	Q214748	جوتا		Göta älv	Göta älv	Río Göta	Göta älv			Göta-folyó		Göta älv	イェータ川	예타 강	Göta älv	Göta älv	Göta älv	Гёта-Эльв	Göta älv	Göta älv	Sông Göta	约塔河	5	1159123253
+6485	831239	4637	Lake Centerline	11	405637	405637Lake Centerline		6.7	0.20		7.7																								0	1159123271
+5472	831270	4642	Lake Centerline	12	405642	405642Lake Centerline		7.0	0.20		8.0																								0	1159123285
+5468	831270	4650	Lake Centerline	11	405650	405650Lake Centerline		6.7	0.20		7.7																								0	1159123297
+5468	831270	4650	Lake Centerline	11	405650	405650Lake Centerline		6.7	0.20		7.7																								0	1159123309
+4438	831209	4673	Lake Centerline	12	405673	405673Lake Centerline		7.0	0.20		8.0																								0	1159123327
+4438	831209	4673	Lake Centerline	12	405673	405673Lake Centerline		7.0	0.20		8.0																								0	1159123339
+5585	1034751	4713	Lake Centerline	10	405713	405713Lake Centerline		6.0	0.20		7.0																								0	1159123357
+5585	1034751	4713	Lake Centerline	10	405713	405713Lake Centerline		6.0	0.20		7.0																								0	1159123375
+2568	748037	4724	Lake Centerline	10	405724	405724Lake Centerline		6.0	0.20		7.0																								0	1159123379
+2525	748037	4752	Lake Centerline	11	405752	405752Lake Centerline		6.7	0.20		7.7																								0	1159123395
+4642	831211	4895	Lake Centerline	10	405895	405895Lake Centerline	Vyg	6.0	0.20	Выг	7.0	Vyg	Q1506596			Wyg	Vyg	Río Vyg						Vyg	ヴイグ川		Vig	Wyg		Выг				維格河	5	1159123411
+4612	442364	4916	Lake Centerline	10	405916	405916Lake Centerline	Tiétar	6.0	0.20		7.0	Tiétar	Q16661			Tiétar	Tiétar	Tiétar	Tiétar					Tiétar	ティエタル川		Tiétar		Rio Tiétar		Río Tiétar			鐵塔爾河	5	1159123431
+5177	1205772	4947	Lake Centerline	12	405947	405947Lake Centerline	Aksu	7.0	0.20		8.0	Aksu	Q421630			Aksu Çayı	Aksu	Río Aksu	Aksu Nehri					Aksu Nehri						Аксу		Aksu Çayı			5	1159123445
+5177	1205772	4947	Lake Centerline	12	405947	405947Lake Centerline	Aksu	7.0	0.20		8.0	Aksu	Q421630			Aksu Çayı	Aksu	Río Aksu	Aksu Nehri					Aksu Nehri						Аксу		Aksu Çayı			5	1159123461
+6294	1034752	5082	Lake Centerline	12	406082	406082Lake Centerline		7.0	0.20		8.0																								0	1159123477
+6294	1034752	5082	Lake Centerline	12	406082	406082Lake Centerline		7.0	0.20		8.0																								0	1159123495
+2277	2294484	5093	Lake Centerline	10	406093	406093Lake Centerline		6.0	0.20		7.0																								0	1159123507
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123525
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123543
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123561
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123575
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123591
+3234	6	5125	Lake Centerline	10	406125	406125Lake Centerline	Spree	6.0	0.20	Havel	7.0	Spree	Q1684	نهر شبريه		Spree	Spree	río Spree	Spree	Σπρέε		Spree	Spree	Sprea	シュプレー川	슈프레 강	Spree	Sprewa	Rio Spree	Шпре	Spree	Spree	Spree	施普雷河	4	1159123607
+3394	1348536	5228	Lake Centerline	11	406228	406228Lake Centerline	Iori	6.7	0.20		7.7	Iori	Q163384			Iori	Iori	Río Iori	Iori			Iori		Iori	イオリ川	이오리 강	Iori	Iori		Иори	Iori			約里河	5	1159123621
+2998	831202	5307	Lake Centerline	11	406307	406307Lake Centerline		6.7	0.20		7.7																								0	1159123633
+4985	1034722	5316	Lake Centerline	11	406316	406316Lake Centerline	Stora Lule	6.7	0.20	Lule	7.7	Stora Lule	Q857676			Lule älv	Lule	Río Lule	Luleälven			Luleälven		Lule	ルーレ川	룰 강	Lule älv	Luleälven	Luleälven	Лулеэльвен	Lule älv			吕勒河	5	1159123647
+5908	831222	5373	Lake Centerline	11	406373	406373Lake Centerline		6.7	0.20		7.7																								0	1159123663
+5421	831224	5436	Lake Centerline	10	406436	406436Lake Centerline	Aiviekste	6.0	0.20		7.0	Aiviekste	Q176087			Aiviekste	Aiviekste		Aiviekste					Aiviekste			Aiviekste	Ewikszta	Rio Aiviekste	Айвиексте	Aiviekste			艾維埃克斯泰河	5	1159123675
+4577	1034723	5493	Lake Centerline	11	406493	406493Lake Centerline	Vojmån	6.7	0.20	Angerman	7.7	Vojmån	Q2530569			Vojmån															Vojmån				5	1159123693
+4577	1034723	5493	Lake Centerline	11	406493	406493Lake Centerline	Vojmån	6.7	0.20	Angerman	7.7	Vojmån	Q2530569			Vojmån															Vojmån				5	1159123713
+2521	2294484	5537	Lake Centerline	11	406537	406537Lake Centerline		6.7	0.20		7.7																								0	1159123727
+4504	2294484	5557	Lake Centerline	11	406557	406557Lake Centerline		6.7	0.20		7.7																								0	1159123745
+3073	831202	5585	Lake Centerline	12	406585	406585Lake Centerline		7.0	0.20		8.0																								0	1159123755
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159123773
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159123789
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159123811
+4717	831220	5968	Lake Centerline	12	406968	406968Lake Centerline	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159123825
+1273	1413799	5999	Lake Centerline	11	406999	406999Lake Centerline		6.7	0.20		7.7																								0	1159123843
+2256	1456942	6026	Lake Centerline	11	407026	407026Lake Centerline		6.7	0.20		7.7																								0	1159123853
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159123903
+3309	2294484	6294	Lake Centerline	11	407294	407294Lake Centerline		6.7	0.20		7.7																								0	1159123917
+5947	831232	6373	Lake Centerline	11	407373	407373Lake Centerline		6.7	0.20		7.7																								0	1159123931
+253	1456942	6538	Lake Centerline	12	407538	407538Lake Centerline		7.0	0.20		8.0																								0	1159123943
+6513	831314	6632	Lake Centerline	12	407632	407632Lake Centerline		7.0	0.20		8.0																								0	1159123953
+266	1456942	6756	Lake Centerline	11	407756	407756Lake Centerline		6.7	0.20		7.7																								0	1159123965
+2686	2294484	6775	Lake Centerline	12	407775	407775Lake Centerline		7.0	0.20		8.0																								0	1159123987
+2609	831202	6848	Lake Centerline	10	407848	407848Lake Centerline	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159123993
+2609	831202	6848	Lake Centerline	10	407848	407848Lake Centerline	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159124007
+2609	831202	6848	Lake Centerline	10	407848	407848Lake Centerline	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159124019
+2609	831202	6848	Lake Centerline	10	407848	407848Lake Centerline	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159124033
+5609	748037	6854	Lake Centerline	10	407854	407854Lake Centerline		6.0	0.20		7.0																								0	1159124045
+3178	1460380	6875	Lake Centerline	10	407875	407875Lake Centerline		6.0	0.20		7.0																								0	1159124055
+5148	831252	6900	Lake Centerline	11	407900	407900Lake Centerline		6.7	0.20		7.7																								0	1159124075
+5148	831252	6900	Lake Centerline	11	407900	407900Lake Centerline		6.7	0.20		7.7																								0	1159124111
+5148	831252	6900	Lake Centerline	11	407900	407900Lake Centerline		6.7	0.20		7.7																								0	1159124127
+5148	831252	6900	Lake Centerline	11	407900	407900Lake Centerline		6.7	0.20		7.7																								0	1159124143
+3135	831202	6905	Lake Centerline	12	407905	407905Lake Centerline		7.0	0.20		8.0																								0	1159124159
+3135	831202	6905	Lake Centerline	12	407905	407905Lake Centerline		7.0	0.20		8.0																								0	1159124173
+6739	831372	7035	Lake Centerline	11	408035	408035Lake Centerline		6.7	0.20		7.7																								0	1159124189
+6739	831372	7035	Lake Centerline	11	408035	408035Lake Centerline		6.7	0.20		7.7																								0	1159124199
+5700	1034722	7057	Lake Centerline	11	408057	408057Lake Centerline	Lilla Lule	6.7	0.20		7.7																								0	1159124221
+3265	748037	7089	Lake Centerline	10	408089	408089Lake Centerline		6.0	0.20		7.0																								0	1159124237
+2218	748037	7128	Lake Centerline	10	408128	408128Lake Centerline	Teteriv	6.0	0.20		7.0	Teteriv	Q162741			Teteriw	Teteriv	Río Teteriv	Teteriv					Teteriv			Teteriv	Teterew		Тетерев				捷捷列夫河	4	1159124251
+5956	1034895	7427	Lake Centerline	10	408427	408427Lake Centerline		6.0	0.20		7.0																								0	1159124263
+6926	831243	7456	Lake Centerline	10	408456	408456Lake Centerline		6.0	0.20		7.0																								0	1159124275
+6926	831243	7456	Lake Centerline	10	408456	408456Lake Centerline		6.0	0.20		7.0																								0	1159124291
+5495	831208	7483	Lake Centerline	10	408483	408483Lake Centerline	Patsoyoki	6.0	0.20		7.0	Patsoyoki	Q524612	باتسجوكي		Paatsjoki	Paatsjoki	Río Pasvikelva	Paatsjoki			Paatsjoki		Paatsjoki	パーツヨキ川		Pasvikelva	Paatsjoki	Rio Paatsjoki	Паз	Pasvik älv			帕茨河	5	1159124307
+5482	831222	7491	Lake Centerline	10	408491	408491Lake Centerline	Emajõgi	6.0	0.20		7.0	Emajõgi	Q215378			Emajõgi	Emajõgi	Emajõgi	Emajõgi			Emajõgi		Emajõgi		에마여기 강	Emajõgi	Emajõgi	Rio Emajõgi	Эмайыги	Emajõgi	Emajõgi		埃馬約吉河	5	1159124323
+3405	2	7554	Lake Centerline	11	408554	408554Lake Centerline		6.7	0.20		7.7																								0	1159124335
+5565	831242	7586	Lake Centerline	12	408586	408586Lake Centerline		7.0	0.20		8.0																								0	1159124353
+5565	831242	7586	Lake Centerline	12	408586	408586Lake Centerline		7.0	0.20		8.0																								0	1159124361
+2505	2294484	7628	Lake Centerline	12	408628	408628Lake Centerline		7.0	0.20		8.0																								0	1159124379
+2074	1456942	7651	Lake Centerline	10	408651	408651Lake Centerline		6.0	0.20		7.0																								0	1159124389
+1061	1456942	7658	Lake Centerline	10	408658	408658Lake Centerline		6.0	0.20		7.0																								0	1159124407
+3652	1456990	7746	Lake Centerline	10	408746	408746Lake Centerline	Chyr	6.0	0.20		7.0	Chyr	Q71122			Tschir	Chir	Río Chir	Tchir					Čir			Tsjir			Чир	Tjir			奇爾河	5	1159124417
+3127	831202	7843	Lake Centerline	11	408843	408843Lake Centerline		6.7	0.20		7.7																								0	1159124431
+6101	1034752	7861	Lake Centerline	11	408861	408861Lake Centerline		6.7	0.20		7.7																								0	1159124449
+1765	2294484	7884	Lake Centerline	10	408884	408884Lake Centerline		6.0	0.20		7.0																								0	1159124465
+5765	1034749	7889	Lake Centerline	10	408889	408889Lake Centerline	Svartån	6.0	0.20	Arbogaan	7.0	Svartån	Q1720622			Svartån	Svartån														Svartån				5	1159124473
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159124487
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159124501
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159124513
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159124525
+6882	83746	8026	Lake Centerline	10	409026	409026Lake Centerline	Blackwater	6.0	0.20	Bann	7.0	Blackwater	Q3778034				Blackwater											Blackwater							5	1159124541
+3401	1413799	8303	Lake Centerline	10	409303	409303Lake Centerline		6.0	0.20		7.0																								0	1159124551
+5587	831208	8341	Lake Centerline	11	409341	409341Lake Centerline		6.7	0.20		7.7																								0	1159124565
+4544	831202	8378	Lake Centerline	10	409378	409378Lake Centerline		6.0	0.20		7.0																								0	1159124573
+5514	1034738	8403	Lake Centerline	12	409403	409403Lake Centerline		7.0	0.20		8.0																								0	1159124585
+1079	1456942	8431	Lake Centerline	11	409431	409431Lake Centerline		6.7	0.20		7.7																								0	1159124591
+6019	748223	8505	Lake Centerline	11	409505	409505Lake Centerline		6.7	0.20		7.7																								0	1159124603
+3449	1457725	802	Lake Centerline	11	401802	401802Lake Centerline		6.7	0.20		7.7																								0	1159124617
+6585	129662	4715	Lake Centerline	10	405715	405715Lake Centerline	Reno	6.0	0.20		7.0	Reno	Q658594			Reno	Reno	Reno	Reno	Ρένο				Reno	レーノ川		Reno	Reno		Рено				雷諾河	4	1159124629
+5064	1413826	4807	Lake Centerline	12	405807	405807Lake Centerline		7.0	0.20		8.0																								0	1159124641
+1938	2294484	5348	Lake Centerline	10	406348	406348Lake Centerline		6.0	0.20		7.0																								0	1159124655
+6200	1413916	6083	Lake Centerline	11	407083	407083Lake Centerline		6.7	0.20		7.7																								0	1159124671
+3665	2294484	7739	Lake Centerline	10	408739	408739Lake Centerline		6.0	0.20		7.0																								0	1159124685
+3665	2294484	7739	Lake Centerline	10	408739	408739Lake Centerline		6.0	0.20		7.0																								0	1159124699
+3805	1413826	8078	Lake Centerline	12	409078	409078Lake Centerline		7.0	0.20		8.0																								0	1159124711
+4657	1205570	71	Lake Centerline	10	401071	401071Lake Centerline	Tundzha	6.0	0.20		7.0	Tundzha	Q731777			Tundscha	Tundzha	Río Tundzha	Toundja			Tundzsa		Tundža	トゥンジャ	툰자 강	Toendzja	Tundża		Тунджа	Tundzja	Tunca Nehri		登萨河	4	1159124725
+6657	50	74	Lake Centerline	11	401074	401074Lake Centerline		6.7	0.20		7.7																								0	1159124739
+6657	50	74	Lake Centerline	11	401074	401074Lake Centerline		6.7	0.20		7.7																								0	1159124749
+3614	2294484	98	Lake Centerline	11	401098	401098Lake Centerline		6.7	0.20		7.7																								0	1159124761
+4791	1034724	230	Lake Centerline	12	401230	401230Lake Centerline	Rena	7.0	0.20		8.0	Rena	Q1364212			Renaelva	Renaelva		Renaelva								Renaelva								5	1159124771
+2774	1413804	247	Lake Centerline	11	401247	401247Lake Centerline		6.7	0.20		7.7																								0	1159124785
+6774	831462	254	Lake Centerline	11	401254	401254Lake Centerline	Ahtavan	6.7	0.20		7.7																								0	1159124799
+326	1456942	266	Lake Centerline	11	401266	401266Lake Centerline		6.7	0.20		7.7																								0	1159124811
+2714	566445	299	Lake Centerline	12	401299	401299Lake Centerline	Levi Iskar	7.0	0.20	Iskar	8.0	Levi Iskar	Q217805	نهر اسكر		Iskar	Iskar	Río Iskar	Iskar			Iszker		Iskăr	イスクル川	이스커르 강	Iskar	Iskyr	Rio Iskar	Искыр	Iskăr	İskar Nehri		伊斯克爾河	5	1159124831
+936	1456942	433	Lake Centerline	11	401433	401433Lake Centerline		6.7	0.20		7.7																								0	1159124843
+22	1456942	528	Lake Centerline	11	401528	401528Lake Centerline	Volga	6.7	0.20		7.7	Volga	Q626	فولغا	ভোলগা নদী	Wolga	Volga	Volga	Volga	Βόλγας	वोल्गा नदी	Volga	Sungai Volga	Volga	ヴォルガ川	볼가 강	Wolga	Wołga	Rio Volga	Волга	Volga	Volga Nehri	Sông Volga	伏尔加河	4	1159124855
+3961	442352	685	Lake Centerline	10	401685	401685Lake Centerline	Esla	6.0	0.20		7.0	Esla	Q14764			Esla	Esla	Esla	Esla					Esla	エルサ川		Esla		Rio Esla	Эсла	Eslafloden			埃斯拉河	5	1159124869
+2931	831202	711	Lake Centerline	11	401711	401711Lake Centerline		6.7	0.20		7.7																								0	1159124885
+6931	83773	716	Lake Centerline	10	401716	401716Lake Centerline	Annalee	6.0	0.20	Erne	7.0	Annalee	Q11958206				Annalee																		5	1159124893
+3449	1457725	802	Lake Centerline	11	401802	401802Lake Centerline		6.7	0.20		7.7																								0	1159124907
+3449	1457725	802	Lake Centerline	11	401802	401802Lake Centerline		6.7	0.20		7.7																								0	1159124921
+4406	831212	848	Lake Centerline	12	401848	401848Lake Centerline		7.0	0.20		8.0																								0	1159124939
+4579	748037	915	Lake Centerline	10	401915	401915Lake Centerline		6.0	0.20		7.0																								0	1159124951
+4536	1034736	954	Lake Centerline	10	401954	401954Lake Centerline	Vindel	6.0	0.20	Umea	7.0	Vindel	Q1272368			Vindelälven	Vindel	Río Vindel	Vindelälven			Vindelälven			ビンデル川		Vindelälven		Vindelälven		Vindelälven			溫德爾河	5	1159124969
+51	1456942	1102	Lake Centerline	12	402102	402102Lake Centerline	Belaya	7.0	0.20		8.0	Belaya	Q192157	نهر بيلايا		Belaja	Belaya	Río Bélaya	Belaïa	Ποταμός Μπελάγια		Belaja		Belaja	ベラヤ川	벨라야 강	Belaja	Biała	Rio Belaya	Белая	Belaja	Ağizel Nehri	Sông Belaya	別拉亞河	5	1159124977
+57	1456942	1108	Lake Centerline	11	402108	402108Lake Centerline	Vazuza	6.7	0.20		7.7	Vazuza	Q778886			Wasusa	Vazuza	Río Vazuza	Vazouza					Vazuza	ヴァズーザ川		Vazoeza	Wazuza		Вазуза			Sông Vazuza	瓦祖扎河	5	1159124995
+6623	748218	1180	Lake Centerline	10	402180	402180Lake Centerline		6.0	0.20		7.0																								0	1159125007
+4192	1413826	1205	Lake Centerline	11	402205	402205Lake Centerline		6.7	0.20		7.7																								0	1159125017
+3158	748037	1236	Lake Centerline	10	402236	402236Lake Centerline		6.0	0.20		7.0																								0	1159125031
+5115	831252	1269	Lake Centerline	12	402269	402269Lake Centerline	Hossanj	7.0	0.20	Emaj, Oulujoki	8.0																								0	1159125045
+6115	831242	1270	Lake Centerline	11	402270	402270Lake Centerline		6.7	0.20		7.7																								0	1159125059
+6115	831242	1270	Lake Centerline	11	402270	402270Lake Centerline		6.7	0.20		7.7																								0	1159125071
+62	1456942	1313	Lake Centerline	12	402313	402313Lake Centerline		7.0	0.20		8.0																								0	1159125085
+2736	1205569	1378	Lake Centerline	12	402378	402378Lake Centerline		7.0	0.20		8.0																								0	1159125097
+6723	748225	1390	Lake Centerline	11	402390	402390Lake Centerline		6.7	0.20		7.7																								0	1159125109
+2823	1413804	1593	Lake Centerline	11	402593	402593Lake Centerline		6.7	0.20		7.7																								0	1159125123
+3388	1413825	1631	Lake Centerline	10	402631	402631Lake Centerline	Zhem	6.0	0.20		7.0																								0	1159125137
+4375	566445	1640	Lake Centerline	12	402640	402640Lake Centerline		7.0	0.20		8.0																								0	1159125151
+1328	2294484	1676	Lake Centerline	10	402676	402676Lake Centerline		6.0	0.20		7.0																								0	1159125161
+5315	831270	1689	Lake Centerline	10	402689	402689Lake Centerline	Kokemäenjoki	6.0	0.20		7.0	Kokemäenjoki	Q1329599	كوكيماينيوكي		Kokemäenjoki	Kokemäenjoki		Kokemäenjoki					Kokemäenjoki	コケマエンヨキ		Kokemäenjoki	Kokemäenjoki		Кокемяэнйоки	Kumo älv	Kokemäenjoki		科凱邁基河	5	1159125175
+5315	831270	1689	Lake Centerline	10	402689	402689Lake Centerline	Kokemäenjoki	6.0	0.20		7.0	Kokemäenjoki	Q1329599	كوكيماينيوكي		Kokemäenjoki	Kokemäenjoki		Kokemäenjoki					Kokemäenjoki	コケマエンヨキ		Kokemäenjoki	Kokemäenjoki		Кокемяэнйоки	Kumo älv	Kokemäenjoki		科凱邁基河	5	1159125187
+84	2294484	1735	Lake Centerline	10	402735	402735Lake Centerline		6.0	0.20		7.0																								0	1159125199
+6488	831330	1845	Lake Centerline	10	402845	402845Lake Centerline		6.0	0.20		7.0																								0	1159125207
+6067	1034750	2026	Lake Centerline	10	403026	403026Lake Centerline	Mane	6.0	0.20	Tinne, Skien	7.0																								0	1159125215
+6067	1034750	2026	Lake Centerline	10	403026	403026Lake Centerline	Mane	6.0	0.20	Tinne, Skien	7.0																								0	1159125225
+6067	1034750	2026	Lake Centerline	10	403026	403026Lake Centerline	Mane	6.0	0.20	Tinne, Skien	7.0																								0	1159125233
+1645	1456990	2111	Lake Centerline	12	403111	403111Lake Centerline		7.0	0.20		8.0																								0	1159125277
+3137	566445	2196	Lake Centerline	10	403196	403196Lake Centerline	Siret	6.0	0.20		7.0	Siret	Q208302			Sereth	Siret	Río Siret	Siret	Σερέτης		Szeret	Sungai Siret	Siret	シレト川		Siret	Seret	Siret	Сирет	Siret	Siret Nehri		錫雷特河	5	1159125287
+6775	831239	2246	Lake Centerline	10	403246	403246Lake Centerline		6.0	0.20		7.0																								0	1159125305
+3745	1457780	2264	Lake Centerline	10	403264	403264Lake Centerline		6.0	0.20		7.0																								0	1159125317
+4988	1034751	2535	Lake Centerline	11	403535	403535Lake Centerline		6.7	0.20		7.7																								0	1159125329
+4988	1034751	2535	Lake Centerline	11	403535	403535Lake Centerline		6.7	0.20		7.7																								0	1159125341
+5524	1034740	2759	Lake Centerline	10	403759	403759Lake Centerline	Ljungan	6.0	0.20		7.0	Ljungan	Q949042	نهر ليونغان		Ljungan	Ljungan	Río Ljungan	Ljungan					Ljungan			Ljungan	Ljungan	Ljungan	Юнган	Ljungan			永安河	4	1159125355
+2511	2	2763	Lake Centerline	10	403763	403763Lake Centerline	San	6.0	0.20	Wisla	7.0	San	Q216488			San	San	Río San	San			San		San	サン川		San	San	Rio San	Сан	San			桑河	4	1159125375
+5089	1034751	2797	Lake Centerline	10	403797	403797Lake Centerline		6.0	0.20		7.0																								0	1159125391
+5089	1034751	2797	Lake Centerline	10	403797	403797Lake Centerline		6.0	0.20		7.0																								0	1159125397
+5220	831210	3266	Lake Centerline	11	404266	404266Lake Centerline	Kem	6.7	0.20		7.7	Kem	Q1130713			Kem	Kem	Río Kem	Kem					Kem'	ケミ川		Kem	Kiem		Кемь	Kem			科恩河	5	1159125411
+6229	1034740	3272	Lake Centerline	11	404272	404272Lake Centerline		6.7	0.20		7.7																								0	1159125427
+6229	1034740	3272	Lake Centerline	11	404272	404272Lake Centerline		6.7	0.20		7.7																								0	1159125447
+1871	748037	3314	Lake Centerline	12	404314	404314Lake Centerline	Druts	7.0	0.20		8.0	Druts	Q1261492			Drut	Drut		Drout						ドルツィ川			Druć		Друть				德魯蒂河	5	1159125459
+4854	1205578	3341	Lake Centerline	12	404341	404341Lake Centerline	Yeşilırmak	7.0	0.20		8.0	Yeşilırmak	Q1145293			Yeşilırmak	Yeşilırmak	Río Yeşilırmak	Yeşilırmak	Γεσίλ Ιρμάκ		Yeşilırmak		Yeşil			Yeşilırmak		Rio Yeşilırmak	Ешильырмак		Yeşilırmak		耶希勒馬克河	5	1159125475
+4841	442404	3353	Lake Centerline	10	404353	404353Lake Centerline	Júcar	6.0	0.20		7.0	Júcar	Q14311			Júcar	Júcar	Júcar	Júcar					Júcar	フカル川		Júcar	Júcar	Rio Júcar	Хукар	Júcar			胡卡爾河	5	1159125485
+6811	1034790	3381	Lake Centerline	10	404381	404381Lake Centerline		6.0	0.20		7.0																								0	1159125503
+5333	1034751	3457	Lake Centerline	11	404457	404457Lake Centerline		6.7	0.20		7.7																								0	1159125515
+5333	1034751	3457	Lake Centerline	11	404457	404457Lake Centerline		6.7	0.20		7.7																								0	1159125529
+4320	831220	3466	Lake Centerline	12	404466	404466Lake Centerline		7.0	0.20		8.0																								0	1159125541
+449	1456942	3536	Lake Centerline	10	404536	404536Lake Centerline		6.0	0.20		7.0																								0	1159125555
+2937	831202	3564	Lake Centerline	10	404564	404564Lake Centerline		6.0	0.20		7.0																								0	1159125569
+2937	831202	3564	Lake Centerline	10	404564	404564Lake Centerline		6.0	0.20		7.0																								0	1159125583
+5937	1034747	3568	Lake Centerline	10	404568	404568Lake Centerline	Begna	6.0	0.20	Dokka, Dramselva	7.0	Begna	Q792016			Begna	Begna		Begna			Begna					Begna				Begna				5	1159125595
+6559	1205599	3773	Lake Centerline	11	404773	404773Lake Centerline	Loudias	6.7	0.20		7.7	Loudias	Q3560044			Loudias	Loudias	Río Lidias		Λουδίας											Loudías Potamós				5	1159125609
+5038	129487	3874	Lake Centerline	10	404874	404874Lake Centerline	Oglio	6.0	0.20		7.0	Oglio	Q848670			Oglio	Oglio	Oglio	Oglio					Oglio	オーリオ川		Oglio	Oglio	Rio Oglio	Ольо	Oglio			奧利奧河	4	1159125623
+6038	1034747	3875	Lake Centerline	12	404875	404875Lake Centerline	Hallingdalselva	7.0	0.20		8.0	Hallingdalselva	Q1538332			Hallingdalselva	Hallingdalselva		Hallingdalselva								Hallingdalselva								4	1159125637
+3012	1205592	3887	Lake Centerline	12	404887	404887Lake Centerline	Porsuk	7.0	0.20		8.0	Porsuk	Q2720896			Porsuk Çayı	Porsuk		Porsuk Çayı			Porsuk		Porsuk Çayı	ポルスク川		Porsuk	Porsuk				Porsuk Çayı		波索克河	5	1159125649
+6663	1034894	3965	Lake Centerline	10	404965	404965Lake Centerline	Emån	6.0	0.20		7.0	Emån	Q1339836			Emån	Emån		Emån								Emån				Emån			埃姆河	5	1159125663
+5616	1034860	4013	Lake Centerline	11	405013	405013Lake Centerline	Lågen	6.7	0.20		7.7	Lågen	Q927499			Lågen	Gudbrandsdalslågen	Gudbrandsdalslågen	Gudbrandsdalslågen			Gudbrandsdalslågen		Gudbrandsdalslågen			Gudbrandsdalslågen				Gudbrandsdalslågen				5	1159125679
+4185	831220	4034	Lake Centerline	10	405034	405034Lake Centerline	Kymijoki	6.0	0.20		7.0	Kymijoki	Q890526			Kymijoki	Kymi	Río Kymi	Kymijoki					Kymijoki	キュミ川		Kymijoki	Kymijoki	Rio Kymi	Кюмийоки	Kymmene älv			屈米河	5	1159125691
+4185	831220	4034	Lake Centerline	12	405034	405034Lake Centerline	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159125697
+6125	831210	4084	Lake Centerline	11	405084	405084Lake Centerline		6.7	0.20		7.7																								0	1159125719
+6125	831210	4084	Lake Centerline	11	405084	405084Lake Centerline		6.7	0.20		7.7																								0	1159125729
+4298	1205592	4226	Lake Centerline	12	405226	405226Lake Centerline		7.0	0.20		8.0																								0	1159125743
+1238	2294484	4269	Lake Centerline	10	405269	405269Lake Centerline		6.0	0.20		7.0																								0	1159125753
+191	1456942	4524	Lake Centerline	11	405524	405524Lake Centerline		6.7	0.20		7.7																								0	1159125773
+4963	442364	4563	Lake Centerline	11	405563	405563Lake Centerline	Alagón	6.7	0.20		7.7	Alagón	Q16663			Alagón	Alagón	Alagón	Alagón					Alagón	アラゴン川		Alagón	Alagón	Rio Alagón	Алагон	Río Alagón			阿拉貢河	5	1159125785
+2920	1413826	4596	Lake Centerline	11	405596	405596Lake Centerline		6.7	0.20		7.7																								0	1159125797
+2920	1413826	4596	Lake Centerline	11	405596	405596Lake Centerline		6.7	0.20		7.7																								0	1159125809
+5916	831220	4613	Lake Centerline	11	405613	405613Lake Centerline		6.7	0.20		7.7																								0	1159125823
+5916	831220	4613	Lake Centerline	11	405613	405613Lake Centerline		6.7	0.20		7.7																								0	1159125839
+3485	1034751	4632	Lake Centerline	12	405632	405632Lake Centerline	Göta	7.0	0.20		8.0	Göta	Q214748	جوتا		Göta älv	Göta älv	Río Göta	Göta älv			Göta-folyó		Göta älv	イェータ川	예타 강	Göta älv	Göta älv	Göta älv	Гёта-Эльв	Göta älv	Göta älv	Sông Göta	约塔河	5	1159125853
+6485	831239	4637	Lake Centerline	11	405637	405637Lake Centerline		6.7	0.20		7.7																								0	1159125865
+6485	831239	4637	Lake Centerline	11	405637	405637Lake Centerline		6.7	0.20		7.7																								0	1159125879
+3472	1460380	4641	Lake Centerline	11	405641	405641Lake Centerline		6.7	0.20		7.7																								0	1159125889
+5472	831270	4642	Lake Centerline	12	405642	405642Lake Centerline		7.0	0.20		8.0																								0	1159125907
+5472	831270	4642	Lake Centerline	12	405642	405642Lake Centerline		7.0	0.20		8.0																								0	1159125915
+5472	831270	4642	Lake Centerline	12	405642	405642Lake Centerline		7.0	0.20		8.0																								0	1159125933
+5472	831270	4642	Lake Centerline	12	405642	405642Lake Centerline		7.0	0.20		8.0																								0	1159125945
+6442	1348733	4667	Lake Centerline	11	405667	405667Lake Centerline		6.7	0.20		7.7																								0	1159125961
+6408	1415901	4699	Lake Centerline	10	405699	405699Lake Centerline		6.0	0.20		7.0																								0	1159125973
+2585	1413804	4709	Lake Centerline	10	405709	405709Lake Centerline		6.0	0.20		7.0																								0	1159125985
+2585	1413804	4709	Lake Centerline	10	405709	405709Lake Centerline		6.0	0.20		7.0																								0	1159125999
+3668	566445	4881	Lake Centerline	11	405881	405881Lake Centerline	Bistrita	6.7	0.20		7.7																								0	1159126013
+4642	831211	4895	Lake Centerline	10	405895	405895Lake Centerline	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159126025
+1638	748037	4899	Lake Centerline	11	405899	405899Lake Centerline		6.7	0.20		7.7																								0	1159126039
+2612	2294484	4913	Lake Centerline	10	405913	405913Lake Centerline		6.0	0.20		7.0																								0	1159126053
+5294	1413804	5080	Lake Centerline	11	406080	406080Lake Centerline		6.7	0.20		7.7																								0	1159126067
+5294	1413804	5080	Lake Centerline	11	406080	406080Lake Centerline		6.7	0.20		7.7																								0	1159126077
+1855	748037	5183	Lake Centerline	10	406183	406183Lake Centerline		6.0	0.20		7.0																								0	1159126089
+6351	1348584	5263	Lake Centerline	10	406263	406263Lake Centerline		6.0	0.20		7.0																								0	1159126105
+5317	1413804	5294	Lake Centerline	11	406294	406294Lake Centerline		6.7	0.20		7.7																								0	1159126117
+3998	442403	5308	Lake Centerline	11	406308	406308Lake Centerline	Zújar	6.7	0.20		7.7	Zújar	Q16707			Zújar	Zújar	Zújar	Zújar					Zújar	スハル川		Zújar		Rio Zújar	Сухар	Río Zújar				5	1159126133
+5998	566445	5310	Lake Centerline	10	406310	406310Lake Centerline		6.0	0.20		7.0																								0	1159126143
+6955	832348	5340	Lake Centerline	12	406340	406340Lake Centerline	Kala	7.0	0.20		8.0																								0	1159126157
+1938	2294484	5348	Lake Centerline	10	406348	406348Lake Centerline		6.0	0.20		7.0																								0	1159126169
+5938	1413826	5352	Lake Centerline	10	406352	406352Lake Centerline		6.0	0.20		7.0																								0	1159126183
+4477	442352	5395	Lake Centerline	12	406395	406395Lake Centerline	Tormes	7.0	0.20		8.0	Tormes	Q14755			Tormes	Tormes	Tormes	Tormes					Tormes	トルメス川		Tormes	Tormes	Rio Tormes	Тормес	Río Tormes		Sông Tormes	托爾梅斯河	5	1159126197
+4477	442352	5395	Lake Centerline	12	406395	406395Lake Centerline	Tormes	7.0	0.20		8.0	Tormes	Q14755			Tormes	Tormes	Tormes	Tormes					Tormes	トルメス川		Tormes	Tormes	Rio Tormes	Тормес	Río Tormes		Sông Tormes	托爾梅斯河	5	1159126211
+5417	1413804	5444	Lake Centerline	12	406444	406444Lake Centerline		7.0	0.20		8.0																								0	1159126223
+5417	1413804	5444	Lake Centerline	12	406444	406444Lake Centerline		7.0	0.20		8.0																								0	1159126237
+809	566445	5465	Lake Centerline	10	406465	406465Lake Centerline	Traun	6.0	0.20		7.0	Traun	Q664341			Traun	Traun	Río Traun	Traun			Traun	Traun	Traun	トラウン川		Traun	Traun		Траун	Traun			特勞恩河	3	1159126253
+3594	1413799	5468	Lake Centerline	12	406468	406468Lake Centerline		7.0	0.20		8.0																								0	1159126267
+4577	1034723	5493	Lake Centerline	11	406493	406493Lake Centerline	Vojmån	6.7	0.20	Angerman	7.7	Vojmån	Q2530569			Vojmån															Vojmån				5	1159126277
+1534	1456990	5528	Lake Centerline	10	406528	406528Lake Centerline	Voronezh	6.0	0.20		7.0	Voronezh	Q847893			Woronesch	Voronezh	Vorónezh	Voronej					Voronež	ヴォロネジ川	보로네시 강	Voronezj			Воронеж		Voronej Nehri	Sông Voronezh	沃羅涅日河	5	1159126293
+4504	2294484	5557	Lake Centerline	11	406557	406557Lake Centerline		6.7	0.20		7.7																								0	1159126303
+5086	1205570	5581	Lake Centerline	11	406581	406581Lake Centerline	Arda	6.7	0.20		7.7	Arda	Q500954			Arda	Arda	Río Arda	Arda	Άρδας		Arda		Arda	アルダ川	아르다 강	Arda	Arda	Rio Arda	Арда	Arda	Arda		阿爾達河	4	1159126313
+4060	1457138	5598	Lake Centerline	11	406598	406598Lake Centerline		6.7	0.20		7.7																								0	1159126333
+4060	1457138	5598	Lake Centerline	11	406598	406598Lake Centerline		6.7	0.20		7.7																								0	1159126337
+5026	1034741	5643	Lake Centerline	10	406643	406643Lake Centerline	Ljusnan	6.0	0.20		7.0	Ljusnan	Q1160449	نهر اليوسنان		Ljusnan	Ljusnan	Río Ljusnan	Ljusnan					Ljusnan	リュースナン川		Ljusnan	Ljusnan	Ljusnan	Юснан	Ljusnan			于斯南河	3	1159126357
+5026	1034741	5643	Lake Centerline	10	406643	406643Lake Centerline	Ljusnan	6.0	0.20		7.0	Ljusnan	Q1160449	نهر اليوسنان		Ljusnan	Ljusnan	Río Ljusnan	Ljusnan					Ljusnan	リュースナン川		Ljusnan	Ljusnan	Ljusnan	Юснан	Ljusnan			于斯南河	3	1159126375
+5026	1034741	5643	Lake Centerline	10	406643	406643Lake Centerline	Ljusnan	6.0	0.20		7.0	Ljusnan	Q1160449	نهر اليوسنان		Ljusnan	Ljusnan	Río Ljusnan	Ljusnan					Ljusnan	リュースナン川		Ljusnan	Ljusnan	Ljusnan	Юснан	Ljusnan			于斯南河	3	1159126385
+5026	1034741	5643	Lake Centerline	10	406643	406643Lake Centerline	Ljusnan	6.0	0.20		7.0	Ljusnan	Q1160449	نهر اليوسنان		Ljusnan	Ljusnan	Río Ljusnan	Ljusnan					Ljusnan	リュースナン川		Ljusnan	Ljusnan	Ljusnan	Юснан	Ljusnan			于斯南河	3	1159126399
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126411
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126427
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126437
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126455
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126467
+5190	831211	5777	Lake Centerline	12	406777	406777Lake Centerline		7.0	0.20		8.0																								0	1159126477
+3126	2	5851	Lake Centerline	10	406851	406851Lake Centerline	Narew	6.0	0.20		7.0	Narew	Q60055	ناريف		Narew	Narew	Río Narew	Narew			Narew		Narew	ナレフ川		Narew	Narew	Rio Narew	Нарев	Narew	Narev Nehri		納雷夫河	4	1159126489
+7113	831232	5865	Lake Centerline	12	406865	406865Lake Centerline		7.0	0.20		8.0																								0	1159126503
+4717	831220	5968	Lake Centerline	12	406968	406968Lake Centerline	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159126513
+4717	831220	5968	Lake Centerline	12	406968	406968Lake Centerline	Kymijoki	7.0	0.20		8.0	Kymijoki	Q24326189																		Kymijoki				3	1159126519
+6269	831211	6022	Lake Centerline	11	407022	407022Lake Centerline		6.7	0.20		7.7																								0	1159126531
+6200	1413916	6083	Lake Centerline	11	407083	407083Lake Centerline		6.7	0.20		7.7																								0	1159126545
+6200	1413916	6083	Lake Centerline	11	407083	407083Lake Centerline		6.7	0.20		7.7																								0	1159126563
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159126573
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159126583
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159126595
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159126607
+4804	1034736	6186	Lake Centerline	11	407186	407186Lake Centerline	Umea	6.7	0.20		7.7	Umea	Q51845			Ume älv	Ume älv	Ume	Umeälven			Ume-folyó		Ume	ウメ川		Ume älv	Umeälven	Umeälven	Уме-Эльв	Ume älv		Sông Ume	于默河	5	1159126617
+5399	1205609	6201	Lake Centerline	10	407201	407201Lake Centerline	Gediz	6.0	0.20		7.0	Gediz	Q1351474			Gediz	Gediz	Gediz	Gediz	Έρμος ποταμός				Gediz	ゲティス川		Gediz	Hermos		Гедиз		Gediz Nehri		蓋迪茲河	5	1159126625
+5339	1348535	6266	Lake Centerline	10	407266	407266Lake Centerline	Sulak	6.0	0.20		7.0	Sulak	Q770781			Sulak	Sulak	Río Sulak	Soulak						スラク川		Soelak			Сулак				蘇拉克河	5	1159126639
+549	1456942	6339	Lake Centerline	11	407339	407339Lake Centerline		6.7	0.20		7.7																								0	1159126653
+2934	2294484	6377	Lake Centerline	10	407377	407377Lake Centerline		6.0	0.20		7.0																								0	1159126667
+4490	2294514	6410	Lake Centerline	11	407410	407410Lake Centerline		6.7	0.20		7.7																								0	1159126683
+6439	748902	6481	Lake Centerline	11	407481	407481Lake Centerline		6.7	0.20		7.7																								0	1159126697
+852	566445	6517	Lake Centerline	11	407517	407517Lake Centerline	Dyje	6.7	0.20	Morava	7.7	Dyje	Q660208			Thaya	Thaya	Dyje	Thaya			Thaya		Thaya	ターヤ川		Thaya	Dyja		Дие	Thaya			塔亞河	5	1159126715
+6526	1034881	6623	Lake Centerline	10	407623	407623Lake Centerline	Verkselv	6.0	0.20	Nidelva	7.0	Verkselv																							0	1159126727
+6513	831314	6632	Lake Centerline	12	407632	407632Lake Centerline		7.0	0.20		8.0																								0	1159126737
+1509	748037	6634	Lake Centerline	10	407634	407634Lake Centerline	Desna	6.0	0.20		7.0	Desna	Q202796	ديسنا		Desna	Desna	Río Desná	Desna			Gyeszna	Sungai Desna	Desna	デスナ川	데스나 강	Desna	Desna		Десна	Desna	Desna Nehri	Sông Desna	傑斯納河	5	1159126755
+266	1456942	6756	Lake Centerline	11	407756	407756Lake Centerline		6.7	0.20		7.7																								0	1159126771
+4686	1348541	6777	Lake Centerline	10	407777	407777Lake Centerline	Belaya	6.0	0.20		7.0	Belaya	Q815250			Belaja	Belaya	Río Bélaya	Belaïa					Belaja			Belaja			Белая				別拉亞河	5	1159126783
+5673	1034723	6785	Lake Centerline	12	407785	407785Lake Centerline		7.0	0.20		8.0																								0	1159126795
+4639	1205606	6824	Lake Centerline	10	407824	407824Lake Centerline	Seyhan	6.0	0.20		7.0	Seyhan	Q910975			Seyhan	Seyhan	Río Seyhan	Seyhan	Σάρος			Sungai Seyhan	Seyhan			Seyhan			Сейхан		Seyhan Nehri		塞伊漢河	5	1159126809
+4639	1205606	6824	Lake Centerline	10	407824	407824Lake Centerline	Seyhan	6.0	0.20		7.0	Seyhan	Q910975			Seyhan	Seyhan	Río Seyhan	Seyhan	Σάρος			Sungai Seyhan	Seyhan			Seyhan			Сейхан		Seyhan Nehri		塞伊漢河	5	1159126823
+4626	2294514	6833	Lake Centerline	11	407833	407833Lake Centerline		6.7	0.20		7.7																								0	1159126831
+4626	2294514	6833	Lake Centerline	11	407833	407833Lake Centerline		6.7	0.20		7.7																								0	1159126843
+2609	831202	6848	Lake Centerline	10	407848	407848Lake Centerline	Vuoksi	6.0	0.20	Ladoga, Neva	7.0	Vuoksi	Q819448	فووكسي		Vuoksi	Vuoksi	Vuoksi	Vuoksi			Vuoksi		Vuoksi	ヴオクサ川		Vuoksi	Vuoksi	Rio Vuoksi	Вуокса	Vuoksen		Sông Vuoksi	武克希河	5	1159126855
+3178	1460380	6875	Lake Centerline	10	407875	407875Lake Centerline		6.0	0.20		7.0																								0	1159126869
+5148	831252	6900	Lake Centerline	11	407900	407900Lake Centerline		6.7	0.20		7.7																								0	1159126885
+3135	831202	6905	Lake Centerline	12	407905	407905Lake Centerline		7.0	0.20		8.0																								0	1159126899
+5786	1034749	6984	Lake Centerline	12	407984	407984Lake Centerline	Arbogaan	7.0	0.20		8.0	Arbogaan	Q630136			Arbogaån	Arboga											Arbogaån			Arbogaån				5	1159126913
+5786	1034749	6984	Lake Centerline	12	407984	407984Lake Centerline	Arbogaan	7.0	0.20		8.0	Arbogaan	Q630136			Arbogaån	Arboga											Arbogaån			Arbogaån				5	1159126927
+2773	1413804	6988	Lake Centerline	10	407988	407988Lake Centerline		6.0	0.20		7.0																								0	1159126937
+2773	1413804	6988	Lake Centerline	10	407988	407988Lake Centerline		6.0	0.20		7.0																								0	1159126953
+2773	1413804	6988	Lake Centerline	10	407988	407988Lake Centerline		6.0	0.20		7.0																								0	1159126963
+2773	1413804	6988	Lake Centerline	10	407988	407988Lake Centerline		6.0	0.20		7.0																								0	1159126979
+2773	1413804	6988	Lake Centerline	10	407988	407988Lake Centerline		6.0	0.20		7.0																								0	1159126993
+4743	2294514	7018	Lake Centerline	10	408018	408018Lake Centerline		6.0	0.20		7.0																								0	1159127007
+6739	831372	7035	Lake Centerline	11	408035	408035Lake Centerline		6.7	0.20		7.7																								0	1159127017
+6739	831372	7035	Lake Centerline	11	408035	408035Lake Centerline		6.7	0.20		7.7																								0	1159127031
+6739	831372	7035	Lake Centerline	11	408035	408035Lake Centerline		6.7	0.20		7.7																								0	1159127047
+4886	1413804	7191	Lake Centerline	11	408191	408191Lake Centerline		6.7	0.20		7.7																								0	1159127059
+4886	1413804	7191	Lake Centerline	11	408191	408191Lake Centerline		6.7	0.20		7.7																								0	1159127075
+4886	1413804	7191	Lake Centerline	11	408191	408191Lake Centerline		6.7	0.20		7.7																								0	1159127085
+5873	1205772	7199	Lake Centerline	10	408199	408199Lake Centerline		6.0	0.20		7.0																								0	1159127101
+5873	1205772	7199	Lake Centerline	10	408199	408199Lake Centerline		6.0	0.20		7.0																								0	1159127113
+3869	1456990	7207	Lake Centerline	10	408207	408207Lake Centerline	Sredny Yegorlyk	6.0	0.20	Manych	7.0	Sredny Yegorlyk	Q3511544			Sredni Jegorlyk	Sredny Yegorlyk													Средний Егорлык				中葉戈爾雷克河	4	1159127133
+5813	1348714	7255	Lake Centerline	11	408255	408255Lake Centerline	Beisug	6.7	0.20		7.7	Beisug	Q814896			Beissug	Beysug	Río Beisug									Beysoeg			Бейсуг				別伊蘇格河	5	1159127141
+5813	1348714	7255	Lake Centerline	11	408255	408255Lake Centerline	Beisug	6.7	0.20		7.7	Beisug	Q814896			Beissug	Beysug	Río Beisug									Beysoeg			Бейсуг				別伊蘇格河	5	1159127157
+5813	1348714	7255	Lake Centerline	11	408255	408255Lake Centerline	Beisug	6.7	0.20		7.7	Beisug	Q814896			Beissug	Beysug	Río Beisug									Beysoeg			Бейсуг				別伊蘇格河	5	1159127173
+2382	291110	7280	Lake Centerline	10	408280	408280Lake Centerline	Aare	6.0	0.20		7.0	Aare	Q1675	آر		Aare	Aare	río Aar	Aar	Άαρ		Aare	Sungai Aar	Aar	アーレ川	아레 강	Aare	Aare	Rio Aar	Аре	Aare	Aare		阿勒河	4	1159127185
+2382	291110	7280	Lake Centerline	10	408280	408280Lake Centerline	Aare	6.0	0.20		7.0	Aare	Q1675	آر		Aare	Aare	río Aar	Aar	Άαρ		Aare	Sungai Aar	Aar	アーレ川	아레 강	Aare	Aare	Rio Aar	Аре	Aare	Aare		阿勒河	4	1159127197
+2382	291110	7280	Lake Centerline	10	408280	408280Lake Centerline	Aare	6.0	0.20		7.0	Aare	Q1675	آر		Aare	Aare	río Aar	Aar	Άαρ		Aare	Sungai Aar	Aar	アーレ川	아레 강	Aare	Aare	Rio Aar	Аре	Aare	Aare		阿勒河	4	1159127209
+4318	1456990	7338	Lake Centerline	11	408338	408338Lake Centerline	Manych	6.7	0.20		7.7	Manych	Q1047528			Manytsch	Manych	Río Manich	Manytch					Manyč	マヌィチ川	마니치 강	Manitsj	Zachodni Manycz	Rio Manych	Маныч				馬內奇河	5	1159127221
+4318	1456990	7338	Lake Centerline	11	408338	408338Lake Centerline	Manych	6.7	0.20		7.7	Manych	Q1047528			Manytsch	Manych	Río Manich	Manytch					Manyč	マヌィチ川	마니치 강	Manitsj	Zachodni Manycz	Rio Manych	Маныч				馬內奇河	5	1159127239
+3305	2	7344	Lake Centerline	10	408344	408344Lake Centerline	Pilica	6.0	0.20		7.0	Pilica	Q750418			Pilica	Pilica	Río Pilica	Pilica					Pilica	ピリッツァ川		Pilica	Pilica	Rio Pilica	Пилица	Pilica			皮利察河	4	1159127255
+895	1456942	7356	Lake Centerline	10	408356	408356Lake Centerline		6.0	0.20		7.0																								0	1159127267
+5969	1205571	7419	Lake Centerline	11	408419	408419Lake Centerline	Beli Drim	6.7	0.20		7.7	Beli Drim	Q252385				White Drin	Drin Blanco	Drin blanc			Fehér-Drin		Beli Drim			White Drin	Biały Drin		Белый Дрин		Ak Drin		白鑽河	5	1159127281
+6926	831243	7456	Lake Centerline	10	408456	408456Lake Centerline		6.0	0.20		7.0																								0	1159127291
+2465	1456990	7502	Lake Centerline	11	408502	408502Lake Centerline	Oskol	6.7	0.20		7.7	Oskol	Q540067			Oskol	Oskol	Oskol	Oskol					Oskol			Oskol	Oskoł		Оскол				奧斯科爾河	5	1159127309
+2465	1456990	7502	Lake Centerline	11	408502	408502Lake Centerline	Oskol	6.7	0.20		7.7	Oskol	Q540067			Oskol	Oskol	Oskol	Oskol					Oskol			Oskol	Oskoł		Оскол				奧斯科爾河	5	1159127327
+3465	1457128	7505	Lake Centerline	11	408505	408505Lake Centerline		6.7	0.20		7.7																								0	1159127339
+5418	1034778	7549	Lake Centerline	10	408549	408549Lake Centerline	Pite	6.0	0.20		7.0	Pite	Q1330818			Piteälven	Pite	Río Pite	Piteälven			Piteälven		Pite	ピーテ川		Pite älv	Piteälven	Piteälven	Питеэльвен	Pite älv			皮特河	5	1159127349
+5418	1034778	7549	Lake Centerline	10	408549	408549Lake Centerline	Pite	6.0	0.20		7.0	Pite	Q1330818			Piteälven	Pite	Río Pite	Piteälven			Piteälven		Pite	ピーテ川		Pite älv	Piteälven	Piteälven	Питеэльвен	Pite älv			皮特河	5	1159127363
+5418	1034778	7549	Lake Centerline	10	408549	408549Lake Centerline	Pite	6.0	0.20		7.0	Pite	Q1330818			Piteälven	Pite	Río Pite	Piteälven			Piteälven		Pite	ピーテ川		Pite älv	Piteälven	Piteälven	Питеэльвен	Pite älv			皮特河	5	1159127375
+5582	831408	7572	Lake Centerline	10	408572	408572Lake Centerline	Iijoki	6.0	0.20		7.0	Iijoki	Q1472085	ليجوكي		Iijoki	Iijoki		Iijoki					Iijoki	イー川		Iijoki	Iijoki		Иййоки	Ijo älv	Iijoki		伊河	4	1159127387
+5582	831408	7572	Lake Centerline	10	408572	408572Lake Centerline	Iijoki	6.0	0.20		7.0	Iijoki	Q1472085	ليجوكي		Iijoki	Iijoki		Iijoki					Iijoki	イー川		Iijoki	Iijoki		Иййоки	Ijo älv	Iijoki		伊河	4	1159127401
+5582	831408	7572	Lake Centerline	10	408572	408572Lake Centerline	Iijoki	6.0	0.20		7.0	Iijoki	Q1472085	ليجوكي		Iijoki	Iijoki		Iijoki					Iijoki	イー川		Iijoki	Iijoki		Иййоки	Ijo älv	Iijoki		伊河	4	1159127411
+5565	831242	7586	Lake Centerline	12	408586	408586Lake Centerline		7.0	0.20		8.0																								0	1159127423
+4091	1	7639	Lake Centerline	10	408639	408639Lake Centerline	Noteć	6.0	0.20		7.0	Noteć	Q828869			Netze	Noteć	Río Notec	Noteć					Noteć	ノテチ川		Noteć	Noteć	Rio Noteć	Нотець	Noteć			諾泰奇河	5	1159127435
+6087	1413804	7650	Lake Centerline	12	408650	408650Lake Centerline		7.0	0.20		8.0																								0	1159127445
+7014	1413804	7707	Lake Centerline	12	408707	408707Lake Centerline		7.0	0.20		8.0																								0	1159127457
+1665	748037	7735	Lake Centerline	11	408735	408735Lake Centerline	Yasyelda	6.7	0.20		7.7																								0	1159127467
+4144	129487	7829	Lake Centerline	11	408829	408829Lake Centerline	Adda	6.7	0.20		7.7	Adda	Q63109	نهر أدا		Adda	Adda	Adda	Adda			Adda	Sungai Adda	Adda	アッダ川	아다 강	Adda	Adda	Rio Adda	Адда	Adda	Adda	Sông Adda	阿达河	4	1159127479
+3114	1348536	7850	Lake Centerline	10	408850	408850Lake Centerline	Khrami	6.0	0.20	Debed	7.0	Khrami	Q1076875			Chrami	Khrami		Khrami								Chrami	Chrami	Rio Khrami	Храми	Khrami			赫拉米河	5	1159127491
+5765	1034749	7889	Lake Centerline	10	408889	408889Lake Centerline	Svartån	6.0	0.20	Arbogaan	7.0	Svartån	Q1720622			Svartån	Svartån														Svartån				5	1159127501
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159127513
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159127525
+4274	831202	7953	Lake Centerline	10	408953	408953Lake Centerline		6.0	0.20		7.0																								0	1159127535
+6274	1205575	7955	Lake Centerline	10	408955	408955Lake Centerline	Acheloos	6.0	0.20		7.0	Acheloos	Q203923	نهر أخيلوس		Acheloos	Achelous	Río Aspropótamos	Achéloos	Αχελώος				Aspropotamo	アヘロオス川		Acheloos	Aspropotamos	Rio Aqueloo	Ахелоос	Acheloos	Akheloos Nehri		阿克洛奥斯河	5	1159127547
+6274	1205575	7955	Lake Centerline	10	408955	408955Lake Centerline	Acheloos	6.0	0.20		7.0	Acheloos	Q203923	نهر أخيلوس		Acheloos	Achelous	Río Aspropótamos	Achéloos	Αχελώος				Aspropotamo	アヘロオス川		Acheloos	Aspropotamos	Rio Aqueloo	Ахелоос	Acheloos	Akheloos Nehri		阿克洛奥斯河	5	1159127557
+6848	1034880	8055	Lake Centerline	11	409055	409055Lake Centerline		6.7	0.20		7.7																								0	1159127565
+6848	1034880	8055	Lake Centerline	11	409055	409055Lake Centerline		6.7	0.20		7.7																								0	1159127579
+6848	1034880	8055	Lake Centerline	11	409055	409055Lake Centerline		6.7	0.20		7.7																								0	1159127589
+2922	1205592	8210	Lake Centerline	10	409210	409210Lake Centerline	Sakarya	6.0	0.20		7.0	Sakarya	Q217466			Sakarya	Sakarya	Río Sakarya	Sakarya	Σαγγάριος		Sakarya		Sakarya	サカリヤ川	사카리아 강	Sakarya	Sakarya	Rio Sakarya	Сакарья	Sakarya	Sakarya Nehri		萨卡里亚河	5	1159127603
+2922	1205592	8210	Lake Centerline	10	409210	409210Lake Centerline	Sakarya	6.0	0.20		7.0	Sakarya	Q217466			Sakarya	Sakarya	Río Sakarya	Sakarya	Σαγγάριος		Sakarya		Sakarya	サカリヤ川	사카리아 강	Sakarya	Sakarya	Rio Sakarya	Сакарья	Sakarya	Sakarya Nehri		萨卡里亚河	5	1159127615
+4918	1456990	8220	Lake Centerline	12	409220	409220Lake Centerline		7.0	0.20		8.0																								0	1159127625
+4918	1456990	8220	Lake Centerline	12	409220	409220Lake Centerline		7.0	0.20		8.0																								0	1159127639
+3491	1457128	8233	Lake Centerline	12	409233	409233Lake Centerline		7.0	0.20		8.0																								0	1159127653
+3491	1457128	8233	Lake Centerline	12	409233	409233Lake Centerline		7.0	0.20		8.0																								0	1159127661
+901	566445	8311	Lake Centerline	10	409311	409311Lake Centerline	Váh	6.0	0.20		7.0	Váh	Q202598	نهر فاه		Waag	Váh	Río Váh	Váh			Vág		Váh	ヴァーフ川	바흐 강	Váh	Wag	Rio Váh	Ваг	Waag			瓦赫河	5	1159127671
+904	566445	8314	Lake Centerline	10	409314	409314Lake Centerline	Svitava	6.0	0.20		7.0	Svitava	Q45094			Svitava	Svitava		Svitava					Svitava			Svitava	Svitava		Свитава	Svitava			斯維塔瓦河	4	1159127681
+2070	2294484	8432	Lake Centerline	10	409432	409432Lake Centerline		6.0	0.20		7.0																								0	1159127693
+2070	2294484	8432	Lake Centerline	10	409432	409432Lake Centerline		6.0	0.20		7.0																								0	1159127705
+2070	2294484	8432	Lake Centerline	10	409432	409432Lake Centerline		6.0	0.20		7.0																								0	1159127717
+2070	2294484	8432	Lake Centerline	10	409432	409432Lake Centerline		6.0	0.20		7.0																								0	1159127727
+7006	83745	8516	Lake Centerline	10	409516	409516Lake Centerline	Tay	6.0	0.20		7.0	Tay	Q19719			Tay	Tay	Tay	Tay					Tay	テイ川		Tay	Tay		Тэй	Tay			泰河	4	1159127737
+2659	291110	3971	Lake Centerline	11	404971	404971Lake Centerline	Limmat	6.7	0.20		7.7	Limmat	Q14338	ليمات		Limmat	Limmat	Limago	Limmat			Limmat		Limmat	リマト川	리마트 강	Limmat	Limmat		Лиммат	Limmat	Limmat		利馬特河	4	1159127749
+2474	291110	8246	Lake Centerline	10	409246	409246Lake Centerline	Thielle	6.0	0.20		7.0	Thielle	Q24792			Zihl	Thielle	Thielle	Thièle												Zihl				4	1159127761
+0	0	0	Lake Centerline	0	409056	409056Lake Centerline		7.0	0.20		8.0																								0	1159127771
+0	0	0	River	12	409517	409517River		7.0	0.20		8.0																								0	1159127783
+0	0	0	River	12	409518	409518River	Vecht	7.0	0.20		8.0	Vecht	Q1897253			Utrechtsche Vecht	Vecht		Vecht					Vecht			Utrechtse Vecht	Vecht							4	1159127795
+4642	831211	4895	River	10	405895	405895River	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159127805
+4642	831211	4895	River	10	405895	405895River	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159127815
+464200	0	489500	Lake Centerline	10	405895	405895Lake Centerline	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159127823
+464200	0	489500	River	10	405895	405895River	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159127835
+464200	0	489500	Lake Centerline	10	405895	405895Lake Centerline	White Sea Canal	6.0	0.20	Belomorcanal	7.0	White Sea Canal	Q461457	قناة البحر الأبيض إلى بحر البلطيق		Weißmeer-Ostsee-Kanal	White Sea – Baltic Canal	Canal Mar Blanco-Báltico	canal de la mer Blanche					canale Mar Bianco-Mar Baltico	白海・バルト海運河	백해-발트 해 운하	Witte Zeekanaal	Kanał Białomorsko-Bałtycki	Canal Mar Branco–Báltico	Беломорско-Балтийский канал	Vitahavskanalen			白海-波羅的海運河	5	1159127845
+0	0	0	River	10	3000	3000River	Varaita	7.0	1.50		8.0	Varaita	Q1574936			Varaita	Varaita	Varaita	Varaita					Varaita			Varaita							瓦拉伊塔河	4	1159127857
+0	0	0	River	10	3000	3000River	Varaita	7.0	1.50		8.0	Varaita	Q1574936			Varaita	Varaita	Varaita	Varaita					Varaita			Varaita							瓦拉伊塔河	4	1159127867
+100700	566445	2067	River	10	40306700	40306700River	Sava	6.0	0.20	Sava	7.0	Sava	Q14383	سافا		Save	Sava	Sava	Save	Σάβα		Száva	Sava	Sava	サヴァ川	사바 강	Sava	Sawa	Rio Sava	Сава	Sava	Sava Nehri	Sava	薩瓦河	4	1159127873
+100700	566445	2067	River	10	40306700	40306700River	Sava	6.0	0.20	Sava	7.0	Sava	Q14383	سافا		Save	Sava	Sava	Save	Σάβα		Száva	Sava	Sava	サヴァ川	사바 강	Sava	Sawa	Rio Sava	Сава	Sava	Sava Nehri	Sava	薩瓦河	4	1159127885
+100700	566445	2067	River	10	40306700	40306700River	Sava	6.0	0.15	Sava	7.0	Sava	Q14383	سافا		Save	Sava	Sava	Save	Σάβα		Száva	Sava	Sava	サヴァ川	사바 강	Sava	Sawa	Rio Sava	Сава	Sava	Sava Nehri	Sava	薩瓦河	4	1159127895
+1007	566445	2067	River	11	403067	403067River	Ljubljanica	6.7	0.15		7.7	Ljubljanica	Q339990			Ljubljanica	Ljubljanica	Ljubljanica	Ljubljanica	Λιουμπλιάνικα		Ljubljanica		Ljubljanica	リュブリャニツァ川		Ljubljanica	Lublanica		Любляница				盧布爾雅尼察河	4	1159127907
+178000	0	0	River	5	178000	178000River	Allier	6.7	0.15		7.7	Allier	Q2464			Allier	Allier	Allier	Allier	Αλιέ		Allier	Sungai Allier	Allier	アリエ川		Allier	Allier	Rio Allier	Алье	Allier			阿列河	4	1159127917
+178000	0	0	River	5	178000	178000River	Allier	6.7	0.20		7.7	Allier	Q2464			Allier	Allier	Allier	Allier	Αλιέ		Allier	Sungai Allier	Allier	アリエ川		Allier	Allier	Rio Allier	Алье	Allier			阿列河	4	1159127929
