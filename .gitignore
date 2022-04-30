@@ -3,3 +3,6 @@ input/
 DbfToCsvConverter/.idea/
 DbfToCsvConverter/lib/
 DbfToCsvConverter/out/
+
+.ipynb_checkpoints/
+Untitled.ipynb

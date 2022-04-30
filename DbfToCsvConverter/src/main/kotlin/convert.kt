@@ -28,7 +28,7 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 	val numRecords = input.readInt()
 	println("Number of records: $numRecords")
 
-	val byteArray = ByteArray(254)
+	val byteArray = ByteArray(256)
 	val columns = ArrayList<InternalDbfColumn>()
 
 	File(outputPath).writer().use { stream ->
@@ -61,10 +61,19 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 
 			stream.appendLine(columns.joinToString(sepStr) {
 				input.readBytes(byteArray, 0, it.length)
-				val s = String(byteArray, 0, it.length, Charsets.UTF_8).trim()
-				if (!s.contains(options.separator)) s
-				else if (options.allowEscape) '"' + s + '"'
-				else throw RuntimeException("separator character found")
+				byteArray[it.length] = 0
+				val size = byteArray.indexOf(0)
+				val s = String(byteArray, 0, size, Charsets.UTF_8).trim()
+				if (options.allowEscape) {
+					if (s.contains('"')) '"' + s.replace("\"", "\"\"") + '"'
+					else if (s.contains(options.separator)) '"' + s + '"'
+					else s
+				}
+				else {
+					if (s.contains(options.separator))
+						throw RuntimeException("separator character found")
+					else s
+				}
 			})
 		}
 	}

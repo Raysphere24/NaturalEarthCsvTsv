@@ -630,7 +630,7 @@ id,wso_id,objectid,featurecla,scalerank,rivernum,dissolve,name,min_zoom,strokewe
 3599,1348536,6551,River,10,407551,407551River,Qotur/Ghotour Chai,6.0,0.20,,7.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117239
 6573,442581,6571,River,10,407571,407571River,Sorraia,6.0,0.20,,7.0,Sorraia,Q15663,,,Rio Sorraia,Sorraia,Sorraia,Sorraia,,,,,Sorraia,ソライア川,,,Sorraia,Rio Sorraia,Соррайя,,,,,5,1159117267
 4560,566445,6578,River,11,407578,407578River,,6.7,0.20,,7.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159117287
-1530,748037,6599,River,12,407599,407599River,Prypyat,7.0,0.20,,8.0,Prypyat,Q157042,نهر بريبيات,,Prypjat,Pripyat,Río Prípiat,Pripiat,,,Pripjaty,Sungai Pripyat,Pryp"jat',プリピャチ川,프리피야티강,Prypjat,Prypeć,Rio Pripiat,Припять,Prypjat,,Sông Pripyat,普里皮亚季河,5,1159117303
+1530,748037,6599,River,12,407599,407599River,Prypyat,7.0,0.20,,8.0,Prypyat,Q157042,نهر بريبيات,,Prypjat,Pripyat,Río Prípiat,Pripiat,,,Pripjaty,Sungai Pripyat,"Pryp""jat'",プリピャチ川,프리피야티강,Prypjat,Prypeć,Rio Pripiat,Припять,Prypjat,,Sông Pripyat,普里皮亚季河,5,1159117303
 5539,748077,6612,River,11,407612,407612River,,6.7,0.20,,7.7,,,,,,,,,,,,,,,,,,,,,,,,0,1159117323
 6526,1034881,6623,River,10,407623,407623River,Verkselv,6.0,0.20,Nidelva,7.0,Verkselv,,,,,,,,,,,,,,,,,,,,,,,0,1159117341
 6513,831314,6632,River,12,407632,407632River,,7.0,0.20,,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,1159117363
