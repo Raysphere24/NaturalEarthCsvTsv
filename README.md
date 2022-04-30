@@ -3,14 +3,14 @@ This repository consists of CSV and TSV files converted from the DBF files in th
 # Converted files
 To meet various demand, we provide following five formats of the converted files ready to use, corresponding to each directory.
 
-* *csv_with_names*: comma-separated files with field names (first row). Example:
+* `csv_with_names`: comma-separated files with field names (first row). Example:
 	```
 	featurecla,scalerank,min_zoom
 	Land,1,1.0
 	Land,1,1.0
 	Land,1,0.0
 	```
-* *csv_with_names_and_types*: comma-separated files with field names (first row) and types (second row). Example:
+* `csv_with_names_and_types`: comma-separated files with field names (first row) and types (second row). Example:
 	```
 	featurecla,scalerank,min_zoom
 	C,N,N
@@ -18,14 +18,14 @@ To meet various demand, we provide following five formats of the converted files
 	Land,1,1.0
 	Land,1,0.0
 	```
-* *tsv_with_names*: tab-separated files with field names (first row). Example:
+* `tsv_with_names`: tab-separated files with field names (first row). Example:
 	```
 	featurecla	scalerank	min_zoom
 	Land	1	1.0
 	Land	1	1.0
 	Land	1	0.0
 	```
-* *tsv_with_names_and_types*: tab-separated files with field names (first row) and types (second row). Example:
+* `tsv_with_names_and_types`: tab-separated files with field names (first row) and types (second row). Example:
 	```
 	featurecla	scalerank	min_zoom
 	C	N	N
@@ -33,7 +33,7 @@ To meet various demand, we provide following five formats of the converted files
 	Land	1	1.0
 	Land	1	0.0
 	```
-* *tsv_without_header*: tab-separated files without field names or types. Example:
+* `tsv_without_header`: tab-separated files without field names or types. Example:
 	```
 	Land	1	1.0
 	Land	1	1.0
