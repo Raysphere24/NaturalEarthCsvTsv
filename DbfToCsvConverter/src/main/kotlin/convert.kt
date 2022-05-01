@@ -70,22 +70,22 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 
 				if (s == "Lop\rNur") s = "Lop Nur"
 
-//				fun transform(c: Char) = when (c) {
-//					'‡' -> '\u0087'
-//					'ˆ' -> '\u0088'
-//					'‘' -> '\u0091'
-//					'™' -> '\u0099'
-//					'š' -> '\u009a'
-//					'ž' -> '\u009e'
-//					'Ÿ' -> '\u009f'
-//					else -> c
-//				}
-//
-//				if (s.zipWithNext().any { (a, b) -> a in '\u00c0' .. '\u00df' && transform(b) in '\u0080' .. '\u00bf' }) {
-//					if (s.any { transform(it) != it })
-//						s = s.map { transform(it) } .joinToString("")
-//					s = String(s.toByteArray(Charsets.ISO_8859_1), Charsets.UTF_8)
-//				}
+				fun transform(c: Char) = when (c) {
+					'‡' -> '\u0087'
+					'ˆ' -> '\u0088'
+					'‘' -> '\u0091'
+					'™' -> '\u0099'
+					'š' -> '\u009a'
+					'ž' -> '\u009e'
+					'Ÿ' -> '\u009f'
+					else -> c
+				}
+
+				if (s.zipWithNext().any { (a, b) -> a in '\u00c0' .. '\u00df' && transform(b) in '\u0080' .. '\u00bf' }) {
+					if (s.any { transform(it) != it })
+						s = s.map { transform(it) } .joinToString("")
+					s = String(s.toByteArray(Charsets.ISO_8859_1), Charsets.UTF_8)
+				}
 
 				assertEquals(s.contains('\n'), false)
 				assertEquals(s.contains('\r'), false)

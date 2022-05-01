@@ -36,31 +36,31 @@ fun main(args: Array<String>) {
 		allowEscape = true
 	))
 
-//	convertAll("../input/", "../csv_with_names_and_types/", ".csv", ConvertOptions(
-//		separator = ',',
-//		includeNameRow = true,
-//		includeTypeRow = true,
-//		allowEscape = true
-//	))
-//
-//	convertAll("../input/", "../tsv_with_names/", ".tsv", ConvertOptions(
-//		separator = '\t',
-//		includeNameRow = true,
-//		includeTypeRow = false,
-//		allowEscape = false
-//	))
-//
-//	convertAll("../input/", "../tsv_with_names_and_types/", ".tsv", ConvertOptions(
-//		separator = '\t',
-//		includeNameRow = true,
-//		includeTypeRow = true,
-//		allowEscape = false
-//	))
-//
-//	convertAll("../input/", "../tsv_without_header/", ".tsv", ConvertOptions(
-//		separator = '\t',
-//		includeNameRow = false,
-//		includeTypeRow = false,
-//		allowEscape = false
-//	))
+	convertAll("../input/", "../csv_with_names_and_types/", ".csv", ConvertOptions(
+		separator = ',',
+		includeNameRow = true,
+		includeTypeRow = true,
+		allowEscape = true
+	))
+
+	convertAll("../input/", "../tsv_with_names/", ".tsv", ConvertOptions(
+		separator = '\t',
+		includeNameRow = true,
+		includeTypeRow = false,
+		allowEscape = false
+	))
+
+	convertAll("../input/", "../tsv_with_names_and_types/", ".tsv", ConvertOptions(
+		separator = '\t',
+		includeNameRow = true,
+		includeTypeRow = true,
+		allowEscape = false
+	))
+
+	convertAll("../input/", "../tsv_without_header/", ".tsv", ConvertOptions(
+		separator = '\t',
+		includeNameRow = false,
+		includeTypeRow = false,
+		allowEscape = false
+	))
 }
