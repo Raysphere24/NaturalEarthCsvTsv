@@ -30,9 +30,6 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 
 	val byteArray = ByteArray(256)
 	val columns = ArrayList<InternalDbfColumn>()
-//	fun transform = hashMapOf(
-//		'š' to '\u009a',
-//	)
 
 	File(outputPath).writer().use { stream ->
 		for (i in 1 .. 256) {
