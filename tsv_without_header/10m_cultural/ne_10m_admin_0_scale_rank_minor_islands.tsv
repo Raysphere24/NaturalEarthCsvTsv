@@ -1,6 +1,6 @@
 IDN	IDN	IDN	IDN	Indonesia	IDN		5	Admin-0 scale ranks
 MYS	MYS	MYS	MYS	Malaysia	MYS		5	Admin-0 scale ranks
-CHL	CHL	CHL	CHX		B72	Atacama corridor	6	Admin-0 claim area
+CHL	CHL	CHL	CHX	Chile	CHY		0	Admin-0 scale ranks
 BOL	BOL	BOL	BOL	Bolivia	BOL		0	Admin-0 scale ranks
 PER	PER	PER	PER	Peru	PER		0	Admin-0 scale ranks
 ARG	ARG	ARG	ARG	Argentina	ARG		0	Admin-0 scale ranks
@@ -9,8 +9,7 @@ CYP	CYP	CYP	CYP	Cyprus	CYP		6	Admin-0 scale ranks
 CYP	CYP	CYP	CYP	Cyprus	CYP		6	Admin-0 scale ranks
 IND	IND	IND	INX		B05	Jammu and Kashmir	0	Admin-0 claim area
 CH1	CHN	CHN	CHI		B07	Aksai Chin	0	Admin-0 claim area
-CH1	CHN	CHN	CHI	China	CHZ		0	Admin-0 scale ranks
-IS1	ISR	ISR	ISR	Israel	ISX		0	Admin-0 scale ranks
+IS1	ISR	ISR	ISR	Israel	B91		0	Admin-0 breakaway and disputed
 IS1	PSX	GAZ	GAZ	Gaza Strip	B53		0	Admin-0 breakaway and disputed
 IS1	PSX	WEB	WEB	West Bank	B54		0	Admin-0 breakaway and disputed
 LBN	LBN	LBN	LBN	Lebanon	LBN		0	Admin-0 scale ranks
@@ -19,15 +18,10 @@ SDS	SDS	SDS	SDS	S. Sudan	SDS		0	Admin-0 scale ranks
 SOM	SOM	SOP	SOP	Puntland	SOP		0	Admin-0 scale ranks
 SOM	SOM	SOX	SOX	Somalia	SOX		0	Admin-0 scale ranks
 KEN	KEN	KEN	KEN		B17	Ilemi Triangle	0	Admin-0 claim area
-KEN	KEN	KEN	KEN	Kenya	KEZ		0	Admin-0 scale ranks
-SDS	SDS	SDS	SDS		B74	Ilemi Triangle S. Sudan admin.	0	Admin-0 claim area
-KEN	KEN	KEN	KEN		B17	Ilemi Triangle	0	Admin-0 claim area
-PAK	PAK	PAK	PAK		B08	Northern Areas	0	Admin-0 claim area
-PAK	PAK	PAK	PAK		B09	Azad Kashmir	0	Admin-0 claim area
-PAK	PAK	PAK	PAK	Pakistan	PAQ		0	Admin-0 scale ranks
 MWI	MWI	MWI	MWI	Malawi	MWI		0	Admin-0 scale ranks
 TZA	TZA	TZA	TZA	Tanzania	TZA		0	Admin-0 scale ranks
 IND	IND	IND	INX		B00	Arunachal Pradesh	0	Admin-0 claim area
+CH1	CHN	CHN	CHI	China	CHZ		0	Admin-0 scale ranks
 IS1	ISR	ISR	ISR		B16	Golan Heights	0	Admin-0 claim area
 SYR	SYR	SYU	SYU	UNDOF	B49	UNDOF	0	Admin-0 overlay
 SOL	SOL	SOL	SOL		B30	Somaliland	0	Admin-0 claim area
@@ -49,7 +43,6 @@ UKR	UKR	UKR	UKR	Ukraine	UKR		0	Admin-0 scale ranks
 BLR	BLR	BLR	BLR	Belarus	BLR		0	Admin-0 scale ranks
 NAM	NAM	NAM	NAM	Namibia	NAM		0	Admin-0 scale ranks
 ZAF	ZAF	ZAF	ZAX	South Africa	ZAX		0	Admin-0 scale ranks
-IS1	ISR	ISR	ISR		B58	Shebaa Farms	0	Admin-0 claim area
 SYR	SYR	SYX	SYX	Syria	SYX		0	Admin-0 scale ranks
 FR1	MAF	MAF	MAF	St. Martin	MAF		3	Admin-0 scale ranks
 NL1	SXM	SXM	SXM	Sint Maarten	SXM		3	Admin-0 scale ranks
@@ -57,7 +50,7 @@ OMN	OMN	OMN	OMN	Oman	OMN		0	Admin-0 scale ranks
 MWI	MWI	MWI	MWI	Malawi	MWI		0	Admin-0 scale ranks
 MWI	MWI	MWI	MWI	Malawi	MWI		0	Admin-0 scale ranks
 UZB	UZB	UZB	UZB	Uzbekistan	UZB		0	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
 TJK	TJK	TJK	TJK	Tajikistan	TJK		0	Admin-0 scale ranks
 LTU	LTU	LTU	LTU	Lithuania	LTU		0	Admin-0 scale ranks
 BRA	BRA	BRA	BRA	Brazil	BRA		0	Admin-0 scale ranks
@@ -88,7 +81,7 @@ GEO	GEO	GEG	GEG		B37	South Ossetia	0	Admin-0 breakaway and disputed
 MKD	MKD	MKD	MKD	Macedonia	MKD		0	Admin-0 scale ranks
 ALB	ALB	ALB	ALB	Albania	ALB		0	Admin-0 scale ranks
 AZE	AZE	AZE	AZE	Azerbaijan	AZZ		0	Admin-0 scale ranks
-KOS	KOS	KOS	KOS	Kosovo	KOS		0	Admin-0 scale ranks
+KOS	KOS	KOS	KOS	Kosovo	B57		0	Admin-0 breakaway and disputed
 TUR	TUR	TUR	TUR	Turkey	TUR		0	Admin-0 scale ranks
 GEO	GEO	GEA	GEA	Ajara	GEA		0	Admin-0 scale ranks
 ESP	ESP	ESP	SEC	Ceuta	B60		0	Admin-0 claim area
@@ -141,11 +134,13 @@ BEN	BEN	BEN	BEN	Benin	BEN		0	Admin-0 scale ranks
 AGO	AGO	AGO	AGO	Angola	AGO		0	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		0	Admin-0 scale ranks
 SVN	SVN	SVN	SVN	Slovenia	SVN		0	Admin-0 scale ranks
+HRV	HRV	HRV	HRV	Croatia	B82	Dragonja River	0	Admin-0 claim area
 QAT	QAT	QAT	QAT	Qatar	QAT		0	Admin-0 scale ranks
 SAU	SAU	SAU	SAU	Saudi Arabia	SAU		0	Admin-0 scale ranks
 BWA	BWA	BWA	BWA	Botswana	BWA		0	Admin-0 scale ranks
 ZWE	ZWE	ZWE	ZWE	Zimbabwe	ZWE		0	Admin-0 scale ranks
 CH1	CHN	CHN	CHI		B06	Shaksam Valley	0	Admin-0 claim area
+PAK	PAK	PAK	PAK		B08	Northern Areas	0	Admin-0 claim area
 BGR	BGR	BGR	BGR	Bulgaria	BGR		0	Admin-0 scale ranks
 TUR	TUR	TUR	TUR	Turkey	TUR		0	Admin-0 scale ranks
 THA	THA	THA	THA	Thailand	THA		0	Admin-0 scale ranks
@@ -185,15 +180,17 @@ MNE	MNE	MNE	MNE	Montenegro	MNE		0	Admin-0 scale ranks
 BIH	BIH	BHF	BHF	Fed. of Bos. & Herz.	BHF		0	Admin-0 scale ranks
 BIH	BIH	BIS	BIS	Rep. Srpska	BIS		0	Admin-0 scale ranks
 UGA	UGA	UGA	UGA	Uganda	UGA		0	Admin-0 scale ranks
-CUB	USG	USG	USG	Guantanamo Bay USNB	B50	Guantanamo Bay USNB	0	Admin-0 lease
-CUB	CUB	CUB	CUB	Cuba	CUB		0	Admin-0 scale ranks
+CU1	USG	USG	USG	Guantanamo Bay USNB	B50	Guantanamo Bay USNB	0	Admin-0 lease
+CU1	CUB	CUB	CUB	Cuba	CUB		0	Admin-0 scale ranks
 IND	IND	IND	INX		B88	Near Om Parvat	0	Admin-0 claim area
 HND	HND	HND	HND	Honduras	HND		0	Admin-0 scale ranks
 ECU	ECU	ECU	ECD	Ecuador	ECD		0	Admin-0 scale ranks
 COL	COL	COL	COL	Colombia	COL		0	Admin-0 scale ranks
 PRY	PRY	PRY	PRY	Paraguay	PRY		0	Admin-0 scale ranks
+BRI	BRI	BRI	BRI	Brazilian Island	B85	Braziliera Island	0	Admin-0 indeterminant
 NL1	NLD	NLX	NLX	Netherlands	NLX		0	Admin-0 scale ranks
 BEL	BEL	BFR	BFR	Flemish	BFR		0	Admin-0 scale ranks
+ESP	ESP	ESP	ESX	Spain	B67	Olivenza	0	Admin-0 claim area
 PRT	PRT	PRX	PRX	Portugal	PRX		0	Admin-0 scale ranks
 BIH	BIH	BIS	BIS	Rep. Srpska	BIS		0	Admin-0 scale ranks
 BIH	BIH	BHF	BHF	Fed. of Bos. & Herz.	BHF		0	Admin-0 scale ranks
@@ -202,7 +199,8 @@ BIH	BIH	BHB	BHB	Brcko District	BHB		0	Admin-0 scale ranks
 MDA	MDA	MDA	MDA	Moldova	MDA		0	Admin-0 scale ranks
 MDA	MDA	MDA	MDA		B36	Transdniestria	0	Admin-0 breakaway and disputed
 RUS	RUS	RUS	RUK	Kaliningrad	RUK		0	Admin-0 scale ranks
-UKR	UKR	UKR	UKR	Ukraine	B90	Donblass	0	Admin-0 breakaway and disputed
+UKR	UKR	UKR	UKR	Ukraine	C03	Luhansk People's Republic	0	Admin-0 breakaway and disputed
+UKR	UKR	UKR	UKR	Ukraine	C02	Donetsk People's Republic	0	Admin-0 breakaway and disputed
 RUS	RUS	RUS	RUA	Russia	RUZ		0	Admin-0 scale ranks
 PRK	PRK	PRK	PRK	North Korea	PRK		0	Admin-0 scale ranks
 TKM	TKM	TKM	TKM	Turkmenistan	TKM		0	Admin-0 scale ranks
@@ -228,16 +226,16 @@ BLZ	BLZ	BLZ	BLZ	Belize	BLX		0	Admin-0 scale ranks
 PAN	PAN	PAN	PAN	Panama	PAN		0	Admin-0 scale ranks
 VEN	VEN	VEN	VEN	Venezuela	VEN		0	Admin-0 scale ranks
 CHL	CHL	CHL	CHX	Chile	CHY		0	Admin-0 scale ranks
-CHL	CHL	CHL	CHX	Chile	CHY		0	Admin-0 scale ranks
 ARG	ARG	ARG	ARG	Argentina	ARG		0	Admin-0 scale ranks
 IDN	IDN	IDN	IDN	Indonesia	IDN		0	Admin-0 scale ranks
 PNG	PNG	PNX	PNX	Papua New Guinea	PNX		0	Admin-0 scale ranks
+PAK	PAK	PAK	PAK	Pakistan	PAQ		0	Admin-0 scale ranks
 RUS	RUS	RUS	RUA	Russia	RUZ		0	Admin-0 scale ranks
+IS1	ISR	ISR	ISR		B16	Golan Heights	0	Admin-0 claim area
 EGY	EGY	EGY	EGY	Egypt	EGX		0	Admin-0 scale ranks
 YEM	YEM	YEM	YEM	Yemen	YEM		0	Admin-0 scale ranks
 MRT	MRT	MRT	MRT	Mauritania	MRT		0	Admin-0 scale ranks
-SDN	SDN	SDN	SDN	Sudan	SDZ		0	Admin-0 scale ranks
-EGY	EGY	EGY	EGY	Egypt	EGX		0	Admin-0 scale ranks
+KEN	KEN	KEN	KEN	Kenya	KEZ		0	Admin-0 scale ranks
 GNQ	GNQ	GNQ	GNR	Rio Muni	GNR		0	Admin-0 scale ranks
 AGO	AGO	AGO	AGO	Angola	AGO		0	Admin-0 scale ranks
 GMB	GMB	GMB	GMB	Gambia	GMB		0	Admin-0 scale ranks
@@ -250,32 +248,73 @@ IND	IND	IND	INX		B04	Samdu Valleys	0	Admin-0 claim area
 IND	IND	IND	INX		B01	Tirpani Valleys	0	Admin-0 claim area
 IND	IND	IND	INX		B02	Bara Hotii Valleys	0	Admin-0 claim area
 CYN	CYN	CYN	CYN	N. Cyprus	B20	N. Cyprus	1	Admin-0 claim area
-CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 indeterminant
-CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 indeterminant
+CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 overlay
+CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 overlay
 CYN	CYN	CYN	CYN	N. Cyprus	B20	N. Cyprus	3	Admin-0 claim area
-CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 indeterminant
+CNM	CNM	CNM	CNM	Cyprus U.N. Buffer Zone	B43	Cyprus U.N. Buffer Zone	1	Admin-0 overlay
 CYP	CYP	CYP	CYP	Cyprus	CYP		1	Admin-0 scale ranks
 CYP	CYP	CYP	CYP	Cyprus	CYP		1	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		0	Admin-0 scale ranks
 ARG	ARG	ARG	ARG	Argentina	ARG		0	Admin-0 scale ranks
-CUB	USG	USG	USG	Guantanamo Bay USNB	B50	Guantanamo Bay USNB	0	Admin-0 lease
+CU1	USG	USG	USG	Guantanamo Bay USNB	B50	Guantanamo Bay USNB	0	Admin-0 lease
 DEU	DEU	DEU	DEU	Germany	DEU		0	Admin-0 scale ranks
 LTU	LTU	LTU	LTU	Lithuania	LTU		0	Admin-0 scale ranks
 CIV	CIV	CIV	CIV	Ivory Coast	CIV		0	Admin-0 scale ranks
 KAS	KAS	KAS	KAS	Siachen Glacier	B45	Siachen Glacier	0	Admin-0 indeterminant
 KOR	KOR	KOR	KOX	S. Korea	KOX		0	Admin-0 scale ranks
-KAZ	KAB	KAB	KAB	Baykonur	B40	Baykonur	0	Admin-0 lease
+KA1	KAB	KAB	KAB	Baykonur	B40	Baykonur	0	Admin-0 lease
 GB1	WSB	WSB	WSB	Akrotiri	WSB		3	Admin-0 scale ranks
 BLZ	BLZ	BLZ	BLZ	Belize	B51		6	Admin-0 claim area
-ESP	ESP	ESP	ESX	Spain	B67	Olivenza	0	Admin-0 claim area
+SPI	SPI	SPI	SPI		B97	Southern Patagonian Ice Field	0	Admin-0 claim area
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		0	Admin-0 scale ranks
 BTN	BTN	BTN	BTN	Bhutan	B75	Bhutan claimed by China	6	Admin-0 claim area
 BTN	BTN	BTN	BTN	Bhutan	B76	Bhutan claimed by China	6	Admin-0 claim area
-RUS	RUS	RUS	RUC	Crimea	B89	Crimea	0	Admin-0 breakaway and disputed
+RUS	RUS	RUS	RUC	Crimea	B89	Crimea	0	Admin-0 claim area
+KEN	KEN	KEN	KEN		B17	Ilemi Triangle	0	Admin-0 claim area
+IS1	ISR	ISR	ISR		B58	Shebaa Farms	0	Admin-0 claim area
+SDS	SDS	SDS	SDS		B74	Ilemi Triangle S. Sudan admin.	0	Admin-0 claim area
+BRA	BRA	BRA	BRA	Brazil	B92	Corner of Artigas	0	Admin-0 claim area
+NIC	NIC	NIC	NIC	Nicaragua	NIC		6	Admin-0 scale ranks
+BRT	BRT	BRT	BRT	Bir Tawil	B94	Bir Tawil	0	Admin-0 indeterminant
+EGY	EGY	EGY	EGY	Egypt	B93	Halayib Triangle	0	Admin-0 claim area
+SRB	SRB	SRV	SRV	Vojvodina	B96	Vukovar Island	0	Admin-0 claim area
+SRB	SRB	SRV	SRV	Vojvodina	B95	Šarengrad Island	0	Admin-0 claim area
+IS1	ISR	ISR	ISR	Israel	B98	East Jerusalem	0	Admin-0 breakaway and disputed
+IS1	ISR	ISR	ISR	Israel	B78	No Man's Land (Fort Latrun)	0	Admin-0 breakaway and disputed
+PAK	PAK	PAK	PAK		B09	Azad Kashmir	0	Admin-0 claim area
 GB1	GBR	WLS	WLS	Wales	WLS		0	Admin-0 scale ranks
 GB1	GBR	ENG	ENG	England	ENG		0	Admin-0 scale ranks
 GB1	GBR	SCT	SCT	Scotland	SCX		0	Admin-0 scale ranks
 BEL	BEL	BCR	BCR	Brussels	BCR		0	Admin-0 scale ranks
+IS1	ISR	ISR	ISR		B16	Golan Heights	0	Admin-0 claim area
+IS1	ISR	ISR	ISR		B16	Golan Heights	0	Admin-0 claim area
+								
+								
+								
+								
+IS1	ISR	ISR	ISR	Israel	B79	No Man's Land (Jerusalem)	0	Admin-0 breakaway and disputed
+IS1	ISR	ISR	ISR	Israel	B99	Mount Scopus	0	Admin-0 breakaway and disputed
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+IND	IND	IND	INX		C01	Junagadh and Manavadar	0	Admin-0 claim area
+IND	IND	IND	INX	India	INZ		0	Admin-0 scale ranks
+IND	IND	IND	INX	India	INZ		0	Admin-0 scale ranks
+IND	IND	IND	INX	India	INZ		0	Admin-0 scale ranks
 ATA	ATA	ATA	ATB	Antarctica	ATB		0	Admin-0 scale ranks
 ATA	ATA	ATA	ATB	Antarctica	ATB		0	Admin-0 scale ranks
 ATA	ATA	ATA	ATB	Antarctica	ATB		0	Admin-0 scale ranks
@@ -481,7 +520,7 @@ MEX	MEX	MEX	MEX	Mexico	MEX		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		3	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		8	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		3	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		0	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		0	Admin-0 claim area
 MEX	MEX	MEX	MEX	Mexico	MEX		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		5	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		5	Admin-0 scale ranks
@@ -533,8 +572,8 @@ US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
-US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
-US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
+CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
+CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 JPN	JPN	JPN	JPK	Hokkaido	JPK		0	Admin-0 scale ranks
 FR1	SPM	SPM	SPM	St. Pierre and Miquelon	SPM		5	Admin-0 scale ranks
 FR1	SPM	SPM	SPM	St. Pierre and Miquelon	SPM		3	Admin-0 scale ranks
@@ -913,37 +952,37 @@ GB1	CYM	CYM	CYM	Cayman Is.	CYM		3	Admin-0 scale ranks
 GB1	CYM	CYM	CYM	Cayman Is.	CYM		6	Admin-0 scale ranks
 GB1	CYM	CYM	CYM	Cayman Is.	CYM		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		5	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		5	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		3	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		3	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		3	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		3	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		5	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		3	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		4	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		5	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		3	Admin-0 scale ranks
@@ -1047,7 +1086,7 @@ US1	USA	USA	USB	U.S.A.	USB		3	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		5	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		4	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		5	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		3	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		3	Admin-0 scale ranks
@@ -1206,7 +1245,7 @@ CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
+								
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
@@ -1949,7 +1988,7 @@ BGD	BGD	BGD	BGD	Bangladesh	BGD		5	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		5	Admin-0 scale ranks
 BGD	BGD	BGD	BGD	Bangladesh	BGD		5	Admin-0 scale ranks
 BGD	BGD	BGD	BGD	Bangladesh	BGD		5	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 claim area
 BGD	BGD	BGD	BGD	Bangladesh	BGD		5	Admin-0 scale ranks
 BGD	BGD	BGD	BGD	Bangladesh	BGD		5	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		1	Admin-0 scale ranks
@@ -1967,7 +2006,7 @@ BGD	BGD	BGD	BGD	Bangladesh	BGD		6	Admin-0 scale ranks
 BGD	BGD	BGD	BGD	Bangladesh	BGD		6	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		5	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		6	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		5	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		5	Admin-0 claim area
 CH1	CHN	CHN	CHI	China	CHZ		5	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		5	Admin-0 scale ranks
 JPN	JPN	JPN	JPV	Volcano Is.	JPV		6	Admin-0 scale ranks
@@ -2719,7 +2758,7 @@ TKM	TKM	TKM	TKM	Turkmenistan	TKM		0	Admin-0 scale ranks
 TKM	TKM	TKM	TKM	Turkmenistan	TKM		0	Admin-0 scale ranks
 AZE	AZE	AZE	AZE	Azerbaijan	AZZ		0	Admin-0 scale ranks
 AZE	AZE	AZE	AZE	Azerbaijan	AZZ		0	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		0	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
@@ -3184,9 +3223,9 @@ US1	MNP	MNP	MNP	N. Mariana Is.	MNP		5	Admin-0 scale ranks
 US1	MNP	MNP	MNP	N. Mariana Is.	MNP		5	Admin-0 scale ranks
 OMN	OMN	OMN	OMN	Oman	OMN		5	Admin-0 scale ranks
 SDN	SDN	SDN	SDN	Sudan	SDZ		6	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		4	Admin-0 claim area
 PAK	PAK	PAK	PAK	Pakistan	PAQ		6	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		5	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		6	Admin-0 scale ranks
@@ -3581,7 +3620,7 @@ US1	MNP	MNP	MNP	N. Mariana Is.	MNP		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
 PHL	PHL	PHL	PHL	Philippines	PHL		6	Admin-0 scale ranks
 PHL	PHL	PHL	PHL	Philippines	PHL		6	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 claim area
 US1	USA	USA	USH	Hawaii	USH		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
@@ -3639,7 +3678,7 @@ GRC	GRC	GRC	GRC	Greece	GRC		6	Admin-0 scale ranks
 KOR	KOR	KOR	KXI		KXI		6	Admin-0 scale ranks
 KOR	KOR	KOR	KXI		KXI		6	Admin-0 scale ranks
 KOR	KOR	KOR	KXI		KXI		6	Admin-0 scale ranks
-KOR	KOR	KOR	KXI		B84		6	Admin-0 scale ranks
+KOR	KOR	KOR	KXI		B84		6	Admin-0 claim area
 PRK	PRK	PRK	PRK	North Korea	PRK		6	Admin-0 scale ranks
 PRK	PRK	PRK	PRK	North Korea	PRK		6	Admin-0 scale ranks
 PRK	PRK	PRK	PRK	North Korea	PRK		6	Admin-0 scale ranks
@@ -3905,8 +3944,8 @@ GB1	VGB	VGB	VGB	British Virgin Is.	VGB		6	Admin-0 scale ranks
 MRT	MRT	MRT	MRT	Mauritania	MRT		6	Admin-0 scale ranks
 MRT	MRT	MRT	MRT	Mauritania	MRT		6	Admin-0 scale ranks
 MRT	MRT	MRT	MRT	Mauritania	MRT		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		6	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		6	Admin-0 scale ranks
@@ -3915,16 +3954,16 @@ GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
 GB1	TCA	TCA	TCA	Turks and Caicos Is.	TCA		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
 CH1	MAC	MAC	MAC	Macau	MAC		0	Admin-0 scale ranks
 CH1	MAC	MAC	MAC	Macau	MAC		0	Admin-0 scale ranks
@@ -3935,22 +3974,22 @@ CH1	HKG	HKG	HKG	Hong Kong	HKG		3	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		5	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		5	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		3	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		6	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		6	Admin-0 claim area
 CH1	CHN	CHN	CHI	China	CHZ		6	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
 JPN	JPN	JPN	JPX		JPX		6	Admin-0 scale ranks
@@ -4104,15 +4143,15 @@ HRV	HRV	HRV	HRV	Croatia	HRV		6	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		6	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		6	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		6	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		6	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		6	Admin-0 scale ranks
 ITA	ITA	ITA	ITX	Italy	ITX		6	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		5	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		5	Admin-0 scale ranks
 RUS	RUS	RUS	RUE	Russia	RUE		5	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		6	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		6	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		6	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		5	Admin-0 scale ranks
@@ -4268,7 +4307,7 @@ NZ1	NZL	NZL	NZN	North I.	NZN		6	Admin-0 scale ranks
 NZ1	NZL	NZL	NZN	North I.	NZN		6	Admin-0 scale ranks
 NZ1	NZL	NZL	NZN	North I.	NZN		6	Admin-0 scale ranks
 NZ1	NZL	NZL	NZN	North I.	NZN		5	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
+NZ1	NZL	NZL	NZN	North I.	NZN		6	Admin-0 scale ranks
 NZ1	NZL	NZL	NZN	North I.	NZN		0	Admin-0 scale ranks
 AU1	CSI	CSI	CSI	Coral Sea Is.	CSI		8	Admin-0 scale ranks
 AU1	CSI	CSI	CSI	Coral Sea Is.	CSI		8	Admin-0 scale ranks
@@ -4315,22 +4354,22 @@ US1	UMI	KQI	KQI	Kingman Reef	KQI		6	Admin-0 scale ranks
 PLW	PLW	PLW	PLW	Palau	PLW		6	Admin-0 scale ranks
 FSM	FSM	FSM	FSM	Micronesia	FSM		8	Admin-0 scale ranks
 PAN	PAN	PAN	PAN	Panama	PAN		7	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
+PHL	PHL	PHL	PHL	Philippines	PHL		5	Admin-0 scale ranks
 PHL	PHL	PHL	PHL	Philippines	PHL		7	Admin-0 scale ranks
 PHL	PHL	PHL	PHL	Philippines	PHL		7	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
-GB1	AIA	AIA	AIA	Anguilla	AIA		8	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
+CPV	CPV	CPV	CPV	Cape Verde	CPV		6	Admin-0 scale ranks
+ATG	ATG	ACA	ACA	Antigua	ACA		6	Admin-0 scale ranks
+CPV	CPV	CPV	CPV	Cape Verde	CPV		6	Admin-0 scale ranks
+GB1	AIA	AIA	AIA	Anguilla	AIA		6	Admin-0 scale ranks
+GB1	AIA	AIA	AIA	Anguilla	AIA		6	Admin-0 scale ranks
+GB1	AIA	AIA	AIA	Anguilla	AIA		6	Admin-0 scale ranks
+GB1	AIA	AIA	AIA	Anguilla	AIA		6	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		8	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		8	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		8	Admin-0 scale ranks
 ARE	ARE	ARE	ARE	United Arab Emirates	ARE		8	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
+BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
+BHS	BHS	BHS	BHS	Bahamas	BHS		6	Admin-0 scale ranks
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	6	Admin-0 claim area
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	8	Admin-0 claim area
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	8	Admin-0 claim area
@@ -4341,13 +4380,13 @@ IRN	IRN	IRN	IRN	Iran	B73	Abu Musa I.	6	Admin-0 breakaway and disputed
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	8	Admin-0 claim area
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	6	Admin-0 claim area
 JPN	JPN	JPN	JPO		B18	Pinnacle Is.	8	Admin-0 claim area
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
+BHR	BHR	BHR	BHR	Bahrain	BHR		5	Admin-0 scale ranks
+BHR	BHR	BHR	BHR	Bahrain	BHR		5	Admin-0 scale ranks
 GB1	BMU	BMU	BMU	Bermuda	BMU		6	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
-null	null	null	null	null	null	null		null
+BHR	BHR	BHR	BHR	Bahrain	BHR		5	Admin-0 scale ranks
+BHR	BHR	BHR	BHR	Bahrain	BHR		6	Admin-0 scale ranks
+BHR	BHR	BHR	BHR	Bahrain	BHR		6	Admin-0 scale ranks
+BHR	BHR	BHR	BHR	Bahrain	BHR		6	Admin-0 scale ranks
 RUS	RUS	RUS	RUA		B29	Kuril Is.	7	Admin-0 claim area
 RUS	RUS	RUS	RUA		B29	Kuril Is.	7	Admin-0 claim area
 RUS	RUS	RUS	RUA		B29	Kuril Is.	7	Admin-0 claim area
@@ -5360,18 +5399,18 @@ VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 PHL	PHL	PHL	PHL	Philippines	PHL		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
@@ -5388,7 +5427,7 @@ VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
@@ -5398,41 +5437,41 @@ VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		8	Admin-0 scale ranks
 VNM	VNM	VNM	VNM	Vietnam	VNM		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
+EGY	EGY	EGY	EGY	Egypt	B93	Halayib Triangle	8	Admin-0 claim area
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
@@ -5442,63 +5481,63 @@ CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		8	Admin-0 scale ranks
 CH1	HKG	HKG	HKG	Hong Kong	HKG		7	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
 MEX	MEX	MEX	MEX	Mexico	MEX		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
-EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		8	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+EGY	EGY	EGY	EGY	Egypt	B93	Halayib Triangle	8	Admin-0 claim area
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+EGY	EGY	EGY	EGY	Egypt	B93	Halayib Triangle	8	Admin-0 claim area
+EGY	EGY	EGY	EGY	Egypt	B93	Halayib Triangle	8	Admin-0 claim area
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
 EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-CUB	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+CU1	CUB	CUB	CUB	Cuba	CUB		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
 EGY	EGY	EGY	EGY	Egypt	EGX		8	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
@@ -5508,7 +5547,7 @@ BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 US1	USA	USA	USH	Hawaii	USH		8	Admin-0 scale ranks
@@ -5535,7 +5574,7 @@ JPN	JPN	JPN	JPO	Nanseishoto	JPO		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		7	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		7	Admin-0 scale ranks
@@ -5548,12 +5587,12 @@ US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 US1	USA	USA	USB	U.S.A.	USB		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		8	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 SAU	SAU	SAU	SAU	Saudi Arabia	SAU		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		8	Admin-0 scale ranks
@@ -5803,7 +5842,7 @@ BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
@@ -5811,21 +5850,21 @@ US1	USA	USA	USB	U.S.A.	USB		7	Admin-0 scale ranks
 US1	USA	USA	USB	U.S.A.	USB		7	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
+TWN	TWN	TWN	TWN	Taiwan	B77		7	Admin-0 claim area
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		8	Admin-0 scale ranks
 IRN	IRN	IRN	IRN	Iran	IRN		8	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		7	Admin-0 scale ranks
 JPN	JPN	JPN	JPO	Nanseishoto	JPO		8	Admin-0 scale ranks
-TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 scale ranks
+TWN	TWN	TWN	TWN	Taiwan	B77		8	Admin-0 claim area
 BHS	BHS	BHS	BHS	Bahamas	BHS		7	Admin-0 scale ranks
 CH1	CHN	CHN	CHI	China	CHZ		7	Admin-0 scale ranks
 BHS	BHS	BHS	BHS	Bahamas	BHS		7	Admin-0 scale ranks
@@ -6239,7 +6278,7 @@ TUN	TUN	TUN	TUN	Tunisia	TUN		8	Admin-0 scale ranks
 KOR	KOR	KOR	KXI		KXI		7	Admin-0 scale ranks
 TUR	TUR	TUR	TUR	Turkey	TUR		8	Admin-0 scale ranks
 GRC	GRC	GRC	GRC	Greece	GRC		7	Admin-0 scale ranks
-KOR	KOR	KOR	KXI		B84		8	Admin-0 scale ranks
+KOR	KOR	KOR	KXI		B84		8	Admin-0 claim area
 KOR	KOR	KOR	KXI		KXI		7	Admin-0 scale ranks
 GRC	GRC	GRC	GRC	Greece	GRC		7	Admin-0 scale ranks
 GRC	GRC	GRC	GRC	Greece	GRC		8	Admin-0 scale ranks
@@ -6387,7 +6426,7 @@ JPN	JPN	JPN	JPX		JPX		8	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		7	Admin-0 scale ranks
 RUS	RUS	RUS	RUE	Russia	RUE		7	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		8	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		7	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		7	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		7	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		7	Admin-0 scale ranks
 HRV	HRV	HRV	HRV	Croatia	HRV		7	Admin-0 scale ranks
@@ -6395,7 +6434,7 @@ RUS	RUS	RUS	RUE	Russia	RUE		7	Admin-0 scale ranks
 ITA	ITA	ITA	ITX	Italy	ITX		8	Admin-0 scale ranks
 RUS	RUS	RUS	RUE	Russia	RUE		7	Admin-0 scale ranks
 RUS	RUS	RUS	RUA	Russia	RUZ		8	Admin-0 scale ranks
-KAZ	KAZ	KAZ	KAZ	Kazakhstan	KAZ		7	Admin-0 scale ranks
+KA1	KAZ	KAZ	KAZ	Kazakhstan	KAZ		7	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		7	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		7	Admin-0 scale ranks
 CAN	CAN	CAN	CAN	Canada	CAN		8	Admin-0 scale ranks
@@ -7095,13 +7134,12 @@ ESP	ESP	ESP	ESX	Spain	B63	Penon de Velez de la Gomera	6	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	B64	Penon de Alhucemas	6	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	B64	Penon de Alhucemas	6	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	B65	Islas Chafarinas	6	Admin-0 claim area
-ESP	ESP	ESP	ESX	Spain	B65	Islas Chafarinas
-Islas Chafarinas	8	Admin-0 claim area
+ESP	ESP	ESP	ESX	Spain	B65	Islas Chafarinas	8	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	B65	Islas Chafarinas	8	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	B62	Isla del Perejil	6	Admin-0 claim area
 ESP	ESP	ESP	ESX	Spain	ESY		8	Admin-0 scale ranks
 FR1	NCL	NCL	NCL	New Caledonia	B66	Matthew and Hunter Is.	8	Admin-0 claim area
 FR1	NCL	NCL	NCL	New Caledonia	B66	Matthew and Hunter Is.	6	Admin-0 claim area
 SCR	SCR	SCR	SCR	Scarborough Reef	B70	Scarborough Reef	6	Admin-0 indeterminant
-ERI	ERI	ERI	ERI	Eritrea	B87	Doumera Island	7	Admin-0 scale ranks
-null	null	null	null	null	null	null		null
+ERI	ERI	ERI	ERI	Eritrea	B87	Doumera Island	7	Admin-0 claim area
+ECU	ECU	ECU	ECG	Galapagus Is.	ECG		7	Admin-0 scale ranks

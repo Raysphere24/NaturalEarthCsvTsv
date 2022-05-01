@@ -1,16 +1,16 @@
-featurecla,comment,adm0_a3,adm0_name,mapcolor9,scalerank,min_zoom
-Map unit boundary,,GBR,United Kingdom,6,5,4.0
-Map unit boundary,,GBR,United Kingdom,6,5,4.0
-Map unit boundary,,BEL,Belgium,1,5,5.7
-Map unit boundary,,BEL,Belgium,1,5,5.7
-Map unit boundary,,BEL,Belgium,1,5,5.7
-Map unit boundary,,BEL,Belgium,1,5,5.7
-Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7
-Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7
-Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7
-Map unit boundary,,SRB,Republic of Serbia,2,5,5.7
-Map unit boundary,,GEO,Georgia,3,5,5.0
-Map unit boundary,,IRQ,Iraq,3,5,5.0
-Map unit boundary,,SOM,Somalia,6,5,5.0
-Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7
-Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7
+FEATURECLA,COMMENT,ADM0_A3,ADM0_NAME,MAPCOLOR9,SCALERANK,MIN_ZOOM,ADM0_USA,FCLASS_ISO,FCLASS_US,FCLASS_FR,FCLASS_RU,FCLASS_ES,FCLASS_CN,FCLASS_TW,FCLASS_IN,FCLASS_NP,FCLASS_PK,FCLASS_DE,FCLASS_GB,FCLASS_BR,FCLASS_IL,FCLASS_PS,FCLASS_SA,FCLASS_EG,FCLASS_MA,FCLASS_PT,FCLASS_AR,FCLASS_JP,FCLASS_KO,FCLASS_VN,FCLASS_TR,FCLASS_ID,FCLASS_PL,FCLASS_GR,FCLASS_IT,FCLASS_NL,FCLASS_SE,FCLASS_BD,FCLASS_UA,ne_id,BRK_A3,FCLASS_OSM
+Map unit boundary,,GBR,United Kingdom,6,5,4.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705421,,
+Map unit boundary,,GBR,United Kingdom,6,5,4.0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705425,,
+Map unit boundary,,BEL,Belgium,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705435,,
+Map unit boundary,,BEL,Belgium,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705437,,
+Map unit boundary,,BEL,Belgium,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705445,,
+Map unit boundary,,BEL,Belgium,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705453,,
+Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705459,,
+Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705469,,
+Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705477,,
+Map unit boundary,,SRB,Republic of Serbia,2,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705485,,
+Map unit boundary,,GEO,Georgia,3,5,5.0,1,,,,Unrecognized,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705495,,
+Map unit boundary,,IRQ,Iraq,3,5,5.0,-1,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,,1746705505,,
+Map unit boundary,,SOM,Somalia,6,5,5.0,-1,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,Unrecognized,,1746705513,,
+Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705521,,
+Map unit boundary,,BIH,Bosnia and Herzegovina,1,5,5.7,1,,,,Unrecognized,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1746705529,,

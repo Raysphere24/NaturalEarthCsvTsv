@@ -23,4 +23,6 @@ scalerank,featurecla,name,min_zoom,sr_brk_a3
 0,Admin-0 breakaway and disputed,Nagorno-Karabakh,2.0,B38
 0,Admin-0 indeterminant,Siachen Glacier,2.0,B45
 1,Admin-0 breakaway and disputed,Crimea,2.0,B89
-0,Admin-0 breakaway and disputed,Donbass,2.0,B90
+0,Admin-0 breakaway and disputed,Donetsk,2.0,C02
+0,Admin-0 claim area,Junagadh and Manavadar,2.0,C01
+0,Admin-0 breakaway and disputed,Luhansk,2.0,C03

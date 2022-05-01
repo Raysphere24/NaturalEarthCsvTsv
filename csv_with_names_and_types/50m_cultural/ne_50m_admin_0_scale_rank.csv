@@ -730,10 +730,10 @@ N,C,N,C,C,C,C,C
 3,Admin-0 scale ranks,3,KIR,KIR,KIR,KIR,Kiribati
 4,Admin-0 scale ranks,4,KEN,KEN,KEN,KEN,Kenya
 1,Admin-0 scale ranks,1,KEN,KEN,KEN,KEN,Kenya
-5,Admin-0 scale ranks,5,KAZ,KAZ,KAZ,KAZ,Kazakhstan
-5,Admin-0 scale ranks,5,KAZ,KAZ,KAZ,KAZ,Kazakhstan
-4,Admin-0 scale ranks,4,KAZ,KAZ,KAZ,KAZ,Kazakhstan
-1,Admin-0 scale ranks,1,KAZ,KAZ,KAZ,KAZ,Kazakhstan
+5,Admin-0 scale ranks,5,KA1,KAZ,KAZ,KAZ,Kazakhstan
+5,Admin-0 scale ranks,5,KA1,KAZ,KAZ,KAZ,Kazakhstan
+4,Admin-0 scale ranks,4,KA1,KAZ,KAZ,KAZ,Kazakhstan
+1,Admin-0 scale ranks,1,KA1,KAZ,KAZ,KAZ,Kazakhstan
 1,Admin-0 scale ranks,1,JOR,JOR,JOR,JOR,Jordan
 3,Admin-0 scale ranks,3,JPN,JPN,JPN,JPN,Japan
 3,Admin-0 scale ranks,3,JPN,JPN,JPN,JPN,Japan
@@ -1141,13 +1141,13 @@ N,C,N,C,C,C,C,C
 1,Admin-0 scale ranks,1,CZE,CZE,CZE,CZE,Czech Republic
 1,Admin-0 scale ranks,1,CYN,CYN,CYN,CYN,Northern Cyprus
 1,Admin-0 scale ranks,1,CYP,CYP,CYP,CYP,Cyprus
-1,Admin-0 scale ranks,1,CUB,CUB,CUB,CUB,Cuba
-3,Admin-0 scale ranks,3,CUB,CUB,CUB,CUB,Cuba
-3,Admin-0 scale ranks,3,CUB,CUB,CUB,CUB,Cuba
-3,Admin-0 scale ranks,3,CUB,CUB,CUB,CUB,Cuba
-3,Admin-0 scale ranks,3,CUB,CUB,CUB,CUB,Cuba
-3,Admin-0 scale ranks,3,CUB,CUB,CUB,CUB,Cuba
-5,Admin-0 scale ranks,5,CUB,CUB,CUB,CUB,Cuba
+1,Admin-0 scale ranks,1,CU1,CUB,CUB,CUB,Cuba
+3,Admin-0 scale ranks,3,CU1,CUB,CUB,CUB,Cuba
+3,Admin-0 scale ranks,3,CU1,CUB,CUB,CUB,Cuba
+3,Admin-0 scale ranks,3,CU1,CUB,CUB,CUB,Cuba
+3,Admin-0 scale ranks,3,CU1,CUB,CUB,CUB,Cuba
+3,Admin-0 scale ranks,3,CU1,CUB,CUB,CUB,Cuba
+5,Admin-0 scale ranks,5,CU1,CUB,CUB,CUB,Cuba
 1,Admin-0 scale ranks,1,HRV,HRV,HRV,HRV,Croatia
 3,Admin-0 scale ranks,3,HRV,HRV,HRV,HRV,Croatia
 3,Admin-0 scale ranks,3,HRV,HRV,HRV,HRV,Croatia
@@ -1635,3 +1635,4 @@ N,C,N,C,C,C,C,C
 1,Admin-0 scale ranks,1,RUS,RUS,RUS,RUE,Russia
 1,Admin-0 scale ranks,1,MAR,MAR,MAR,MAR,Morocco
 1,Admin-0 scale ranks,1,RUS,RUS,RUS,RUC,Crimea
+5,Admin-0 scale ranks,5,TUV,TUV,TUV,TUV,Tuvalu

@@ -1,8 +1,6 @@
 OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,admin,scalerank,datarank,featurecla
 1861,1309,ARG-1309,ARG,ARG,ARG,AR,1,Entre Ríos,Argentina,3,3,Admin-1 scale rank
 50,8,URY-8,URY,URY,URY,UY,1,Paysandú,Uruguay,6,8,Admin-1 scale rank
-1367,1114,PAK-1114,PAK,PAK,PAK,PK,1,Sind,Pakistan,3,2,Admin-1 scale rank
-5298,3264,IND-3264,IND,IND,IND,IN,1,Gujarat,India,2,1,Admin-1 scale rank
 2131,1185,IDN-1185,IDN,IDN,IDN,ID,5,Kalimantan Timur,Indonesia,2,1,Admin-1 scale rank
 2132,1186,MYS-1186,MYS,MYS,MYS,MY,5,Sabah,Malaysia,6,6,Admin-1 scale rank
 4971,2694,CHL-2694,CHL,CHL,CHL,CL,1,Arica y Parinacota,Chile,3,3,Admin-1 scale rank
@@ -15,7 +13,9 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 1855,1303,ARG-1303,ARG,ARG,ARG,AR,1,Salta,Argentina,3,3,Admin-1 scale rank
 1853,1301,ARG-1301,ARG,ARG,ARG,AR,1,Jujuy,Argentina,3,3,Admin-1 scale rank
 7133,5132,ESB-5132,GB1,ESB,ESB,-1,3,Dhekelia,Dhekelia Soverign Base Area,10,10,Admin-1 aggregation
-3444,2431,IND-2431,IND,IND,IND,IN,1,Jammu and Kashmir,India,2,1,Admin-1 scale rank
+6328,3463,CYP-3463,CYP,CYP,CYP,CY,3,Larnaca,Cyprus,9,8,Admin-1 scale rank
+6329,3463,CYP-3463,CYP,CYP,CYP,CY,3,Larnaca,Cyprus,9,8,Admin-1 scale rank
+11348,20012,IND-20012,IND,IND,IND,IN,1,Ladakh,India,2,1,Admin-1 scale rank
 3861,1756,CHN-1756,CH1,CHN,CHN,CN,1,Xinjiang Uygur,China,2,1,Admin-1 scale rank
 3860,1662,CHN-1662,CH1,CHN,CHN,CN,1,Xizang,China,2,1,Admin-1 scale rank
 5300,3053,ISR-3053,IS1,ISR,ISR,IL,1,HaDarom,Israel,8,8,Admin-1 scale rank
@@ -24,7 +24,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7670,10192,WEB+00?,IS1,PSX,WEB,PS,1,WEB-00 (West Bank aggregation),West Bank,10,10,Admin-1 aggregation
 5301,3054,ISR-3054,IS1,ISR,ISR,IL,1,Haifa,Israel,8,8,Admin-1 scale rank
 5302,3055,ISR-3055,IS1,ISR,ISR,IL,1,HaMerkaz,Israel,8,8,Admin-1 scale rank
-5305,3058,ISR-3058,IS1,ISR,ISR,IL,1,Jerusalem,Israel,8,8,Admin-1 scale rank
 5310,3059,LBN-3059,LBN,LBN,LBN,LB,1,An Nabatiyah,Lebanon,9,8,Admin-1 scale rank
 5311,3060,LBN-3060,LBN,LBN,LBN,LB,1,South Lebanon,Lebanon,9,8,Admin-1 scale rank
 5070,3129,ETH-3129,ETH,ETH,ETH,ET,1,"Southern Nations, Nationalities and Peoples",Ethiopia,3,3,Admin-1 scale rank
@@ -37,9 +36,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3063,2312,SOM-2312,SOM,SOM,SOX,SO,1,Bakool,Somalia,5,8,Admin-1 scale rank
 3065,2314,SOM-2314,SOM,SOM,SOX,SO,1,Gedo,Somalia,5,8,Admin-1 scale rank
 1080,890,KEN-890,KEN,KEN,KEN,KE,1,Rift Valley,Kenya,4,5,Admin-1 scale rank
-2488,1111,PAK-1111,PAK,PAK,PAK,PK,1,Northern Areas,Pakistan,3,2,Admin-1 scale rank
-2469,1109,PAK-1109,PAK,PAK,PAK,PK,1,Azad Kashmir,Pakistan,3,2,Admin-1 scale rank
-1366,1113,PAK-1113,PAK,PAK,PAK,PK,1,Punjab,Pakistan,3,2,Admin-1 scale rank
 1935,1194,MWI-1194,MWI,MWI,MWI,MW,1,Chitipa,Malawi,8,8,Admin-1 scale rank
 6049,3335,TZA-3335,TZA,TZA,TZA,TZ,1,Mbeya,United Republic of Tanzania,5,5,Admin-1 scale rank
 10995,5587,TZA-5587,TZA,TZA,TZA,TZ,1,Njombe,United Republic of Tanzania,5,5,Admin-1 scale rank
@@ -63,8 +59,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6232,3469,MAR-3469,MAR,MAR,MAR,MA,1,Oued el Dahab,Morocco,5,5,Admin-1 scale rank
 2209,1333,CRI-1333,CRI,CRI,CRI,CR,1,Alajuela,Costa Rica,8,8,Admin-1 scale rank
 10377,4800,NIC-4800,NIC,NIC,NIC,NI,1,Rivas,Nicaragua,8,8,Admin-1 scale rank
-2205,1329,CRI-1329,CRI,CRI,CRI,CR,1,Limón,Costa Rica,8,8,Admin-1 scale rank
-2204,1328,CRI-1328,CRI,CRI,CRI,CR,1,Heredia,Costa Rica,8,8,Admin-1 scale rank
 4973,2838,COG-2838,COG,COG,COG,CG,1,Likouala,Republic of the Congo,5,7,Admin-1 scale rank
 2148,1461,COD-1461,COD,COD,COD,CD,1,Équateur,Democratic Republic of the Congo,5,3,Admin-1 scale rank
 6073,3342,COG-3342,COG,COG,COG,CG,1,Cuvette,Republic of the Congo,5,7,Admin-1 scale rank
@@ -103,8 +97,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2915,5509,MWI-5509,MWI,MWI,MWI,MW,5,Likoma,Malawi,8,8,Admin-1 scale rank
 2916,5509,MWI-5509,MWI,MWI,MWI,MW,5,Likoma,Malawi,8,8,Admin-1 scale rank
 572,364,UZB-364,UZB,UZB,UZB,UZ,4,Ferghana,Uzbekistan,4,6,Admin-1 scale rank
-5630,3206,KAZ-3206,KAZ,KAZ,KAZ,KZ,1,East Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
-5631,3207,KAZ-3207,KAZ,KAZ,KAZ,KZ,1,Almaty,Kazakhstan,4,6,Admin-1 scale rank
+5630,3206,KAZ-3206,KA1,KAZ,KAZ,KZ,1,East Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
+5631,3207,KAZ-3207,KA1,KAZ,KAZ,KZ,1,Almaty,Kazakhstan,4,6,Admin-1 scale rank
 574,369,TJK-369,TJK,TJK,TJK,TJ,1,Leninabad,Tajikistan,5,8,Admin-1 scale rank
 4028,2341,BLR-2341,BLR,BLR,BLR,BY,1,Vitsyebsk,Belarus,4,6,Admin-1 scale rank
 2768,1074,LTU-1074,LTU,LTU,LTU,LT,1,Utenos,Lithuania,7,8,Admin-1 scale rank
@@ -113,11 +107,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2762,1067,LTU-1067,LTU,LTU,LTU,LT,1,Alytaus,Lithuania,7,8,Admin-1 scale rank
 143,612,BRA-612,BRA,BRA,BRA,BR,1,Rio Grande do Sul,Brazil,2,1,Admin-1 scale rank
 48,6,URY-6,URY,URY,URY,UY,1,Artigas,Uruguay,6,8,Admin-1 scale rank
-52,10,URY-10,URY,URY,URY,UY,1,Salto,Uruguay,6,8,Admin-1 scale rank
-56,14,URY-14,URY,URY,URY,UY,1,Rivera,Uruguay,6,8,Admin-1 scale rank
-54,12,URY-12,URY,URY,URY,UY,1,Cerro Largo,Uruguay,6,8,Admin-1 scale rank
-64,22,URY-22,URY,URY,URY,UY,1,Rocha,Uruguay,6,8,Admin-1 scale rank
-58,16,URY-16,URY,URY,URY,UY,1,Treinta y Tres,Uruguay,6,8,Admin-1 scale rank
 6491,3332,MNG-3332,MNG,MNG,MNG,MN,1,Dornod,Mongolia,4,7,Admin-1 scale rank
 3919,1838,CHN-1838,CH1,CHN,CHN,CN,1,Nei Mongol,China,2,1,Admin-1 scale rank
 5602,3208,MNG-3208,MNG,MNG,MNG,MN,1,Bayan-Ölgiy,Mongolia,4,7,Admin-1 scale rank
@@ -275,10 +264,10 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 5557,3037,GEO-3037,GEO,GEO,GEG,GE,1,Kvemo Kartli,Georgia,7,8,Admin-1 scale rank
 3584,1674,ARM-1674,ARM,ARM,ARM,AM,1,Lori,Armenia,9,8,Admin-1 scale rank
 2501,1555,ARM-1555,ARM,ARM,ARM,AM,1,Shirak,Armenia,9,8,Admin-1 scale rank
-5634,3252,KAZ-3252,KAZ,KAZ,KAZ,KZ,1,Zhambyl,Kazakhstan,4,6,Admin-1 scale rank
+5634,3252,KAZ-3252,KA1,KAZ,KAZ,KZ,1,Zhambyl,Kazakhstan,4,6,Admin-1 scale rank
 1445,1116,KGZ-1116,KGZ,KGZ,KGZ,KG,1,Chuy,Kyrgyzstan,5,8,Admin-1 scale rank
 1450,1121,KGZ-1121,KGZ,KGZ,KGZ,KG,1,Talas,Kyrgyzstan,5,8,Admin-1 scale rank
-5633,3251,KAZ-3251,KAZ,KAZ,KAZ,KZ,1,South Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
+5633,3251,KAZ-3251,KA1,KAZ,KAZ,KZ,1,South Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
 1104,676,GUY-676,GUY,GUY,GUY,GY,1,Pomeroon-Supenaam,Guyana,6,8,Admin-1 scale rank
 1083,670,BRA-670,BRA,BRA,BRA,BR,1,Roraima,Brazil,2,1,Admin-1 scale rank
 1101,672,GUY-672,GUY,GUY,GUY,GY,1,Potaro-Siparuni,Guyana,6,8,Admin-1 scale rank
@@ -523,45 +512,14 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3805,1608,HRV-1608,HRV,HRV,HRV,HR,1,Koprivničko-Križevačka,Croatia,9,8,Admin-1 scale rank
 5571,3155,HUN-3155,HUN,HUN,HUN,HU,1,Baranya,Hungary,7,6,Admin-1 scale rank
 3800,1603,HRV-1603,HRV,HRV,HRV,HR,1,Osjecko-Baranjska,Croatia,9,8,Admin-1 scale rank
-680,264,SVN-264,SVN,SVN,SVN,SI,1,Lendava,Slovenia,10,8,Admin-1 scale rank
-679,263,SVN-263,SVN,SVN,SVN,SI,1,Črenšovci,Slovenia,10,8,Admin-1 scale rank
-681,265,SVN-265,SVN,SVN,SVN,SI,1,Ljutomer,Slovenia,10,8,Admin-1 scale rank
-685,269,SVN-269,SVN,SVN,SVN,SI,1,Razkrižje,Slovenia,10,8,Admin-1 scale rank
-2661,1047,SVN-1047,SVN,SVN,SVN,SI,1,Ormož,Slovenia,10,8,Admin-1 scale rank
-3807,1610,HRV-1610,HRV,HRV,HRV,HR,1,Varaždinska,Croatia,9,8,Admin-1 scale rank
-2664,1050,SVN-1050,SVN,SVN,SVN,SI,1,Zavrc,Slovenia,10,8,Admin-1 scale rank
-2655,1041,SVN-1041,SVN,SVN,SVN,SI,1,Gorišnica,Slovenia,10,8,Admin-1 scale rank
-639,222,SVN-222,SVN,SVN,SVN,SI,1,Videm,Slovenia,10,8,Admin-1 scale rank
-649,232,SVN-232,SVN,SVN,SVN,SI,1,Podlehnik,Slovenia,10,8,Admin-1 scale rank
-648,231,SVN-231,SVN,SVN,SVN,SI,1,Žetale,Slovenia,10,8,Admin-1 scale rank
-3791,1582,HRV-1582,HRV,HRV,HRV,HR,1,Krapinsko-Zagorska,Croatia,9,8,Admin-1 scale rank
-2600,983,SVN-983,SVN,SVN,SVN,SI,1,Rogatec,Slovenia,10,8,Admin-1 scale rank
-2599,982,SVN-982,SVN,SVN,SVN,SI,1,Rogaška Slatina,Slovenia,10,8,Admin-1 scale rank
-630,213,SVN-213,SVN,SVN,SVN,SI,1,Bistrica ob Sotli,Slovenia,10,8,Admin-1 scale rank
-672,255,SVN-255,SVN,SVN,SVN,SI,1,Podcetrtek,Slovenia,10,8,Admin-1 scale rank
-2555,938,SVN-938,SVN,SVN,SVN,SI,1,Brežice,Slovenia,10,8,Admin-1 scale rank
-3796,1588,HRV-1588,HRV,HRV,HRV,HR,1,Zagrebacka,Croatia,9,8,Admin-1 scale rank
-2575,958,SVN-958,SVN,SVN,SVN,SI,1,Spodnjeposavska,Slovenia,10,8,Admin-1 scale rank
-2604,987,SVN-987,SVN,SVN,SVN,SI,1,Šentjernej,Slovenia,10,8,Admin-1 scale rank
-629,212,SVN-212,SVN,SVN,SVN,SI,1,Novo Mesto,Slovenia,10,8,Admin-1 scale rank
-2586,969,SVN-969,SVN,SVN,SVN,SI,1,Metlika,Slovenia,10,8,Admin-1 scale rank
-3792,1583,HRV-1583,HRV,HRV,HRV,HR,1,Karlovacka,Croatia,9,8,Admin-1 scale rank
-662,245,SVN-245,SVN,SVN,SVN,SI,1,Kostel,Slovenia,10,8,Admin-1 scale rank
-3794,1586,HRV-1586,HRV,HRV,HRV,HR,1,Primorsko-Goranska,Croatia,9,8,Admin-1 scale rank
-2582,965,SVN-965,SVN,SVN,SVN,SI,1,Loški Potok,Slovenia,10,8,Admin-1 scale rank
-626,209,SVN-209,SVN,SVN,SVN,SI,1,Loška Dolina,Slovenia,10,8,Admin-1 scale rank
-2571,954,SVN-954,SVN,SVN,SVN,SI,1,Ilirska Bistrica,Slovenia,10,8,Admin-1 scale rank
-2562,945,SVN-945,SVN,SVN,SVN,SI,1,Crnomelj,Slovenia,10,8,Admin-1 scale rank
-624,207,SVN-207,SVN,SVN,SVN,SI,1,Kocevje,Slovenia,10,8,Admin-1 scale rank
-3798,1592,HRV-1592,HRV,HRV,HRV,HR,1,Istarska,Croatia,9,8,Admin-1 scale rank
-2643,1026,SVN-1026,SVN,SVN,SVN,SI,1,Hrpelje-Kozina,Slovenia,10,8,Admin-1 scale rank
-2648,1031,SVN-1031,SVN,SVN,SVN,SI,1,Koper,Slovenia,10,8,Admin-1 scale rank
 2650,1033,SVN-1033,SVN,SVN,SVN,SI,1,Piran,Slovenia,10,8,Admin-1 scale rank
+3798,1592,HRV-1592,HRV,HRV,HRV,HR,1,Istarska,Croatia,9,8,Admin-1 scale rank
 2658,1044,SVN-1044,SVN,SVN,SVN,SI,1,Moravske Toplice,Slovenia,10,8,Admin-1 scale rank
 613,196,SVN-196,SVN,SVN,SVN,SI,1,Šalovci,Slovenia,10,8,Admin-1 scale rank
 618,201,SVN-201,SVN,SVN,SVN,SI,1,Hodoš,Slovenia,10,8,Admin-1 scale rank
 1503,928,SVN-928,SVN,SVN,SVN,SI,1,Gornji Petrovci,Slovenia,10,8,Admin-1 scale rank
 614,197,SVN-197,SVN,SVN,SVN,SI,1,Kuzma,Slovenia,10,8,Admin-1 scale rank
+680,264,SVN-264,SVN,SVN,SVN,SI,1,Lendava,Slovenia,10,8,Admin-1 scale rank
 1499,271,SVN-271,SVN,SVN,SVN,SI,1,Dobrovnik,Slovenia,10,8,Admin-1 scale rank
 2657,1043,SVN-1043,SVN,SVN,SVN,SI,1,Kobilje,Slovenia,10,8,Admin-1 scale rank
 2421,1100,QAT-1100,QAT,QAT,QAT,QA,1,Ar Rayyan,Qatar,9,8,Admin-1 scale rank
@@ -571,6 +529,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 4413,2630,BWA-2630,BWA,BWA,BWA,BW,1,Central,Botswana,4,6,Admin-1 scale rank
 100,530,ZWE-530,ZWE,ZWE,ZWE,ZW,1,Matabeleland South,Zimbabwe,5,6,Admin-1 scale rank
 10422,4853,BWA-4853,BWA,BWA,BWA,BW,1,North-East,Botswana,4,6,Admin-1 scale rank
+2488,1111,PAK-1111,PAK,PAK,PAK,PK,1,Northern Areas,Pakistan,3,2,Admin-1 scale rank
 3741,2254,BGR-2254,BGR,BGR,BGR,BG,1,Burgas,Bulgaria,7,7,Admin-1 scale rank
 3663,2241,TUR-2241,TUR,TUR,TUR,TR,1,Kirklareli,Turkey,6,5,Admin-1 scale rank
 3742,2255,BGR-2255,BGR,BGR,BGR,BG,1,Yambol,Bulgaria,7,7,Admin-1 scale rank
@@ -593,16 +552,16 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 408,432,THA-432,THA,THA,THA,TH,1,Chanthaburi,Thailand,7,5,Admin-1 scale rank
 2470,5835,ESP-5835,ESP,ESP,ESP,ES,5,Melilla,Spain,3,3,Admin-1 scale rank
 2481,1454,MAR-1454,MAR,MAR,MAR,MA,1,Oriental,Morocco,5,5,Admin-1 scale rank
-3364,2493,BTN-2493,BTN,BTN,BTN,BT,1,Tashigang,Bhutan,9,8,Admin-1 scale rank
-3411,2477,IND-2477,IND,IND,IND,IN,1,Assam,India,2,1,Admin-1 scale rank
-3363,2492,BTN-2492,BTN,BTN,BTN,BT,1,Samdrup Jongkhar,Bhutan,9,8,Admin-1 scale rank
 5289,3259,IND-3259,IND,IND,IND,IN,1,Sikkim,India,2,1,Admin-1 scale rank
 3367,2435,BTN-2435,BTN,BTN,BTN,BT,1,Ha,Bhutan,9,8,Admin-1 scale rank
 3370,2438,BTN-2438,BTN,BTN,BTN,BT,1,Samchi,Bhutan,9,8,Admin-1 scale rank
 5287,3257,IND-3257,IND,IND,IND,IN,1,West Bengal,India,2,1,Admin-1 scale rank
-3355,2482,BTN-2482,BTN,BTN,BTN,BT,1,Geylegphug,Bhutan,9,8,Admin-1 scale rank
 3365,2433,BTN-2433,BTN,BTN,BTN,BT,1,Chhukha,Bhutan,9,8,Admin-1 scale rank
+3355,2482,BTN-2482,BTN,BTN,BTN,BT,1,Geylegphug,Bhutan,9,8,Admin-1 scale rank
+3411,2477,IND-2477,IND,IND,IND,IN,1,Assam,India,2,1,Admin-1 scale rank
 3358,2485,BTN-2485,BTN,BTN,BTN,BT,1,Shemgang,Bhutan,9,8,Admin-1 scale rank
+3363,2492,BTN-2492,BTN,BTN,BTN,BT,1,Samdrup Jongkhar,Bhutan,9,8,Admin-1 scale rank
+3364,2493,BTN-2493,BTN,BTN,BTN,BT,1,Tashigang,Bhutan,9,8,Admin-1 scale rank
 2160,1141,MYS-1141,MYS,MYS,MYS,MY,1,Perlis,Malaysia,6,6,Admin-1 scale rank
 1245,385,THA-385,THA,THA,THA,TH,1,Satun,Thailand,7,5,Admin-1 scale rank
 1246,386,THA-386,THA,THA,THA,TH,1,Songkhla,Thailand,7,5,Admin-1 scale rank
@@ -670,6 +629,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2647,1030,SVN-1030,SVN,SVN,SVN,SI,1,Komen,Slovenia,10,8,Admin-1 scale rank
 10815,5458,ITA-5458,ITA,ITA,ITA,IT,1,Trieste,Italy,3,3,Admin-1 scale rank
 2651,1034,SVN-1034,SVN,SVN,SVN,SI,1,Sežana,Slovenia,10,8,Admin-1 scale rank
+2643,1026,SVN-1026,SVN,SVN,SVN,SI,1,Hrpelje-Kozina,Slovenia,10,8,Admin-1 scale rank
+2648,1031,SVN-1031,SVN,SVN,SVN,SI,1,Koper,Slovenia,10,8,Admin-1 scale rank
 2925,1927,MOZ-1927,MOZ,MOZ,MOZ,MZ,1,Maputo,Mozambique,4,6,Admin-1 scale rank
 68,535,SWZ-535,SWZ,SWZ,SWZ,SZ,1,Lubombo,Swaziland,8,8,Admin-1 scale rank
 4507,2644,BDI-2644,BDI,BDI,BDI,BI,1,Muyinga,Burundi,9,8,Admin-1 scale rank
@@ -754,9 +715,9 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6047,3494,RWA-3494,RWA,RWA,RWA,RW,1,Northern,Rwanda,8,9,Admin-1 scale rank
 6089,3375,UGA-3375,UGA,UGA,UGA,UG,1,Kabale,Uganda,9,5,Admin-1 scale rank
 6090,3376,UGA-3376,UGA,UGA,UGA,UG,1,Kisoro,Uganda,9,5,Admin-1 scale rank
-7083,10182,USG+00?,CUB,USG,USG,-1,3,USG-00 (Guantanamo Bay USNB aggregation),US Naval Base Guantanamo Bay,10,10,Admin-1 aggregation
-2381,1365,CUB-1365,CUB,CUB,CUB,CU,1,Guantánamo,Cuba,6,6,Admin-1 scale rank
-5285,3254,IND-3254,IND,IND,IND,IN,1,Uttaranchal,India,2,1,Admin-1 scale rank
+7083,10182,USG+00?,CU1,USG,USG,-1,3,USG-00 (Guantanamo Bay USNB aggregation),US Naval Base Guantanamo Bay,10,10,Admin-1 aggregation
+2381,1365,CUB-1365,CU1,CUB,CUB,CU,1,Guantánamo,Cuba,6,6,Admin-1 scale rank
+5285,3254,IND-3254,IND,IND,IND,IN,1,Uttarakhand,India,2,1,Admin-1 scale rank
 11275,5893,KOS-5893,KOS,KOS,KOS,-1,1,Leposavić,Kosovo,8,8,Admin-1 scale rank
 1471,834,SRB-834,SRB,SRB,SRS,RS,1,Raški,Republic of Serbia,8,8,Admin-1 scale rank
 1470,833,SRB-833,SRB,SRB,SRS,RS,1,Pomoravski,Republic of Serbia,8,8,Admin-1 scale rank
@@ -853,20 +814,9 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 5948,3422,CHE-3422,CHE,CHE,CHE,CH,1,Vaud,Switzerland,9,7,Admin-1 scale rank
 10733,5312,FRA-5312,FR1,FRA,FXX,FR,1,Jura,France,3,3,Admin-1 scale rank
 10,161,CHE-161,CHE,CHE,CHE,CH,1,Neuchâtel,Switzerland,9,7,Admin-1 scale rank
-11184,5838,ESP-5838,ESP,ESP,ESP,ES,1,Orense,Spain,3,3,Admin-1 scale rank
-2504,741,PRT-741,PRT,PRT,PRX,PT,1,Viana do Castelo,Portugal,7,6,Admin-1 scale rank
-11185,5840,ESP-5840,ESP,ESP,ESP,ES,1,Pontevedra,Spain,3,3,Admin-1 scale rank
-2512,749,PRT-749,PRT,PRT,PRX,PT,1,Braga,Portugal,7,6,Admin-1 scale rank
-2513,750,PRT-750,PRT,PRT,PRX,PT,1,Bragança,Portugal,7,6,Admin-1 scale rank
-2519,756,PRT-756,PRT,PRT,PRX,PT,1,Vila Real,Portugal,7,6,Admin-1 scale rank
-11191,5852,ESP-5852,ESP,ESP,ESP,ES,1,Zamora,Spain,3,3,Admin-1 scale rank
-11192,5841,ESP-5841,ESP,ESP,ESP,ES,1,Salamanca,Spain,3,3,Admin-1 scale rank
-2543,5811,ESP-5811,ESP,ESP,ESP,ES,1,Cáceres,Spain,3,3,Admin-1 scale rank
-2516,753,PRT-753,PRT,PRT,PRX,PT,1,Guarda,Portugal,7,6,Admin-1 scale rank
-2514,751,PRT-751,PRT,PRT,PRX,PT,1,Castelo Branco,Portugal,7,6,Admin-1 scale rank
 11214,5807,ESP-5807,ESP,ESP,ESP,ES,1,Badajoz,Spain,3,3,Admin-1 scale rank
-2510,747,PRT-747,PRT,PRT,PRX,PT,1,Portalegre,Portugal,7,6,Admin-1 scale rank
 2506,744,PRT-744,PRT,PRT,PRX,PT,1,Évora,Portugal,7,6,Admin-1 scale rank
+2510,747,PRT-747,PRT,PRT,PRX,PT,1,Portalegre,Portugal,7,6,Admin-1 scale rank
 2553,931,SVN-931,SVN,SVN,SVN,SI,1,Rogašovci,Slovenia,10,8,Admin-1 scale rank
 3852,2323,AUT-2323,AUT,AUT,AUT,AT,1,Steiermark,Austria,6,7,Admin-1 scale rank
 1501,926,SVN-926,SVN,SVN,SVN,SI,1,Cankova,Slovenia,10,8,Admin-1 scale rank
@@ -898,6 +848,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 10378,4802,BIH-4802,BIH,BIH,BIS,BA,1,Serbian Republic,Bosnia and Herzegovina,7,8,Admin-1 scale rank
 3799,1602,HRV-1602,HRV,HRV,HRV,HR,1,Brodsko-Posavska,Croatia,9,8,Admin-1 scale rank
 3784,2225,BIH-2225,BIH,BIH,BHF,BA,1,Una-Sana,Bosnia and Herzegovina,7,8,Admin-1 scale rank
+3792,1583,HRV-1583,HRV,HRV,HRV,HR,1,Karlovacka,Croatia,9,8,Admin-1 scale rank
 3811,1493,HRV-1493,HRV,HRV,HRV,HR,1,Zadarska,Croatia,9,8,Admin-1 scale rank
 5569,4801,BIH-4801,BIH,BIH,BIS,BA,1,Serbian Republic,Bosnia and Herzegovina,7,8,Admin-1 scale rank
 5563,3153,BIH-3153,BIH,BIH,BHF,BA,1,Posavina,Bosnia and Herzegovina,7,8,Admin-1 scale rank
@@ -1093,12 +1044,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 1328,1133,NPL-1133,NPL,NPL,NPL,NP,1,Sagarmatha,Nepal,6,6,Admin-1 scale rank
 1329,1134,NPL-1134,NPL,NPL,NPL,NP,1,Bhojpur,Nepal,6,6,Admin-1 scale rank
 1330,1135,NPL-1135,NPL,NPL,NPL,NP,1,Mechi,Nepal,6,6,Admin-1 scale rank
-5284,3253,IND-3253,IND,IND,IND,IN,1,Uttar Pradesh,India,2,1,Admin-1 scale rank
-1319,1124,NPL-1124,NPL,NPL,NPL,NP,1,Banke,Nepal,6,6,Admin-1 scale rank
-542,373,NPL-373,NPL,NPL,NPL,NP,1,Rapti,Nepal,6,6,Admin-1 scale rank
-5288,3258,IND-3258,IND,IND,IND,IN,1,Bihar,India,2,1,Admin-1 scale rank
-1322,1127,NPL-1127,NPL,NPL,NPL,NP,1,Lumbini,Nepal,6,6,Admin-1 scale rank
-1327,1132,NPL-1132,NPL,NPL,NPL,NP,1,Narayani,Nepal,6,6,Admin-1 scale rank
 6247,3296,MMR-3296,MMR,MMR,MMR,MM,1,Kachin,Myanmar,6,5,Admin-1 scale rank
 6248,3302,MMR-3302,MMR,MMR,MMR,MM,1,Sagaing,Myanmar,6,5,Admin-1 scale rank
 3413,2479,IND-2479,IND,IND,IND,IN,1,Nagaland,India,2,1,Admin-1 scale rank
@@ -1322,8 +1267,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 1920,1199,MOZ-1199,MOZ,MOZ,MOZ,MZ,1,Niassa,Mozambique,4,6,Admin-1 scale rank
 8070,10068,GIB+00?,GB1,GIB,GIB,GI,5,GIB-00 (Gibraltar aggregation),Gibraltar,10,10,Admin-1 aggregation
 11217,5812,ESP-5812,ESP,ESP,ESP,ES,1,Cádiz,Spain,3,3,Admin-1 scale rank
-6399,3514,USA-3514,US1,USA,USA,US,1,Minnesota,United States of America,2,1,Admin-1 scale rank
-1734,682,CAN-682,CAN,CAN,CAN,CA,1,Ontario,Canada,2,2,Admin-1 scale rank
 6437,3519,USA-3519,US1,USA,USA,US,1,Washington,United States of America,2,1,Admin-1 scale rank
 929,633,CAN-633,CAN,CAN,CAN,CA,1,British Columbia,Canada,2,2,Admin-1 scale rank
 6436,3518,USA-3518,US1,USA,USA,US,1,Idaho,United States of America,2,1,Admin-1 scale rank
@@ -1332,15 +1275,17 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 927,631,CAN-631,CAN,CAN,CAN,CA,1,Saskatchewan,Canada,2,2,Admin-1 scale rank
 6435,3516,USA-3516,US1,USA,USA,US,1,North Dakota,United States of America,2,1,Admin-1 scale rank
 934,630,CAN-630,CAN,CAN,CAN,CA,1,Manitoba,Canada,2,2,Admin-1 scale rank
+6399,3514,USA-3514,US1,USA,USA,US,1,Minnesota,United States of America,2,1,Admin-1 scale rank
+1734,682,CAN-682,CAN,CAN,CAN,CA,1,Ontario,Canada,2,2,Admin-1 scale rank
 5590,3562,USA-3562,US1,USA,USA,US,1,Michigan,United States of America,2,1,Admin-1 scale rank
-6430,3561,USA-3561,US1,USA,USA,US,1,Maine,United States of America,2,1,Admin-1 scale rank
-1521,683,CAN-683,CAN,CAN,CAN,CA,1,Québec,Canada,2,2,Admin-1 scale rank
-1519,684,CAN-684,CAN,CAN,CAN,CA,1,New Brunswick,Canada,2,2,Admin-1 scale rank
 6417,3550,USA-3550,US1,USA,USA,US,1,Ohio,United States of America,2,1,Admin-1 scale rank
-6401,3538,USA-3538,US1,USA,USA,US,1,New Hampshire,United States of America,2,1,Admin-1 scale rank
-6428,3559,USA-3559,US1,USA,USA,US,1,New York,United States of America,2,1,Admin-1 scale rank
-6404,3540,USA-3540,US1,USA,USA,US,1,Vermont,United States of America,2,1,Admin-1 scale rank
 6429,3560,USA-3560,US1,USA,USA,US,1,Pennsylvania,United States of America,2,1,Admin-1 scale rank
+6428,3559,USA-3559,US1,USA,USA,US,1,New York,United States of America,2,1,Admin-1 scale rank
+1521,683,CAN-683,CAN,CAN,CAN,CA,1,Québec,Canada,2,2,Admin-1 scale rank
+6404,3540,USA-3540,US1,USA,USA,US,1,Vermont,United States of America,2,1,Admin-1 scale rank
+6401,3538,USA-3538,US1,USA,USA,US,1,New Hampshire,United States of America,2,1,Admin-1 scale rank
+6430,3561,USA-3561,US1,USA,USA,US,1,Maine,United States of America,2,1,Admin-1 scale rank
+1519,684,CAN-684,CAN,CAN,CAN,CA,1,New Brunswick,Canada,2,2,Admin-1 scale rank
 6438,3520,USA-3520,US1,USA,USA,US,1,Arizona,United States of America,2,1,Admin-1 scale rank
 5230,2712,MEX-2712,MEX,MEX,MEX,MX,1,Sonora,Mexico,4,2,Admin-1 scale rank
 5222,2706,MEX-2706,MEX,MEX,MEX,MX,1,Baja California,Mexico,4,2,Admin-1 scale rank
@@ -1371,6 +1316,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 1219,651,HND-651,HND,HND,HND,HN,1,Copán,Honduras,7,8,Admin-1 scale rank
 3252,1963,GTM-1963,GTM,GTM,GTM,GT,1,Zacapa,Guatemala,7,8,Admin-1 scale rank
 3091,1958,PAN-1958,PAN,PAN,PAN,PA,1,Bocas del Toro,Panama,7,8,Admin-1 scale rank
+2205,1329,CRI-1329,CRI,CRI,CRI,CR,1,Limón,Costa Rica,8,8,Admin-1 scale rank
 2207,1330,CRI-1330,CRI,CRI,CRI,CR,1,Puntarenas,Costa Rica,8,8,Admin-1 scale rank
 2189,1332,PAN-1332,PAN,PAN,PAN,PA,1,Chiriquí,Panama,7,8,Admin-1 scale rank
 2188,1419,PAN-1419,PAN,PAN,PAN,PA,1,Kuna Yala,Panama,7,8,Admin-1 scale rank
@@ -1414,8 +1360,9 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 4969,2705,CHL-2705,CHL,CHL,CHL,CL,1,Maule,Chile,3,3,Admin-1 scale rank
 4967,2703,CHL-2703,CHL,CHL,CHL,CL,1,Libertador General Bernardo O'Higgins,Chile,3,3,Admin-1 scale rank
 1846,1276,ARG-1276,ARG,ARG,ARG,AR,1,Neuquén,Argentina,3,3,Admin-1 scale rank
-4966,2702,CHL-2702,CHL,CHL,CHL,CL,1,Bío-Bío,Chile,3,3,Admin-1 scale rank
+11346,20010,CHL-20010,CHL,CHL,CHL,CL,1,Ñuble,Chile,3,3,Admin-1 scale rank
 4964,2700,CHL-2700,CHL,CHL,CHL,CL,1,La Araucanía,Chile,3,3,Admin-1 scale rank
+4966,2702,CHL-2702,CHL,CHL,CHL,CL,1,Bío-Bío,Chile,3,3,Admin-1 scale rank
 4965,2701,CHL-2701,CHL,CHL,CHL,CL,1,Los Ríos,Chile,3,3,Admin-1 scale rank
 1844,1274,ARG-1274,ARG,ARG,ARG,AR,1,Chubut,Argentina,3,3,Admin-1 scale rank
 4968,2704,CHL-2704,CHL,CHL,CHL,CL,1,Los Lagos,Chile,3,3,Admin-1 scale rank
@@ -1439,10 +1386,10 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2034,1241,PNG-1241,PNG,PNG,PNX,PG,1,Sandaun,Papua New Guinea,6,8,Admin-1 scale rank
 2040,1248,PNG-1248,PNG,PNG,PNX,PG,1,Western,Papua New Guinea,6,6,Admin-1 scale rank
 581,351,TKM-351,TKM,TKM,TKM,TM,1,Balkan,Turkmenistan,4,8,Admin-1 scale rank
-5632,3236,KAZ-3236,KAZ,KAZ,KAZ,KZ,1,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
-5623,3197,KAZ-3197,KAZ,KAZ,KAZ,KZ,1,Qyzylorda,Kazakhstan,4,6,Admin-1 scale rank
+5632,3236,KAZ-3236,KA1,KAZ,KAZ,KZ,1,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
+5623,3197,KAZ-3197,KA1,KAZ,KAZ,KZ,1,Qyzylorda,Kazakhstan,4,6,Admin-1 scale rank
 599,356,UZB-356,UZB,UZB,UZB,UZ,1,Karakalpakstan,Uzbekistan,4,6,Admin-1 scale rank
-5621,3195,KAZ-3195,KAZ,KAZ,KAZ,KZ,1,Aqtöbe,Kazakhstan,4,6,Admin-1 scale rank
+5621,3195,KAZ-3195,KA1,KAZ,KAZ,KZ,1,Aqtöbe,Kazakhstan,4,6,Admin-1 scale rank
 600,357,UZB-357,UZB,UZB,UZB,UZ,1,Navoi,Uzbekistan,4,6,Admin-1 scale rank
 583,353,TKM-353,TKM,TKM,TKM,TM,1,Tashauz,Turkmenistan,4,8,Admin-1 scale rank
 598,355,UZB-355,UZB,UZB,UZB,UZ,1,Khorezm,Uzbekistan,4,6,Admin-1 scale rank
@@ -1466,21 +1413,21 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3524,1755,AFG-1755,AFG,AFG,AFG,AF,1,Zabul,Afghanistan,5,5,Admin-1 scale rank
 3523,1754,AFG-1754,AFG,AFG,AFG,AF,1,Kandahar,Afghanistan,5,5,Admin-1 scale rank
 3519,1750,AFG-1750,AFG,AFG,AFG,AF,1,Hilmand,Afghanistan,5,5,Admin-1 scale rank
-5628,3204,KAZ-3204,KAZ,KAZ,KAZ,KZ,1,North Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
+5628,3204,KAZ-3204,KA1,KAZ,KAZ,KZ,1,North Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
 4200,2398,RUS-2398,RUS,RUS,RUS,RU,1,Tyumen',Russia,2,2,Admin-1 scale rank
 4197,2380,RUS-2380,RUS,RUS,RUS,RU,1,Kurgan,Russia,2,2,Admin-1 scale rank
 4215,2397,RUS-2397,RUS,RUS,RUS,RU,1,Omsk,Russia,2,2,Admin-1 scale rank
-5622,3196,KAZ-3196,KAZ,KAZ,KAZ,KZ,1,Qostanay,Kazakhstan,4,6,Admin-1 scale rank
-5629,3205,KAZ-3205,KAZ,KAZ,KAZ,KZ,1,Pavlodar,Kazakhstan,4,6,Admin-1 scale rank
+5622,3196,KAZ-3196,KA1,KAZ,KAZ,KZ,1,Qostanay,Kazakhstan,4,6,Admin-1 scale rank
+5629,3205,KAZ-3205,KA1,KAZ,KAZ,KZ,1,Pavlodar,Kazakhstan,4,6,Admin-1 scale rank
 4220,2403,RUS-2403,RUS,RUS,RUS,RU,1,Novosibirsk,Russia,2,2,Admin-1 scale rank
 4196,2379,RUS-2379,RUS,RUS,RUS,RU,1,Chelyabinsk,Russia,2,2,Admin-1 scale rank
 4216,2399,RUS-2399,RUS,RUS,RUS,RU,1,Altay,Russia,2,2,Admin-1 scale rank
 4199,2391,RUS-2391,RUS,RUS,RUS,RU,1,Orenburg,Russia,2,2,Admin-1 scale rank
-5625,3201,KAZ-3201,KAZ,KAZ,KAZ,KZ,1,West Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
+5625,3201,KAZ-3201,KA1,KAZ,KAZ,KZ,1,West Kazakhstan,Kazakhstan,4,6,Admin-1 scale rank
 4177,2393,RUS-2393,RUS,RUS,RUS,RU,1,Saratov,Russia,2,2,Admin-1 scale rank
 4172,2388,RUS-2388,RUS,RUS,RUS,RU,1,Astrakhan',Russia,2,2,Admin-1 scale rank
 4156,2369,RUS-2369,RUS,RUS,RUS,RU,1,Volgograd,Russia,2,2,Admin-1 scale rank
-5624,3198,KAZ-3198,KAZ,KAZ,KAZ,KZ,1,Atyrau,Kazakhstan,4,6,Admin-1 scale rank
+5624,3198,KAZ-3198,KA1,KAZ,KAZ,KZ,1,Atyrau,Kazakhstan,4,6,Admin-1 scale rank
 1347,850,JOR-850,JOR,JOR,JOR,JO,1,Mafraq,Jordan,7,8,Admin-1 scale rank
 560,143,SYR-143,SYR,SYR,SYX,SY,1,As Suwayda',Syria,6,6,Admin-1 scale rank
 563,146,SYR-146,SYR,SYR,SYX,SY,1,Dar`a,Syria,6,6,Admin-1 scale rank
@@ -1517,10 +1464,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2386,1465,TCD-1465,TCD,TCD,TCD,TD,1,Kanem,Chad,4,7,Admin-1 scale rank
 1267,878,SDN-878,SDN,SDN,SDN,SD,1,Northern,Sudan,3,6,Admin-1 scale rank
 2455,1548,EGY-1548,EGY,EGY,EGY,EG,1,Aswan,Egypt,6,3,Admin-1 scale rank
-2457,1550,EGY-1550,EGY,EGY,EGY,EG,1,Al Wadi at Jadid,Egypt,6,3,Admin-1 scale rank
 2460,1556,EGY-1556,EGY,EGY,EGY,EG,1,Al Bahr al Ahmar,Egypt,6,3,Admin-1 scale rank
 1266,877,SDN-877,SDN,SDN,SDN,SD,1,River Nile,Sudan,3,5,Admin-1 scale rank
-442,149,SDN-149,SDN,SDN,SDN,SD,1,Red Sea,Sudan,3,5,Admin-1 scale rank
 1079,889,KEN-889,KEN,KEN,KEN,KE,1,Eastern,Kenya,4,6,Admin-1 scale rank
 1082,893,KEN-893,KEN,KEN,KEN,KE,1,North-Eastern,Kenya,4,5,Admin-1 scale rank
 3491,2148,DZA-2148,DZA,DZA,DZA,DZ,1,Béchar,Algeria,6,5,Admin-1 scale rank
@@ -1547,6 +1492,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 5281,2987,LBY-2987,LBY,LBY,LBY,LY,1,Al Butnan,Libya,4,7,Admin-1 scale rank
 2447,1540,EGY-1540,EGY,EGY,EGY,EG,1,Matruh,Egypt,6,3,Admin-1 scale rank
 5277,2983,LBY-2983,LBY,LBY,LBY,LY,1,Ajdabiya,Libya,4,7,Admin-1 scale rank
+2457,1550,EGY-1550,EGY,EGY,EGY,EG,1,Al Wadi at Jadid,Egypt,6,3,Admin-1 scale rank
 1170,776,GNB-776,GNB,GNB,GNB,GW,1,Bafatá,Guinea Bissau,8,8,Admin-1 scale rank
 1168,772,GNB-772,GNB,GNB,GNB,GW,1,Oio,Guinea Bissau,8,8,Admin-1 scale rank
 10925,5514,SEN-5514,SEN,SEN,SEN,SN,1,Sédhiou,Senegal,6,8,Admin-1 scale rank
@@ -1687,6 +1633,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6087,3373,UGA-3373,UGA,UGA,UGA,UG,1,Rukungiri,Uganda,9,5,Admin-1 scale rank
 6091,3377,UGA-3377,UGA,UGA,UGA,UG,1,Kanungu,Uganda,9,5,Admin-1 scale rank
 2279,1562,ERI-1562,ERI,ERI,ERI,ER,1,Debub,Eritrea,6,8,Admin-1 scale rank
+442,149,SDN-149,SDN,SDN,SDN,SD,1,Red Sea,Sudan,3,5,Admin-1 scale rank
 2280,1563,ERI-1563,ERI,ERI,ERI,ER,1,Semenawi Keyih Bahri,Eritrea,6,8,Admin-1 scale rank
 2277,1560,ERI-1560,ERI,ERI,ERI,ER,1,Gash Barka,Eritrea,6,8,Admin-1 scale rank
 1273,884,SDN-884,SDN,SDN,SDN,SD,1,Kassala,Sudan,3,5,Admin-1 scale rank
@@ -1695,8 +1642,11 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 4073,2347,EST-2347,EST,EST,EST,EE,1,Põlva,Estonia,8,8,Admin-1 scale rank
 4070,1659,EST-1659,EST,EST,EST,EE,1,Tartu,Estonia,8,8,Admin-1 scale rank
 4068,1657,EST-1657,EST,EST,EST,EE,1,Jõgeva,Estonia,8,8,Admin-1 scale rank
+1366,1113,PAK-1113,PAK,PAK,PAK,PK,1,Punjab,Pakistan,3,2,Admin-1 scale rank
 5282,3249,IND-3249,IND,IND,IND,IN,1,Punjab,India,2,2,Admin-1 scale rank
 5283,3250,IND-3250,IND,IND,IND,IN,1,Rajasthan,India,2,1,Admin-1 scale rank
+1367,1114,PAK-1114,PAK,PAK,PAK,PK,1,Sind,Pakistan,3,2,Admin-1 scale rank
+5298,3264,IND-3264,IND,IND,IND,IN,1,Gujarat,India,2,1,Admin-1 scale rank
 7176,3563,USA-3563,US1,USA,USA,US,1,Alaska,United States of America,2,1,Admin-1 scale rank
 1710,636,CAN-636,CAN,CAN,CAN,CA,1,Yukon,Canada,2,2,Admin-1 scale rank
 1268,879,SDN-879,SDN,SDN,SDN,SD,1,White Nile,Sudan,3,5,Admin-1 scale rank
@@ -1713,6 +1663,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7675,10045,CYN+00?,CYN,CYN,CYN,-1,1,CYN-00 (N. Cyprus aggregation),Northern Cyprus,10,10,Admin-1 aggregation
 10328,3466,CYP-3466,CNM,CNM,CNM,-1,1,Famagusta,Cyprus No Mans Area,9,8,Admin-1 scale rank
 10335,3464,CYP-3464,CNM,CNM,CNM,-1,1,Nicosia,Cyprus No Mans Area,9,8,Admin-1 scale rank
+6329,3463,CYP-3463,CYP,CYP,CYP,CY,3,Larnaca,Cyprus,9,8,Admin-1 scale rank
 7673,10045,CYN+00?,CYN,CYN,CYN,-1,5,CYN-00 (N. Cyprus aggregation),Northern Cyprus,10,10,Admin-1 aggregation
 10334,3464,CYP-3464,CNM,CNM,CNM,-1,1,Nicosia,Cyprus No Mans Area,9,8,Admin-1 scale rank
 6332,3463,CYP-3463,CYP,CYP,CYP,CY,1,Larnaca,Cyprus,9,8,Admin-1 scale rank
@@ -1720,14 +1671,14 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 549,3463,CYP-3463,CYP,CYP,CYP,CY,1,Larnaca,Cyprus,9,8,Admin-1 scale rank
 6433,3519,USA-3519,US1,USA,USA,US,5,Washington,United States of America,2,1,Admin-1 scale rank
 1805,1272,ARG-1272,ARG,ARG,ARG,AR,1,Tierra del Fuego,Argentina,3,3,Admin-1 scale rank
-7082,10182,USG+00?,CUB,USG,USG,-1,3,USG-00 (Guantanamo Bay USNB aggregation),US Naval Base Guantanamo Bay,10,10,Admin-1 aggregation
+7082,10182,USG+00?,CU1,USG,USG,-1,3,USG-00 (Guantanamo Bay USNB aggregation),US Naval Base Guantanamo Bay,10,10,Admin-1 aggregation
 5971,3488,DEU-3488,DEU,DEU,DEU,DE,4,Mecklenburg-Vorpommern,Germany,3,3,Admin-1 scale rank
 2756,935,LTU-935,LTU,LTU,LTU,LT,3,Klaipedos,Lithuania,7,8,Admin-1 scale rank
 6092,3462,CIV-3462,CIV,CIV,CIV,CI,5,Sud-Comoé,Ivory Coast,8,8,Admin-1 scale rank
 7674,10093,KAS+00?,KAS,KAS,KAS,-1,1,KAS-00 (  aggregation),Siachen Glacier,10,10,Admin-1 aggregation
 3545,2496,KOR-2496,KOR,KOR,KOR,KR,1,Gangwon-do,South Korea,6,3,Admin-1 scale rank
 4703,2498,KOR-2498,KOR,KOR,KOR,KR,1,Gyeonggi-do,South Korea,6,3,Admin-1 scale rank
-612,20003,KAB+00?,KAZ,KAB,KAB,-1,1,Baykonur lease in Qyzylorda,Baykonur Cosmodrome,4,10,Admin-1 aggregation
+612,20003,KAB+00?,KA1,KAB,KAB,-1,1,Baykonur lease in Qyzylorda,Baykonur Cosmodrome,4,10,Admin-1 aggregation
 6372,3303,PRK-3303,PRK,PRK,PRK,KP,1,Hwanghae-bukto,North Korea,6,6,Admin-1 scale rank
 6377,3308,PRK-3308,PRK,PRK,PRK,KP,1,Kangwŏn-do,North Korea,6,6,Admin-1 scale rank
 562,145,SYR-145,SYR,SYR,SYX,SY,1,Quneitra,Syria,6,6,Admin-1 scale rank
@@ -1735,15 +1686,69 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7130,5133,WSB-5133,GB1,WSB,WSB,-1,3,Akrotiri,Akrotiri Sovereign Base Area,9,10,Admin-1 aggregation
 6335,3489,CYP-3489,CYP,CYP,CYP,CY,1,Limassol,Cyprus,9,8,Admin-1 scale rank
 1234,1356,BLZ-1356,BLZ,BLZ,BLZ,BZ,1,Toledo,Belize,8,8,Admin-1 scale rank
-2505,743,PRT-743,PRT,PRT,PRX,PT,1,Beja,Portugal,7,6,Admin-1 scale rank
-11215,5824,ESP-5824,ESP,ESP,ESP,ES,1,Huelva,Spain,3,3,Admin-1 scale rank
-2507,745,PRT-745,PRT,PRT,PRX,PT,1,Faro,Portugal,7,6,Admin-1 scale rank
 531,348,ARE-348,ARE,ARE,ARE,AE,6,Sharjah,United Arab Emirates,9,8,Admin-1 scale rank
 3371,2439,BTN-2439,BTN,BTN,BTN,BT,1,Thimphu,Bhutan,9,8,Admin-1 scale rank
 3368,2436,BTN-2436,BTN,BTN,BTN,BT,1,Paro,Bhutan,9,8,Admin-1 scale rank
 3369,2437,BTN-2437,BTN,BTN,BTN,BT,1,Gasa,Bhutan,9,8,Admin-1 scale rank
+3444,2431,IND-2431,IND,IND,IND,IN,1,Jammu and Kashmir,India,2,1,Admin-1 scale rank
 1531,283,RUS-283,RUS,RUS,RUS,RU,1,Crimea,Russia,5,5,Admin-1 scale rank
 10395,4827,UKR-4827,UKR,UKR,UKR,UA,1,,Ukraine,5,5,Admin-1 scale rank
+5288,3258,IND-3258,IND,IND,IND,IN,1,Bihar,India,2,1,Admin-1 scale rank
+1327,1132,NPL-1132,NPL,NPL,NPL,NP,1,Narayani,Nepal,6,6,Admin-1 scale rank
+1322,1127,NPL-1127,NPL,NPL,NPL,NP,1,Lumbini,Nepal,6,6,Admin-1 scale rank
+5284,3253,IND-3253,IND,IND,IND,IN,1,Uttar Pradesh,India,2,1,Admin-1 scale rank
+542,373,NPL-373,NPL,NPL,NPL,NP,1,Rapti,Nepal,6,6,Admin-1 scale rank
+1319,1124,NPL-1124,NPL,NPL,NPL,NP,1,Banke,Nepal,6,6,Admin-1 scale rank
+52,10,URY-10,URY,URY,URY,UY,1,Salto,Uruguay,6,8,Admin-1 scale rank
+56,14,URY-14,URY,URY,URY,UY,1,Rivera,Uruguay,6,8,Admin-1 scale rank
+64,22,URY-22,URY,URY,URY,UY,1,Rocha,Uruguay,6,8,Admin-1 scale rank
+58,16,URY-16,URY,URY,URY,UY,1,Treinta y Tres,Uruguay,6,8,Admin-1 scale rank
+54,12,URY-12,URY,URY,URY,UY,1,Cerro Largo,Uruguay,6,8,Admin-1 scale rank
+2204,1328,CRI-1328,CRI,CRI,CRI,CR,1,Heredia,Costa Rica,8,8,Admin-1 scale rank
+679,263,SVN-263,SVN,SVN,SVN,SI,1,Črenšovci,Slovenia,10,8,Admin-1 scale rank
+681,265,SVN-265,SVN,SVN,SVN,SI,1,Ljutomer,Slovenia,10,8,Admin-1 scale rank
+685,269,SVN-269,SVN,SVN,SVN,SI,1,Razkrižje,Slovenia,10,8,Admin-1 scale rank
+2661,1047,SVN-1047,SVN,SVN,SVN,SI,1,Ormož,Slovenia,10,8,Admin-1 scale rank
+3807,1610,HRV-1610,HRV,HRV,HRV,HR,1,Varaždinska,Croatia,9,8,Admin-1 scale rank
+2664,1050,SVN-1050,SVN,SVN,SVN,SI,1,Zavrc,Slovenia,10,8,Admin-1 scale rank
+2655,1041,SVN-1041,SVN,SVN,SVN,SI,1,Gorišnica,Slovenia,10,8,Admin-1 scale rank
+639,222,SVN-222,SVN,SVN,SVN,SI,1,Videm,Slovenia,10,8,Admin-1 scale rank
+649,232,SVN-232,SVN,SVN,SVN,SI,1,Podlehnik,Slovenia,10,8,Admin-1 scale rank
+648,231,SVN-231,SVN,SVN,SVN,SI,1,Žetale,Slovenia,10,8,Admin-1 scale rank
+3791,1582,HRV-1582,HRV,HRV,HRV,HR,1,Krapinsko-Zagorska,Croatia,9,8,Admin-1 scale rank
+2600,983,SVN-983,SVN,SVN,SVN,SI,1,Rogatec,Slovenia,10,8,Admin-1 scale rank
+2599,982,SVN-982,SVN,SVN,SVN,SI,1,Rogaška Slatina,Slovenia,10,8,Admin-1 scale rank
+630,213,SVN-213,SVN,SVN,SVN,SI,1,Bistrica ob Sotli,Slovenia,10,8,Admin-1 scale rank
+672,255,SVN-255,SVN,SVN,SVN,SI,1,Podcetrtek,Slovenia,10,8,Admin-1 scale rank
+2555,938,SVN-938,SVN,SVN,SVN,SI,1,Brežice,Slovenia,10,8,Admin-1 scale rank
+3796,1588,HRV-1588,HRV,HRV,HRV,HR,1,Zagrebacka,Croatia,9,8,Admin-1 scale rank
+2575,958,SVN-958,SVN,SVN,SVN,SI,1,Spodnjeposavska,Slovenia,10,8,Admin-1 scale rank
+2604,987,SVN-987,SVN,SVN,SVN,SI,1,Šentjernej,Slovenia,10,8,Admin-1 scale rank
+629,212,SVN-212,SVN,SVN,SVN,SI,1,Novo Mesto,Slovenia,10,8,Admin-1 scale rank
+2586,969,SVN-969,SVN,SVN,SVN,SI,1,Metlika,Slovenia,10,8,Admin-1 scale rank
+2562,945,SVN-945,SVN,SVN,SVN,SI,1,Crnomelj,Slovenia,10,8,Admin-1 scale rank
+3794,1586,HRV-1586,HRV,HRV,HRV,HR,1,Primorsko-Goranska,Croatia,9,8,Admin-1 scale rank
+624,207,SVN-207,SVN,SVN,SVN,SI,1,Kocevje,Slovenia,10,8,Admin-1 scale rank
+662,245,SVN-245,SVN,SVN,SVN,SI,1,Kostel,Slovenia,10,8,Admin-1 scale rank
+2582,965,SVN-965,SVN,SVN,SVN,SI,1,Loški Potok,Slovenia,10,8,Admin-1 scale rank
+626,209,SVN-209,SVN,SVN,SVN,SI,1,Loška Dolina,Slovenia,10,8,Admin-1 scale rank
+2571,954,SVN-954,SVN,SVN,SVN,SI,1,Ilirska Bistrica,Slovenia,10,8,Admin-1 scale rank
+5305,3058,ISR-3058,IS1,ISR,ISR,IL,1,Jerusalem,Israel,8,8,Admin-1 scale rank
+2469,1109,PAK-1109,PAK,PAK,PAK,PK,1,Azad Kashmir,Pakistan,3,2,Admin-1 scale rank
+11184,5838,ESP-5838,ESP,ESP,ESP,ES,1,Orense,Spain,3,3,Admin-1 scale rank
+2504,741,PRT-741,PRT,PRT,PRX,PT,1,Viana do Castelo,Portugal,7,6,Admin-1 scale rank
+2543,5811,ESP-5811,ESP,ESP,ESP,ES,1,Cáceres,Spain,3,3,Admin-1 scale rank
+2514,751,PRT-751,PRT,PRT,PRX,PT,1,Castelo Branco,Portugal,7,6,Admin-1 scale rank
+2516,753,PRT-753,PRT,PRT,PRX,PT,1,Guarda,Portugal,7,6,Admin-1 scale rank
+11192,5841,ESP-5841,ESP,ESP,ESP,ES,1,Salamanca,Spain,3,3,Admin-1 scale rank
+2513,750,PRT-750,PRT,PRT,PRX,PT,1,Bragança,Portugal,7,6,Admin-1 scale rank
+11191,5852,ESP-5852,ESP,ESP,ESP,ES,1,Zamora,Spain,3,3,Admin-1 scale rank
+2519,756,PRT-756,PRT,PRT,PRX,PT,1,Vila Real,Portugal,7,6,Admin-1 scale rank
+2512,749,PRT-749,PRT,PRT,PRX,PT,1,Braga,Portugal,7,6,Admin-1 scale rank
+11185,5840,ESP-5840,ESP,ESP,ESP,ES,1,Pontevedra,Spain,3,3,Admin-1 scale rank
+11215,5824,ESP-5824,ESP,ESP,ESP,ES,1,Huelva,Spain,3,3,Admin-1 scale rank
+2507,745,PRT-745,PRT,PRT,PRX,PT,1,Faro,Portugal,7,6,Admin-1 scale rank
+2505,743,PRT-743,PRT,PRT,PRX,PT,1,Beja,Portugal,7,6,Admin-1 scale rank
 3897,2126,GBR-2126,GB1,GBR,WLS,GB,1,Flintshire,United Kingdom,8,5,Admin-1 scale rank
 11090,5707,GBR-5707,GB1,GBR,ENG,GB,1,Cheshire West and Chester,United Kingdom,8,5,Admin-1 scale rank
 3898,2127,GBR-2127,GB1,GBR,WLS,GB,1,Wrexham,United Kingdom,8,5,Admin-1 scale rank
@@ -2281,6 +2286,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6408,3544,USA-3544,US1,USA,USA,US,1,Mississippi,United States of America,2,1,Admin-1 scale rank
 6405,3541,USA-3541,US1,USA,USA,US,1,Alabama,United States of America,2,1,Admin-1 scale rank
 6406,3542,USA-3542,US1,USA,USA,US,1,Florida,United States of America,2,8,Admin-1 scale rank
+6405,3541,USA-3541,US1,USA,USA,US,1,Alabama,United States of America,2,1,Admin-1 scale rank
 6407,3543,USA-3543,US1,USA,USA,US,1,Georgia,United States of America,2,1,Admin-1 scale rank
 6409,3545,USA-3545,US1,USA,USA,US,1,South Carolina,United States of America,2,1,Admin-1 scale rank
 6416,3549,USA-3549,US1,USA,USA,US,1,North Carolina,United States of America,2,1,Admin-1 scale rank
@@ -2290,6 +2296,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6414,3549,USA-3549,US1,USA,USA,US,1,North Carolina,United States of America,2,1,Admin-1 scale rank
 6424,3556,USA-3556,US1,USA,USA,US,1,District of Columbia,United States of America,2,1,Admin-1 scale rank
 6426,3557,USA-3557,US1,USA,USA,US,1,Maryland,United States of America,2,1,Admin-1 scale rank
+10375,3552,USA-3552,US1,USA,USA,US,1,Virginia,United States of America,2,1,Admin-1 scale rank
 6423,3555,USA-3555,US1,USA,USA,US,1,Delaware,United States of America,2,1,Admin-1 scale rank
 6425,3557,USA-3557,US1,USA,USA,US,1,Maryland,United States of America,2,1,Admin-1 scale rank
 6427,3558,USA-3558,US1,USA,USA,US,1,New Jersey,United States of America,2,1,Admin-1 scale rank
@@ -2442,8 +2449,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3773,3561,USA-3561,US1,USA,USA,US,6,Maine,United States of America,2,1,Admin-1 scale rank
 3774,3561,USA-3561,US1,USA,USA,US,6,Maine,United States of America,2,1,Admin-1 scale rank
 3779,3561,USA-3561,US1,USA,USA,US,6,Maine,United States of America,2,1,Admin-1 scale rank
-3780,3561,USA-3561,US1,USA,USA,US,6,Maine,United States of America,2,1,Admin-1 scale rank
-3781,3561,USA-3561,US1,USA,USA,US,6,Maine,United States of America,2,1,Admin-1 scale rank
+3780,3561,CAN-684,CAN,CAN,CAN,CA,6,New Brunswick,Canada,2,2,Admin-1 scale rank
+3781,3561,CAN-684,CAN,CAN,CAN,CA,6,New Brunswick,Canada,2,2,Admin-1 scale rank
 1484,1847,JPN-1847,JPN,JPN,JPN,JP,1,Hokkaido,Japan,6,2,Admin-1 scale rank
 7677,4866,SPM-4866,FR1,SPM,SPM,PM,4,Saint-Pierre,Saint Pierre and Miquelon,10,10,Admin-1 scale rank
 7678,4867,SPM-4867,FR1,SPM,SPM,PM,3,Miquelon-Langlade,Saint Pierre and Miquelon,10,10,Admin-1 scale rank
@@ -2455,7 +2462,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 2677,686,CAN-686,CAN,CAN,CAN,CA,5,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
 2678,686,CAN-686,CAN,CAN,CAN,CA,5,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
 2687,686,CAN-686,CAN,CAN,CAN,CA,5,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
-3421,2444,IND-2444,IND,IND,IND,IN,1,Orissa,India,2,1,Admin-1 scale rank
+3421,2444,IND-2444,IND,IND,IND,IN,1,Odisha,India,2,1,Admin-1 scale rank
 3340,2475,BGD-2475,BGD,BGD,BGD,BD,1,Barisal,Bangladesh,2,2,Admin-1 scale rank
 5212,3275,MMR-3275,MMR,MMR,MMR,MM,1,Ayeyarwady,Myanmar,6,5,Admin-1 scale rank
 5207,3269,MMR-3269,MMR,MMR,MMR,MM,1,Yangon,Myanmar,6,5,Admin-1 scale rank
@@ -2530,8 +2537,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 4809,2615,RUS-2615,RUS,RUS,RUS,RU,1,Maga Buryatdan,Russia,2,2,Admin-1 scale rank
 2688,686,CAN-686,CAN,CAN,CAN,CA,5,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
 2689,686,CAN-686,CAN,CAN,CAN,CA,5,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
-6308,3504,IND-3504,IND,IND,IND,IN,1,Daman and Diu,India,2,1,Admin-1 scale rank
-6307,3504,IND-3504,IND,IND,IND,IN,1,Daman and Diu,India,2,1,Admin-1 scale rank
+6308,2445,IND-2445,IND,IND,IND,IN,1,Dadra and Nagar Haveli and Daman and Diu,India,2,1,Admin-1 scale rank
+6307,2445,IND-2445,IND,IND,IND,IN,1,Dadra and Nagar Haveli and Daman and Diu,India,2,1,Admin-1 scale rank
 3424,2447,IND-2447,IND,IND,IND,IN,1,Maharashtra,India,2,1,Admin-1 scale rank
 5299,3265,IND-3265,IND,IND,IND,IN,1,Goa,India,2,1,Admin-1 scale rank
 3423,2446,IND-2446,IND,IND,IND,IN,1,Karnataka,India,2,1,Admin-1 scale rank
@@ -3349,37 +3356,37 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3284,1988,DOM-1988,DOM,DOM,DOM,DO,1,La Romana,Dominican Republic,9,8,Admin-1 scale rank
 3283,1987,DOM-1987,DOM,DOM,DOM,DO,1,La Altagracia,Dominican Republic,9,8,Admin-1 scale rank
 5140,2736,MEX-2736,MEX,MEX,MEX,MX,3,Quintana Roo,Mexico,4,2,Admin-1 scale rank
-2326,1364,CUB-1364,CUB,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
-2330,1364,CUB-1364,CUB,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
-2331,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
-2332,1367,CUB-1367,CUB,CUB,CUB,CU,5,Holguín,Cuba,6,6,Admin-1 scale rank
-2333,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
-2334,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
-2336,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
-2339,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2326,1364,CUB-1364,CU1,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
+2330,1364,CUB-1364,CU1,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
+2331,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2332,1367,CUB-1367,CU1,CUB,CUB,CU,5,Holguín,Cuba,6,6,Admin-1 scale rank
+2333,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2334,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2336,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2339,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
 5145,2736,MEX-2736,MEX,MEX,MEX,MX,5,Quintana Roo,Mexico,4,2,Admin-1 scale rank
 7620,5038,BHS-5038,BHS,BHS,BHS,BS,1,Inagua,The Bahamas,10,10,Admin-1 scale rank
 7091,5007,TCA-5007,GB1,TCA,TCA,TC,4,Grand Turk,Turks and Caicos Islands,5,10,Admin-1 scale rank
-2345,1320,CUB-1320,CUB,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
+2345,1320,CUB-1320,CU1,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
 5152,2734,MEX-2734,MEX,MEX,MEX,MX,5,Veracruz,Mexico,4,2,Admin-1 scale rank
-2348,1320,CUB-1320,CUB,CUB,CUB,CU,3,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
-2356,1364,CUB-1364,CUB,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
-2359,1364,CUB-1364,CUB,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
-2360,1364,CUB-1364,CUB,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
-2361,1364,CUB-1364,CUB,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
-2363,1363,CUB-1363,CUB,CUB,CUB,CU,3,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2348,1320,CUB-1320,CU1,CUB,CUB,CU,3,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
+2356,1364,CUB-1364,CU1,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
+2359,1364,CUB-1364,CU1,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
+2360,1364,CUB-1364,CU1,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
+2361,1364,CUB-1364,CU1,CUB,CUB,CU,3,Camagüey,Cuba,6,6,Admin-1 scale rank
+2363,1363,CUB-1363,CU1,CUB,CUB,CU,3,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
 7633,5035,BHS-5035,BHS,BHS,BHS,BS,3,Crooked Island and Long Cay,The Bahamas,10,10,Admin-1 scale rank
-2366,1322,CUB-1322,CUB,CUB,CUB,CU,5,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
+2366,1322,CUB-1322,CU1,CUB,CUB,CU,5,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
 7634,5036,BHS-5036,BHS,BHS,BHS,BS,3,Acklins,The Bahamas,10,10,Admin-1 scale rank
 5161,2716,MEX-2716,MEX,MEX,MEX,MX,5,Tamaulipas,Mexico,4,2,Admin-1 scale rank
-3305,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3305,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
 7635,5035,BHS-5035,BHS,BHS,BHS,BS,3,Crooked Island and Long Cay,The Bahamas,10,10,Admin-1 scale rank
-3308,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-3310,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3308,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3310,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
 7636,5035,BHS-5035,BHS,BHS,BHS,BS,4,Crooked Island and Long Cay,The Bahamas,10,10,Admin-1 scale rank
-3314,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-2369,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
-2370,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+3314,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+2369,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+2370,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
 7637,5024,BHS-5024,BHS,BHS,BHS,BS,4,Exuma,The Bahamas,10,10,Admin-1 scale rank
 7640,5024,BHS-5024,BHS,BHS,BHS,BS,3,Exuma,The Bahamas,10,10,Admin-1 scale rank
 7641,5033,BHS-5033,BHS,BHS,BHS,BS,3,Long Island,The Bahamas,10,10,Admin-1 scale rank
@@ -3486,7 +3493,10 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6339,3549,USA-3549,US1,USA,USA,US,5,North Carolina,United States of America,2,1,Admin-1 scale rank
 6343,3552,USA-3552,US1,USA,USA,US,6,Virginia,United States of America,2,1,Admin-1 scale rank
 6344,3552,USA-3552,US1,USA,USA,US,6,Virginia,United States of America,2,1,Admin-1 scale rank
+10375,3552,USA-3552,US1,USA,USA,US,1,Virginia,United States of America,2,1,Admin-1 scale rank
 6348,3557,USA-3557,US1,USA,USA,US,5,Maryland,United States of America,2,1,Admin-1 scale rank
+10375,3552,USA-3552,US1,USA,USA,US,1,Virginia,United States of America,2,1,Admin-1 scale rank
+10375,3552,USA-3552,US1,USA,USA,US,1,Virginia,United States of America,2,1,Admin-1 scale rank
 6349,3557,USA-3557,US1,USA,USA,US,5,Maryland,United States of America,2,1,Admin-1 scale rank
 6351,3557,USA-3557,US1,USA,USA,US,5,Maryland,United States of America,2,1,Admin-1 scale rank
 6350,3552,USA-3552,US1,USA,USA,US,5,Virginia,United States of America,2,1,Admin-1 scale rank
@@ -3504,7 +3514,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 6369,3539,USA-3539,US1,USA,USA,US,5,Rhode Island,United States of America,2,1,Admin-1 scale rank
 6370,3513,USA-3513,US1,USA,USA,US,6,Massachusetts,United States of America,2,1,Admin-1 scale rank
 6371,3539,USA-3539,US1,USA,USA,US,4,Rhode Island,United States of America,2,1,Admin-1 scale rank
-5562,3236,KAZ-3236,KAZ,KAZ,KAZ,KZ,4,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
+5562,3236,KAZ-3236,KA1,KAZ,KAZ,KZ,4,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
 6393,3519,USA-3519,US1,USA,USA,US,5,Washington,United States of America,2,1,Admin-1 scale rank
 5941,3519,USA-3519,US1,USA,USA,US,5,Washington,United States of America,2,1,Admin-1 scale rank
 5942,3519,USA-3519,US1,USA,USA,US,5,Washington,United States of America,2,1,Admin-1 scale rank
@@ -4407,8 +4417,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 1087,1136,IDN-1136,IDN,IDN,IDN,ID,5,Aceh,Indonesia,2,1,Admin-1 scale rank
 1088,1136,IDN-1136,IDN,IDN,IDN,ID,5,Aceh,Indonesia,2,1,Admin-1 scale rank
 1089,1136,IDN-1136,IDN,IDN,IDN,ID,5,Aceh,Indonesia,2,1,Admin-1 scale rank
-2156,1141,MYS-1141,MYS,MYS,MYS,MY,5,Perlis,Malaysia,6,6,Admin-1 scale rank
-2157,1141,MYS-1141,MYS,MYS,MYS,MY,4,Perlis,Malaysia,6,6,Admin-1 scale rank
+2156,1140,MYS-1140,MYS,MYS,MYS,MY,5,Kedah,Malaysia,6,6,Admin-1 scale rank
+2157,1140,MYS-1140,MYS,MYS,MYS,MY,4,Kedah,Malaysia,6,6,Admin-1 scale rank
 1090,385,THA-385,THA,THA,THA,TH,4,Satun,Thailand,7,5,Admin-1 scale rank
 1092,385,THA-385,THA,THA,THA,TH,4,Satun,Thailand,7,5,Admin-1 scale rank
 2170,1186,MYS-1186,MYS,MYS,MYS,MY,5,Sabah,Malaysia,6,6,Admin-1 scale rank
@@ -5332,7 +5342,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 570,351,TKM-351,TKM,TKM,TKM,TM,4,Balkan,Turkmenistan,4,8,Admin-1 scale rank
 3562,1689,AZE-1689,AZE,AZE,AZE,AZ,5,Bakı,Azerbaijan,9,8,Admin-1 scale rank
 3570,1689,AZE-1689,AZE,AZE,AZE,AZ,5,Bakı,Azerbaijan,9,8,Admin-1 scale rank
-5561,3236,KAZ-3236,KAZ,KAZ,KAZ,KZ,5,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
+5561,3236,KAZ-3236,KA1,KAZ,KAZ,KZ,5,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
 753,634,CAN-634,CAN,CAN,CAN,CA,5,Nunavut,Canada,2,2,Admin-1 scale rank
 759,634,CAN-634,CAN,CAN,CAN,CA,5,Nunavut,Canada,2,2,Admin-1 scale rank
 38,634,CAN-634,CAN,CAN,CAN,CA,5,Nunavut,Canada,2,2,Admin-1 scale rank
@@ -5820,20 +5830,20 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7074,4940,MNP-4940,US1,MNP,MNP,MP,3,Northern Islands,Northern Mariana Islands,10,10,Admin-1 scale rank
 3287,2406,OMN-2406,OMN,OMN,OMN,OM,3,Ash Sharqiyah South,Oman,7,5,Admin-1 scale rank
 7087,149,SDN-149,SDN,SDN,SDN,SD,5,Red Sea,Sudan,3,5,Admin-1 scale rank
-2383,1367,CUB-1367,CUB,CUB,CUB,CU,1,Holguín,Cuba,6,6,Admin-1 scale rank
-2372,1368,CUB-1368,CUB,CUB,CUB,CU,1,Las Tunas,Cuba,6,6,Admin-1 scale rank
-2380,1364,CUB-1364,CUB,CUB,CUB,CU,1,Camagüey,Cuba,6,6,Admin-1 scale rank
-2379,1363,CUB-1363,CUB,CUB,CUB,CU,1,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
-2378,1322,CUB-1322,CUB,CUB,CUB,CU,1,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
-3318,1431,CUB-1431,CUB,CUB,CUB,CU,1,Villa Clara,Cuba,6,6,Admin-1 scale rank
-3317,1430,CUB-1430,CUB,CUB,CUB,CU,1,Matanzas,Cuba,6,6,Admin-1 scale rank
-10900,5489,CUB-5489,CUB,CUB,CUB,CU,1,Mayabeque,Cuba,6,6,Admin-1 scale rank
-2374,1428,CUB-1428,CUB,CUB,CUB,CU,1,Ciudad de la Habana,Cuba,6,6,Admin-1 scale rank
-2375,1429,CUB-1429,CUB,CUB,CUB,CU,1,Artemisa,Cuba,6,6,Admin-1 scale rank
-2377,1321,CUB-1321,CUB,CUB,CUB,CU,1,Pinar del Río,Cuba,6,6,Admin-1 scale rank
-2376,1319,CUB-1319,CUB,CUB,CUB,CU,1,Cienfuegos,Cuba,6,6,Admin-1 scale rank
-2382,1366,CUB-1366,CUB,CUB,CUB,CU,1,Granma,Cuba,6,6,Admin-1 scale rank
-2373,1369,CUB-1369,CUB,CUB,CUB,CU,1,Santiago de Cuba,Cuba,6,6,Admin-1 scale rank
+2383,1367,CUB-1367,CU1,CUB,CUB,CU,1,Holguín,Cuba,6,6,Admin-1 scale rank
+2372,1368,CUB-1368,CU1,CUB,CUB,CU,1,Las Tunas,Cuba,6,6,Admin-1 scale rank
+2380,1364,CUB-1364,CU1,CUB,CUB,CU,1,Camagüey,Cuba,6,6,Admin-1 scale rank
+2379,1363,CUB-1363,CU1,CUB,CUB,CU,1,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2378,1322,CUB-1322,CU1,CUB,CUB,CU,1,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
+3318,1431,CUB-1431,CU1,CUB,CUB,CU,1,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3317,1430,CUB-1430,CU1,CUB,CUB,CU,1,Matanzas,Cuba,6,6,Admin-1 scale rank
+10900,5489,CUB-5489,CU1,CUB,CUB,CU,1,Mayabeque,Cuba,6,6,Admin-1 scale rank
+2374,1428,CUB-1428,CU1,CUB,CUB,CU,1,Ciudad de la Habana,Cuba,6,6,Admin-1 scale rank
+2375,1429,CUB-1429,CU1,CUB,CUB,CU,1,Artemisa,Cuba,6,6,Admin-1 scale rank
+2377,1321,CUB-1321,CU1,CUB,CUB,CU,1,Pinar del Río,Cuba,6,6,Admin-1 scale rank
+2376,1319,CUB-1319,CU1,CUB,CUB,CU,1,Cienfuegos,Cuba,6,6,Admin-1 scale rank
+2382,1366,CUB-1366,CU1,CUB,CUB,CU,1,Granma,Cuba,6,6,Admin-1 scale rank
+2373,1369,CUB-1369,CU1,CUB,CUB,CU,1,Santiago de Cuba,Cuba,6,6,Admin-1 scale rank
 6178,3414,TWN-3414,TWN,TWN,TWN,TW,4,Penghu,Taiwan,9,8,Admin-1 scale rank
 6179,3414,TWN-3414,TWN,TWN,TWN,TW,4,Penghu,Taiwan,9,8,Admin-1 scale rank
 6180,3414,TWN-3414,TWN,TWN,TWN,TW,4,Penghu,Taiwan,9,8,Admin-1 scale rank
@@ -6562,8 +6572,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7079,2785,MRT-2785,MRT,MRT,MRT,MR,6,Dakhlet Nouadhibou,Mauritania,4,7,Admin-1 scale rank
 7080,2785,MRT-2785,MRT,MRT,MRT,MR,6,Dakhlet Nouadhibou,Mauritania,4,7,Admin-1 scale rank
 7086,2785,MRT-2785,MRT,MRT,MRT,MR,6,Dakhlet Nouadhibou,Mauritania,4,7,Admin-1 scale rank
-2327,1364,CUB-1364,CUB,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
-2328,1364,CUB-1364,CUB,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
+2327,1364,CUB-1364,CU1,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
+2328,1364,CUB-1364,CU1,CUB,CUB,CU,5,Camagüey,Cuba,6,6,Admin-1 scale rank
 2329,1180,CHN-1180,CH1,CHN,CHN,CN,5,Guangdong,China,2,1,Admin-1 scale rank
 429,429,VNM-429,VNM,VNM,VNM,VN,5,Quảng Ninh,Vietnam,7,5,Admin-1 scale rank
 431,429,VNM-429,VNM,VNM,VNM,VN,5,Quảng Ninh,Vietnam,7,5,Admin-1 scale rank
@@ -6572,16 +6582,16 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 7089,5006,TCA-5006,GB1,TCA,TCA,TC,5,South Caicos and East Caicos,Turks and Caicos Islands,5,10,Admin-1 scale rank
 7090,5008,TCA-5008,GB1,TCA,TCA,TC,5,Salt Cay,Turks and Caicos Islands,5,10,Admin-1 scale rank
 7092,5006,TCA-5006,GB1,TCA,TCA,TC,4,South Caicos and East Caicos,Turks and Caicos Islands,5,10,Admin-1 scale rank
-2341,1320,CUB-1320,CUB,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
-2343,1320,CUB-1320,CUB,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
+2341,1320,CUB-1320,CU1,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
+2343,1320,CUB-1320,CU1,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
 7096,5005,TCA-5005,GB1,TCA,TCA,TC,5,Providenciales and West Caicos,Turks and Caicos Islands,5,10,Admin-1 scale rank
 7098,5005,TCA-5005,GB1,TCA,TCA,TC,5,Providenciales and West Caicos,Turks and Caicos Islands,5,10,Admin-1 scale rank
 2347,1180,CHN-1180,CH1,CHN,CHN,CN,5,Guangdong,China,2,1,Admin-1 scale rank
-2349,1320,CUB-1320,CUB,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
-2350,1321,CUB-1321,CUB,CUB,CUB,CU,5,Pinar del Río,Cuba,6,6,Admin-1 scale rank
+2349,1320,CUB-1320,CU1,CUB,CUB,CU,5,Isla de la Juventud,Cuba,6,6,Admin-1 scale rank
+2350,1321,CUB-1321,CU1,CUB,CUB,CU,5,Pinar del Río,Cuba,6,6,Admin-1 scale rank
 2351,1180,CHN-1180,CH1,CHN,CHN,CN,6,Guangdong,China,2,1,Admin-1 scale rank
 2352,1180,CHN-1180,CH1,CHN,CHN,CN,6,Guangdong,China,2,1,Admin-1 scale rank
-2353,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+2353,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
 2357,1180,CHN-1180,CH1,CHN,CHN,CN,6,Guangdong,China,2,1,Admin-1 scale rank
 7622,10105,MAC+00?,CH1,MAC,MAC,MO,1,MAC-00 (Macau aggregation),Macau S.A.R,10,10,Admin-1 aggregation
 7623,10105,MAC+00?,CH1,MAC,MAC,MO,1,MAC-00 (Macau aggregation),Macau S.A.R,10,10,Admin-1 aggregation
@@ -6596,21 +6606,21 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 10651,5165,HKG-5165,CH1,HKG,HKG,HK,1,Tsuen Wan,Hong Kong S.A.R.,10,10,Admin-1 scale rank
 7629,5034,BHS-5034,BHS,BHS,BHS,BS,5,Ragged Island,The Bahamas,10,10,Admin-1 scale rank
 7100,1180,CHN-1180,CH1,CHN,CHN,CN,6,Guangdong,China,2,1,Admin-1 scale rank
-2362,1363,CUB-1363,CUB,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
+2362,1363,CUB-1363,CU1,CUB,CUB,CU,5,Ciego de Ávila,Cuba,6,6,Admin-1 scale rank
 7101,10110,MEX+99?,MEX,MEX,MEX,MX,6,MEX-99 (Mexico minor island),Mexico,11,11,Admin-1 minor island
 7632,5036,BHS-5036,BHS,BHS,BHS,BS,5,Acklins,The Bahamas,10,10,Admin-1 scale rank
-2364,1429,CUB-1429,CUB,CUB,CUB,CU,5,Artemisa,Cuba,6,6,Admin-1 scale rank
-2365,1322,CUB-1322,CUB,CUB,CUB,CU,5,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
+2364,1429,CUB-1429,CU1,CUB,CUB,CU,5,Artemisa,Cuba,6,6,Admin-1 scale rank
+2365,1322,CUB-1322,CU1,CUB,CUB,CU,5,Sancti Spíritus,Cuba,6,6,Admin-1 scale rank
 7102,1180,CHN-1180,CH1,CHN,CHN,CN,3,Guangdong,China,2,1,Admin-1 scale rank
-3307,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-3309,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3307,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3309,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
 7103,1180,CHN-1180,CH1,CHN,CHN,CN,6,Guangdong,China,2,1,Admin-1 scale rank
-3313,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-3315,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-3316,1431,CUB-1431,CUB,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
-2371,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
-3319,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
-3320,1430,CUB-1430,CUB,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+3313,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3315,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+3316,1431,CUB-1431,CU1,CUB,CUB,CU,5,Villa Clara,Cuba,6,6,Admin-1 scale rank
+2371,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+3319,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
+3320,1430,CUB-1430,CU1,CUB,CUB,CU,5,Matanzas,Cuba,6,6,Admin-1 scale rank
 527,1170,TWN-1170,TWN,TWN,TWN,TW,6,Chiayi,Taiwan,9,10,Admin-1 scale rank
 2393,1180,CHN-1180,CH1,CHN,CHN,CN,5,Guangdong,China,2,1,Admin-1 scale rank
 7643,5032,BHS-5032,BHS,BHS,BHS,BS,5,Rum Cay,The Bahamas,10,10,Admin-1 scale rank
@@ -6765,15 +6775,15 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 3770,1493,HRV-1493,HRV,HRV,HRV,HR,5,Zadarska,Croatia,9,8,Admin-1 scale rank
 3772,1493,HRV-1493,HRV,HRV,HRV,HR,5,Zadarska,Croatia,9,8,Admin-1 scale rank
 3775,1586,HRV-1586,HRV,HRV,HRV,HR,5,Primorsko-Goranska,Croatia,9,8,Admin-1 scale rank
-7148,3236,KAZ-3236,KAZ,KAZ,KAZ,KZ,5,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
+7148,3236,KAZ-3236,KA1,KAZ,KAZ,KZ,5,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
 596,5461,ITA-5461,ITA,ITA,ITA,IT,6,Venezia,Italy,3,3,Admin-1 scale rank
-7149,3236,KAZ-3236,KAZ,KAZ,KAZ,KZ,4,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
+7149,3236,KAZ-3236,KA1,KAZ,KAZ,KZ,4,Mangghystau,Kazakhstan,4,6,Admin-1 scale rank
 3790,2388,RUS-2388,RUS,RUS,RUS,RU,4,Astrakhan',Russia,2,2,Admin-1 scale rank
 611,685,CAN-685,CAN,CAN,CAN,CA,6,Nova Scotia,Canada,2,2,Admin-1 scale rank
 1490,685,CAN-685,CAN,CAN,CAN,CA,5,Nova Scotia,Canada,2,2,Admin-1 scale rank
 1496,3519,USA-3519,US1,USA,USA,US,6,Washington,United States of America,2,1,Admin-1 scale rank
 1497,3525,USA-3525,US1,USA,USA,US,6,Oregon,United States of America,2,1,Admin-1 scale rank
-7150,3198,KAZ-3198,KAZ,KAZ,KAZ,KZ,4,Atyrau,Kazakhstan,4,6,Admin-1 scale rank
+7150,3198,KAZ-3198,KA1,KAZ,KAZ,KZ,4,Atyrau,Kazakhstan,4,6,Admin-1 scale rank
 2897,686,CAN-686,CAN,CAN,CAN,CA,6,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
 2898,686,CAN-686,CAN,CAN,CAN,CA,6,Newfoundland and Labrador,Canada,2,2,Admin-1 scale rank
 940,683,CAN-683,CAN,CAN,CAN,CA,5,Québec,Canada,2,2,Admin-1 scale rank
@@ -7158,7 +7168,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 5295,3262,IND-3262,IND,IND,IND,IN,1,Puducherry,India,2,1,Admin-1 scale rank
 5286,3256,IND-3256,IND,IND,IND,IN,1,Jharkhand,India,2,1,Admin-1 scale rank
 3416,2428,IND-2428,IND,IND,IND,IN,1,Delhi,India,2,1,Admin-1 scale rank
-3422,2445,IND-2445,IND,IND,IND,IN,1,Dadra and Nagar Haveli,India,2,1,Admin-1 scale rank
+3422,2445,IND-2445,IND,IND,IND,IN,1,Dadra and Nagar Haveli and Daman and Diu,India,2,1,Admin-1 scale rank
 3415,2427,IND-2427,IND,IND,IND,IN,1,Chandigarh,India,2,1,Admin-1 scale rank
 5291,3261,IND-3261,IND,IND,IND,IN,1,Madhya Pradesh,India,2,1,Admin-1 scale rank
 6444,3526,USA-3526,US1,USA,USA,US,1,Utah,United States of America,2,1,Admin-1 scale rank
@@ -7315,7 +7325,6 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 589,5810,ESP-5810,ESP,ESP,ESP,ES,1,Burgos,Spain,3,3,Admin-1 scale rank
 6388,5849,ESP-5849,ESP,ESP,ESP,ES,1,Valencia,Spain,3,3,Admin-1 scale rank
 1838,1208,ZAF-1208,ZAF,ZAF,ZAF,ZA,1,Gauteng,South Africa,2,3,Admin-1 scale rank
-2908,1926,ZAF-1926,ZAF,ZAF,ZAF,ZA,1,Eastern Cape,South Africa,2,3,Admin-1 scale rank
 670,253,SVN-253,SVN,SVN,SVN,SI,1,Dobrepolje,Slovenia,10,8,Admin-1 scale rank
 2597,980,SVN-980,SVN,SVN,SVN,SI,1,Radece,Slovenia,10,8,Admin-1 scale rank
 2614,997,SVN-997,SVN,SVN,SVN,SI,1,Štore,Slovenia,10,8,Admin-1 scale rank
@@ -8174,8 +8183,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 5258,2964,LBY-2964,LBY,LBY,LBY,LY,1,Al Jufrah,Libya,4,7,Admin-1 scale rank
 5265,2971,LBY-2971,LBY,LBY,LBY,LY,1,Sabha,Libya,4,7,Admin-1 scale rank
 10899,5488,LBY-5488,LBY,LBY,LBY,LY,1,Wadi al Hayaa,Libya,4,7,Admin-1 scale rank
-5626,3202,KAZ-3202,KAZ,KAZ,KAZ,KZ,1,Aqmola,Kazakhstan,4,6,Admin-1 scale rank
-5627,3203,KAZ-3203,KAZ,KAZ,KAZ,KZ,1,Qaraghandy,Kazakhstan,4,6,Admin-1 scale rank
+5626,3202,KAZ-3202,KA1,KAZ,KAZ,KZ,1,Aqmola,Kazakhstan,4,6,Admin-1 scale rank
+5627,3203,KAZ-3203,KA1,KAZ,KAZ,KZ,1,Qaraghandy,Kazakhstan,4,6,Admin-1 scale rank
 5347,3063,IRQ-3063,IRQ,IRQ,IRR,IQ,1,Baghdad,Iraq,5,5,Admin-1 scale rank
 6341,3472,IRQ-3472,IRQ,IRQ,IRR,IQ,1,Babil,Iraq,5,5,Admin-1 scale rank
 5350,3224,IRQ-3224,IRQ,IRQ,IRR,IQ,1,Al-Qadisiyah,Iraq,5,5,Admin-1 scale rank
@@ -8195,6 +8204,7 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 10901,5490,IRN-5490,IRN,IRN,IRN,IR,1,Alborz,Iran,4,5,Admin-1 scale rank
 5290,3260,IND-3260,IND,IND,IND,IN,1,Chhattisgarh,India,2,1,Admin-1 scale rank
 3418,2430,IND-2430,IND,IND,IND,IN,1,Haryana,India,2,1,Admin-1 scale rank
+11347,20011,IND-20011,IND,IND,IND,IN,1,Telangana,India,2,1,Admin-1 scale rank
 5589,3175,HUN-3175,HUN,HUN,HUN,HU,1,Jász-Nagykun-Szolnok,Hungary,7,6,Admin-1 scale rank
 5578,3162,HUN-3162,HUN,HUN,HUN,HU,1,Fejér,Hungary,7,6,Admin-1 scale rank
 5574,3158,HUN-3158,HUN,HUN,HUN,HU,1,Veszprém,Hungary,7,6,Admin-1 scale rank
@@ -8282,8 +8292,8 @@ OBJECTID_1,diss_me,adm1_code,sr_sov_a3,sr_adm0_a3,sr_gu_a3,iso_a2,adm0_sr,name,a
 10393,4825,BLR-4825,BLR,BLR,BLR,BY,1,City of Minsk,Belarus,4,6,Admin-1 scale rank
 10394,4826,UKR-4826,UKR,UKR,UKR,UA,1,Kiev,Ukraine,5,5,Admin-1 scale rank
 10397,4828,UZB-4828,UZB,UZB,UZB,UZ,1,Tashkent,Uzbekistan,4,6,Admin-1 scale rank
-10399,4829,KAZ-4829,KAZ,KAZ,KAZ,KZ,1,Almaty,Kazakhstan,4,6,Admin-1 scale rank
-10400,4830,KAZ-4830,KAZ,KAZ,KAZ,KZ,1,Astana,Kazakhstan,4,6,Admin-1 scale rank
+10399,4829,KAZ-4829,KA1,KAZ,KAZ,KZ,1,Almaty,Kazakhstan,4,6,Admin-1 scale rank
+10400,4830,KAZ-4830,KA1,KAZ,KAZ,KZ,1,Astana,Kazakhstan,4,6,Admin-1 scale rank
 10406,4838,AZE-4838,AZE,AZE,AZE,AZ,1,Stepanakert,Azerbaijan,9,8,Admin-1 scale rank
 10411,4843,SYR-4843,SYR,SYR,SYX,SY,1,Damascus,Syria,6,6,Admin-1 scale rank
 32,128,ROU-128,ROU,ROU,ROU,RO,1,Bucharest,Romania,6,6,Admin-1 scale rank

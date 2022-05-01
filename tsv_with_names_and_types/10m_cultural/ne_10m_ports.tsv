@@ -1,1083 +1,1083 @@
-scalerank	featurecla	name	website	natlscale
-N	C	C	C	N
-8	Port	Sint Nicolaas	www.rocargo.com/SanNicolas.html	5.000
-8	Port	Campana	www.consejoportuario.com.ar	5.000
-8	Port	Zarate	www.consejoportuario.com.ar	5.000
-8	Port	Puerto Belgrano/Bahia Blanca		5.000
-8	Port	Puerto Galvan/Bahia Blanca		5.000
-8	Port	Ingeniero White/Bahia Blanca		5.000
-8	Port	Saint John's	www.ab.gov.ag	5.000
-8	Port	Fremantle	www.fremantleports.com.au	5.000
-8	Port	Botany Bay	www.sydneyports.com.au	5.000
-8	Port	Rockhampton	www.gpcl.com.au	5.000
-8	Port	Oostende (Ostend)	www.portofoostende.be	5.000
-8	Port	Zeebrugge	www.zeebruggeport.be	5.000
-8	Port	Burgas	www.port-burgas.com	5.000
-8	Port	Mina Sulman Port	www.bahrainports.gov.bh	5.000
-8	Port	Sitrah	www.bahrainports.gov.bh	5.000
-8	Port	Saint George		5.000
-8	Port	Mucuripe	www.docasdoceara.com.br	5.000
-8	Port	Niteroi	www.portosrio.gov.br	5.000
-8	Port	Sao Francisco do Sul	www.apsfs.sc.gov.br	5.000
-8	Port	Chatham		5.000
-8	Port	Clarenville		5.000
-8	Port	Comox		5.000
-8	Port	Esquimalt		5.000
-8	Port	Grand Bank		5.000
-8	Port	North Sydney		5.000
-8	Port	Caraquet		5.000
-8	Port	Chicoutimi		5.000
-8	Port	Corner Brook	www.cornerbrookport.com	5.000
-8	Port	Digby	www.portofdigby.ns.ca	5.000
-8	Port	Harbour Grace		5.000
-8	Port	Pictou	www.pictoumarineterminals.com	5.000
-8	Port	Shelburne		5.000
-8	Port	Sorel		5.000
-8	Port	Springdale		5.000
-8	Port	Saint-John's	www.sjpa.com	5.000
-8	Port	Coronel		5.000
-8	Port	Lota		5.000
-8	Port	Talcahuano	www.puertotalcahuano.cl	5.000
-8	Port	San Antonio	www.sanantonioport.com	5.000
-8	Port	Haimen		5.000
-8	Port	Qinhuangdao		5.000
-8	Port	Yantian	www.yantian-port.com	5.000
-8	Port	Yingkou		5.000
-8	Port	Moin	www.japdeva.go.cr	5.000
-8	Port	Banes		5.000
-8	Port	Caibarien		5.000
-8	Port	Isabela de Sagua		5.000
-8	Port	Nuevitas		5.000
-8	Port	Famagusta		5.000
-8	Port	Cuxhaven	www.cuxport.de	5.000
-8	Port	Eckernforde	www.stadtwerke-eckernfoerde.de	5.000
-8	Port	Nordenham		5.000
-8	Port	Papenburg		5.000
-8	Port	Wismar	www.hafen-wismar.de	5.000
-8	Port	Nyborg	www.adp-as.com	5.000
-8	Port	Helsingor	www.helsingoerhavn.dk	5.000
-8	Port	Odense		5.000
-8	Port	Nyborg	www.nyborg.dk/Engelsk/Tourism/NyborgsHarbours	5.000
-8	Port	Frederikshavn	www.frederikshavnhavn.dk	5.000
-8	Port	Haderslev		5.000
-8	Port	Horsens	www.horsenshavn.dk	5.000
-8	Port	Kalundborg	www.portofkalundborg.dk	5.000
-8	Port	Kolding	www.koldingport.dk	5.000
-8	Port	Nakskov		5.000
-8	Port	Nykobing Falster	www.guldborgsundhavne.dk	5.000
-8	Port	Randers	www.randershavn.dk	5.000
-8	Port	Rudkobing	www.langelandkommune.dk	5.000
-8	Port	Svendborg		5.000
-8	Port	Vejle	www.vejleport.dk	5.000
-8	Port	Skagen	www.skagenhavn.dk	5.000
-8	Port	Puerto Plata	www.apordom.gov.do	5.000
-8	Port	Rio Haina	www.apordom.gov.do	5.000
-8	Port	Mostaganem		5.000
-8	Port	Damietta	www.dam-port.com	5.000
-8	Port	Safaga	www.mts.gov.eg	5.000
-8	Port	Algeciras	www.apba.es	5.000
-8	Port	Aviles	www.avilesport.com	5.000
-8	Port	Ferrol	www.apfsc.com	5.000
-8	Port	Huelva	www.puertohuelva.com	5.000
-8	Port	Pasajes	www.puertopasajes.net	5.000
-8	Port	Rota		5.000
-8	Port	Cadiz	www.puertocadiz.com	5.000
-8	Port	Kotka	www.portofkotka.fi	5.000
-8	Port	Veitsiluoto		5.000
-8	Port	Arcachon	www.arcachon.com	5.000
-8	Port	Deauville		5.000
-8	Port	Fecamp	www.fecamp.cci.fr	5.000
-8	Port	La Pallice	www.larochelle.port.fr	5.000
-8	Port	Saint-Malo	www.saint-malo.cci.fr	5.000
-8	Port	Sete	www.sete.port.fr	5.000
-8	Port	Greenock	www.clydeport.co.uk	5.000
-8	Port	Poole	www.phc.co.uk	5.000
-8	Port	Falmouth	www.falmouthport.co.uk	5.000
-8	Port	Leith	www.forthports.co.uk	5.000
-8	Port	Montrose	www.montroseport.co.uk	5.000
-8	Port	Newport	www.abports.co.uk/custinfo/ports/newport.htm	5.000
-8	Port	Sunderland	www.portofsunderland.org.uk	5.000
-8	Port	Teesport	www.pdports.co.uk	5.000
-8	Port	Poti	www.potiseaport.com	5.000
-8	Port	Piraeus		5.000
-8	Port	Piraeus	www.olp.gr	5.000
-8	Port	Piraeus	www.medmarinas.com	5.000
-8	Port	Saint George's	www.grenadacruiseport.com	5.000
-8	Port	Cayenne	www.guyane.cci.fr	5.000
-8	Port	Bakar		5.000
-8	Port	Rovinj		5.000
-8	Port	Sibenik	www.portauthority-sibenik.hr	5.000
-8	Port	Gonaives	www.apn.gouv.ht	5.000
-8	Port	Sorong		5.000
-8	Port	Alleppey		5.000
-8	Port	Kakinada	www.kakinadaseaports.in	5.000
-8	Port	Tuticorin	tuticorinport.gov.in	5.000
-8	Port	Sligo		5.000
-8	Port	Licata		5.000
-8	Port	Alghero		5.000
-8	Port	Bagnoli		5.000
-8	Port	Barletta		5.000
-8	Port	Brindisi	www.porto.br.it	5.000
-8	Port	Crotone		5.000
-8	Port	Gallipoli		5.000
-8	Port	Imperia		5.000
-8	Port	La Maddalena		5.000
-8	Port	La Spezia	www.portolaspezia.it	5.000
-8	Port	Marsala		5.000
-8	Port	Messina		5.000
-8	Port	Molfetta		5.000
-8	Port	Monfalcone	www.porto.monfalcone.gorizia.it	5.000
-8	Port	Monopoli		5.000
-8	Port	Pesaro		5.000
-8	Port	Porto Torres		5.000
-8	Port	Ravenna	www.port.ravenna.it	5.000
-8	Port	Siracusa		5.000
-8	Port	Taranto	www.port.taranto.it	5.000
-8	Port	Torre Annunziata		5.000
-8	Port	Omura	www.city.omura.nagasaki.jp	5.000
-8	Port	Amagasaki		5.000
-8	Port	Fushiki		5.000
-8	Port	Imabari		5.000
-8	Port	Iwakuni		5.000
-8	Port	Kainan		5.000
-8	Port	Kanazawa	www.pref.ishikawa.jp	5.000
-8	Port	Kawasaki	www.city.kawasaki.jp/58/58yuuti/home/etop.html	5.000
-8	Port	Kokura	www.kitaqport.or.jp	5.000
-8	Port	Maizuru	www.port.maizuru.kyoto.jp	5.000
-8	Port	Matsusaka	www.info.city.tsu.mie.jp	5.000
-8	Port	Miyazu		5.000
-8	Port	Muroran		5.000
-8	Port	Niigata	www.pref.niigata.lg.jp/kowanshinko/1208883684365.html	5.000
-8	Port	Saganoseki		5.000
-8	Port	Sasebo	www.city.sasebo.nagasaki.jp	5.000
-8	Port	Shimizu	www.portofshimizu.com	5.000
-8	Port	Shimotsu		5.000
-8	Port	Wakayama		5.000
-8	Port	Yokosuka	www.city.yokosuka.kanagawa.jp/minato	5.000
-8	Port	Galle	www.slpa.lk	5.000
-8	Port	Ventspils	www.portofventspils.lv	5.000
-8	Port	Frontera		5.000
-8	Port	Minatitlan		5.000
-8	Port	Pajaritos		5.000
-8	Port	Santa Rosalia	www.bajaport.com	5.000
-8	Port	Progreso	www.puertosyucatan.com	5.000
-8	Port	Tuxpan	www.puerto-de-tuxpan.com.mx	5.000
-8	Port	Kemaman	www.portsworld.com/Ports/kemamanport.htm	5.000
-8	Port	Den Helder	www.havendenhelder.nl	5.000
-8	Port	Dordrecht		5.000
-8	Port	Delfzijl	www.groningen-seaports.com	5.000
-8	Port	Arendal		5.000
-8	Port	Drammen	www.drammenhavn.no	5.000
-8	Port	Halden		5.000
-8	Port	Harstad		5.000
-8	Port	Larvik	www.larvikhavn.vf.no	5.000
-8	Port	Moss	www.moss-havn.no	5.000
-8	Port	Sandefjord		5.000
-8	Port	Tonsberg		5.000
-8	Port	Lyttelton	www.lpc.co.nz	5.000
-8	Port	Qalhat		5.000
-8	Port	Sohar	portofsohar.com	5.000
-8	Port	Balboa	www.ppc.com.pa	5.000
-8	Port	Cristobal	www.ppc.com.pa	5.000
-8	Port	Pedregal	www.cocatram.org.ni/puertosca/pto_pedregal_panama.html	5.000
-8	Port	Callao	www.enapu.com.pe	5.000
-8	Port	Matarani	www.ultramarnetwork.com/TextosPeru/Marc-024.html	5.000
-8	Port	Swinoujscie	www.phs.com.pl	5.000
-8	Port	Leixoes	www.apdl.pt	5.000
-8	Port	Setubal	www.portodesetubal.pt	5.000
-8	Port	Aveiro	www.portodeaveiro.pt	5.000
-8	Port	Viana do Castelo	www.ipnorte.pt	5.000
-8	Port	Galati	apdm.galati.ro	5.000
-8	Port	Nakhodka	www.port-livadia.ru	5.000
-8	Port	Kandalaksha		5.000
-8	Port	Kholmsk		5.000
-8	Port	Korsakov		5.000
-8	Port	Kronshtadt		5.000
-8	Port	Nakhodka	www.ncsp.ru	5.000
-8	Port	Novorossiysk	www.nle.ru	5.000
-8	Port	Tuapse	www.tuapseport.ru	5.000
-8	Port	Jubail	www.ports.gov.sa	5.000
-8	Port	Jubail	www.ports.gov.sa	5.000
-8	Port	Ras al Khafji		5.000
-8	Port	Falkenberg	www.falkenbergs-terminal.se	5.000
-8	Port	Ahus	www.ahushamn.se	5.000
-8	Port	Harnosand	www.harnosand.se	5.000
-8	Port	Hoganas		5.000
-8	Port	Karlshamn	www.karlshamnshamn.se	5.000
-8	Port	Karlskrona	www.karlskrona.se/hamn	5.000
-8	Port	Nynashamn	www.stoports.com	5.000
-8	Port	Oskarshamn	www.port.oskarshamn.se	5.000
-8	Port	Oxelosund	www.oxhamn.se	5.000
-8	Port	Pitea	www.bottenvikens-stuveri.se	5.000
-8	Port	Sodertalje	www.soeport.se	5.000
-8	Port	Trelleborg	www.trelleborgshamn.se	5.000
-8	Port	Uddevalla	www.uddevalla-hamn.se	5.000
-8	Port	Ystad	www.ystad.se	5.000
-8	Port	Bangkok	www.bkp.port.co.th	5.000
-8	Port	Laem Chabang	www.port.co.th	5.000
-8	Port	Sriracha	www.srirachaport.com	5.000
-8	Port	Point Lisas	www.plipdeco.com	5.000
-8	Port	Mersin	www.tcdd.gov.tr	5.000
-8	Port	Berdyansk	www.ukrport.org.ua	5.000
-8	Port	Kerch	www.ukrport.org.ua	5.000
-8	Port	Richmond	www.ci.richmond.ca.us/index.asp?NID=102	5.000
-8	Port	Wilmington	www.portofwilmingtonde.com	5.000
-8	Port	Quincy	www.forerivershipyard.com	5.000
-8	Port	Nawiliwili	www.state.hi.us/dot/harbors	5.000
-8	Port	Monterey	www.monterey.org/harbor	5.000
-8	Port	Wilmington	www.ncports.com	5.000
-8	Port	Gloucester City	www.holtoversight.com	5.000
-8	Port	Bayonne	www.bayonnenj.org	5.000
-8	Port	Baltimore	www.mpa.state.md.us	5.000
-8	Port	Jacksonville	www.jaxport.com	5.000
-8	Port	Newport News	www.vaports.com	5.000
-8	Port	Port Arthur	www.portofportarthur.com	5.000
-8	Port	Portsmouth	www.vaports.com	5.000
-8	Port	Wilmington	www.ncports.com	5.000
-8	Port	Port Arthur	www.portofportarthur.com	5.000
-8	Port	Alexandria		5.000
-8	Port	Newport News	www.vaports.com	5.000
-8	Port	Brownsville	www.portofbrownsville.org	5.000
-8	Port	Vancouver	www.portvanusa.com	5.000
-8	Port	Guanta	www.puertodeguanta.gob.ve	5.000
-8	Port	Keelung		5.000
-8	Port	Arrecife		5.000
-8	Port	St Thomas		5.000
-8	Port	Basseterre		5.000
-8	Port	New Orleans		5.000
-8	Port	Freeport		5.000
-8	Port	Trenton		5.000
-8	Port	Goderich		5.000
-8	Port	Midland		5.000
-8	Port	St Joseph		5.000
-8	Port	Racine		5.000
-8	Port	Menominee		5.000
-8	Port	Escanaba		5.000
-8	Port	Sacramento		5.000
-8	Port	Great Yarmouth		5.000
-8	Port	Dundee		5.000
-8	Port	Portmahomack Harbor		5.000
-8	Port	Wick		5.000
-8	Port	Oban		5.000
-8	Port	Douglas		5.000
-8	Port	Londonderry		5.000
-8	Port	Silloth		5.000
-7	Port	Ambriz		10.000
-7	Port	Cabinda		10.000
-7	Port	Soyo	www.otal.com/angola	10.000
-7	Port	Durres		10.000
-7	Port	Curacao	www.curports.com	10.000
-7	Port	Al Fujayrah	www.fujairahport.ae	10.000
-7	Port	Caleta Olivia		10.000
-7	Port	Puerto Deseado	www.scruz.gov.ar/puertos	10.000
-7	Port	Rio Gallegos	www.scruz.gov.ar/puertos	10.000
-7	Port	Rio Grande		10.000
-7	Port	San Julian	www.scruz.gov.ar/puertos	10.000
-7	Port	Coffs Harbour		10.000
-7	Port	Esperance	www.esperanceport.com.au	10.000
-7	Port	Port Augusta		10.000
-7	Port	Bowen		10.000
-7	Port	Bundaberg	www.portofbundaberg.com.au	10.000
-7	Port	Burketown	www.cairnsports.com.au	10.000
-7	Port	Carnarvon		10.000
-7	Port	Cooktown	www.cairnsports.com.au	10.000
-7	Port	Derby		10.000
-7	Port	Eden	www.eden.nsw.gov.au	10.000
-7	Port	George Town		10.000
-7	Port	Geraldton	www.gpa.wa.gov.au	10.000
-7	Port	Karumba	www.cairnsports.com.au	10.000
-7	Port	Kingscote		10.000
-7	Port	Maryborough	www.nqbp.com.au	10.000
-7	Port	Strahan	www.tasports.com.au	10.000
-7	Port	Mongla	www.monglaport.com.bd	10.000
-7	Port	Aracaju	www.ibritto.com.br	10.000
-7	Port	Fortaleza	www.docasdoceara.com.br	10.000
-7	Port	Macapa		10.000
-7	Port	Navegantes	www.portonave.com.br	10.000
-7	Port	Pelotas		10.000
-7	Port	Campbell River		10.000
-7	Port	Goose Bay		10.000
-7	Port	Masset		10.000
-7	Port	Matane		10.000
-7	Port	Nanisivik		10.000
-7	Port	New Richmond		10.000
-7	Port	Port Hardy		10.000
-7	Port	Port Hawkesbury	www.straitsuperport.com	10.000
-7	Port	Squamish	www.sqterminals.com	10.000
-7	Port	Stephenville	www.portharmonauthority.ca	10.000
-7	Port	Stewart	www.stewart-hyder.com	10.000
-7	Port	Tahsis		10.000
-7	Port	Sandspit		10.000
-7	Port	Tuktoyaktuk		10.000
-7	Port	Ancud		10.000
-7	Port	Castro		10.000
-7	Port	Chanaral		10.000
-7	Port	Puerto Natales		10.000
-7	Port	Taltal		10.000
-7	Port	Guangzhou		10.000
-7	Port	Jiangyin		10.000
-7	Port	Lianyungang	www.lygport.com.cn	10.000
-7	Port	Sanya		10.000
-7	Port	Zhanjiang	www.zjport.com	10.000
-7	Port	Zhoushan	www.zsport.com.cn	10.000
-7	Port	San-Pedro		10.000
-7	Port	Cartagena	www.sprc.com.co	10.000
-7	Port	Tolu	www.navescolombia.com	10.000
-7	Port	Tumaco	www.navescolombia.com	10.000
-7	Port	Turbo	www.navescolombia.com	10.000
-7	Port	Baracoa		10.000
-7	Port	Nicaro		10.000
-7	Port	Nueva Gerona		10.000
-7	Port	Helgoland	www.helgoland.de	10.000
-7	Port	Travemunde		10.000
-7	Port	Thisted		10.000
-7	Port	Manta	www.apmanta.gov.ec	10.000
-7	Port	Esmeraldas	www.puertoesmeraldas.gov.ec	10.000
-7	Port	Corralejo		10.000
-7	Port	Ceuta	www.puertodeceuta.com	10.000
-7	Port	Melilla	www.puertodemelilla.es	10.000
-7	Port	San Sebastian de la Gomera		10.000
-7	Port	Santa Cruz de La Palma		10.000
-7	Port	Parnu	www.transcom.ee	10.000
-7	Port	Kuopio		10.000
-7	Port	Joensuu	www.jns.fi	10.000
-7	Port	Varkaus		10.000
-7	Port	Savusavu	www.fijiports.com.fj	10.000
-7	Port	Cherbourg	www.ville-cherbourg.fr/fr/ville_maritime/port_de_plaisance/	10.000
-7	Port	Caen	www.caen.port.fr	10.000
-7	Port	Calvi		10.000
-7	Port	Propriano	www.corse-du-sud.cci.fr	10.000
-7	Port	Quimper		10.000
-7	Port	Vannes		10.000
-7	Port	Yap		10.000
-7	Port	Bristol	www.bristolport.co.uk	10.000
-7	Port	Hull	www.abports.co.uk/custinfo/ports/hull.htm	10.000
-7	Port	Newcastle upon Tyne		10.000
-7	Port	Tyne	www.portoftyne.com	10.000
-7	Port	Rochester	www.thamesport.co.uk	10.000
-7	Port	Tema	www.ghanaports.gov.gh	10.000
-7	Port	Alexandroupolis		10.000
-7	Port	Kos		10.000
-7	Port	Paros		10.000
-7	Port	Samos		10.000
-7	Port	Nanortalik	www.ral.gl	10.000
-7	Port	Qaanaaq		10.000
-7	Port	New Amsterdam	www.gnsc.com	10.000
-7	Port	La Ceiba	www.enp.hn	10.000
-7	Port	Tela	www.enp.hn	10.000
-7	Port	Mali Losinj		10.000
-7	Port	Jacmel	www.apn.gouv.ht	10.000
-7	Port	Jeremie	www.apn.gouv.ht	10.000
-7	Port	Sorong		10.000
-7	Port	Lhokseumawe	www.inaport1.co.id	10.000
-7	Port	Nunukan		10.000
-7	Port	Panjang	portal.inaport2.co.id	10.000
-7	Port	Tanjung Priok	www.priokport.co.id	10.000
-7	Port	Mangalore	www.newmangalore-port.com	10.000
-7	Port	Porbandar	www.gmbports.org	10.000
-7	Port	Ratnagiri		10.000
-7	Port	Bantry	bantrybayport.com	10.000
-7	Port	Wexford		10.000
-7	Port	Khorramshahr	www.khport.ir	10.000
-7	Port	Djupivogur	www.djupivogur.is	10.000
-7	Port	Faskrudsfjordur		10.000
-7	Port	Raufarhofn	www.raufarhofn.is	10.000
-7	Port	Pantelleria		10.000
-7	Port	Catania	www.porto.catania.it	10.000
-7	Port	Fiumicino		10.000
-7	Port	Lampedusa		10.000
-7	Port	Manfredonia		10.000
-7	Port	Ocho Rios	www.portjam.com	10.000
-7	Port	Port Antonio	www.portjam.com	10.000
-7	Port	Nishinoomote	www.city.nishinoomote.kagoshima.jp	10.000
-7	Port	Akita	www.city.akita.akita.jp/city/in/hb/port	10.000
-7	Port	Hachinohe	www.pref.aomori.lg.jp/kowankuko/english/minato/hachinohe/hachinohe.htm	10.000
-7	Port	Ishigaki		10.000
-7	Port	Matsuyama		10.000
-7	Port	Sakata	www.port-of-sakata.jp	10.000
-7	Port	Takamatsu		10.000
-7	Port	Wakkanai	www.city.wakkanai.hokkaido.jp	10.000
-7	Port	Tottori	www.city.tottori.lg.jp	10.000
-7	Port	Lamu	www.kpa.co.ke	10.000
-7	Port	Gunsan	gunsan.mltm.go.kr/eng	10.000
-7	Port	Pohang		10.000
-7	Port	Samcheok	donghae.momaf.go.kr	10.000
-7	Port	Sokcho	donghae.momaf.go.kr	10.000
-7	Port	Ulsan	ulsan.mltm.go.kr	10.000
-7	Port	Tripoli	www.tripoliport.com	10.000
-7	Port	Buchanan	www.nationalportauthorityliberia.org	10.000
-7	Port	Tripoli	www.lpclibya.com	10.000
-7	Port	Agadir	www.marsamaroc.co.ma	10.000
-7	Port	Al Hoceima	http://www.marsamaroc.co.ma	10.000
-7	Port	Dakhla	www.marsamaroc.co.ma	10.000
-7	Port	Antalaha		10.000
-7	Port	Manakara		10.000
-7	Port	Mananjary		10.000
-7	Port	Morondava		10.000
-7	Port	Toamasina		10.000
-7	Port	Loreto		10.000
-7	Port	Campeche	www.fis.com/campeche	10.000
-7	Port	Cozumel	www.apiqroo.com.mx	10.000
-7	Port	La Paz	www.bajaport.com	10.000
-7	Port	Playa del Carmen	www.apiqroo.com.mx	10.000
-7	Port	Puerto Penasco		10.000
-7	Port	Puerto Vallarta	www.apivta.com	10.000
-7	Port	Coatzacoalcos	www.apicoatza.com	10.000
-7	Port	Bassein	www.mot.gov.mm/mpa/index.html	10.000
-7	Port	Nacala	www.cfmnet.co.mz	10.000
-7	Port	Pemba	www.cfmnet.co.mz	10.000
-7	Port	Quelimane	www.cfmnet.co.mz	10.000
-7	Port	Port Louis	www.mauport.com	10.000
-7	Port	Malacca	www.portsworld.com/Ports/mallacaport.htm	10.000
-7	Port	Port Dickson	www.portsworld.com/Ports/portdickson.htm	10.000
-7	Port	Walvis Bay	www.namport.com	10.000
-7	Port	Calabar	www.nigerianports.org	10.000
-7	Port	Groningen		10.000
-7	Port	Alta	www.altahavn.no	10.000
-7	Port	Andenes		10.000
-7	Port	Bronnoysund	www.bronnoyhavn.com	10.000
-7	Port	Farsund		10.000
-7	Port	Floro		10.000
-7	Port	Kristiansand	www.kristiansandhavn.no	10.000
-7	Port	Namsos	www.namsos.kommune.no	10.000
-7	Port	Rorvik		10.000
-7	Port	Sandnessjoen		10.000
-7	Port	Stokmarknes	www.hadselhavnevesen.no	10.000
-7	Port	Stord		10.000
-7	Port	Picton	portmarlborough.co.nz	10.000
-7	Port	Dunedin		10.000
-7	Port	Salalah	www.salalahport.com	10.000
-7	Port	Gwadar		10.000
-7	Port	Bocas del Toro	www.cocatram.org.ni/puertosca/pto_bocasdeltoro_panama.html	10.000
-7	Port	La Palma	www.cocatram.org.ni/puertosca/pto_lapalma_panama.html	10.000
-7	Port	Chimbote	www.enapu.com.pe	10.000
-7	Port	Ilo	www.enapu.com.pe	10.000
-7	Port	Mollendo		10.000
-7	Port	Pisco		10.000
-7	Port	Dumaguete	www.ppa.com.ph	10.000
-7	Port	General Santos	www.ppa.com.ph	10.000
-7	Port	Buka	www.pngports.com.pg	10.000
-7	Port	Daru	www.pngports.com.pg	10.000
-7	Port	Lae	www.pngports.com.pg	10.000
-7	Port	Madang	www.pngports.com.pg	10.000
-7	Port	Gdansk	www.portgdansk.pl	10.000
-7	Port	Gdynia	www.port.gdynia.pl	10.000
-7	Port	Aguadilla		10.000
-7	Port	Arecibo	www.prpa.gobierno.pr	10.000
-7	Port	Mayaguez	www.prpa.gobierno.pr	10.000
-7	Port	Faro		10.000
-7	Port	Bora-Bora	www.portdepapeete.pf	10.000
-7	Port	Tulcea	apdm.galati.ro	10.000
-7	Port	Amderma		10.000
-7	Port	Anadyr	morport.chukotnet.ru	10.000
-7	Port	Pevek		10.000
-7	Port	Kaolack	www.portdakar.sn	10.000
-7	Port	Ziguinchor	www.portdakar.sn	10.000
-7	Port	Longyearbyen		10.000
-7	Port	Gizo		10.000
-7	Port	Viru Harbour		10.000
-7	Port	Kismayu		10.000
-7	Port	Karlstad	www.vanerhamn.se	10.000
-7	Port	Lidkoping	www.vanerhamn.se	10.000
-7	Port	Skelleftea		10.000
-7	Port	Umea	www.umeahamn.se	10.000
-7	Port	Providenciales	www.turksandcaicosislands.gov.tc	10.000
-7	Port	Songkhla	www.md.go.th	10.000
-7	Port	Bandirma	www.tcdd.gov.tr	10.000
-7	Port	Samsun	www.tcdd.gov.tr	10.000
-7	Port	Sinop		10.000
-7	Port	Trabzon		10.000
-7	Port	Sevastopol	ukrport.org.ua	10.000
-7	Port	Skagway		10.000
-7	Port	Valdez	www.ci.valdez.ak.us/port	10.000
-7	Port	Apalachicola		10.000
-7	Port	Annapolis	www.portannapolis.com	10.000
-7	Port	Cambridge	www.ci.cambridge.md.us	10.000
-7	Port	Portland	www.portofportlandor.com	10.000
-7	Port	Bremerton	www.portofbremerton.org	10.000
-7	Port	Rockland	www.ci.rockland.me.us	10.000
-7	Port	Santa Cruz	www.santacruzharbor.org	10.000
-7	Port	Chesapeake		10.000
-7	Port	Cumana	www.selinger.com/cumana.htm	10.000
-7	Port	Hai Phong	www.haiphongport.com.vn	10.000
-7	Port	Corfu		10.000
-7	Port	Alexandria		10.000
-7	Port	Tangier		10.000
-7	Port	Hamilton		10.000
-7	Port	Windsor		10.000
-7	Port	Rouge River		10.000
-7	Port	Owen Sound		10.000
-7	Port	Sault Ste Marie		10.000
-7	Port	Saginaw		10.000
-7	Port	Cheboygan		10.000
-7	Port	Sault Ste Marie		10.000
-7	Port	Muskegon		10.000
-7	Port	Gary		10.000
-7	Port	Waukegan		10.000
-7	Port	Houghton		10.000
-7	Port	Wrangell		10.000
-7	Port	Petersburg		10.000
-7	Port	Kemi		10.000
-7	Port	Vaasa		10.000
-7	Port	Turku		10.000
-7	Port	Liepaja		10.000
-7	Port	Europoort		10.000
-7	Port	Stornoway Harbor		10.000
-7	Port	Lisboa		10.000
-7	Port	Bonanza		10.000
-7	Port	Ibiza		10.000
-7	Port	Rostov-Na-Donu		10.000
-7	Port	Tel Aviv Yafo		10.000
-7	Port	Tunis		10.000
-7	Port	Bejaia		10.000
-7	Port	Alger		10.000
-7	Port	St Louis		10.000
-7	Port	Tin Can Island		10.000
-7	Port	Mocambique		10.000
-7	Port	Assab		10.000
-7	Port	Massawa		10.000
-7	Port	Elat		10.000
-7	Port	Al Kuwayt		10.000
-7	Port	Bombay		10.000
-7	Port	Jawaharlal Nehru Port		10.000
-7	Port	Cochin		10.000
-7	Port	Madras		10.000
-7	Port	Calcutta		10.000
-7	Port	Phuket		10.000
-7	Port	Pulau Pinang		10.000
-7	Port	Belawan		10.000
-7	Port	Semarang		10.000
-7	Port	Kupang		10.000
-7	Port	Kuching		10.000
-7	Port	Miri		10.000
-7	Port	Kota Kinabalu		10.000
-7	Port	Pelabuhan Sandakan		10.000
-7	Port	Ujungpandang		10.000
-7	Port	Davao		10.000
-7	Port	Nanjing		10.000
-7	Port	Hankow		10.000
-7	Port	Chang Sha		10.000
-7	Port	Khabarovsk		10.000
-7	Port	Petropavlovsk		10.000
-6	Port	Namibe	www.otal.com/angola	20.000
-6	Port	Bahia Blanca	www.puertobahiablanca.com	20.000
-6	Port	La Plata	www.laplataport.com.ar	20.000
-6	Port	Ushuaia	www.puertoushuaia.gov.ar	20.000
-6	Port	Puerto Madryn	www.appm.com.ar	20.000
-6	Port	Pago Pago	americansamoa.gov	20.000
-6	Port	Mackay	www.nqbp.com.au	20.000
-6	Port	Port Lincoln	www.flindersports.com.au	20.000
-6	Port	Port Pirie	www.flindersports.com.au	20.000
-6	Port	Albany	www.albanyport.com.au	20.000
-6	Port	Barrow Island		20.000
-6	Port	Bunbury	www.byport.com.au	20.000
-6	Port	Burnie	www.tasports.com.au	20.000
-6	Port	Geelong	www.geelongport.com.au	20.000
-6	Port	Gladstone	www.gpcl.com.au	20.000
-6	Port	Newcastle	www.newportcorp.com.au	20.000
-6	Port	Port Kembla	www.kemblaport.com.au	20.000
-6	Port	Portland	www.portofportland.com.au	20.000
-6	Port	Thursday Island	www.cairnsports.com.au	20.000
-6	Port	Townsville	www.townsville-port.com.au	20.000
-6	Port	Weipa	www.nqbp.com.au	20.000
-6	Port	Whyalla	www.onesteel.com	20.000
-6	Port	Wyndham		20.000
-6	Port	Brussel (Bruxelles)	www.portdebruxelles.irisnet.be	20.000
-6	Port	Gent (Ghent)	www.havengent.be	20.000
-6	Port	Ilheus	www.codeba.com.br	20.000
-6	Port	Maceio	www.portodemaceio.com.br	20.000
-6	Port	Natal	www.codern.com.br	20.000
-6	Port	Rio Grande	www.portoriogrande.com.br	20.000
-6	Port	Vitoria	www.portodevitoria.com.br	20.000
-6	Port	Ocean Falls		20.000
-6	Port	Argentia	www.argentia.ca/port.html	20.000
-6	Port	Bathurst		20.000
-6	Port	Gaspe	www.tc.gc.ca/quebec/en/port/gaspe.htm	20.000
-6	Port	Port Alberni	www.portalberniportauthority.ca	20.000
-6	Port	Powell River	www.powellriver.ca	20.000
-6	Port	Sept-Iles	www.portsi.com	20.000
-6	Port	Sydney	www.portofsydney.ca	20.000
-6	Port	Trois-Rivieres (Three Rivers)	www.porttr.com	20.000
-6	Port	Yarmouth	www.portofyarmouth.com	20.000
-6	Port	Rimouski		20.000
-6	Port	Riviere-du-Loup		20.000
-6	Port	Saint-Anthony		20.000
-6	Port	Summerside		20.000
-6	Port	Arica	www.puertoarica.cl	20.000
-6	Port	Tocopilla		20.000
-6	Port	Beihai		20.000
-6	Port	Jiangmen	www.jmct.com.cn	20.000
-6	Port	Wenzhou	www.wzport.com	20.000
-6	Port	Yantai	www.yantaiport.com.cn	20.000
-6	Port	Zhuhai	www.zhuhai-port.com	20.000
-6	Port	Santa Marta	www.spsm.com.co	20.000
-6	Port	Buenaventura	www.puertobuenaventura.com	20.000
-6	Port	Praia	www.enapor.cv	20.000
-6	Port	Golfito		20.000
-6	Port	Cienfuegos		20.000
-6	Port	Manzanillo		20.000
-6	Port	Matanzas		20.000
-6	Port	Santiago de Cuba		20.000
-6	Port	Emden	www.seaport-emden.de	20.000
-6	Port	Flensburg	www.flensburg-tourismus.de	20.000
-6	Port	Wilhelmshaven	www.wilhelmshaven-port.de	20.000
-6	Port	Esbjerg	www.port-of-esbjerg.dk	20.000
-6	Port	Odense	www.odensehavn.dk	20.000
-6	Port	Sonderborg	www.sonderborg-kommune.dk	20.000
-6	Port	Ronne	www.roennehavn.dk	20.000
-6	Port	Barahona	www.apordom.gov.do	20.000
-6	Port	Cabo Rojo	www.apordom.gov.do	20.000
-6	Port	Oran		20.000
-6	Port	A Coruna	www.puertocoruna.com	20.000
-6	Port	Almeria	www.apalmeriamotril.com	20.000
-6	Port	Gijon	www.puertogijon.es	20.000
-6	Port	San Sebastian		20.000
-6	Port	Santander	www.puertosantander.es	20.000
-6	Port	Tarragona	www.porttarragona.es	20.000
-6	Port	Oulu	www.ouluport.com	20.000
-6	Port	Bayonne	www.bayonne.cci.fr	20.000
-6	Port	Boulogne-sur-Mer	www.portboulogne.com	20.000
-6	Port	Brest	www.brest.port.fr	20.000
-6	Port	Cannes	www.riviera-ports.com	20.000
-6	Port	Cherbourg	www.port-cherbourg.com	20.000
-6	Port	Dieppe		20.000
-6	Port	Granville	www.granville.cci.fr	20.000
-6	Port	La Rochelle	www.larochelle.port.fr	20.000
-6	Port	Lorient	www.lorient.port.fr	20.000
-6	Port	Morlaix		20.000
-6	Port	Rochefort	www.rochefort.port.fr	20.000
-6	Port	Toulon		20.000
-6	Port	Owendo	www.ports-gabon.com	20.000
-6	Port	Aberdeen	www.aberdeen-harbour.co.uk	20.000
-6	Port	Liverpool	www.merseydocks.co.uk	20.000
-6	Port	Plymouth	www.abports.co.uk/custinfo/ports/plym.htm	20.000
-6	Port	Portsmouth	www.portsmouth-port.co.uk	20.000
-6	Port	Batumi	www.batumiport.com	20.000
-6	Port	Kavala		20.000
-6	Port	Chios	www.chiosport.gr	20.000
-6	Port	Kalamata		20.000
-6	Port	Patras	www.patrasport.gr	20.000
-6	Port	Volos	www.port-volos.gr	20.000
-6	Port	Uummannaq	www.ral.gl	20.000
-6	Port	Puerto Barrios	www.puertobarriosonline.com	20.000
-6	Port	Pula	www.luckauprava-pula.hr	20.000
-6	Port	Rijeka	www.portauthority.hr	20.000
-6	Port	Split	www.portsplit.com	20.000
-6	Port	Banjarmasin	www.pp3.co.id	20.000
-6	Port	Tanjung Pandan	portal.inaport2.co.id	20.000
-6	Port	Port Blair		20.000
-6	Port	Kandla	www.kandlaport.com	20.000
-6	Port	Pondicherry	port.pon.nic.in	20.000
-6	Port	Cork	www.portofcork.ie	20.000
-6	Port	Galway	www.galwayharbour.com	20.000
-6	Port	Bushehr	www.pso.ir	20.000
-6	Port	Ancona	www.autoritaportuale.ancona.it	20.000
-6	Port	Bari	www.porto.bari.it	20.000
-6	Port	Cagliari	www.porto.cagliari.it	20.000
-6	Port	Olbia	www.olbiagolfoaranci.it	20.000
-6	Port	Pescara		20.000
-6	Port	Reggio Calabria		20.000
-6	Port	Trapani		20.000
-6	Port	Aomori	www.pref.aomori.lg.jp/kowankuko/english/minato/aomori/aomori.htm	20.000
-6	Port	Hakodate	www.hakodate-port.jp	20.000
-6	Port	Kagoshima	www.pref.kagoshima.jp/home/kowanka/cruise-net/english/01kagoshima	20.000
-6	Port	Kochi	www.pref.kochi.lg.jp	20.000
-6	Port	Kushiro	www.city.kushiro.hokkaido.jp	20.000
-6	Port	Niihama		20.000
-6	Port	Oita	www.pref.oita.jp/14300/faz/faz1/english/faz_en.html	20.000
-6	Port	Shimonoseki	www.shimonoseki-port.com	20.000
-6	Port	Tomakomai	www.jptmk.com	20.000
-6	Port	Toyama		20.000
-6	Port	Ube		20.000
-6	Port	Malindi	www.kpa.co.ke	20.000
-6	Port	Trincomalee	www.slpa.lk	20.000
-6	Port	Klaipeda	www.portofklaipeda.lt	20.000
-6	Port	Safi	www.sodep.co.ma	20.000
-6	Port	Ensenada	www.puertoensenada.com.mx	20.000
-6	Port	Guaymas	www.puertodeguaymas.com	20.000
-6	Port	Manzanillo	www.puerto-de-manzanillo.com.mx	20.000
-6	Port	Salina Cruz	www.apisal.com.mx	20.000
-6	Port	Saipan	www.cpa.gov.mp	20.000
-6	Port	Nouadhibou		20.000
-6	Port	Luderitz	www.namport.com	20.000
-6	Port	Bluefields		20.000
-6	Port	Alesund	www.alesund.havn.no	20.000
-6	Port	Batsfjord		20.000
-6	Port	Bodo	www.bodohavn.no	20.000
-6	Port	Hammerfest		20.000
-6	Port	Haugesund	www.karmsund-havn.no	20.000
-6	Port	Kirkenes		20.000
-6	Port	Kristiansund	www.knhavn.no	20.000
-6	Port	Mo i Rana	www.portofmoirana.no	20.000
-6	Port	Molde	www.moldehavn.no	20.000
-6	Port	Mosjoen		20.000
-6	Port	Narvik	www.portofnarvik.com	20.000
-6	Port	Stavanger	www.stavanger-havn.no	20.000
-6	Port	Vadso		20.000
-6	Port	Vardo		20.000
-6	Port	New Plymouth	www.porttaranaki.co.nz	20.000
-6	Port	Gisborne	www.eastland.co.nz	20.000
-6	Port	Greymouth	www.greydc.govt.nz	20.000
-6	Port	Napier	www.portofnapier.co.nz	20.000
-6	Port	Tauranga	www.port-tauranga.co.nz	20.000
-6	Port	Wanganui		20.000
-6	Port	Westport	www.westportharbour.co.nz	20.000
-6	Port	Whangarei	www.nrc.govt.nz	20.000
-6	Port	Timaru	www.primeport.co.nz	20.000
-6	Port	Talara	www.ultramarnetwork.com/TextosPeru/Marc-014.html	20.000
-6	Port	Masbate	www.ppa.com.ph	20.000
-6	Port	Subic Bay	www.sbma.com	20.000
-6	Port	Alotau	www.pngports.com.pg	20.000
-6	Port	Kavieng	www.pngports.com.pg	20.000
-6	Port	Kieta	www.pngports.com.pg	20.000
-6	Port	Rabaul	www.pngports.com.pg	20.000
-6	Port	Vanimo	www.pngports.com.pg	20.000
-6	Port	Ponce	www.puertodelasamericaspr.com	20.000
-6	Port	Sines	www.portodesines.pt	20.000
-6	Port	Horta		20.000
-6	Port	Arkhangelsk	www.ascp.ru	20.000
-6	Port	Murmansk		20.000
-6	Port	Tiksi		20.000
-6	Port	Jizan	www.ports.gov.sa	20.000
-6	Port	Berbera		20.000
-6	Port	Nieuw Nickerie		20.000
-6	Port	Malmo	www.cmport.com	20.000
-6	Port	Gavle	www.gavle.se	20.000
-6	Port	Halmstad	www.halmstadharbour.se	20.000
-6	Port	Helsingborg	www.port.helsingborg.se	20.000
-6	Port	Hudiksvall		20.000
-6	Port	Kalmar	www.kalmar.se/kalmarhamn	20.000
-6	Port	Ornskoldsvik		20.000
-6	Port	Ronneby		20.000
-6	Port	Soderhamn	www.sshab.se	20.000
-6	Port	Vastervik	www.osterstroms.com	20.000
-6	Port	Visby	www.visbyport.com	20.000
-6	Port	Tekirdag	www.akport.com.tr	20.000
-6	Port	Tanga	www.tanzaniaports.com	20.000
-6	Port	Kherson	www.ukrport.org.ua	20.000
-6	Port	Colonia	www.anp.com.uy	20.000
-6	Port	Cordova	www.cityofcordova.net	20.000
-6	Port	Ketchikan	www.city.ketchikan.ak.us	20.000
-6	Port	Bangor	www.bangormaine.gov/cs_inf_harbor.php	20.000
-6	Port	Stockton	www.portofstockton.com	20.000
-6	Port	Bridgeport	www.portofbridgeport.com	20.000
-6	Port	New Haven	www.cityofnewhaven.com/PortAuthority	20.000
-6	Port	Port Everglades	www.broward.org/port	20.000
-6	Port	Savannah	www.gaports.com	20.000
-6	Port	Portland	www.portofportlandmaine.org	20.000
-6	Port	Gulfport	www.shipmspa.com	20.000
-6	Port	Portsmouth	www.portofnh.org	20.000
-6	Port	Newark	www.panynj.gov	20.000
-6	Port	Astoria	www.portofastoria.com	20.000
-6	Port	Port Everglades	www.broward.org/port	20.000
-6	Port	Corpus Christi	www.portofcorpuschristi.com	20.000
-6	Port	Pascagoula	www.portofpascagoula.com	20.000
-6	Port	Tacoma	www.portoftacoma.com	20.000
-6	Port	Beaumont	www.portofbeaumont.com	20.000
-6	Port	Olympia	www.portolympia.com	20.000
-6	Port	Port Angeles	www.portofpa.com	20.000
-6	Port	Port Townsend	www.portofpt.com	20.000
-6	Port	Puerto Cabello	www.ipapc.gov.ve	20.000
-6	Port	Mukalla	www.portofaden.com	20.000
-6	Port	East London	http://www.transnetnationalportsauthority.net	20.000
-6	Port	Mossel Bay	www.transnetnationalportsauthority.net	20.000
-6	Port	Richards Bay	www.transnetnationalportsauthority.net	20.000
-6	Port	Erie		20.000
-6	Port	Bay City		20.000
-6	Port	Milwaukee		20.000
-6	Port	Coos Bay		20.000
-6	Port	Sitka		20.000
-6	Port	Kodiak		20.000
-5	Port	Lobito		30.000
-5	Port	Abu Dhabi	www.portzayed.gov.ae	30.000
-5	Port	Comodoro Rivadavia		30.000
-5	Port	Mar del Plata	www.consejoportuario.com.ar	30.000
-5	Port	Cairns	www.cairnsport.com.au	30.000
-5	Port	Broome	www.broomeport.com	30.000
-5	Port	Devonport	www.tasports.com.au	30.000
-5	Port	Hobart	www.tasports.com.au	30.000
-5	Port	Antwerpen	www.portofantwerp.be	30.000
-5	Port	Varna	www.port-varna.bg	30.000
-5	Port	Belize City		30.000
-5	Port	Hamilton		30.000
-5	Port	Belem	www.cdp.com.br	30.000
-5	Port	Paranagua	www.portosdoparana.pr.gov.br	30.000
-5	Port	Porto Alegre		30.000
-5	Port	Recife	www.portodorecife.pe.gov.br	30.000
-5	Port	Salvador	www.codeba.com.br	30.000
-5	Port	Santos	www.portodesantos.com	30.000
-5	Port	Charlottetown		30.000
-5	Port	Halifax	www.portofhalifax.ca	30.000
-5	Port	Nanaimo	www.npa.ca	30.000
-5	Port	Quebec	www.portquebec.ca	30.000
-5	Port	Victoria	www.victoriaharbour.org	30.000
-5	Port	Prince Rupert	www.rupertport.com	30.000
-5	Port	Saint-John	www.sjport.com	30.000
-5	Port	Antofagasta	www.puertoantofagasta.cl	30.000
-5	Port	Iquique	www.epi.cl	30.000
-5	Port	Puerto Montt	www.empormontt.cl	30.000
-5	Port	Haikou		30.000
-5	Port	Ningbo	www.nbport.com.cn/wps/portal	30.000
-5	Port	Xiamen	www.portxiamen.com.cn	30.000
-5	Port	Abidjan	www.paa-ci.org	30.000
-5	Port	Douala	www.otal.com/cameroon/index.htm	30.000
-5	Port	Pointe Noire		30.000
-5	Port	Barranquilla	www.spdelnorte.com	30.000
-5	Port	Moroni		30.000
-5	Port	Mariel		30.000
-5	Port	Larnaca	www.cpa.gov.cy	30.000
-5	Port	Limassol	www.cpa.gov.cy	30.000
-5	Port	Bremen	www.bremen-ports.de	30.000
-5	Port	Hamburg	www.hafen-hamburg.de	30.000
-5	Port	Djibouti	www.dpworld-djiboutiport.com	30.000
-5	Port	Aalborg	www.aalborghavn.dk	30.000
-5	Port	Fredericia	www.adp-as.com	30.000
-5	Port	Alicante	www.puertoalicante.com	30.000
-5	Port	Bilbao	www.bilbaoport.es	30.000
-5	Port	Valencia	www.valenciaport.com	30.000
-5	Port	Fox Bay		30.000
-5	Port	Ajaccio	www.corse-du-sud.cci.fr	30.000
-5	Port	Bastia	www.port-de-bastia.net	30.000
-5	Port	Bordeaux	www.bordeaux-port.fr	30.000
-5	Port	Calais	www.calais-port.com	30.000
-5	Port	Dunkerque	www.portdedunkerque.fr	30.000
-5	Port	Honfleur	www.pays-auge.cci.fr/port/index.html	30.000
-5	Port	Libreville	www.ports-gabon.com	30.000
-5	Port	Port Gentil	www.ports-gabon.com	30.000
-5	Port	Belfast	www.belfast-harbour.co.uk	30.000
-5	Port	Dover	www.doverport.co.uk	30.000
-5	Port	Inverness	www.invernessharbour.co.uk	30.000
-5	Port	Takoradi	www.ghanaports.gov.gh	30.000
-5	Port	Basse-Terre	www.port-guadeloupe.com	30.000
-5	Port	Pointe-a-Pitre	www.port-guadeloupe.com	30.000
-5	Port	Banjul	www.gambiaports.com	30.000
-5	Port	Bata		30.000
-5	Port	Iraklion	www.portheraklion.gr	30.000
-5	Port	Thessaloniki	www.thpa.gr	30.000
-5	Port	Cayenne	www.guyane.cci.fr	30.000
-5	Port	Kourou		30.000
-5	Port	Georgetown	www.gnsc.com	30.000
-5	Port	Puerto Cortes	www.enp.hn	30.000
-5	Port	Zadar	www.port-authority-zadar.hr	30.000
-5	Port	Surabaya		30.000
-5	Port	Manado		30.000
-5	Port	Senipah	www.pertamina.com	30.000
-5	Port	Bhavnagar	www.gmbports.org	30.000
-5	Port	Visakhapatnam	www.vizagport.com	30.000
-5	Port	Limerick	www.sfpc.ie	30.000
-5	Port	Bandar Abbas		30.000
-5	Port	Reykjavik	www.reykjavik.is	30.000
-5	Port	Seydisfjordur		30.000
-5	Port	Trieste	www.porto.trieste.it	30.000
-5	Port	Hiroshima	www.pref.hiroshima.lg.jp	30.000
-5	Port	Kobe	www.kptc.or.jp	30.000
-5	Port	Nagasaki	www.doboku.pref.nagasaki.jp/~rinkai/kakukou/nagasaki.htm	30.000
-5	Port	Otaru		30.000
-5	Port	Tokyo	www.kouwan.metro.tokyo.jp	30.000
-5	Port	Monrovia	www.nationalportauthorityliberia.org	30.000
-5	Port	Colombo	www.slpa.lk	30.000
-5	Port	Casablanca	www.marsamaroc.co.ma	30.000
-5	Port	Monaco		30.000
-5	Port	Acapulco	www.apiacapulcoport.com	30.000
-5	Port	Mazatlan	www.apimazatlan.com.mx	30.000
-5	Port	Tampico	www.puertodetampico.com.mx	30.000
-5	Port	Beira	www.cfmnet.co.mz	30.000
-5	Port	Maputo	www.portmaputo.com	30.000
-5	Port	Nouakchott		30.000
-5	Port	Plymouth	www.giu.gov.ms	30.000
-5	Port	Fort-de-France	www.martinique.cci.fr/port.asp	30.000
-5	Port	Noumea		30.000
-5	Port	Port Harcourt	www.nigerianports.org	30.000
-5	Port	Corinto	www.epn.com.ni	30.000
-5	Port	Rotterdam	www.portofrotterdam.com	30.000
-5	Port	Bergen	www.bergenhavn.no	30.000
-5	Port	Tromso	www.tromso.havn.no	30.000
-5	Port	Trondheim	www.trondheim.havn.no	30.000
-5	Port	Nelson	www.portnelson.co.nz	30.000
-5	Port	Muscat	www.pscoman.com	30.000
-5	Port	Cebu		30.000
-5	Port	Zamboanga	www.ppa.com.ph	30.000
-5	Port	Port Moresby	www.pngports.com.pg	30.000
-5	Port	Wewak	www.pngports.com.pg	30.000
-5	Port	Porto		30.000
-5	Port	Ponta Delgada		30.000
-5	Port	Papeete	www.portdepapeete.pf	30.000
-5	Port	Doha		30.000
-5	Port	Kaliningrad	www.transmarine.ru/PORTINFO.HTM	30.000
-5	Port	Vladivostok	www.vmtp.ru	30.000
-5	Port	Vyborg		30.000
-5	Port	Port Sudan	www.sudanports.gov.sd	30.000
-5	Port	Mogadishu		30.000
-5	Port	Paramaribo		30.000
-5	Port	Goteborg		30.000
-5	Port	Lulea	www.lulea.se/hamnen	30.000
-5	Port	Norrkoping	www.norrkoping-port.se	30.000
-5	Port	Lome	www.togoport.tg	30.000
-5	Port	Izmir	www.tcdd.gov.tr	30.000
-5	Port	Kaohsiung	www.khb.gov.tw	30.000
-5	Port	Taichung	www.tchb.gov.tw	30.000
-5	Port	Odessa	www.port.odessa.ua	30.000
-5	Port	Montevideo	www.anp.com.uy	30.000
-5	Port	Juneau	www.juneau.org	30.000
-5	Port	Nome	www.nomealaska.org/port	30.000
-5	Port	Hilo	www.state.hi.us/dot/harbors	30.000
-5	Port	Bellingham	www.portofbellingham.com	30.000
-5	Port	Houston	www.portofhouston.com	30.000
-5	Port	Brownsville	www.portofbrownsville.com	30.000
-5	Port	Longview	www.portoflongview.com	30.000
-5	Port	Kingstown	www.svgpa.com	30.000
-5	Port	La Guaira	www.plcsa.gob.ve	30.000
-5	Port	Maracaibo	www.puertodemaracaibo.com	30.000
-5	Port	Da Nang	www.danangportvn.com	30.000
-5	Port	Port Vila	www.vanuatugovernment.gov.vu	30.000
-5	Port	Apia	www.spasamoa.ws	30.000
-5	Port	Hodeidah		30.000
-5	Port	Ottawa		30.000
-5	Port	Buffalo		30.000
-5	Port	Cleveland		30.000
-5	Port	Green Bay		30.000
-5	Port	Duluth		30.000
-5	Port	Eureka		30.000
-4	Port	Luanda	www.otal.com/angola	50.000
-4	Port	Kralendijk, Bonaire		50.000
-4	Port	Philipsburg		50.000
-4	Port	Adelaide	www.flindersports.com.au	50.000
-4	Port	Brisbane	www.portbris.com.au	50.000
-4	Port	Port Hedland	www.phpa.com.au	50.000
-4	Port	Chittagong	www.cpa.gov.bd	50.000
-4	Port	Bridgetown	www.barbadosport.com	50.000
-4	Port	Montreal	www.port-montreal.com	50.000
-4	Port	Punta Arenas	www.epa.co.cl	50.000
-4	Port	Valdivia		50.000
-4	Port	Dalian	www.portdalian.com	50.000
-4	Port	Fuzhou		50.000
-4	Port	Qingdao	www.qdport.com	50.000
-4	Port	Shanghai	www.portshanghai.com.cn	50.000
-4	Port	Shantou		50.000
-4	Port	Puntarenas		50.000
-4	Port	Kiel	www.port-of-kiel.de	50.000
-4	Port	Roseau		50.000
-4	Port	Santo Domingo	www.apordom.gov.do	50.000
-4	Port	Cartagena	www.apc.es	50.000
-4	Port	Vigo	www.apvigo.com	50.000
-4	Port	Santa Cruz de Tenerife	www.puertosdetenerife.org	50.000
-4	Port	Tallinn	www.portoftallinn.com	50.000
-4	Port	Suva	www.fijiports.com.fj	50.000
-4	Port	Saint-Tropez		50.000
-4	Port	Glasgow	www.glasgowharbour.com	50.000
-4	Port	Southampton	www.abports.co.uk/custinfo/ports/soton.htm	50.000
-4	Port	Gibraltar	www.gibraltarport.com	50.000
-4	Port	Conakry		50.000
-4	Port	Bissau		50.000
-4	Port	Canea		50.000
-4	Port	Katakolon		50.000
-4	Port	San Jose	www.cocatram.org.ni/puertosca/pto_sanjose_guatemala.html	50.000
-4	Port	Hong Kong	www.mardep.gov.hk	50.000
-4	Port	Port-au-Prince	www.apn.gouv.ht	50.000
-4	Port	Surabaya	www.tps.co.id	50.000
-4	Port	Dublin	www.dublinport.ie	50.000
-4	Port	Waterford	www.portofwaterford.com	50.000
-4	Port	Haifa	www.haifaport.org.il	50.000
-4	Port	Livorno	www.porto.livorno.it	50.000
-4	Port	Ischia		50.000
-4	Port	Kingston	www.portjam.com	50.000
-4	Port	Kitakyushu	www.kitaqport.or.jp	50.000
-4	Port	Mombasa	www.kpa.co.ke	50.000
-4	Port	Phnom Penh	www.ppap.com.kh	50.000
-4	Port	Beirut	www.portdebeyrouth.com	50.000
-4	Port	Male	www.maldport.com.mv	50.000
-4	Port	Veracruz	www.puertodeveracruz.com.mx	50.000
-4	Port	Yangon	www.mot.gov.mm/mpa/index.html	50.000
-4	Port	Wellington	www.centreport.co.nz	50.000
-4	Port	Szczecin	www.port.szczecin.pl	50.000
-4	Port	Jeddah	www.ports.gov.sa	50.000
-4	Port	Dakar	www.portdakar.sn	50.000
-4	Port	Singapore	www.mpa.gov.sg	50.000
-4	Port	Freetown		50.000
-4	Port	Stockholm	www.stoports.com	50.000
-4	Port	Bangkok	www.bmt.co.th	50.000
-4	Port	Canakkale	www.canakkale.gov.tr	50.000
-4	Port	Anchorage	www.muni.org	50.000
-4	Port	Long Beach	www.polb.com	50.000
-4	Port	Oakland	www.portofoakland.com	50.000
-4	Port	Jacksonville	www.jaxport.com	50.000
-4	Port	Philadelphia	www.philaport.com	50.000
-4	Port	Charleston	www.scspa.com	50.000
-4	Port	Newport		50.000
-4	Port	Ho Chi Minh City	www.vpa.org.vn/english/members/south/saigonnew.htm	50.000
-4	Port	Aden	www.portofaden.com	50.000
-4	Port	Durban	www.transnetnationalportsauthority.net	50.000
-4	Port	Port Elizabeth	www.transnetnationalportsauthority.net	50.000
-4	Port	Port Elizabeth	www.transnetnationalportsauthority.net	50.000
-4	Port	Detroit		50.000
-4	Port	Port Of Memphis		50.000
-4	Port	Tri-City Port		50.000
-4	Port	Helsinki		50.000
-4	Port	Sankt-Peterburg		50.000
-3	Port	Oranjestad	www.arubaports.com	75.000
-3	Port	Dubai	www.dpa.ae	75.000
-3	Port	Buenos Aires	www.puertobuenosaires.gov.ar	75.000
-3	Port	Darwin	www.darwinport.nt.gov.au	75.000
-3	Port	Melbourne	www.portofmelbourne.com	75.000
-3	Port	Perth		75.000
-3	Port	Sydney	www.sydneyports.com.au	75.000
-3	Port	Cotonou	www.portdecotonou.com	75.000
-3	Port	Nassau		75.000
-3	Port	Rio de Janeiro	www.portosrio.gov.br	75.000
-3	Port	Vancouver	www.portmetrovancouver.com	75.000
-3	Port	Liverpool		75.000
-3	Port	Valparaiso	www.portvalparaiso.cl	75.000
-3	Port	Guangzhou	www.gzport.com	75.000
-3	Port	Tianjin	www.ptacn.com	75.000
-3	Port	Abidjan	www.paa-ci.org	75.000
-3	Port	Bremerhaven	www.bremen-ports.de	75.000
-3	Port	Rostock	www.rostock-port.de	75.000
-3	Port	Tuborg		75.000
-3	Port	Guayaquil	www.puertodeguayaquil.com	75.000
-3	Port	Port Said	www.psdports.org	75.000
-3	Port	Barcelona	www.apb.es	75.000
-3	Port	Malaga	www.puertomalaga.com	75.000
-3	Port	Palma de Mallorca	www.portdemallorca.com	75.000
-3	Port	Le Havre	www.havre-port.net	75.000
-3	Port	Marseille	www.marseille-port.fr	75.000
-3	Port	Nice	www.riviera-ports.com	75.000
-3	Port	London	www.pla.co.uk	75.000
-3	Port	Gythion		75.000
-3	Port	Rhodes		75.000
-3	Port	Dubrovnik	www.portdubrovnik.hr	75.000
-3	Port	Civitavecchia	www.portidiroma.it	75.000
-3	Port	Palermo	www.autport.pa.it	75.000
-3	Port	Savona	www.porto.sv.it	75.000
-3	Port	Marghera	www.port.venice.it	75.000
-3	Port	Montego Bay	www.portjam.com	75.000
-3	Port	Osaka	www.optc.or.jp	75.000
-3	Port	Yokohama	www.city.yokohama.jp/me/port/en/index.html	75.000
-3	Port	Riga	www.rop.lv	75.000
-3	Port	Cabo San Lucas		75.000
-3	Port	Marsaxlokk	www.maltafreeport.com.mt	75.000
-3	Port	Amsterdam	www.amsterdamports.nl	75.000
-3	Port	Oslo	www.ohv.oslo.no	75.000
-3	Port	Auckland	www.poal.co.nz	75.000
-3	Port	Karachi	www.kpt.gov.pk	75.000
-3	Port	Colon	www.cct-pa.com	75.000
-3	Port	Manila	www.ppa.com.ph	75.000
-3	Port	San Juan	www.prpa.gobierno.pr	75.000
-3	Port	Istanbul	www.tdi.com.tr	75.000
-3	Port	Taipei	www.tpport.gov.tw	75.000
-3	Port	Dar es Salaam	www.tanzaniaports.com	75.000
-3	Port	Mobile	www.asdd.com	75.000
-3	Port	Los Angeles	www.portoflosangeles.org	75.000
-3	Port	San Diego	www.portofsandiego.org	75.000
-3	Port	San Francisco	www.sfport.com	75.000
-3	Port	Miami	www.miamidade.gov/portofmiami	75.000
-3	Port	Tampa	www.tampaport.com	75.000
-3	Port	Honolulu	www.state.hi.us/dot/harbors	75.000
-3	Port	Boston	www.massport.com/ports	75.000
-3	Port	Baltimore	www.mpa.state.md.us	75.000
-3	Port	New York	www.panynj.gov	75.000
-3	Port	Galveston	www.portofgalveston.com	75.000
-3	Port	Norfolk	www.vaports.com	75.000
-3	Port	Seattle	www.portseattle.org	75.000
-3	Port	Cape Town	www.transnetnationalportsauthority.net	75.000
-3	Port	Toronto		75.000
-3	Port	Chicago		75.000
+scalerank	featurecla	name	website	natlscale	ne_id
+N	C	C	C	N	N
+8	Port	Sint Nicolaas	www.rocargo.com/SanNicolas.html	5.000	1730087247
+8	Port	Campana	www.consejoportuario.com.ar	5.000	1730087249
+8	Port	Zarate	www.consejoportuario.com.ar	5.000	1730087251
+8	Port	Puerto Belgrano/Bahia Blanca		5.000	1730087255
+8	Port	Puerto Galvan/Bahia Blanca		5.000	1730087257
+8	Port	Ingeniero White/Bahia Blanca		5.000	1730087259
+8	Port	Saint John's	www.ab.gov.ag	5.000	1730087261
+8	Port	Fremantle	www.fremantleports.com.au	5.000	1730087263
+8	Port	Botany Bay	www.sydneyports.com.au	5.000	1730087265
+8	Port	Rockhampton	www.gpcl.com.au	5.000	1730087267
+8	Port	Oostende (Ostend)	www.portofoostende.be	5.000	1730087269
+8	Port	Zeebrugge	www.zeebruggeport.be	5.000	1730087273
+8	Port	Burgas	www.port-burgas.com	5.000	1730087275
+8	Port	Mina Sulman Port	www.bahrainports.gov.bh	5.000	1730087277
+8	Port	Sitrah	www.bahrainports.gov.bh	5.000	1730087279
+8	Port	Saint George		5.000	1730087281
+8	Port	Mucuripe	www.docasdoceara.com.br	5.000	1730087283
+8	Port	Niteroi	www.portosrio.gov.br	5.000	1730087285
+8	Port	Sao Francisco do Sul	www.apsfs.sc.gov.br	5.000	1730087287
+8	Port	Chatham		5.000	1730087291
+8	Port	Clarenville		5.000	1730087293
+8	Port	Comox		5.000	1730087295
+8	Port	Esquimalt		5.000	1730087297
+8	Port	Grand Bank		5.000	1730087299
+8	Port	North Sydney		5.000	1730087301
+8	Port	Caraquet		5.000	1730087303
+8	Port	Chicoutimi		5.000	1730087305
+8	Port	Corner Brook	www.cornerbrookport.com	5.000	1730087309
+8	Port	Digby	www.portofdigby.ns.ca	5.000	1730087311
+8	Port	Harbour Grace		5.000	1730087313
+8	Port	Pictou	www.pictoumarineterminals.com	5.000	1730087315
+8	Port	Shelburne		5.000	1730087317
+8	Port	Sorel		5.000	1730087319
+8	Port	Springdale		5.000	1730087321
+8	Port	Saint-John's	www.sjpa.com	5.000	1730087323
+8	Port	Coronel		5.000	1730087327
+8	Port	Lota		5.000	1730087329
+8	Port	Talcahuano	www.puertotalcahuano.cl	5.000	1730087331
+8	Port	San Antonio	www.sanantonioport.com	5.000	1730087333
+8	Port	Haimen		5.000	1730087335
+8	Port	Qinhuangdao		5.000	1730087337
+8	Port	Yantian	www.yantian-port.com	5.000	1730087339
+8	Port	Yingkou		5.000	1730087341
+8	Port	Moin	www.japdeva.go.cr	5.000	1730087345
+8	Port	Banes		5.000	1730087347
+8	Port	Caibarien		5.000	1730087349
+8	Port	Isabela de Sagua		5.000	1730087351
+8	Port	Nuevitas		5.000	1730087353
+8	Port	Famagusta		5.000	1730087355
+8	Port	Cuxhaven	www.cuxport.de	5.000	1730087357
+8	Port	Eckernforde	www.stadtwerke-eckernfoerde.de	5.000	1730087359
+8	Port	Nordenham		5.000	1730087363
+8	Port	Papenburg		5.000	1730087365
+8	Port	Wismar	www.hafen-wismar.de	5.000	1730087367
+8	Port	Nyborg	www.adp-as.com	5.000	1730087369
+8	Port	Helsingor	www.helsingoerhavn.dk	5.000	1730087371
+8	Port	Odense		5.000	1730087373
+8	Port	Nyborg	www.nyborg.dk/Engelsk/Tourism/NyborgsHarbours	5.000	1730087375
+8	Port	Frederikshavn	www.frederikshavnhavn.dk	5.000	1730087377
+8	Port	Haderslev		5.000	1730087381
+8	Port	Horsens	www.horsenshavn.dk	5.000	1730087383
+8	Port	Kalundborg	www.portofkalundborg.dk	5.000	1730087385
+8	Port	Kolding	www.koldingport.dk	5.000	1730087387
+8	Port	Nakskov		5.000	1730087389
+8	Port	Nykobing Falster	www.guldborgsundhavne.dk	5.000	1730087391
+8	Port	Randers	www.randershavn.dk	5.000	1730087393
+8	Port	Rudkobing	www.langelandkommune.dk	5.000	1730087395
+8	Port	Svendborg		5.000	1730087399
+8	Port	Vejle	www.vejleport.dk	5.000	1730087401
+8	Port	Skagen	www.skagenhavn.dk	5.000	1730087403
+8	Port	Puerto Plata	www.apordom.gov.do	5.000	1730087405
+8	Port	Rio Haina	www.apordom.gov.do	5.000	1730087407
+8	Port	Mostaganem		5.000	1730087409
+8	Port	Damietta	www.dam-port.com	5.000	1730087411
+8	Port	Safaga	www.mts.gov.eg	5.000	1730087413
+8	Port	Algeciras	www.apba.es	5.000	1730087417
+8	Port	Aviles	www.avilesport.com	5.000	1730087419
+8	Port	Ferrol	www.apfsc.com	5.000	1730087421
+8	Port	Huelva	www.puertohuelva.com	5.000	1730087423
+8	Port	Pasajes	www.puertopasajes.net	5.000	1730087425
+8	Port	Rota		5.000	1730087427
+8	Port	Cadiz	www.puertocadiz.com	5.000	1730087429
+8	Port	Kotka	www.portofkotka.fi	5.000	1730087431
+8	Port	Veitsiluoto		5.000	1730087435
+8	Port	Arcachon	www.arcachon.com	5.000	1730087437
+8	Port	Deauville		5.000	1730087439
+8	Port	Fecamp	www.fecamp.cci.fr	5.000	1730087441
+8	Port	La Pallice	www.larochelle.port.fr	5.000	1730087443
+8	Port	Saint-Malo	www.saint-malo.cci.fr	5.000	1730087445
+8	Port	Sete	www.sete.port.fr	5.000	1730087447
+8	Port	Greenock	www.clydeport.co.uk	5.000	1730087449
+8	Port	Poole	www.phc.co.uk	5.000	1730087453
+8	Port	Falmouth	www.falmouthport.co.uk	5.000	1730087455
+8	Port	Leith	www.forthports.co.uk	5.000	1730087457
+8	Port	Montrose	www.montroseport.co.uk	5.000	1730087459
+8	Port	Newport	www.abports.co.uk/custinfo/ports/newport.htm	5.000	1730087461
+8	Port	Sunderland	www.portofsunderland.org.uk	5.000	1730087463
+8	Port	Teesport	www.pdports.co.uk	5.000	1730087465
+8	Port	Poti	www.potiseaport.com	5.000	1730087467
+8	Port	Piraeus		5.000	1730087471
+8	Port	Piraeus	www.olp.gr	5.000	1730087473
+8	Port	Piraeus	www.medmarinas.com	5.000	1730087475
+8	Port	Saint George's	www.grenadacruiseport.com	5.000	1730087477
+8	Port	Cayenne	www.guyane.cci.fr	5.000	1730087479
+8	Port	Bakar		5.000	1730087481
+8	Port	Rovinj		5.000	1730087483
+8	Port	Sibenik	www.portauthority-sibenik.hr	5.000	1730087485
+8	Port	Gonaives	www.apn.gouv.ht	5.000	1730087489
+8	Port	Sorong		5.000	1730087491
+8	Port	Alleppey		5.000	1730087493
+8	Port	Kakinada	www.kakinadaseaports.in	5.000	1730087495
+8	Port	Tuticorin	tuticorinport.gov.in	5.000	1730087497
+8	Port	Sligo		5.000	1730087499
+8	Port	Licata		5.000	1730087501
+8	Port	Alghero		5.000	1730087503
+8	Port	Bagnoli		5.000	1730087507
+8	Port	Barletta		5.000	1730087509
+8	Port	Brindisi	www.porto.br.it	5.000	1730087511
+8	Port	Crotone		5.000	1730087513
+8	Port	Gallipoli		5.000	1730087515
+8	Port	Imperia		5.000	1730087517
+8	Port	La Maddalena		5.000	1730087519
+8	Port	La Spezia	www.portolaspezia.it	5.000	1730087521
+8	Port	Marsala		5.000	1730087525
+8	Port	Messina		5.000	1730087527
+8	Port	Molfetta		5.000	1730087529
+8	Port	Monfalcone	www.porto.monfalcone.gorizia.it	5.000	1730087531
+8	Port	Monopoli		5.000	1730087533
+8	Port	Pesaro		5.000	1730087535
+8	Port	Porto Torres		5.000	1730087537
+8	Port	Ravenna	www.port.ravenna.it	5.000	1730087539
+8	Port	Siracusa		5.000	1730087543
+8	Port	Taranto	www.port.taranto.it	5.000	1730087545
+8	Port	Torre Annunziata		5.000	1730087547
+8	Port	Omura	www.city.omura.nagasaki.jp	5.000	1730087549
+8	Port	Amagasaki		5.000	1730087551
+8	Port	Fushiki		5.000	1730087553
+8	Port	Imabari		5.000	1730087555
+8	Port	Iwakuni		5.000	1730087557
+8	Port	Kainan		5.000	1730087561
+8	Port	Kanazawa	www.pref.ishikawa.jp	5.000	1730087563
+8	Port	Kawasaki	www.city.kawasaki.jp/58/58yuuti/home/etop.html	5.000	1730087565
+8	Port	Kokura	www.kitaqport.or.jp	5.000	1730087567
+8	Port	Maizuru	www.port.maizuru.kyoto.jp	5.000	1730087569
+8	Port	Matsusaka	www.info.city.tsu.mie.jp	5.000	1730087571
+8	Port	Miyazu		5.000	1730087573
+8	Port	Muroran		5.000	1730087575
+8	Port	Niigata	www.pref.niigata.lg.jp/kowanshinko/1208883684365.html	5.000	1730087579
+8	Port	Saganoseki		5.000	1730087581
+8	Port	Sasebo	www.city.sasebo.nagasaki.jp	5.000	1730087583
+8	Port	Shimizu	www.portofshimizu.com	5.000	1730087585
+8	Port	Shimotsu		5.000	1730087587
+8	Port	Wakayama		5.000	1730087589
+8	Port	Yokosuka	www.city.yokosuka.kanagawa.jp/minato	5.000	1730087591
+8	Port	Galle	www.slpa.lk	5.000	1730087593
+8	Port	Ventspils	www.portofventspils.lv	5.000	1730087597
+8	Port	Frontera		5.000	1730087599
+8	Port	Minatitlan		5.000	1730087601
+8	Port	Pajaritos		5.000	1730087603
+8	Port	Santa Rosalia	www.bajaport.com	5.000	1730087605
+8	Port	Progreso	www.puertosyucatan.com	5.000	1730087607
+8	Port	Tuxpan	www.puerto-de-tuxpan.com.mx	5.000	1730087609
+8	Port	Kemaman	www.portsworld.com/Ports/kemamanport.htm	5.000	1730087611
+8	Port	Den Helder	www.havendenhelder.nl	5.000	1730087615
+8	Port	Dordrecht		5.000	1730087617
+8	Port	Delfzijl	www.groningen-seaports.com	5.000	1730087619
+8	Port	Arendal		5.000	1730087621
+8	Port	Drammen	www.drammenhavn.no	5.000	1730087623
+8	Port	Halden		5.000	1730087625
+8	Port	Harstad		5.000	1730087627
+8	Port	Larvik	www.larvikhavn.vf.no	5.000	1730087629
+8	Port	Moss	www.moss-havn.no	5.000	1730087633
+8	Port	Sandefjord		5.000	1730087635
+8	Port	Tonsberg		5.000	1730087637
+8	Port	Lyttelton	www.lpc.co.nz	5.000	1730087639
+8	Port	Qalhat		5.000	1730087641
+8	Port	Sohar	portofsohar.com	5.000	1730087643
+8	Port	Balboa	www.ppc.com.pa	5.000	1730087645
+8	Port	Cristobal	www.ppc.com.pa	5.000	1730087647
+8	Port	Pedregal	www.cocatram.org.ni/puertosca/pto_pedregal_panama.html	5.000	1730087651
+8	Port	Callao	www.enapu.com.pe	5.000	1730087653
+8	Port	Matarani	www.ultramarnetwork.com/TextosPeru/Marc-024.html	5.000	1730087655
+8	Port	Swinoujscie	www.phs.com.pl	5.000	1730087657
+8	Port	Leixoes	www.apdl.pt	5.000	1730087659
+8	Port	Setubal	www.portodesetubal.pt	5.000	1730087661
+8	Port	Aveiro	www.portodeaveiro.pt	5.000	1730087663
+8	Port	Viana do Castelo	www.ipnorte.pt	5.000	1730087665
+8	Port	Galati	apdm.galati.ro	5.000	1730087669
+8	Port	Nakhodka	www.port-livadia.ru	5.000	1730087671
+8	Port	Kandalaksha		5.000	1730087673
+8	Port	Kholmsk		5.000	1730087675
+8	Port	Korsakov		5.000	1730087677
+8	Port	Kronshtadt		5.000	1730087679
+8	Port	Nakhodka	www.ncsp.ru	5.000	1730087681
+8	Port	Novorossiysk	www.nle.ru	5.000	1730087683
+8	Port	Tuapse	www.tuapseport.ru	5.000	1730087687
+8	Port	Jubail	www.ports.gov.sa	5.000	1730087689
+8	Port	Jubail	www.ports.gov.sa	5.000	1730087691
+8	Port	Ras al Khafji		5.000	1730087693
+8	Port	Falkenberg	www.falkenbergs-terminal.se	5.000	1730087695
+8	Port	Ahus	www.ahushamn.se	5.000	1730087697
+8	Port	Harnosand	www.harnosand.se	5.000	1730087699
+8	Port	Hoganas		5.000	1730087701
+8	Port	Karlshamn	www.karlshamnshamn.se	5.000	1730087705
+8	Port	Karlskrona	www.karlskrona.se/hamn	5.000	1730087707
+8	Port	Nynashamn	www.stoports.com	5.000	1730087709
+8	Port	Oskarshamn	www.port.oskarshamn.se	5.000	1730087711
+8	Port	Oxelosund	www.oxhamn.se	5.000	1730087713
+8	Port	Pitea	www.bottenvikens-stuveri.se	5.000	1730087715
+8	Port	Sodertalje	www.soeport.se	5.000	1730087717
+8	Port	Trelleborg	www.trelleborgshamn.se	5.000	1730087719
+8	Port	Uddevalla	www.uddevalla-hamn.se	5.000	1730087723
+8	Port	Ystad	www.ystad.se	5.000	1730087725
+8	Port	Bangkok	www.bkp.port.co.th	5.000	1730087727
+8	Port	Laem Chabang	www.port.co.th	5.000	1730087729
+8	Port	Sriracha	www.srirachaport.com	5.000	1730087731
+8	Port	Point Lisas	www.plipdeco.com	5.000	1730087733
+8	Port	Mersin	www.tcdd.gov.tr	5.000	1730087735
+8	Port	Berdyansk	www.ukrport.org.ua	5.000	1730087737
+8	Port	Kerch	www.ukrport.org.ua	5.000	1730087741
+8	Port	Richmond	www.ci.richmond.ca.us/index.asp?NID=102	5.000	1730087743
+8	Port	Wilmington	www.portofwilmingtonde.com	5.000	1730087745
+8	Port	Quincy	www.forerivershipyard.com	5.000	1730087747
+8	Port	Nawiliwili	www.state.hi.us/dot/harbors	5.000	1730087749
+8	Port	Monterey	www.monterey.org/harbor	5.000	1730087751
+8	Port	Wilmington	www.ncports.com	5.000	1730087753
+8	Port	Gloucester City	www.holtoversight.com	5.000	1730087755
+8	Port	Bayonne	www.bayonnenj.org	5.000	1730087759
+8	Port	Baltimore	www.mpa.state.md.us	5.000	1730087761
+8	Port	Jacksonville	www.jaxport.com	5.000	1730087763
+8	Port	Newport News	www.vaports.com	5.000	1730087765
+8	Port	Port Arthur	www.portofportarthur.com	5.000	1730087767
+8	Port	Portsmouth	www.vaports.com	5.000	1730087769
+8	Port	Wilmington	www.ncports.com	5.000	1730087771
+8	Port	Port Arthur	www.portofportarthur.com	5.000	1730087773
+8	Port	Alexandria		5.000	1730087777
+8	Port	Newport News	www.vaports.com	5.000	1730087779
+8	Port	Brownsville	www.portofbrownsville.org	5.000	1730087781
+8	Port	Vancouver	www.portvanusa.com	5.000	1730087783
+8	Port	Guanta	www.puertodeguanta.gob.ve	5.000	1730087785
+8	Port	Keelung		5.000	1730087787
+8	Port	Arrecife		5.000	1730087789
+8	Port	St Thomas		5.000	1730087791
+8	Port	Basseterre		5.000	1730087795
+8	Port	New Orleans		5.000	1730087797
+8	Port	Freeport		5.000	1730087799
+8	Port	Trenton		5.000	1730087801
+8	Port	Goderich		5.000	1730087803
+8	Port	Midland		5.000	1730087805
+8	Port	St Joseph		5.000	1730087807
+8	Port	Racine		5.000	1730087809
+8	Port	Menominee		5.000	1730087813
+8	Port	Escanaba		5.000	1730087815
+8	Port	Sacramento		5.000	1730087817
+8	Port	Great Yarmouth		5.000	1730087819
+8	Port	Dundee		5.000	1730087821
+8	Port	Portmahomack Harbor		5.000	1730087823
+8	Port	Wick		5.000	1730087825
+8	Port	Oban		5.000	1730087827
+8	Port	Douglas		5.000	1730087831
+8	Port	Londonderry		5.000	1730087833
+8	Port	Silloth		5.000	1730087835
+7	Port	Ambriz		10.000	1730087837
+7	Port	Cabinda		10.000	1730087839
+7	Port	Soyo	www.otal.com/angola	10.000	1730087841
+7	Port	Durres		10.000	1730087843
+7	Port	Curacao	www.curports.com	10.000	1730087845
+7	Port	Al Fujayrah	www.fujairahport.ae	10.000	1730087849
+7	Port	Caleta Olivia		10.000	1730087851
+7	Port	Puerto Deseado	www.scruz.gov.ar/puertos	10.000	1730087853
+7	Port	Rio Gallegos	www.scruz.gov.ar/puertos	10.000	1730087855
+7	Port	Rio Grande		10.000	1730087857
+7	Port	San Julian	www.scruz.gov.ar/puertos	10.000	1730087859
+7	Port	Coffs Harbour		10.000	1730087861
+7	Port	Esperance	www.esperanceport.com.au	10.000	1730087863
+7	Port	Port Augusta		10.000	1730087867
+7	Port	Bowen		10.000	1730087869
+7	Port	Bundaberg	www.portofbundaberg.com.au	10.000	1730087871
+7	Port	Burketown	www.cairnsports.com.au	10.000	1730087873
+7	Port	Carnarvon		10.000	1730087875
+7	Port	Cooktown	www.cairnsports.com.au	10.000	1730087877
+7	Port	Derby		10.000	1730087879
+7	Port	Eden	www.eden.nsw.gov.au	10.000	1730087881
+7	Port	George Town		10.000	1730087885
+7	Port	Geraldton	www.gpa.wa.gov.au	10.000	1730087887
+7	Port	Karumba	www.cairnsports.com.au	10.000	1730087889
+7	Port	Kingscote		10.000	1730087891
+7	Port	Maryborough	www.nqbp.com.au	10.000	1730087893
+7	Port	Strahan	www.tasports.com.au	10.000	1730087895
+7	Port	Mongla	www.monglaport.com.bd	10.000	1730087897
+7	Port	Aracaju	www.ibritto.com.br	10.000	1730087899
+7	Port	Fortaleza	www.docasdoceara.com.br	10.000	1730087903
+7	Port	Macapa		10.000	1730087905
+7	Port	Navegantes	www.portonave.com.br	10.000	1730087907
+7	Port	Pelotas		10.000	1730087909
+7	Port	Campbell River		10.000	1730087911
+7	Port	Goose Bay		10.000	1730087913
+7	Port	Masset		10.000	1730087915
+7	Port	Matane		10.000	1730087917
+7	Port	Nanisivik		10.000	1730087921
+7	Port	New Richmond		10.000	1730087923
+7	Port	Port Hardy		10.000	1730087925
+7	Port	Port Hawkesbury	www.straitsuperport.com	10.000	1730087927
+7	Port	Squamish	www.sqterminals.com	10.000	1730087929
+7	Port	Stephenville	www.portharmonauthority.ca	10.000	1730087931
+7	Port	Stewart	www.stewart-hyder.com	10.000	1730087933
+7	Port	Tahsis		10.000	1730087935
+7	Port	Sandspit		10.000	1730087939
+7	Port	Tuktoyaktuk		10.000	1730087941
+7	Port	Ancud		10.000	1730087943
+7	Port	Castro		10.000	1730087945
+7	Port	Chanaral		10.000	1730087947
+7	Port	Puerto Natales		10.000	1730087949
+7	Port	Taltal		10.000	1730087951
+7	Port	Guangzhou		10.000	1730087953
+7	Port	Jiangyin		10.000	1730087957
+7	Port	Lianyungang	www.lygport.com.cn	10.000	1730087959
+7	Port	Sanya		10.000	1730087961
+7	Port	Zhanjiang	www.zjport.com	10.000	1730087963
+7	Port	Zhoushan	www.zsport.com.cn	10.000	1730087965
+7	Port	San-Pedro		10.000	1730087967
+7	Port	Cartagena	www.sprc.com.co	10.000	1730087969
+7	Port	Tolu	www.navescolombia.com	10.000	1730087971
+7	Port	Tumaco	www.navescolombia.com	10.000	1730087975
+7	Port	Turbo	www.navescolombia.com	10.000	1730087977
+7	Port	Baracoa		10.000	1730087979
+7	Port	Nicaro		10.000	1730087981
+7	Port	Nueva Gerona		10.000	1730087983
+7	Port	Helgoland	www.helgoland.de	10.000	1730087985
+7	Port	Travemunde		10.000	1730087987
+7	Port	Thisted		10.000	1730087989
+7	Port	Manta	www.apmanta.gov.ec	10.000	1730087993
+7	Port	Esmeraldas	www.puertoesmeraldas.gov.ec	10.000	1730087995
+7	Port	Corralejo		10.000	1730087997
+7	Port	Ceuta	www.puertodeceuta.com	10.000	1730087999
+7	Port	Melilla	www.puertodemelilla.es	10.000	1730088001
+7	Port	San Sebastian de la Gomera		10.000	1730088003
+7	Port	Santa Cruz de La Palma		10.000	1730088005
+7	Port	Parnu	www.transcom.ee	10.000	1730088007
+7	Port	Kuopio		10.000	1730088011
+7	Port	Joensuu	www.jns.fi	10.000	1730088013
+7	Port	Varkaus		10.000	1730088015
+7	Port	Savusavu	www.fijiports.com.fj	10.000	1730088017
+7	Port	Cherbourg	www.ville-cherbourg.fr/fr/ville_maritime/port_de_plaisance/	10.000	1730088019
+7	Port	Caen	www.caen.port.fr	10.000	1730088021
+7	Port	Calvi		10.000	1730088023
+7	Port	Propriano	www.corse-du-sud.cci.fr	10.000	1730088025
+7	Port	Quimper		10.000	1730088029
+7	Port	Vannes		10.000	1730088031
+7	Port	Yap		10.000	1730088033
+7	Port	Bristol	www.bristolport.co.uk	10.000	1730088035
+7	Port	Hull	www.abports.co.uk/custinfo/ports/hull.htm	10.000	1730088037
+7	Port	Newcastle upon Tyne		10.000	1730088039
+7	Port	Tyne	www.portoftyne.com	10.000	1730088041
+7	Port	Rochester	www.thamesport.co.uk	10.000	1730088043
+7	Port	Tema	www.ghanaports.gov.gh	10.000	1730088047
+7	Port	Alexandroupolis		10.000	1730088049
+7	Port	Kos		10.000	1730088051
+7	Port	Paros		10.000	1730088053
+7	Port	Samos		10.000	1730088055
+7	Port	Nanortalik	www.ral.gl	10.000	1730088057
+7	Port	Qaanaaq		10.000	1730088059
+7	Port	New Amsterdam	www.gnsc.com	10.000	1730088061
+7	Port	La Ceiba	www.enp.hn	10.000	1730088065
+7	Port	Tela	www.enp.hn	10.000	1730088067
+7	Port	Mali Losinj		10.000	1730088069
+7	Port	Jacmel	www.apn.gouv.ht	10.000	1730088071
+7	Port	Jeremie	www.apn.gouv.ht	10.000	1730088073
+7	Port	Sorong		10.000	1730088075
+7	Port	Lhokseumawe	www.inaport1.co.id	10.000	1730088077
+7	Port	Nunukan		10.000	1730088079
+7	Port	Panjang	portal.inaport2.co.id	10.000	1730088083
+7	Port	Tanjung Priok	www.priokport.co.id	10.000	1730088085
+7	Port	Mangalore	www.newmangalore-port.com	10.000	1730088087
+7	Port	Porbandar	www.gmbports.org	10.000	1730088089
+7	Port	Ratnagiri		10.000	1730088091
+7	Port	Bantry	bantrybayport.com	10.000	1730088093
+7	Port	Wexford		10.000	1730088095
+7	Port	Khorramshahr	www.khport.ir	10.000	1730088097
+7	Port	Djupivogur	www.djupivogur.is	10.000	1730088101
+7	Port	Faskrudsfjordur		10.000	1730088103
+7	Port	Raufarhofn	www.raufarhofn.is	10.000	1730088105
+7	Port	Pantelleria		10.000	1730088107
+7	Port	Catania	www.porto.catania.it	10.000	1730088109
+7	Port	Fiumicino		10.000	1730088111
+7	Port	Lampedusa		10.000	1730088113
+7	Port	Manfredonia		10.000	1730088115
+7	Port	Ocho Rios	www.portjam.com	10.000	1730088119
+7	Port	Port Antonio	www.portjam.com	10.000	1730088121
+7	Port	Nishinoomote	www.city.nishinoomote.kagoshima.jp	10.000	1730088123
+7	Port	Akita	www.city.akita.akita.jp/city/in/hb/port	10.000	1730088125
+7	Port	Hachinohe	www.pref.aomori.lg.jp/kowankuko/english/minato/hachinohe/hachinohe.htm	10.000	1730088127
+7	Port	Ishigaki		10.000	1730088129
+7	Port	Matsuyama		10.000	1730088131
+7	Port	Sakata	www.port-of-sakata.jp	10.000	1730088133
+7	Port	Takamatsu		10.000	1730088137
+7	Port	Wakkanai	www.city.wakkanai.hokkaido.jp	10.000	1730088139
+7	Port	Tottori	www.city.tottori.lg.jp	10.000	1730088141
+7	Port	Lamu	www.kpa.co.ke	10.000	1730088143
+7	Port	Gunsan	gunsan.mltm.go.kr/eng	10.000	1730088145
+7	Port	Pohang		10.000	1730088147
+7	Port	Samcheok	donghae.momaf.go.kr	10.000	1730088149
+7	Port	Sokcho	donghae.momaf.go.kr	10.000	1730088151
+7	Port	Ulsan	ulsan.mltm.go.kr	10.000	1730088155
+7	Port	Tripoli	www.tripoliport.com	10.000	1730088157
+7	Port	Buchanan	www.nationalportauthorityliberia.org	10.000	1730088159
+7	Port	Tripoli	www.lpclibya.com	10.000	1730088161
+7	Port	Agadir	www.marsamaroc.co.ma	10.000	1730088163
+7	Port	Al Hoceima	http://www.marsamaroc.co.ma	10.000	1730088165
+7	Port	Dakhla	www.marsamaroc.co.ma	10.000	1730088167
+7	Port	Antalaha		10.000	1730088169
+7	Port	Manakara		10.000	1730088173
+7	Port	Mananjary		10.000	1730088175
+7	Port	Morondava		10.000	1730088177
+7	Port	Toamasina		10.000	1730088179
+7	Port	Loreto		10.000	1730088181
+7	Port	Campeche	www.fis.com/campeche	10.000	1730088183
+7	Port	Cozumel	www.apiqroo.com.mx	10.000	1730088185
+7	Port	La Paz	www.bajaport.com	10.000	1730088187
+7	Port	Playa del Carmen	www.apiqroo.com.mx	10.000	1730088191
+7	Port	Puerto Penasco		10.000	1730088193
+7	Port	Puerto Vallarta	www.apivta.com	10.000	1730088195
+7	Port	Coatzacoalcos	www.apicoatza.com	10.000	1730088197
+7	Port	Bassein	www.mot.gov.mm/mpa/index.html	10.000	1730088199
+7	Port	Nacala	www.cfmnet.co.mz	10.000	1730088201
+7	Port	Pemba	www.cfmnet.co.mz	10.000	1730088203
+7	Port	Quelimane	www.cfmnet.co.mz	10.000	1730088205
+7	Port	Port Louis	www.mauport.com	10.000	1730088209
+7	Port	Malacca	www.portsworld.com/Ports/mallacaport.htm	10.000	1730088211
+7	Port	Port Dickson	www.portsworld.com/Ports/portdickson.htm	10.000	1730088213
+7	Port	Walvis Bay	www.namport.com	10.000	1730088215
+7	Port	Calabar	www.nigerianports.org	10.000	1730088217
+7	Port	Groningen		10.000	1730088219
+7	Port	Alta	www.altahavn.no	10.000	1730088221
+7	Port	Andenes		10.000	1730088223
+7	Port	Bronnoysund	www.bronnoyhavn.com	10.000	1730088227
+7	Port	Farsund		10.000	1730088229
+7	Port	Floro		10.000	1730088231
+7	Port	Kristiansand	www.kristiansandhavn.no	10.000	1730088233
+7	Port	Namsos	www.namsos.kommune.no	10.000	1730088235
+7	Port	Rorvik		10.000	1730088237
+7	Port	Sandnessjoen		10.000	1730088239
+7	Port	Stokmarknes	www.hadselhavnevesen.no	10.000	1730088241
+7	Port	Stord		10.000	1730088245
+7	Port	Picton	portmarlborough.co.nz	10.000	1730088247
+7	Port	Dunedin		10.000	1730088249
+7	Port	Salalah	www.salalahport.com	10.000	1730088251
+7	Port	Gwadar		10.000	1730088253
+7	Port	Bocas del Toro	www.cocatram.org.ni/puertosca/pto_bocasdeltoro_panama.html	10.000	1730088255
+7	Port	La Palma	www.cocatram.org.ni/puertosca/pto_lapalma_panama.html	10.000	1730088257
+7	Port	Chimbote	www.enapu.com.pe	10.000	1730088259
+7	Port	Ilo	www.enapu.com.pe	10.000	1730088263
+7	Port	Mollendo		10.000	1730088265
+7	Port	Pisco		10.000	1730088267
+7	Port	Dumaguete	www.ppa.com.ph	10.000	1730088269
+7	Port	General Santos	www.ppa.com.ph	10.000	1730088271
+7	Port	Buka	www.pngports.com.pg	10.000	1730088273
+7	Port	Daru	www.pngports.com.pg	10.000	1730088275
+7	Port	Lae	www.pngports.com.pg	10.000	1730088277
+7	Port	Madang	www.pngports.com.pg	10.000	1730088281
+7	Port	Gdansk	www.portgdansk.pl	10.000	1730088283
+7	Port	Gdynia	www.port.gdynia.pl	10.000	1730088285
+7	Port	Aguadilla		10.000	1730088287
+7	Port	Arecibo	www.prpa.gobierno.pr	10.000	1730088289
+7	Port	Mayaguez	www.prpa.gobierno.pr	10.000	1730088291
+7	Port	Faro		10.000	1730088293
+7	Port	Bora-Bora	www.portdepapeete.pf	10.000	1730088295
+7	Port	Tulcea	apdm.galati.ro	10.000	1730088299
+7	Port	Amderma		10.000	1730088301
+7	Port	Anadyr	morport.chukotnet.ru	10.000	1730088303
+7	Port	Pevek		10.000	1730088305
+7	Port	Kaolack	www.portdakar.sn	10.000	1730088307
+7	Port	Ziguinchor	www.portdakar.sn	10.000	1730088309
+7	Port	Longyearbyen		10.000	1730088311
+7	Port	Gizo		10.000	1730088313
+7	Port	Viru Harbour		10.000	1730088317
+7	Port	Kismayu		10.000	1730088319
+7	Port	Karlstad	www.vanerhamn.se	10.000	1730088321
+7	Port	Lidkoping	www.vanerhamn.se	10.000	1730088323
+7	Port	Skelleftea		10.000	1730088325
+7	Port	Umea	www.umeahamn.se	10.000	1730088327
+7	Port	Providenciales	www.turksandcaicosislands.gov.tc	10.000	1730088329
+7	Port	Songkhla	www.md.go.th	10.000	1730088331
+7	Port	Bandirma	www.tcdd.gov.tr	10.000	1730088335
+7	Port	Samsun	www.tcdd.gov.tr	10.000	1730088337
+7	Port	Sinop		10.000	1730088339
+7	Port	Trabzon		10.000	1730088341
+7	Port	Sevastopol	ukrport.org.ua	10.000	1730088343
+7	Port	Skagway		10.000	1730088345
+7	Port	Valdez	www.ci.valdez.ak.us/port	10.000	1730088347
+7	Port	Apalachicola		10.000	1730088349
+7	Port	Annapolis	www.portannapolis.com	10.000	1730088353
+7	Port	Cambridge	www.ci.cambridge.md.us	10.000	1730088355
+7	Port	Portland	www.portofportlandor.com	10.000	1730088357
+7	Port	Bremerton	www.portofbremerton.org	10.000	1730088359
+7	Port	Rockland	www.ci.rockland.me.us	10.000	1730088361
+7	Port	Santa Cruz	www.santacruzharbor.org	10.000	1730088363
+7	Port	Chesapeake		10.000	1730088365
+7	Port	Cumana	www.selinger.com/cumana.htm	10.000	1730088367
+7	Port	Hai Phong	www.haiphongport.com.vn	10.000	1730088371
+7	Port	Corfu		10.000	1730088373
+7	Port	Alexandria		10.000	1730088375
+7	Port	Tangier		10.000	1730088377
+7	Port	Hamilton		10.000	1730088379
+7	Port	Windsor		10.000	1730088381
+7	Port	Rouge River		10.000	1730088383
+7	Port	Owen Sound		10.000	1730088385
+7	Port	Sault Ste Marie		10.000	1730088389
+7	Port	Saginaw		10.000	1730088391
+7	Port	Cheboygan		10.000	1730088393
+7	Port	Sault Ste Marie		10.000	1730088395
+7	Port	Muskegon		10.000	1730088397
+7	Port	Gary		10.000	1730088399
+7	Port	Waukegan		10.000	1730088401
+7	Port	Houghton		10.000	1730088403
+7	Port	Wrangell		10.000	1730088407
+7	Port	Petersburg		10.000	1730088409
+7	Port	Kemi		10.000	1730088411
+7	Port	Vaasa		10.000	1730088413
+7	Port	Turku		10.000	1730088415
+7	Port	Liepaja		10.000	1730088417
+7	Port	Europoort		10.000	1730088419
+7	Port	Stornoway Harbor		10.000	1730088421
+7	Port	Lisboa		10.000	1730088425
+7	Port	Bonanza		10.000	1730088427
+7	Port	Ibiza		10.000	1730088429
+7	Port	Rostov-Na-Donu		10.000	1730088431
+7	Port	Tel Aviv Yafo		10.000	1730088433
+7	Port	Tunis		10.000	1730088435
+7	Port	Bejaia		10.000	1730088437
+7	Port	Alger		10.000	1730088439
+7	Port	St Louis		10.000	1730088443
+7	Port	Tin Can Island		10.000	1730088445
+7	Port	Mocambique		10.000	1730088447
+7	Port	Assab		10.000	1730088449
+7	Port	Massawa		10.000	1730088451
+7	Port	Elat		10.000	1730088453
+7	Port	Al Kuwayt		10.000	1730088455
+7	Port	Bombay		10.000	1730088457
+7	Port	Jawaharlal Nehru Port		10.000	1730088461
+7	Port	Cochin		10.000	1730088463
+7	Port	Madras		10.000	1730088465
+7	Port	Calcutta		10.000	1730088467
+7	Port	Phuket		10.000	1730088469
+7	Port	Pulau Pinang		10.000	1730088471
+7	Port	Belawan		10.000	1730088473
+7	Port	Semarang		10.000	1730088475
+7	Port	Kupang		10.000	1730088479
+7	Port	Kuching		10.000	1730088481
+7	Port	Miri		10.000	1730088483
+7	Port	Kota Kinabalu		10.000	1730088485
+7	Port	Pelabuhan Sandakan		10.000	1730088487
+7	Port	Ujungpandang		10.000	1730088489
+7	Port	Davao		10.000	1730088491
+7	Port	Nanjing		10.000	1730088493
+7	Port	Hankow		10.000	1730088497
+7	Port	Chang Sha		10.000	1730088499
+7	Port	Khabarovsk		10.000	1730088501
+7	Port	Petropavlovsk		10.000	1730088503
+6	Port	Namibe	www.otal.com/angola	20.000	1730088505
+6	Port	Bahia Blanca	www.puertobahiablanca.com	20.000	1730088507
+6	Port	La Plata	www.laplataport.com.ar	20.000	1730088509
+6	Port	Ushuaia	www.puertoushuaia.gov.ar	20.000	1730088511
+6	Port	Puerto Madryn	www.appm.com.ar	20.000	1730088515
+6	Port	Pago Pago	americansamoa.gov	20.000	1730088517
+6	Port	Mackay	www.nqbp.com.au	20.000	1730088519
+6	Port	Port Lincoln	www.flindersports.com.au	20.000	1730088521
+6	Port	Port Pirie	www.flindersports.com.au	20.000	1730088523
+6	Port	Albany	www.albanyport.com.au	20.000	1730088525
+6	Port	Barrow Island		20.000	1730088527
+6	Port	Bunbury	www.byport.com.au	20.000	1730088529
+6	Port	Burnie	www.tasports.com.au	20.000	1730088533
+6	Port	Geelong	www.geelongport.com.au	20.000	1730088535
+6	Port	Gladstone	www.gpcl.com.au	20.000	1730088537
+6	Port	Newcastle	www.newportcorp.com.au	20.000	1730088539
+6	Port	Port Kembla	www.kemblaport.com.au	20.000	1730088541
+6	Port	Portland	www.portofportland.com.au	20.000	1730088543
+6	Port	Thursday Island	www.cairnsports.com.au	20.000	1730088545
+6	Port	Townsville	www.townsville-port.com.au	20.000	1730088547
+6	Port	Weipa	www.nqbp.com.au	20.000	1730088551
+6	Port	Whyalla	www.onesteel.com	20.000	1730088553
+6	Port	Wyndham		20.000	1730088555
+6	Port	Brussel (Bruxelles)	www.portdebruxelles.irisnet.be	20.000	1730088557
+6	Port	Gent (Ghent)	www.havengent.be	20.000	1730088559
+6	Port	Ilheus	www.codeba.com.br	20.000	1730088561
+6	Port	Maceio	www.portodemaceio.com.br	20.000	1730088563
+6	Port	Natal	www.codern.com.br	20.000	1730088565
+6	Port	Rio Grande	www.portoriogrande.com.br	20.000	1730088569
+6	Port	Vitoria	www.portodevitoria.com.br	20.000	1730088571
+6	Port	Ocean Falls		20.000	1730088573
+6	Port	Argentia	www.argentia.ca/port.html	20.000	1730088575
+6	Port	Bathurst		20.000	1730088577
+6	Port	Gaspe	www.tc.gc.ca/quebec/en/port/gaspe.htm	20.000	1730088579
+6	Port	Port Alberni	www.portalberniportauthority.ca	20.000	1730088581
+6	Port	Powell River	www.powellriver.ca	20.000	1730088583
+6	Port	Sept-Iles	www.portsi.com	20.000	1730088587
+6	Port	Sydney	www.portofsydney.ca	20.000	1730088589
+6	Port	Trois-Rivieres (Three Rivers)	www.porttr.com	20.000	1730088591
+6	Port	Yarmouth	www.portofyarmouth.com	20.000	1730088593
+6	Port	Rimouski		20.000	1730088595
+6	Port	Riviere-du-Loup		20.000	1730088597
+6	Port	Saint-Anthony		20.000	1730088599
+6	Port	Summerside		20.000	1730088601
+6	Port	Arica	www.puertoarica.cl	20.000	1730088605
+6	Port	Tocopilla		20.000	1730088607
+6	Port	Beihai		20.000	1730088609
+6	Port	Jiangmen	www.jmct.com.cn	20.000	1730088611
+6	Port	Wenzhou	www.wzport.com	20.000	1730088613
+6	Port	Yantai	www.yantaiport.com.cn	20.000	1730088615
+6	Port	Zhuhai	www.zhuhai-port.com	20.000	1730088617
+6	Port	Santa Marta	www.spsm.com.co	20.000	1730088619
+6	Port	Buenaventura	www.puertobuenaventura.com	20.000	1730088623
+6	Port	Praia	www.enapor.cv	20.000	1730088625
+6	Port	Golfito		20.000	1730088627
+6	Port	Cienfuegos		20.000	1730088629
+6	Port	Manzanillo		20.000	1730088631
+6	Port	Matanzas		20.000	1730088633
+6	Port	Santiago de Cuba		20.000	1730088635
+6	Port	Emden	www.seaport-emden.de	20.000	1730088637
+6	Port	Flensburg	www.flensburg-tourismus.de	20.000	1730088641
+6	Port	Wilhelmshaven	www.wilhelmshaven-port.de	20.000	1730088643
+6	Port	Esbjerg	www.port-of-esbjerg.dk	20.000	1730088645
+6	Port	Odense	www.odensehavn.dk	20.000	1730088647
+6	Port	Sonderborg	www.sonderborg-kommune.dk	20.000	1730088649
+6	Port	Ronne	www.roennehavn.dk	20.000	1730088651
+6	Port	Barahona	www.apordom.gov.do	20.000	1730088653
+6	Port	Cabo Rojo	www.apordom.gov.do	20.000	1730088655
+6	Port	Oran		20.000	1730088659
+6	Port	A Coruna	www.puertocoruna.com	20.000	1730088661
+6	Port	Almeria	www.apalmeriamotril.com	20.000	1730088663
+6	Port	Gijon	www.puertogijon.es	20.000	1730088665
+6	Port	San Sebastian		20.000	1730088667
+6	Port	Santander	www.puertosantander.es	20.000	1730088669
+6	Port	Tarragona	www.porttarragona.es	20.000	1730088671
+6	Port	Oulu	www.ouluport.com	20.000	1730088673
+6	Port	Bayonne	www.bayonne.cci.fr	20.000	1730088677
+6	Port	Boulogne-sur-Mer	www.portboulogne.com	20.000	1730088679
+6	Port	Brest	www.brest.port.fr	20.000	1730088681
+6	Port	Cannes	www.riviera-ports.com	20.000	1730088683
+6	Port	Cherbourg	www.port-cherbourg.com	20.000	1730088685
+6	Port	Dieppe		20.000	1730088687
+6	Port	Granville	www.granville.cci.fr	20.000	1730088689
+6	Port	La Rochelle	www.larochelle.port.fr	20.000	1730088691
+6	Port	Lorient	www.lorient.port.fr	20.000	1730088695
+6	Port	Morlaix		20.000	1730088697
+6	Port	Rochefort	www.rochefort.port.fr	20.000	1730088699
+6	Port	Toulon		20.000	1730088701
+6	Port	Owendo	www.ports-gabon.com	20.000	1730088703
+6	Port	Aberdeen	www.aberdeen-harbour.co.uk	20.000	1730088705
+6	Port	Liverpool	www.merseydocks.co.uk	20.000	1730088707
+6	Port	Plymouth	www.abports.co.uk/custinfo/ports/plym.htm	20.000	1730088709
+6	Port	Portsmouth	www.portsmouth-port.co.uk	20.000	1730088713
+6	Port	Batumi	www.batumiport.com	20.000	1730088715
+6	Port	Kavala		20.000	1730088717
+6	Port	Chios	www.chiosport.gr	20.000	1730088719
+6	Port	Kalamata		20.000	1730088721
+6	Port	Patras	www.patrasport.gr	20.000	1730088723
+6	Port	Volos	www.port-volos.gr	20.000	1730088725
+6	Port	Uummannaq	www.ral.gl	20.000	1730088727
+6	Port	Puerto Barrios	www.puertobarriosonline.com	20.000	1730088731
+6	Port	Pula	www.luckauprava-pula.hr	20.000	1730088733
+6	Port	Rijeka	www.portauthority.hr	20.000	1730088735
+6	Port	Split	www.portsplit.com	20.000	1730088737
+6	Port	Banjarmasin	www.pp3.co.id	20.000	1730088739
+6	Port	Tanjung Pandan	portal.inaport2.co.id	20.000	1730088741
+6	Port	Port Blair		20.000	1730088743
+6	Port	Kandla	www.kandlaport.com	20.000	1730088745
+6	Port	Pondicherry	port.pon.nic.in	20.000	1730088749
+6	Port	Cork	www.portofcork.ie	20.000	1730088751
+6	Port	Galway	www.galwayharbour.com	20.000	1730088753
+6	Port	Bushehr	www.pso.ir	20.000	1730088755
+6	Port	Ancona	www.autoritaportuale.ancona.it	20.000	1730088757
+6	Port	Bari	www.porto.bari.it	20.000	1730088759
+6	Port	Cagliari	www.porto.cagliari.it	20.000	1730088761
+6	Port	Olbia	www.olbiagolfoaranci.it	20.000	1730088763
+6	Port	Pescara		20.000	1730088767
+6	Port	Reggio Calabria		20.000	1730088769
+6	Port	Trapani		20.000	1730088771
+6	Port	Aomori	www.pref.aomori.lg.jp/kowankuko/english/minato/aomori/aomori.htm	20.000	1730088773
+6	Port	Hakodate	www.hakodate-port.jp	20.000	1730088775
+6	Port	Kagoshima	www.pref.kagoshima.jp/home/kowanka/cruise-net/english/01kagoshima	20.000	1730088777
+6	Port	Kochi	www.pref.kochi.lg.jp	20.000	1730088779
+6	Port	Kushiro	www.city.kushiro.hokkaido.jp	20.000	1730088781
+6	Port	Niihama		20.000	1730088785
+6	Port	Oita	www.pref.oita.jp/14300/faz/faz1/english/faz_en.html	20.000	1730088787
+6	Port	Shimonoseki	www.shimonoseki-port.com	20.000	1730088789
+6	Port	Tomakomai	www.jptmk.com	20.000	1730088791
+6	Port	Toyama		20.000	1730088793
+6	Port	Ube		20.000	1730088795
+6	Port	Malindi	www.kpa.co.ke	20.000	1730088797
+6	Port	Trincomalee	www.slpa.lk	20.000	1730088799
+6	Port	Klaipeda	www.portofklaipeda.lt	20.000	1730088803
+6	Port	Safi	www.sodep.co.ma	20.000	1730088805
+6	Port	Ensenada	www.puertoensenada.com.mx	20.000	1730088807
+6	Port	Guaymas	www.puertodeguaymas.com	20.000	1730088809
+6	Port	Manzanillo	www.puerto-de-manzanillo.com.mx	20.000	1730088811
+6	Port	Salina Cruz	www.apisal.com.mx	20.000	1730088813
+6	Port	Saipan	www.cpa.gov.mp	20.000	1730088815
+6	Port	Nouadhibou		20.000	1730088817
+6	Port	Luderitz	www.namport.com	20.000	1730088821
+6	Port	Bluefields		20.000	1730088823
+6	Port	Alesund	www.alesund.havn.no	20.000	1730088825
+6	Port	Batsfjord		20.000	1730088827
+6	Port	Bodo	www.bodohavn.no	20.000	1730088829
+6	Port	Hammerfest		20.000	1730088831
+6	Port	Haugesund	www.karmsund-havn.no	20.000	1730088833
+6	Port	Kirkenes		20.000	1730088835
+6	Port	Kristiansund	www.knhavn.no	20.000	1730088839
+6	Port	Mo i Rana	www.portofmoirana.no	20.000	1730088841
+6	Port	Molde	www.moldehavn.no	20.000	1730088843
+6	Port	Mosjoen		20.000	1730088845
+6	Port	Narvik	www.portofnarvik.com	20.000	1730088847
+6	Port	Stavanger	www.stavanger-havn.no	20.000	1730088849
+6	Port	Vadso		20.000	1730088851
+6	Port	Vardo		20.000	1730088853
+6	Port	New Plymouth	www.porttaranaki.co.nz	20.000	1730088857
+6	Port	Gisborne	www.eastland.co.nz	20.000	1730088859
+6	Port	Greymouth	www.greydc.govt.nz	20.000	1730088861
+6	Port	Napier	www.portofnapier.co.nz	20.000	1730088863
+6	Port	Tauranga	www.port-tauranga.co.nz	20.000	1730088865
+6	Port	Wanganui		20.000	1730088867
+6	Port	Westport	www.westportharbour.co.nz	20.000	1730088869
+6	Port	Whangarei	www.nrc.govt.nz	20.000	1730088871
+6	Port	Timaru	www.primeport.co.nz	20.000	1730088875
+6	Port	Talara	www.ultramarnetwork.com/TextosPeru/Marc-014.html	20.000	1730088877
+6	Port	Masbate	www.ppa.com.ph	20.000	1730088879
+6	Port	Subic Bay	www.sbma.com	20.000	1730088881
+6	Port	Alotau	www.pngports.com.pg	20.000	1730088883
+6	Port	Kavieng	www.pngports.com.pg	20.000	1730088885
+6	Port	Kieta	www.pngports.com.pg	20.000	1730088887
+6	Port	Rabaul	www.pngports.com.pg	20.000	1730088889
+6	Port	Vanimo	www.pngports.com.pg	20.000	1730088893
+6	Port	Ponce	www.puertodelasamericaspr.com	20.000	1730088895
+6	Port	Sines	www.portodesines.pt	20.000	1730088897
+6	Port	Horta		20.000	1730088899
+6	Port	Arkhangelsk	www.ascp.ru	20.000	1730088901
+6	Port	Murmansk		20.000	1730088903
+6	Port	Tiksi		20.000	1730088905
+6	Port	Jizan	www.ports.gov.sa	20.000	1730088907
+6	Port	Berbera		20.000	1730088911
+6	Port	Nieuw Nickerie		20.000	1730088913
+6	Port	Malmo	www.cmport.com	20.000	1730088915
+6	Port	Gavle	www.gavle.se	20.000	1730088917
+6	Port	Halmstad	www.halmstadharbour.se	20.000	1730088919
+6	Port	Helsingborg	www.port.helsingborg.se	20.000	1730088921
+6	Port	Hudiksvall		20.000	1730088923
+6	Port	Kalmar	www.kalmar.se/kalmarhamn	20.000	1730088925
+6	Port	Ornskoldsvik		20.000	1730088929
+6	Port	Ronneby		20.000	1730088931
+6	Port	Soderhamn	www.sshab.se	20.000	1730088933
+6	Port	Vastervik	www.osterstroms.com	20.000	1730088935
+6	Port	Visby	www.visbyport.com	20.000	1730088937
+6	Port	Tekirdag	www.akport.com.tr	20.000	1730088939
+6	Port	Tanga	www.tanzaniaports.com	20.000	1730088941
+6	Port	Kherson	www.ukrport.org.ua	20.000	1730088943
+6	Port	Colonia	www.anp.com.uy	20.000	1730088947
+6	Port	Cordova	www.cityofcordova.net	20.000	1730088949
+6	Port	Ketchikan	www.city.ketchikan.ak.us	20.000	1730088951
+6	Port	Bangor	www.bangormaine.gov/cs_inf_harbor.php	20.000	1730088953
+6	Port	Stockton	www.portofstockton.com	20.000	1730088955
+6	Port	Bridgeport	www.portofbridgeport.com	20.000	1730088957
+6	Port	New Haven	www.cityofnewhaven.com/PortAuthority	20.000	1730088959
+6	Port	Port Everglades	www.broward.org/port	20.000	1730088961
+6	Port	Savannah	www.gaports.com	20.000	1730088965
+6	Port	Portland	www.portofportlandmaine.org	20.000	1730088967
+6	Port	Gulfport	www.shipmspa.com	20.000	1730088969
+6	Port	Portsmouth	www.portofnh.org	20.000	1730088971
+6	Port	Newark	www.panynj.gov	20.000	1730088973
+6	Port	Astoria	www.portofastoria.com	20.000	1730088975
+6	Port	Port Everglades	www.broward.org/port	20.000	1730088977
+6	Port	Corpus Christi	www.portofcorpuschristi.com	20.000	1730088979
+6	Port	Pascagoula	www.portofpascagoula.com	20.000	1730088983
+6	Port	Tacoma	www.portoftacoma.com	20.000	1730088985
+6	Port	Beaumont	www.portofbeaumont.com	20.000	1730088987
+6	Port	Olympia	www.portolympia.com	20.000	1730088989
+6	Port	Port Angeles	www.portofpa.com	20.000	1730088991
+6	Port	Port Townsend	www.portofpt.com	20.000	1730088993
+6	Port	Puerto Cabello	www.ipapc.gov.ve	20.000	1730088995
+6	Port	Mukalla	www.portofaden.com	20.000	1730088997
+6	Port	East London	http://www.transnetnationalportsauthority.net	20.000	1730089001
+6	Port	Mossel Bay	www.transnetnationalportsauthority.net	20.000	1730089003
+6	Port	Richards Bay	www.transnetnationalportsauthority.net	20.000	1730089005
+6	Port	Erie		20.000	1730089007
+6	Port	Bay City		20.000	1730089009
+6	Port	Milwaukee		20.000	1730089011
+6	Port	Coos Bay		20.000	1730089013
+6	Port	Sitka		20.000	1730089015
+6	Port	Kodiak		20.000	1730089019
+5	Port	Lobito		30.000	1730089021
+5	Port	Abu Dhabi	www.portzayed.gov.ae	30.000	1730089023
+5	Port	Comodoro Rivadavia		30.000	1730089025
+5	Port	Mar del Plata	www.consejoportuario.com.ar	30.000	1730089027
+5	Port	Cairns	www.cairnsport.com.au	30.000	1730089029
+5	Port	Broome	www.broomeport.com	30.000	1730089031
+5	Port	Devonport	www.tasports.com.au	30.000	1730089033
+5	Port	Hobart	www.tasports.com.au	30.000	1730089037
+5	Port	Antwerpen	www.portofantwerp.be	30.000	1730089039
+5	Port	Varna	www.port-varna.bg	30.000	1730089041
+5	Port	Belize City		30.000	1730089043
+5	Port	Hamilton		30.000	1730089045
+5	Port	Belem	www.cdp.com.br	30.000	1730089047
+5	Port	Paranagua	www.portosdoparana.pr.gov.br	30.000	1730089049
+5	Port	Porto Alegre		30.000	1730089051
+5	Port	Recife	www.portodorecife.pe.gov.br	30.000	1730089055
+5	Port	Salvador	www.codeba.com.br	30.000	1730089057
+5	Port	Santos	www.portodesantos.com	30.000	1730089059
+5	Port	Charlottetown		30.000	1730089061
+5	Port	Halifax	www.portofhalifax.ca	30.000	1730089063
+5	Port	Nanaimo	www.npa.ca	30.000	1730089065
+5	Port	Quebec	www.portquebec.ca	30.000	1730089067
+5	Port	Victoria	www.victoriaharbour.org	30.000	1730089069
+5	Port	Prince Rupert	www.rupertport.com	30.000	1730089073
+5	Port	Saint-John	www.sjport.com	30.000	1730089075
+5	Port	Antofagasta	www.puertoantofagasta.cl	30.000	1730089077
+5	Port	Iquique	www.epi.cl	30.000	1730089079
+5	Port	Puerto Montt	www.empormontt.cl	30.000	1730089081
+5	Port	Haikou		30.000	1730089083
+5	Port	Ningbo	www.nbport.com.cn/wps/portal	30.000	1730089085
+5	Port	Xiamen	www.portxiamen.com.cn	30.000	1730089087
+5	Port	Abidjan	www.paa-ci.org	30.000	1730089091
+5	Port	Douala	www.otal.com/cameroon/index.htm	30.000	1730089093
+5	Port	Pointe Noire		30.000	1730089095
+5	Port	Barranquilla	www.spdelnorte.com	30.000	1730089097
+5	Port	Moroni		30.000	1730089099
+5	Port	Mariel		30.000	1730089101
+5	Port	Larnaca	www.cpa.gov.cy	30.000	1730089103
+5	Port	Limassol	www.cpa.gov.cy	30.000	1730089105
+5	Port	Bremen	www.bremen-ports.de	30.000	1730089109
+5	Port	Hamburg	www.hafen-hamburg.de	30.000	1730089111
+5	Port	Djibouti	www.dpworld-djiboutiport.com	30.000	1730089113
+5	Port	Aalborg	www.aalborghavn.dk	30.000	1730089115
+5	Port	Fredericia	www.adp-as.com	30.000	1730089117
+5	Port	Alicante	www.puertoalicante.com	30.000	1730089119
+5	Port	Bilbao	www.bilbaoport.es	30.000	1730089121
+5	Port	Valencia	www.valenciaport.com	30.000	1730089123
+5	Port	Fox Bay		30.000	1730089127
+5	Port	Ajaccio	www.corse-du-sud.cci.fr	30.000	1730089129
+5	Port	Bastia	www.port-de-bastia.net	30.000	1730089131
+5	Port	Bordeaux	www.bordeaux-port.fr	30.000	1730089133
+5	Port	Calais	www.calais-port.com	30.000	1730089135
+5	Port	Dunkerque	www.portdedunkerque.fr	30.000	1730089137
+5	Port	Honfleur	www.pays-auge.cci.fr/port/index.html	30.000	1730089139
+5	Port	Libreville	www.ports-gabon.com	30.000	1730089141
+5	Port	Port Gentil	www.ports-gabon.com	30.000	1730089145
+5	Port	Belfast	www.belfast-harbour.co.uk	30.000	1730089147
+5	Port	Dover	www.doverport.co.uk	30.000	1730089149
+5	Port	Inverness	www.invernessharbour.co.uk	30.000	1730089151
+5	Port	Takoradi	www.ghanaports.gov.gh	30.000	1730089153
+5	Port	Basse-Terre	www.port-guadeloupe.com	30.000	1730089155
+5	Port	Pointe-a-Pitre	www.port-guadeloupe.com	30.000	1730089157
+5	Port	Banjul	www.gambiaports.com	30.000	1730089159
+5	Port	Bata		30.000	1730089163
+5	Port	Iraklion	www.portheraklion.gr	30.000	1730089165
+5	Port	Thessaloniki	www.thpa.gr	30.000	1730089167
+5	Port	Cayenne	www.guyane.cci.fr	30.000	1730089169
+5	Port	Kourou		30.000	1730089171
+5	Port	Georgetown	www.gnsc.com	30.000	1730089173
+5	Port	Puerto Cortes	www.enp.hn	30.000	1730089175
+5	Port	Zadar	www.port-authority-zadar.hr	30.000	1730089177
+5	Port	Surabaya		30.000	1730089181
+5	Port	Manado		30.000	1730089183
+5	Port	Senipah	www.pertamina.com	30.000	1730089185
+5	Port	Bhavnagar	www.gmbports.org	30.000	1730089187
+5	Port	Visakhapatnam	www.vizagport.com	30.000	1730089189
+5	Port	Limerick	www.sfpc.ie	30.000	1730089191
+5	Port	Bandar Abbas		30.000	1730089193
+5	Port	Reykjavik	www.reykjavik.is	30.000	1730089195
+5	Port	Seydisfjordur		30.000	1730089199
+5	Port	Trieste	www.porto.trieste.it	30.000	1730089201
+5	Port	Hiroshima	www.pref.hiroshima.lg.jp	30.000	1730089203
+5	Port	Kobe	www.kptc.or.jp	30.000	1730089205
+5	Port	Nagasaki	www.doboku.pref.nagasaki.jp/~rinkai/kakukou/nagasaki.htm	30.000	1730089207
+5	Port	Otaru		30.000	1730089209
+5	Port	Tokyo	www.kouwan.metro.tokyo.jp	30.000	1730089211
+5	Port	Monrovia	www.nationalportauthorityliberia.org	30.000	1730089213
+5	Port	Colombo	www.slpa.lk	30.000	1730089217
+5	Port	Casablanca	www.marsamaroc.co.ma	30.000	1730089219
+5	Port	Monaco		30.000	1730089221
+5	Port	Acapulco	www.apiacapulcoport.com	30.000	1730089223
+5	Port	Mazatlan	www.apimazatlan.com.mx	30.000	1730089225
+5	Port	Tampico	www.puertodetampico.com.mx	30.000	1730089227
+5	Port	Beira	www.cfmnet.co.mz	30.000	1730089229
+5	Port	Maputo	www.portmaputo.com	30.000	1730089231
+5	Port	Nouakchott		30.000	1730089235
+5	Port	Plymouth	www.giu.gov.ms	30.000	1730089237
+5	Port	Fort-de-France	www.martinique.cci.fr/port.asp	30.000	1730089239
+5	Port	Noumea		30.000	1730089241
+5	Port	Port Harcourt	www.nigerianports.org	30.000	1730089243
+5	Port	Corinto	www.epn.com.ni	30.000	1730089245
+5	Port	Rotterdam	www.portofrotterdam.com	30.000	1730089247
+5	Port	Bergen	www.bergenhavn.no	30.000	1730089249
+5	Port	Tromso	www.tromso.havn.no	30.000	1730089253
+5	Port	Trondheim	www.trondheim.havn.no	30.000	1730089255
+5	Port	Nelson	www.portnelson.co.nz	30.000	1730089257
+5	Port	Muscat	www.pscoman.com	30.000	1730089259
+5	Port	Cebu		30.000	1730089261
+5	Port	Zamboanga	www.ppa.com.ph	30.000	1730089263
+5	Port	Port Moresby	www.pngports.com.pg	30.000	1730089265
+5	Port	Wewak	www.pngports.com.pg	30.000	1730089267
+5	Port	Porto		30.000	1730089271
+5	Port	Ponta Delgada		30.000	1730089273
+5	Port	Papeete	www.portdepapeete.pf	30.000	1730089275
+5	Port	Doha		30.000	1730089277
+5	Port	Kaliningrad	www.transmarine.ru/PORTINFO.HTM	30.000	1730089279
+5	Port	Vladivostok	www.vmtp.ru	30.000	1730089281
+5	Port	Vyborg		30.000	1730089283
+5	Port	Port Sudan	www.sudanports.gov.sd	30.000	1730089285
+5	Port	Mogadishu		30.000	1730089289
+5	Port	Paramaribo		30.000	1730089291
+5	Port	Goteborg		30.000	1730089293
+5	Port	Lulea	www.lulea.se/hamnen	30.000	1730089295
+5	Port	Norrkoping	www.norrkoping-port.se	30.000	1730089297
+5	Port	Lome	www.togoport.tg	30.000	1730089299
+5	Port	Izmir	www.tcdd.gov.tr	30.000	1730089301
+5	Port	Kaohsiung	www.khb.gov.tw	30.000	1730089303
+5	Port	Taichung	www.tchb.gov.tw	30.000	1730089307
+5	Port	Odessa	www.port.odessa.ua	30.000	1730089309
+5	Port	Montevideo	www.anp.com.uy	30.000	1730089311
+5	Port	Juneau	www.juneau.org	30.000	1730089313
+5	Port	Nome	www.nomealaska.org/port	30.000	1730089315
+5	Port	Hilo	www.state.hi.us/dot/harbors	30.000	1730089317
+5	Port	Bellingham	www.portofbellingham.com	30.000	1730089319
+5	Port	Houston	www.portofhouston.com	30.000	1730089321
+5	Port	Brownsville	www.portofbrownsville.com	30.000	1730089325
+5	Port	Longview	www.portoflongview.com	30.000	1730089327
+5	Port	Kingstown	www.svgpa.com	30.000	1730089329
+5	Port	La Guaira	www.plcsa.gob.ve	30.000	1730089331
+5	Port	Maracaibo	www.puertodemaracaibo.com	30.000	1730089333
+5	Port	Da Nang	www.danangportvn.com	30.000	1730089335
+5	Port	Port Vila	www.vanuatugovernment.gov.vu	30.000	1730089337
+5	Port	Apia	www.spasamoa.ws	30.000	1730089339
+5	Port	Hodeidah		30.000	1730089343
+5	Port	Ottawa		30.000	1730089345
+5	Port	Buffalo		30.000	1730089347
+5	Port	Cleveland		30.000	1730089349
+5	Port	Green Bay		30.000	1730089351
+5	Port	Duluth		30.000	1730089353
+5	Port	Eureka		30.000	1730089355
+4	Port	Luanda	www.otal.com/angola	50.000	1730089357
+4	Port	Kralendijk, Bonaire		50.000	1730089361
+4	Port	Philipsburg		50.000	1730089363
+4	Port	Adelaide	www.flindersports.com.au	50.000	1730089365
+4	Port	Brisbane	www.portbris.com.au	50.000	1730089367
+4	Port	Port Hedland	www.phpa.com.au	50.000	1730089369
+4	Port	Chittagong	www.cpa.gov.bd	50.000	1730089371
+4	Port	Bridgetown	www.barbadosport.com	50.000	1730089373
+4	Port	Montreal	www.port-montreal.com	50.000	1730089375
+4	Port	Punta Arenas	www.epa.co.cl	50.000	1730089379
+4	Port	Valdivia		50.000	1730089381
+4	Port	Dalian	www.portdalian.com	50.000	1730089383
+4	Port	Fuzhou		50.000	1730089385
+4	Port	Qingdao	www.qdport.com	50.000	1730089387
+4	Port	Shanghai	www.portshanghai.com.cn	50.000	1730089389
+4	Port	Shantou		50.000	1730089391
+4	Port	Puntarenas		50.000	1730089393
+4	Port	Kiel	www.port-of-kiel.de	50.000	1730089397
+4	Port	Roseau		50.000	1730089399
+4	Port	Santo Domingo	www.apordom.gov.do	50.000	1730089401
+4	Port	Cartagena	www.apc.es	50.000	1730089403
+4	Port	Vigo	www.apvigo.com	50.000	1730089405
+4	Port	Santa Cruz de Tenerife	www.puertosdetenerife.org	50.000	1730089407
+4	Port	Tallinn	www.portoftallinn.com	50.000	1730089409
+4	Port	Suva	www.fijiports.com.fj	50.000	1730089411
+4	Port	Saint-Tropez		50.000	1730089415
+4	Port	Glasgow	www.glasgowharbour.com	50.000	1730089417
+4	Port	Southampton	www.abports.co.uk/custinfo/ports/soton.htm	50.000	1730089419
+4	Port	Gibraltar	www.gibraltarport.com	50.000	1730089421
+4	Port	Conakry		50.000	1730089423
+4	Port	Bissau		50.000	1730089425
+4	Port	Canea		50.000	1730089427
+4	Port	Katakolon		50.000	1730089429
+4	Port	San Jose	www.cocatram.org.ni/puertosca/pto_sanjose_guatemala.html	50.000	1730089433
+4	Port	Hong Kong	www.mardep.gov.hk	50.000	1730089435
+4	Port	Port-au-Prince	www.apn.gouv.ht	50.000	1730089437
+4	Port	Surabaya	www.tps.co.id	50.000	1730089439
+4	Port	Dublin	www.dublinport.ie	50.000	1730089441
+4	Port	Waterford	www.portofwaterford.com	50.000	1730089443
+4	Port	Haifa	www.haifaport.org.il	50.000	1730089445
+4	Port	Livorno	www.porto.livorno.it	50.000	1730089447
+4	Port	Ischia		50.000	1730089451
+4	Port	Kingston	www.portjam.com	50.000	1730089453
+4	Port	Kitakyushu	www.kitaqport.or.jp	50.000	1730089455
+4	Port	Mombasa	www.kpa.co.ke	50.000	1730089457
+4	Port	Phnom Penh	www.ppap.com.kh	50.000	1730089459
+4	Port	Beirut	www.portdebeyrouth.com	50.000	1730089461
+4	Port	Male	www.maldport.com.mv	50.000	1730089463
+4	Port	Veracruz	www.puertodeveracruz.com.mx	50.000	1730089465
+4	Port	Yangon	www.mot.gov.mm/mpa/index.html	50.000	1730089469
+4	Port	Wellington	www.centreport.co.nz	50.000	1730089471
+4	Port	Szczecin	www.port.szczecin.pl	50.000	1730089473
+4	Port	Jeddah	www.ports.gov.sa	50.000	1730089475
+4	Port	Dakar	www.portdakar.sn	50.000	1730089477
+4	Port	Singapore	www.mpa.gov.sg	50.000	1730089479
+4	Port	Freetown		50.000	1730089481
+4	Port	Stockholm	www.stoports.com	50.000	1730089483
+4	Port	Bangkok	www.bmt.co.th	50.000	1730089487
+4	Port	Canakkale	www.canakkale.gov.tr	50.000	1730089489
+4	Port	Anchorage	www.muni.org	50.000	1730089491
+4	Port	Long Beach	www.polb.com	50.000	1730089493
+4	Port	Oakland	www.portofoakland.com	50.000	1730089495
+4	Port	Jacksonville	www.jaxport.com	50.000	1730089497
+4	Port	Philadelphia	www.philaport.com	50.000	1730089499
+4	Port	Charleston	www.scspa.com	50.000	1730089501
+4	Port	Newport		50.000	1730089505
+4	Port	Ho Chi Minh City	www.vpa.org.vn/english/members/south/saigonnew.htm	50.000	1730089507
+4	Port	Aden	www.portofaden.com	50.000	1730089509
+4	Port	Durban	www.transnetnationalportsauthority.net	50.000	1730089511
+4	Port	Port Elizabeth	www.transnetnationalportsauthority.net	50.000	1730089513
+4	Port	Port Elizabeth	www.transnetnationalportsauthority.net	50.000	1730089515
+4	Port	Detroit		50.000	1730089517
+4	Port	Port Of Memphis		50.000	1730089519
+4	Port	Tri-City Port		50.000	1730089523
+4	Port	Helsinki		50.000	1730089525
+4	Port	Sankt-Peterburg		50.000	1730089527
+3	Port	Oranjestad	www.arubaports.com	75.000	1730089529
+3	Port	Dubai	www.dpa.ae	75.000	1730089531
+3	Port	Buenos Aires	www.puertobuenosaires.gov.ar	75.000	1730089533
+3	Port	Darwin	www.darwinport.nt.gov.au	75.000	1730089535
+3	Port	Melbourne	www.portofmelbourne.com	75.000	1730089537
+3	Port	Perth		75.000	1730089541
+3	Port	Sydney	www.sydneyports.com.au	75.000	1730089543
+3	Port	Cotonou	www.portdecotonou.com	75.000	1730089545
+3	Port	Nassau		75.000	1730089547
+3	Port	Rio de Janeiro	www.portosrio.gov.br	75.000	1730089549
+3	Port	Vancouver	www.portmetrovancouver.com	75.000	1730089551
+3	Port	Liverpool		75.000	1730089553
+3	Port	Valparaiso	www.portvalparaiso.cl	75.000	1730089555
+3	Port	Guangzhou	www.gzport.com	75.000	1730089559
+3	Port	Tianjin	www.ptacn.com	75.000	1730089561
+3	Port	Abidjan	www.paa-ci.org	75.000	1730089563
+3	Port	Bremerhaven	www.bremen-ports.de	75.000	1730089565
+3	Port	Rostock	www.rostock-port.de	75.000	1730089567
+3	Port	Tuborg		75.000	1730089569
+3	Port	Guayaquil	www.puertodeguayaquil.com	75.000	1730089571
+3	Port	Port Said	www.psdports.org	75.000	1730089573
+3	Port	Barcelona	www.apb.es	75.000	1730089577
+3	Port	Malaga	www.puertomalaga.com	75.000	1730089579
+3	Port	Palma de Mallorca	www.portdemallorca.com	75.000	1730089581
+3	Port	Le Havre	www.havre-port.net	75.000	1730089583
+3	Port	Marseille	www.marseille-port.fr	75.000	1730089585
+3	Port	Nice	www.riviera-ports.com	75.000	1730089587
+3	Port	London	www.pla.co.uk	75.000	1730089589
+3	Port	Gythion		75.000	1730089591
+3	Port	Rhodes		75.000	1730089595
+3	Port	Dubrovnik	www.portdubrovnik.hr	75.000	1730089597
+3	Port	Civitavecchia	www.portidiroma.it	75.000	1730089599
+3	Port	Palermo	www.autport.pa.it	75.000	1730089601
+3	Port	Savona	www.porto.sv.it	75.000	1730089603
+3	Port	Marghera	www.port.venice.it	75.000	1730089605
+3	Port	Montego Bay	www.portjam.com	75.000	1730089607
+3	Port	Osaka	www.optc.or.jp	75.000	1730089609
+3	Port	Yokohama	www.city.yokohama.jp/me/port/en/index.html	75.000	1730089613
+3	Port	Riga	www.rop.lv	75.000	1730089615
+3	Port	Cabo San Lucas		75.000	1730089617
+3	Port	Marsaxlokk	www.maltafreeport.com.mt	75.000	1730089619
+3	Port	Amsterdam	www.amsterdamports.nl	75.000	1730089621
+3	Port	Oslo	www.ohv.oslo.no	75.000	1730089623
+3	Port	Auckland	www.poal.co.nz	75.000	1730089625
+3	Port	Karachi	www.kpt.gov.pk	75.000	1730089627
+3	Port	Colon	www.cct-pa.com	75.000	1730089631
+3	Port	Manila	www.ppa.com.ph	75.000	1730089633
+3	Port	San Juan	www.prpa.gobierno.pr	75.000	1730089635
+3	Port	Istanbul	www.tdi.com.tr	75.000	1730089637
+3	Port	Taipei	www.tpport.gov.tw	75.000	1730089639
+3	Port	Dar es Salaam	www.tanzaniaports.com	75.000	1730089641
+3	Port	Mobile	www.asdd.com	75.000	1730089643
+3	Port	Los Angeles	www.portoflosangeles.org	75.000	1730089645
+3	Port	San Diego	www.portofsandiego.org	75.000	1730089649
+3	Port	San Francisco	www.sfport.com	75.000	1730089651
+3	Port	Miami	www.miamidade.gov/portofmiami	75.000	1730089653
+3	Port	Tampa	www.tampaport.com	75.000	1730089655
+3	Port	Honolulu	www.state.hi.us/dot/harbors	75.000	1730089657
+3	Port	Boston	www.massport.com/ports	75.000	1730089659
+3	Port	Baltimore	www.mpa.state.md.us	75.000	1730089661
+3	Port	New York	www.panynj.gov	75.000	1730089663
+3	Port	Galveston	www.portofgalveston.com	75.000	1730089667
+3	Port	Norfolk	www.vaports.com	75.000	1730089669
+3	Port	Seattle	www.portseattle.org	75.000	1730089671
+3	Port	Cape Town	www.transnetnationalportsauthority.net	75.000	1730089673
+3	Port	Toronto		75.000	1730089675
+3	Port	Chicago		75.000	1730089677
