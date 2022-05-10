@@ -67,12 +67,34 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 
 				if (s == "Lop\rNur") s = "Lop Nur"
 
+				if (s.contains("‰Ûª")) s = s.replace("‰Ûª", "’")
+
 				fun transform(c: Char) = when (c) {
+					'€' -> '\u0080'
+					'‚' -> '\u0082'
+					'ƒ' -> '\u0083'
+					'„' -> '\u0084'
+					'…' -> '\u0085'
+					'†' -> '\u0086'
 					'‡' -> '\u0087'
 					'ˆ' -> '\u0088'
+					'‰' -> '\u0089'
+					'Š' -> '\u008a'
+					'‹' -> '\u008b'
+					'Œ' -> '\u008c'
+					'Ž' -> '\u008e'
 					'‘' -> '\u0091'
+					'’' -> '\u0092'
+					'“' -> '\u0093'
+					'”' -> '\u0094'
+					'•' -> '\u0095'
+					'–' -> '\u0096'
+					'—' -> '\u0097'
+					'˜' -> '\u0098'
 					'™' -> '\u0099'
 					'š' -> '\u009a'
+					'›' -> '\u009b'
+					'œ' -> '\u009c'
 					'ž' -> '\u009e'
 					'Ÿ' -> '\u009f'
 					else -> c
@@ -81,14 +103,17 @@ fun convert(inputPath: String, outputPath: String, options: ConvertOptions) {
 				if (s.zipWithNext().any { (a, b) -> a in '\u00c0' .. '\u00df' && transform(b) in '\u0080' .. '\u00bf' }) {
 					if (s.any { transform(it) != it })
 						s = s.map { transform(it) } .joinToString("")
+					assertEquals(s.all { it <= '\u00ff' }, true)
 					s = String(s.toByteArray(Charsets.ISO_8859_1), Charsets.UTF_8)
 				}
+
+				// seems in the Mac OS Roman encoding (CP10000)
+				if (s.contains('\u009d')) s = s.replace('\u009d', 'ù')
 
 				assertEquals(s.contains('\n'), false)
 				assertEquals(s.contains('\r'), false)
 				assertEquals(s.contains('�'), false)
-//				assertEquals(s.any { it.isISOControl() }, false)
-//				if (s.any { it.isISOControl() }) println(s)
+				assertEquals(s.any { it.isISOControl() }, false)
 
 				if (options.allowEscape) {
 					if (s.contains('"')) '"' + s.replace("\"", "\"\"") + '"'
